@@ -1,0 +1,47 @@
+{
+ "chunk": "c52",
+ "highlights": [
+  {"b":"b3260","en":"I read it through mental energy, the energy needed to carry price to","level":1},
+  {"b":"b3261","en":"sellers had to carry price down there, or the trend","level":1},
+  {"b":"b3263","en":"Volume should have dried up at","level":1},
+  {"b":"b3266","en":"Whenever price moves above B, that creates a 1-2-3.","level":1},
+  {"b":"b3271","en":"volume decreased on every push, it was a warning.","level":1},
+  {"b":"b3277","en":"This chart shows how the 3-C tracks progress in every 1-2-3 and every","level":1},
+  {"b":"b3278","en":"The purpose of being proactive is to stay consistent with the habits of","level":1},
+  {"b":"b3279","en":"Building a high-probability setup and avoiding trading errors","level":1},
+  {"b":"b3280","en":"When selling loses its force, it suggests something important:","level":2},
+  {"b":"b3283","en":"be alert: the market will not give a","level":1},
+  {"b":"b3286","en":"we should use all available data to solve them.","level":1},
+  {"b":"b3290","en":"The answer is inside us; the trade","level":1},
+  {"b":"b3292","en":"I cannot emphasize enough the","level":1},
+  {"b":"b3299","en":"A short should be entered only when new selling","level":1},
+  {"b":"b3300","en":"the daily chart did not reveal any change in structure","level":1}
+ ],
+ "mindmap": [
+  {"b":"b3256","en":"Studies 9-10: Trend quality","ar":"الدراستان 9-10: جودة الـ trend","note_en":"Reading price through mental energy and volume behaviour after a drop.","note_ar":"قراءة السعر عبر الطاقة الذهنية وسلوك الـ volume بعد الهبوط.","imp":2,"children":[
+   {"b":"b3260","en":"Mental energy","ar":"الطاقة الذهنية","note_en":"Energy needed to carry price higher or lower; buyers' expectation carried price past A, B and C.","note_ar":"الطاقة اللازمة لحمل السعر؛ حملت توقعات المشترين السعر فوق A وB وC.","imp":2,"children":[
+     {"b":"b3261","en":"Critical point D","ar":"النقطة الحرجة D","note_en":"Sellers had to carry price down to D or the trend was in trouble; buyers took control and the next critical point is the TP of CD.","note_ar":"كان على البائعين حمل السعر إلى D وإلا تعثر الـ trend؛ سيطر المشترون والنقطة التالية هي TP لـ CD.","imp":2,"children":[]}]},
+   {"b":"b3263","en":"Volume at B","ar":"الـ volume عند B","note_en":"Rebound to ~50% of leg A on rising volume; volume should have dried up.","note_ar":"ارتداد نحو 50% من موجة A مع ازدياد الـ volume، وكان ينبغي أن يجف.","imp":2,"children":[
+     {"b":"b3266","en":"New buyer character","ar":"طبع جديد للمشترين","note_en":"Volume rose steadily on the bull side; any move above B creates a 1-2-3.","note_ar":"ارتفع الـ volume بثبات في جانب الصعود؛ وأي حركة فوق B تصنع 1-2-3.","imp":3,"children":[]}]}
+  ]},
+  {"b":"b3267","en":"Study 11: Falling wedge story","ar":"الدراسة 11: قصة الـ falling wedge","note_en":"Nine steps A to G inside a wedge, reading volume at each point.","note_ar":"تسع خطوات من A إلى G داخل wedge مع قراءة الـ volume عند كل نقطة.","imp":2,"children":[
+   {"b":"b3271","en":"Steps A to C","ar":"الخطوات A إلى C","note_en":"New support on high volume, low volatility, then rising volume in sideways movement.","note_ar":"دعم جديد بحجم مرتفع، وتقلب منخفض، ثم ازدياد الـ volume في الحركة الجانبية.","imp":1,"children":[]},
+   {"b":"b3271","en":"False moves D and F","ar":"الحركتان الكاذبتان D وF","note_en":"D is better entered on the 5-minute chart; F stopped at 50% with no buyer attraction.","note_ar":"الأفضل الدخول في D على رسم 5-minute؛ وتوقفت F عند 50% دون جاذبية للمشترين.","imp":2,"children":[
+     {"b":"b3271","en":"Warning: falling volume","ar":"تحذير: انخفاض الـ volume","note_en":"Price down with volume decreasing on every push is a warning.","note_ar":"هبوط السعر مع انخفاض الـ volume عند كل دفعة تحذير.","imp":2,"children":[]}]},
+   {"b":"b3272","en":"General trend down","ar":"الـ trend العام هابط","note_en":"The upper line showed the general trend was down.","note_ar":"أظهر الخط العلوي أن الـ trend العام هابط.","imp":1,"children":[]}
+  ]},
+  {"b":"b3273","en":"Study 12: Be proactive","ar":"الدراسة 12: المبادرة","note_en":"The 3-C shows sellers' effort nearing its Cancels; sellers losing force hints at an uptrend.","note_ar":"يُظهر الـ 3-C اقتراب جهد البائعين من Cancels؛ وفقدانهم للقوة يوحي بـ uptrend.","imp":3,"children":[
+   {"b":"b3277","en":"3-C tracks progress","ar":"الـ 3-C يتتبع التقدم","note_en":"Tracks every 1-2-3 and Propagation in sync with buyers and sellers.","note_ar":"يتتبع كل 1-2-3 وPropagation بانسجام مع المشترين والبائعين.","imp":2,"children":[]},
+   {"b":"b3278","en":"Purpose of being proactive","ar":"غاية المبادرة","note_en":"Stay consistent with buyers' and sellers' habits using reasonable, probable evidence.","note_ar":"البقاء منسجمًا مع عادات المشترين والبائعين بأدلة معقولة ومحتملة.","imp":2,"children":[]},
+   {"b":"b3279","en":"Sellers losing energy","ar":"البائعون يفقدون الطاقة","note_en":"Not necessarily the bottom, but a high-probability setup and fewer errors make a consistent trader.","note_ar":"ليس بالضرورة القاع، لكن Setup عالي الاحتمال وقلة الأخطاء يصنعان المتداول الرابح.","imp":3,"children":[]},
+   {"b":"b3283","en":"High volume at move end","ar":"volume مرتفع في نهاية الحركة","note_en":"Slowest wave with rising volume: sellers weak; be alert, no definitive message.","note_ar":"أبطأ موجة مع volume متصاعد: البائعون ضعفاء؛ كن منتبهًا فلا رسالة حاسمة.","imp":2,"children":[]}
+  ]},
+  {"b":"b3285","en":"Study 13: EP of the SPS","ar":"الدراسة 13: الـ EP من الـ SPS","note_en":"Introspection and the 1-2-3 map; 13 notes on buying development, then a 60/40 probability view.","note_ar":"التأمل الذاتي وخريطة 1-2-3؛ 13 ملاحظة عن تطور الشراء ثم نظرة احتمالية 60/40.","imp":3,"children":[
+   {"b":"b3290","en":"Goodman's clarity","ar":"وضوح Goodman","note_en":"What do I see now, what do I want to see next; the trade is inside you. Plato quote on self-examination.","note_ar":"ماذا أرى الآن وماذا أريد أن أرى؛ الصفقة في داخلك. اقتباس Plato عن فحص الذات.","imp":3,"children":[]},
+   {"b":"b3292","en":"Time and volume","ar":"الزمن والـ volume","note_en":"Volume fell after the abnormal-volume day; follow changes through the element of time, zoom to 1-hour.","note_ar":"انخفض الـ volume بعد يوم الحجم الشاذ؛ تابع التغيرات عبر الزمن وقرّب إلى 1-hour.","imp":2,"children":[]},
+   {"b":"b3297","en":"13 notes on buying","ar":"13 ملاحظة عن الشراء","note_en":"Dagger line, EP of SPS near an old monthly TP, new base, Whitespace, Overlay health, phasing, other pairs, reward 2.5:1.","note_ar":"خط Dagger، وEP من SPS قرب TP شهري قديم، وقاعدة جديدة، وWhitespace، وصحة Overlay، وphasing، وأزواج أخرى، ومكافأة 2.5:1.","imp":2,"children":[
+     {"b":"b3299","en":"Reading the notes together","ar":"قراءة الملاحظات معًا","note_en":"Wait for Propagation to confirm Whitespace; short only on new selling with imbalance.","note_ar":"انتظر Propagation يؤكد الـ Whitespace؛ لا Short إلا ببيع جديد واختلال توازن.","imp":2,"children":[]}]},
+   {"b":"b3300","en":"60/40 trades","ar":"صفقات 60/40","note_en":"Our job is to find 60/40 trades; the daily chart showed no structural change to uptrend.","note_ar":"مهمتنا إيجاد صفقات 60/40؛ ولم يُظهر الرسم اليومي تغيرًا في البنية نحو uptrend.","imp":3,"children":[]}
+  ]}
+ ]
+}

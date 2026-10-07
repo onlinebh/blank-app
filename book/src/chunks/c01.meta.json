@@ -1,0 +1,395 @@
+{
+ "chunk": "c01",
+ "highlights": [
+  {
+   "b": "b11",
+   "en": "something you\ncan try on your next chart",
+   "level": 1
+  },
+  {
+   "b": "b15",
+   "en": "Information is so plentiful as to be nearly worthless. Knowledge is",
+   "level": 1
+  },
+  {
+   "b": "b18",
+   "en": "Every ending\nstarts a new move. Everything is a 1-2-3.",
+   "level": 1
+  },
+  {
+   "b": "b22",
+   "en": "A trade that\ndoes not fit the daily chart, I filter out",
+   "level": 1
+  },
+  {
+   "b": "b30",
+   "en": "It doesn't fit: day traders are selling.",
+   "level": 1
+  },
+  {
+   "b": "b34",
+   "en": "Trades like this can break an inexperienced\ntrader's account.",
+   "level": 1
+  },
+  {
+   "b": "b34",
+   "en": "Goodman theory is based on PROPAGATION!",
+   "level": 2
+  },
+  {
+   "b": "b41",
+   "en": "demand coming from the Return Zone on the 1-hour is worth a try.",
+   "level": 1
+  },
+  {
+   "b": "b49",
+   "en": "Just buy anywhere near the bottom, and watch how the\nbuying comes in.",
+   "level": 1
+  },
+  {
+   "b": "b52",
+   "en": "We need to set a\ntarget where we judge whether buyers will continue or end their\nmomentum: 3-C.",
+   "level": 1
+  },
+  {
+   "b": "b52",
+   "en": "be ready to move to breakeven, or just run!",
+   "level": 1
+  },
+  {
+   "b": "b60",
+   "en": "This behavior happens many, many times: after a 6&amp;6 it propagates\ninto a second chance, as a PTS setup.",
+   "level": 1
+  },
+  {
+   "b": "b69",
+   "en": "That is evidence of a healthy propagation.",
+   "level": 1
+  },
+  {
+   "b": "b69",
+   "en": "Complex–Flat: where the FPS is complex, expect\nflat.",
+   "level": 1
+  },
+  {
+   "b": "b75",
+   "en": "take\nsome profit at the Under",
+   "level": 1
+  },
+  {
+   "b": "b87",
+   "en": "That suggests sellers are few; otherwise buying\nwould be much slower than before!",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b1",
+   "en": "Dedication and Foreword",
+   "ar": "الإهداء والتمهيد",
+   "note_en": "Mohamed dedicates the book to Michael and explains how six years of letters became this book.",
+   "note_ar": "يهدي Mohamed الكتاب إلى Michael ويشرح كيف صارت ست سنوات من الرسائل كتابًا.",
+   "imp": 1,
+   "children": [
+    {
+     "b": "b2",
+     "en": "Dedication to Michael",
+     "ar": "الإهداء إلى Michael",
+     "note_en": "Michael carried Charlie across fifty years and gave him to the author, story by story.",
+     "note_ar": "حمل Michael شخصية Charlie خمسين عامًا وسلّمها للمؤلف قصةً بعد قصة.",
+     "imp": 1
+    },
+    {
+     "b": "b8",
+     "en": "Six years of letters",
+     "ar": "ست سنوات من الرسائل",
+     "note_en": "A thank-you for The Goodman CODEX in September 2020 began a correspondence with Michael Archer.",
+     "note_ar": "رسالة شكر على The Goodman CODEX في سبتمبر 2020 بدأت مراسلة مع Michael Archer.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b9",
+       "en": "Michael knew Charlie",
+       "ar": "Michael عرف Charlie",
+       "note_en": "Michael worked beside Goodman for eleven years from 1973 at the Peavey office in Denver.",
+       "note_ar": "عمل Michael بجوار Goodman أحد عشر عامًا منذ 1973 في مكتب Peavey في Denver.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b11",
+     "en": "How to read the book",
+     "ar": "كيف تقرأ الكتاب",
+     "note_en": "Short one-idea chapters: name, story, meaning, and something to try on your next chart.",
+     "note_ar": "فصول قصيرة بفكرة واحدة: اسم وقصة ومعنى ثم تطبيق على رسمك القادم.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b13",
+   "en": "The Ladder",
+   "ar": "السُّلَّم (The Ladder)",
+   "note_en": "Charlie's information-knowledge-wisdom ladder structures the book into ten rungs.",
+   "note_ar": "سُلَّم Charlie من المعلومة إلى المعرفة إلى الحكمة ينظّم الكتاب في عشر درجات.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b15",
+     "en": "Information, Knowledge, Wisdom",
+     "ar": "المعلومة والمعرفة والحكمة",
+     "note_en": "Information is plentiful and cheap; knowledge is useful combination; wisdom reaches truth.",
+     "note_ar": "المعلومات وفيرة وقليلة القيمة؛ المعرفة جمعٌ نافع؛ والحكمة بلوغ الحقيقة.",
+     "imp": 3
+    },
+    {
+     "b": "b16",
+     "en": "Each rung asks a question",
+     "ar": "كل درجة تسأل سؤالًا",
+     "note_en": "Each rung opens with Charlie's stories, then the author's letters, research and dated mistakes.",
+     "note_ar": "تبدأ كل درجة بقصص Charlie ثم رسائل المؤلف وأبحاثه وأخطائه مؤرَّخة.",
+     "imp": 1
+    },
+    {
+     "b": "b17",
+     "en": "The ten rungs",
+     "ar": "الدرجات العشر",
+     "note_en": "Being, Knowing, Seeing, Deciding, Acting, Measuring, Doing Right, Feeling, Learning, The System.",
+     "note_ar": "Being وKnowing وSeeing وDeciding وActing وMeasuring وDoing Right وFeeling وLearning وThe System.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b17",
+       "en": "Rungs 1-3",
+       "ar": "الدرجات 1-3",
+       "note_en": "Who Charlie was, how truth is learned, what a market is.",
+       "note_ar": "من هو Charlie، وكيف تُتعلَّم الحقيقة، وما السوق.",
+       "imp": 1
+      },
+      {
+       "b": "b17",
+       "en": "Rungs 4-6",
+       "ar": "الدرجات 4-6",
+       "note_en": "Goodman's tools for deciding, managing the trade, and sizing risk.",
+       "note_ar": "أدوات Goodman للقرار، وإدارة الصفقة، وحجم المخاطرة.",
+       "imp": 2
+      },
+      {
+       "b": "b17",
+       "en": "Rungs 7-10",
+       "ar": "الدرجات 7-10",
+       "note_en": "Ethics, feeling, learning and the trader as a dynamic system.",
+       "note_ar": "الأخلاق والشعور والتعلّم والمتداول كنظام ديناميكي.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b18",
+     "en": "The ladder is a circle",
+     "ar": "السُّلَّم دائرة",
+     "note_en": "Every ending starts a new move: everything is a 1-2-3.",
+     "note_ar": "كل نهاية تبدأ حركة جديدة: كل شيء 1-2-3.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b19",
+   "en": "My Trading Explained (2023)",
+   "ar": "شرح تداولي (2023)",
+   "note_en": "The author's walk-through of how he trades daily, with two real trades redrawn from market data.",
+   "note_ar": "شرح المؤلف لطريقة تداوله اليومية عبر صفقتين حقيقيتين أُعيد رسمهما من بيانات السوق.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b21",
+     "en": "Daily routine and psychology",
+     "ar": "الروتين اليومي والنفسية",
+     "note_en": "Defined risk suited to equity, a quiet place, clear mind, music, and 10-30 minutes to sync with the market.",
+     "note_ar": "مخاطرة محددة تناسب رأس المال، ومكان هادئ، وذهن صافٍ، وموسيقى، و10-30 دقيقة للانسجام مع السوق.",
+     "imp": 2
+    },
+    {
+     "b": "b22",
+     "en": "Pairs and weekly plan",
+     "ar": "الأزواج والخطة الأسبوعية",
+     "note_en": "Plan weekly on the daily chart, zoom in for low-risk trades, filter out those that cannot propagate.",
+     "note_ar": "التخطيط أسبوعيًا على الرسم اليومي ثم التقريب لصفقة منخفضة المخاطرة واستبعاد ما لا يـ propagate.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b23",
+       "en": "Pairs traded",
+       "ar": "الأزواج المتداولة",
+       "note_en": "USD majors and CHF, JPY, EUR/GBP/AUD and CAD crosses.",
+       "note_ar": "أزواج USD الرئيسية والمركّبة بـ CHF وJPY وEUR/GBP/AUD وCAD.",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b24",
+   "en": "Example 1: GBPCHF avoided trade",
+   "ar": "المثال 1: صفقة GBPCHF المتجنَّبة",
+   "note_en": "A bad trade where timeframes disagree and the Dagger fails; avoiding it protects the account.",
+   "note_ar": "صفقة سيئة تختلف فيها الأطر وينهار الـ Dagger؛ وتجنّبها يحمي الحساب.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b26",
+     "en": "5-minute: Jumbo and Return",
+     "ar": "5-minute: Jumbo وReturn",
+     "note_en": "Selling should not repeat after a Jumbo at a critical point; the Return dips only 12 pips.",
+     "note_ar": "لا ينبغي أن يتكرر البيع بعد Jumbo عند نقطة حرجة؛ والـ Return يهبط 12 pips فقط.",
+     "imp": 1
+    },
+    {
+     "b": "b29",
+     "en": "1-hour: Outward, no cancel count",
+     "ar": "1-hour: Outward بلا cancel count",
+     "note_en": "A large Outward leg A to B, then sellers control from B.",
+     "note_ar": "ساق Outward كبيرة من A إلى B ثم يسيطر البائعون من B.",
+     "imp": 1
+    },
+    {
+     "b": "b30",
+     "en": "Does it fit the big picture?",
+     "ar": "هل يناسب الصورة الكبرى؟",
+     "note_en": "Link the change to demand from higher timeframes; the daily does not fit.",
+     "note_ar": "اربط التغيّر بالطلب في الأطر الأعلى؛ والرسم اليومي لا يناسب.",
+     "imp": 2
+    },
+    {
+     "b": "b34",
+     "en": "The Dagger fails",
+     "ar": "فشل الـ Dagger",
+     "note_en": "Timeframes are not in consensus; trades like this can break accounts. Goodman theory is based on PROPAGATION.",
+     "note_ar": "الأطر غير متوافقة؛ وصفقات كهذه قد تحطّم الحسابات. نظرية Goodman قائمة على الـ PROPAGATION.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b37",
+   "en": "Example 2: GBPJPY buy",
+   "ar": "المثال 2: شراء GBPJPY",
+   "note_en": "A flat Jumbo with a small 6&6 and volume near the 1-hour Return Zone; a buy near the bottom of a nested 6&6.",
+   "note_ar": "Jumbo مسطّح مع 6&6 صغير وvolume قرب Return Zone؛ وشراء قرب قاع 6&6 متداخل.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b38",
+     "en": "Setup clues",
+     "ar": "مؤشرات الـ Setup",
+     "note_en": "A flat Jumbo, a very small 6&6 and volume suggest something is cooking.",
+     "note_ar": "Jumbo مسطّح و6&6 صغير جدًا وvolume توحي بأن شيئًا يُطبخ.",
+     "imp": 1
+    },
+    {
+     "b": "b41",
+     "en": "Return Zone on the 1-hour",
+     "ar": "Return Zone على الـ 1-hour",
+     "note_en": "Demand from the Return Zone is worth a try, but do not expect the Line since the daily does not fit.",
+     "note_ar": "الطلب من Return Zone يستحق المحاولة، دون توقع بلوغ الـ Line لأن اليومي لا يناسب.",
+     "imp": 2
+    },
+    {
+     "b": "b46",
+     "en": "Nested 6&6 and entry",
+     "ar": "6&6 المتداخل والدخول",
+     "note_en": "Buy near the bottom at the break of the upper line, with the stop below the low.",
+     "note_ar": "الشراء قرب القاع عند كسر الخط العلوي والـ stop تحت القاع.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b49",
+       "en": "Where to buy",
+       "ar": "أين نشتري",
+       "note_en": "The spread makes entry method differences small on 2-minute; buy near the bottom and watch.",
+       "note_ar": "الـ spread يقلّص الفرق بين طرق الدخول؛ اشترِ قرب القاع وراقب.",
+       "imp": 1
+      },
+      {
+       "b": "b52",
+       "en": "Target, 3-C and breakeven",
+       "ar": "Target وعدّ 3-C وbreakeven",
+       "note_en": "Set a 3-C target, follow buyers' steps, move to breakeven or run if they fail.",
+       "note_ar": "حدّد target بالـ 3-C، وتتبّع المشترين، وانتقل إلى breakeven أو اخرج إن فشلوا.",
+       "imp": 3
+      }
+     ]
+    },
+    {
+     "b": "b57",
+     "en": "Propagation and second chance",
+     "ar": "الـ Propagation والفرصة الثانية",
+     "note_en": "After a 6&6 it propagates into a second chance (SS), a PTS setup that repeats often.",
+     "note_ar": "بعد 6&6 يحدث propagation نحو فرصة ثانية (SS) وهي PTS setup تتكرر كثيرًا.",
+     "imp": 2
+    },
+    {
+     "b": "b63",
+     "en": "The knot and the buying matrix",
+     "ar": "العقدة والـ buying matrix",
+     "note_en": "Who is dominant? Buyers re-enter with fresh orders and absorb offers at the TP.",
+     "note_ar": "من المسيطر؟ المشترون يعودون بأوامر جديدة ويلتقطون العروض عند الـ TP.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b69",
+       "en": "Complex-Flat",
+       "ar": "Complex-Flat",
+       "note_en": "Where the FPS is complex, expect flat.",
+       "note_ar": "حيث يكون الـ FPS معقّدًا توقّع التسطّح.",
+       "imp": 2
+      },
+      {
+       "b": "b72",
+       "en": "1-2-3 grows to a larger 1-2-3",
+       "ar": "1-2-3 ينمو إلى أكبر",
+       "note_en": "The propagation lens shows a 1-2-3 becoming a larger 1-2-3.",
+       "note_ar": "عدسة الـ propagation تُظهر 1-2-3 يكبر إلى 1-2-3 أكبر.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b75",
+     "en": "Profit at the Under",
+     "ar": "الربح عند الـ Under",
+     "note_en": "Sellers intersect with the TP, producing an abnormal reaction; taking some profit is important.",
+     "note_ar": "يتقاطع البائعون مع الـ TP فينتج ردّ فعل غير طبيعي؛ وجني بعض الربح مهم.",
+     "imp": 2
+    },
+    {
+     "b": "b78",
+     "en": "Managing the larger 1-2-3",
+     "ar": "إدارة الـ 1-2-3 الأكبر",
+     "note_en": "Last chance for sellers; take some profit but play for more; the stop is not hit.",
+     "note_ar": "آخر فرصة للبائعين؛ نحجز بعض الربح ونلعب لربح أكبر؛ والـ stop لم يُضرب.",
+     "imp": 1
+    },
+    {
+     "b": "b84",
+     "en": "Fast buying, few sellers",
+     "ar": "شراء سريع وبائعون قلّة",
+     "note_en": "Buyers enter with more volume and speed; fast buying suggests few sellers.",
+     "note_ar": "المشترون بـ volume وسرعة أكبر؛ والشراء السريع يوحي بقلّة البائعين.",
+     "imp": 2
+    },
+    {
+     "b": "b90",
+     "en": "Breaking the Dagger line",
+     "ar": "كسر خط الـ Dagger",
+     "note_en": "Buyers try to break the Dagger line to complete the 1-2-3 on the 5-minute.",
+     "note_ar": "المشترون يحاولون كسر خط الـ Dagger لإكمال الـ 1-2-3 على الـ 5-minute.",
+     "imp": 1
+    }
+   ]
+  }
+ ]
+}

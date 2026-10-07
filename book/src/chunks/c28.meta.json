@@ -1,0 +1,73 @@
+{
+ "chunk": "c28",
+ "highlights": [
+  {"b": "b1819", "en": "is a correction of the left box, and the next box should be faster than", "level": 1},
+  {"b": "b1823", "en": "I copy the box and wait for price to fill it.", "level": 1},
+  {"b": "b1827", "en": "The box can also show when a sharp down move begins.", "level": 1},
+  {"b": "b1831", "en": "Do not let any chart force you to trade.", "level": 1},
+  {"b": "b1831", "en": "\"Sit on your hands\" (Goodman).", "level": 2},
+  {"b": "b1839", "en": "The real risk in trading is when the market cannot generate any", "level": 1},
+  {"b": "b1840", "en": "trading is 100% safe when you choose the best vehicle, one", "level": 1},
+  {"b": "b1853", "en": "I trade only extremes, as a type of", "level": 1},
+  {"b": "b1858", "en": "When there is a lot of Propagation in the BMX, it suggests more", "level": 1},
+  {"b": "b1889", "en": "a 1-2-3 component is a must.", "level": 1},
+  {"b": "b1892", "en": "than the last EP-SS up, it shows more weakness.", "level": 1},
+  {"b": "b1896", "en": "Just buy and sell at extremes, and construct every Overlay", "level": 2}
+ ],
+ "mindmap": [
+  {
+   "b": "b1813", "en": "Silver chart: Goldilocks down", "ar": "رسم Silver: Goldilocks هابط",
+   "note_en": "A Goldilocks to the downside shows strong seller force, and boxes and angles are used to read what comes next.",
+   "note_ar": "يُظهر Goldilocks الهابط قوة بيع كبيرة، وتُستخدم الصناديق والزوايا لقراءة ما سيأتي.",
+   "imp": 2,
+   "children": [
+    {"b": "b1816", "en": "Strong sellers' impression", "ar": "انطباع قوة البائعين", "note_en": "The left red arrow shows a strong impression of force from the sellers.", "note_ar": "يُظهر السهم الأحمر الأيسر انطباعًا قويًّا عن قوة البائعين.", "imp": 1, "children": []},
+    {"b": "b1819", "en": "Fast box, slow box", "ar": "صندوق سريع وصندوق بطيء", "note_en": "A very slow right box is a correction of the sharp left box, and the next box should be faster than the first in time.", "note_ar": "الصندوق الأيمن البطيء جدًّا تصحيح للصندوق الأيسر الحاد، ويجب أن يكون الصندوق التالي أسرع من الأول زمنيًّا.", "imp": 2, "children": []},
+    {"b": "b1823", "en": "6&6 and Return Zone setup", "ar": "6&6 و Setup عند Return Zone", "note_en": "On the higher time frame, a Jumbo and 6&6 show new sellers and a setup at the Return Zone confirms. The trend offers Y > 2X.", "note_ar": "على الإطار الأعلى يدل Jumbo و6&6 على بائعين جدد، ويؤكد Setup عند Return Zone ذلك. ويقدّم الاتجاه Y > 2X.", "imp": 2,
+     "children": [
+      {"b": "b1823", "en": "Copy the box as target", "ar": "نسخ الصندوق هدفًا", "note_en": "Copy the box and wait for price to fill it; raise the stop at each STP.", "note_ar": "انسخ الصندوق وانتظر حتى يملأه السعر، وارفع الـ stop عند كل STP.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1827", "en": "Box timing of sharp moves", "ar": "الصندوق وتوقيت الحركة الحادة", "note_en": "Copy the interval to the sharp drop from the previous box into the new box to see where the next sharp drop begins.", "note_ar": "انسخ الفاصل حتى الهبوط الحاد من الصندوق السابق إلى الجديد لترى أين يبدأ الهبوط الحاد التالي.", "imp": 2, "children": []},
+    {"b": "b1831", "en": "Lesson: logical combination", "ar": "الدرس: المزيج المنطقي", "note_en": "An Overlay combination must be logical and show the real force of buyers or sellers; never let a chart force you to trade: \"Sit on your hands\" (Goodman).", "note_ar": "يجب أن يكون Overlay combination منطقيًّا ويُظهر القوة الحقيقية للمشترين أو البائعين؛ ولا تدع الرسم يجبرك على التداول: \"Sit on your hands\" (Goodman).", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b1833", "en": "Trading as an engineering balance", "ar": "التداول كميزان هندسي",
+   "note_en": "Trading is seen as a process unit with a balance: Input + Generation - Output - Consumption = Accumulation.",
+   "note_ar": "يُنظر إلى التداول كوحدة عملية لها ميزان: Input + Generation − Output − Consumption = Accumulation.",
+   "imp": 3,
+   "children": [
+    {"b": "b1836", "en": "The balance equation", "ar": "معادلة الميزان", "note_en": "Input enters, Generation is produced, Output leaves, Consumption is used up, and Accumulation builds up in the system.", "note_ar": "Input يدخل، وGeneration يُنتَج، وOutput يخرج، وConsumption يُستهلك، وAccumulation يتراكم داخل النظام.", "imp": 2, "children": []},
+    {"b": "b1838", "en": "Numeric example", "ar": "مثال رقمي", "note_en": "10,000 in, 2,000 lost, 8,000 won, 5,000 taken home gives 11,000 USD accumulated after 3 months.", "note_ar": "إدخال 10,000 وخسارة 2,000 وربح 8,000 وسحب 5,000 يعطي 11,000 USD متراكمة بعد 3 أشهر.", "imp": 1, "children": []},
+    {"b": "b1839", "en": "Real risk: consumption", "ar": "الخطر الحقيقي: consumption", "note_en": "The risk is that the market generates no profit or consumes a lot of money; a vehicle that consumes more than it generates must be fixed.", "note_ar": "الخطر أن لا يولّد السوق ربحًا أو أن يستهلك كثيرًا من المال؛ والمركبة التي تستهلك أكثر مما تولّد يجب إصلاحها.", "imp": 2, "children": []},
+    {"b": "b1840", "en": "Choose the right vehicle", "ar": "اختيار المركبة الصحيحة", "note_en": "Trading is safe when the vehicle generates more than it consumes; the Overlay combination must sit within the system to ensure this.", "note_ar": "يكون التداول آمنًا حين تولّد المركبة أكثر مما تستهلك؛ ويجب أن يقع Overlay combination داخل النظام ليضمن ذلك.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b1841", "en": "Four logical combinations of extremes", "ar": "أربعة مزائج منطقية للقيم القصوى",
+   "note_en": "Four daily/1-hour combinations where Y > X give a buy or sell signal; otherwise there is no signal.",
+   "note_ar": "أربعة مزائج بين اليومي و1-hour يكون فيها Y > X تعطي إشارة شراء أو بيع؛ وما سواها لا إشارة فيه.",
+   "imp": 3,
+   "children": [
+    {"b": "b1843", "en": "Case 1: sell", "ar": "الحالة 1: بيع", "note_en": "Extreme happiness on the daily and on the 1-hour (6&6, Goldilocks, Dagger; better at MO or PO).", "note_ar": "سعادة قصوى على اليومي وعلى 1-hour (6&6 أو Goldilocks أو Dagger؛ والأفضل عند MO أو PO).", "imp": 2, "children": []},
+    {"b": "b1845", "en": "Case 2: buy", "ar": "الحالة 2: شراء", "note_en": "Extreme sadness on both; \"When there's blood in the streets, you buy.\"", "note_ar": "حزن أقصى على الإطارين؛ \"When there's blood in the streets, you buy.\"", "imp": 2, "children": []},
+    {"b": "b1847", "en": "Case 3: buy", "ar": "الحالة 3: شراء", "note_en": "Daily at the beginning of happiness (PTS), 1-hour at extreme sadness.", "note_ar": "اليومي في بداية السعادة (PTS) و1-hour في حزن أقصى.", "imp": 2, "children": []},
+    {"b": "b1849", "en": "Case 4: sell", "ar": "الحالة 4: بيع", "note_en": "Daily at the beginning of sadness (PTS), 1-hour at extreme happiness.", "note_ar": "اليومي في بداية الحزن (PTS) و1-hour في سعادة قصوى.", "imp": 2, "children": []},
+    {"b": "b1853", "en": "Qualify the Overlay", "ar": "تأهيل الـ Overlay", "note_en": "Outside these cases there is no signal. Only extremes are traded, as a Nested Overlay supported by MO and PO.", "note_ar": "خارج هذه الحالات لا توجد إشارة. لا يُتداول إلا عند القيم القصوى بوصفها Nested Overlay يدعمه MO وPO.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b1855", "en": "Four worked examples", "ar": "أربعة أمثلة محلولة",
+   "note_en": "One example for each case, each traded on the lower time frame with the stop raised step by step.",
+   "note_ar": "مثال لكل حالة، يُتداول كل منها على الإطار الأدنى مع رفع الـ stop خطوة بخطوة.",
+   "imp": 2,
+   "children": [
+    {"b": "b1855", "en": "GBPUSD 6&6 (case 1)", "ar": "GBPUSD مع 6&6 (الحالة 1)", "note_en": "A rise to the MO and a 6&6 with heavy Propagation; much Propagation in the BMX suggests weakness, like a car that stops every 10 minutes. Sell at the lower low and raise the stop at each STP.", "note_ar": "صعود إلى MO ثم 6&6 مع Propagation كثيف؛ وكثرة Propagation في BMX توحي بالضعف، كسيارة تتوقف كل 10 دقائق. يُباع عند lower low ويُرفع الـ stop عند كل STP.", "imp": 2, "children": []},
+    {"b": "b1866", "en": "USDMXN Goldilocks (case 2)", "ar": "USDMXN مع Goldilocks (الحالة 2)", "note_en": "Propagation down with very low EPs and then a bounce show strength; enter long in the Dagger with very low risk and raise the STP at each higher low. Best combination: 2 of 4.", "note_ar": "Propagation هابط مع EPs منخفضة جدًّا ثم ارتداد يدل على القوة؛ يُشترى عند Dagger بمخاطرة منخفضة جدًّا ويُرفع الـ STP عند كل higher low. أفضل مزيج: 2 من 4.", "imp": 2, "children": []},
+    {"b": "b1876", "en": "USDCAD PTS (case 3)", "ar": "USDCAD مع PTS (الحالة 3)", "note_en": "A PO Overlay at 50% above the last SS makes it stronger. The risk is high on the lower time frame, so use a micro Nest and Trade the Line. 3 of 4.", "note_ar": "PO Overlay عند 50% فوق آخر SS يجعله أقوى. المخاطرة عالية على الإطار الأدنى، فيُستخدم micro Nest وTrade the Line. 3 من 4.", "imp": 2, "children": []},
+    {"b": "b1886", "en": "AUDCAD PTS (case 4)", "ar": "AUDCAD مع PTS (الحالة 4)", "note_en": "A lower 1-2-3 than the last EP-SS up shows more weakness, helped by rising volume and a setup at the Return Zone. Very easy to manage. 4 of 4.", "note_ar": "1-2-3 أدنى من آخر EP-SS صاعد يدل على مزيد من الضعف، ويدعمه ارتفاع الـ volume وSetup عند Return Zone. إدارتها سهلة جدًّا. 4 من 4.", "imp": 2, "children": []},
+    {"b": "b1896", "en": "Lesson: trade extremes", "ar": "الدرس: تداول القيم القصوى", "note_en": "Buy and sell at extremes and construct every Overlay combination logically.", "note_ar": "اشترِ وبِع عند القيم القصوى وابنِ كل Overlay combination بشكل منطقي.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+@@b3429 p
+الجواب نعم، إذا عذّبتَ البيانات بالطريقة الصحيحة. ففي FOREX لا يتجاوز الـ consensus عادةً 90% ولا ينزل عن 20%. ومع ذلك فإن البيانات الخام، إذا أُحسن التعامل معها، تمنح بصيرة تنبؤية مفيدة حتى بين الطرفين. <mark>وهذه الأرقام الخام وحدها تمنح كل المتداولين تقريبًا، عدا أقصرهم أمدًا، أفضلية حقيقية.</mark>
+
+@@b3430 p
+لذلك قدّم الـ FBCR أيضًا عدة مؤشرات مبنية على البيانات الخام:
+
+@@b3431 ul
+<li><p>الـ Triad،</p></li>
+<li><p>التغيّر من أسبوع إلى آخر،</p></li>
+<li><p>الأنماط المتكررة،</p></li>
+<li><p>المقارنة بين المحترفين والهواة،</p></li>
+<li><p>الـ divergence مع الأسعار ومع المؤشرات الشائعة،</p></li>
+<li><p>ورؤى أخرى جاءت من أكثر من عقد من دراسة بيانات الـ consensus لدى المحترفين والهواة.</p></li>
+
+@@b3432 p
+ومن الأنماط الشائعة والمفيدة جدًا الـ divergence: <mark>أن يعجز السعر عن تجاوز قمة حديثة بينما يرتفع الـ bullish consensus.</mark>
+
+@@b3433 h4
+خلفية Michael وراء مجموعة المتداولين
+
+@@b3434 p
+تقوم مجموعة المتداولين على مسيرة Michael الطويلة. فهو يحتسب أول صفقة له، في الفضة، من September 1973. وتعود أبحاثه في التحليل الفني إلى سنوات دراسته الجامعية (1968–1972)، على حاسوب Data General Nova في قسم الفيزياء بجامعة Colorado. وقد سُجّل بصفة CTA لدى CFTC، وبصفة Investment Advisor لدى SEC، وافتتح في Honolulu شركة وساطة في العقود الآجلة للسلع وامتلكها.
+
+@@b3435 p
+وكان برنامجه الآلي لتداول العقود الآجلة، كما يصفه، أول برنامج AI في أي سوق، بمتوسط 48% في السنة ونسبة Sharpe Ratio مرتفعة جدًا بحسب Managed Account Reports. وقد ألقى محاضرات عن الـ AI والتحليل الفني، وألّف كتاب <em>Getting Started in Currency Trading</em> لدار John Wiley &amp; Sons (أربع طبعات، 2005–2012)، وأرشد أكثر من 200 متداول جديد. أما مئات العلاقات التي كوّنها على مدى نصف قرن فهي التي شكّلت مجموعتي المحترفين والهواة في التقرير.
+
+@@b3436 h3
+الجزء الثاني: ما سجّلته التقارير الأسبوعية
+
+@@b3437 p
+كان كل تقرير أسبوعي ملف workbook. تعرض ورقة HOME ملخص استطلاع الأسبوع: نسبة المحترفين ونسبة الهواة المتفائلين (bullish) في كل زوج. ثم لكل زوج ورقته الخاصة التي تحتوي التاريخ الأسبوعي الكامل للقراءتين معًا.
+
+@@b3438 p
+والأزواج المشمولة هي الثمانية عشر زوجًا في الطريقة: AUDCAD, AUDJPY, AUDNZD, AUDUSD, CHFJPY, EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURUSD, GBPCHF, GBPJPY, GBPUSD, NZDUSD, USDCAD, USDCHF وUSDJPY. وبحلول 2023 صارت التقارير تتابع أيضًا النفط الخام (CL) والذهب (AU) ومؤشر S&amp;P 500 (SPX) والبيتكوين (BTCUSD)، وأضاف التقرير الأخير سند الخزانة لأجل 10 سنوات (TY10).
+
+@@b3439 p
+التقارير التي احتفظتُ بها تمتد من أسبوع 1 January 2023 إلى أسبوع 8 July 2023. ويبدأ التاريخ داخلها من 4 September 2022، ولذلك يضم آخر workbook عدد 44 استطلاعًا أسبوعيًا لكل زوج.
+
+@@b3441 p
+الشكل: الـ consensus الأسبوعي للمحترفين (bullish) لأزواج EURUSD وGBPUSD وUSDJPY وUSDCAD من September 2022 إلى July 2023، مع تظليل منطقة 90% Sell ومنطقة 20% Buy.
+
+@@b3442 p
+ماذا تُظهر قراءات المحترفين على مدى تلك الأسابيع الأربعة والأربعين:
+
+@@b3443 ul
+<li><p><strong>كانت القراءات المتطرفة نادرة، كما تتوقع الطريقة.</strong> أغلب القراءات وقعت بين العتبتين. أما USDCAD وAUDCAD فلم يبلغا أيًّا من الطرفين قط.</p></li>
+<li><p><strong>تأرجح الجمهور بقوة في الأزواج الرئيسية (majors).</strong> كان EURUSD عند 19% في 4 September 2022 ثم صعد إلى 91–93% خلال January 2023. وبقي GBPUSD عند 17–20% من منتصف September إلى أوائل October 2022، ثم بلغ 91% في أسبوع 8 July 2023.</p></li>
+<li><p><strong>عبر USDJPY من طرف إلى الطرف الآخر.</strong> قرأ بين 85% و92% طوال September وOctober 2022. وبحلول January 2023 هبط إلى 20% ثم 20% ثم 17%. ومنذ أواخر May 2023 عاد فوق 90% في معظم الأسابيع، وبلغ 92% في التقرير الأخير.</p></li>
+<li><p><strong>هيمنت أزواج الين (Yen crosses) على القراءات المرتفعة.</strong> سجّل CHFJPY وUSDJPY كلٌّ منهما 11 أسبوعًا عند 90% فأكثر، وEURJPY ستة أسابيع، وGBPJPY خمسة.</p></li>
+<li><p><strong>تجمّعت القراءات المنخفضة في خريف 2022 وفي January 2023.</strong> أعطت GBPUSD وGBPCHF وAUDUSD وNZDUSD قراءات بحدود 20% أو أقل في September وOctober 2022. وفعل USDCHF وUSDJPY ذلك في January 2023.</p></li>
+
+@@b3444 p
+في أسبوع 8 July 2023، وهو أسبوع التقرير الأخير، كانت قراءات المحترفين عند 90% أو أعلى لدى EURCAD (91) وGBPJPY (90) وGBPUSD (91) وUSDJPY (92).
+
+@@b3445 h2
+ما بنيناه معًا (2024–2026)
+
+@@b3446 p
+ست سنوات كتب Michael فيها وأنا رسمت. هذا أقصر وصف صادق لشراكتنا. حمل Michael الطريقة في رأسه، أحد عشر عامًا منها مع Charlie، وكانت الكلمات تأتيه بسهولة. أما الرسوم فلا. وأنا كان عندي الصبر على الرسوم، ومع الوقت تولّيتُ باقي العمل المحيط بالكتاب: التصميم الداخلي (layout) والأغلفة والموقع الإلكتروني والدورات. يسجّل هذا الفصل ما صنعناه، ومن فعل ماذا، وماذا عنى كل عمل لي.
+
+@@b3448 p
+<em>لوحة — ما بنيناه معًا، 2024–2026. يمتد كل شريط من أول بريد إلكتروني عن العمل حتى نسخته في Goodman Library؛ وتشير النقاط إلى اللحظات المؤرخة المقتبسة أدناه.</em>
+
+@@b3449 h3
+The Goodman Trader's Playbook — الـ Molokai Setup
+
+@@b3450 p
+الـ Playbook دليل مباشر يدخل في الموضوع مباشرة لإيجاد Goodman setup واحد وتداوله، هو الـ Molokai. كتب Michael النص. ورسمتُ أنا الرسوم، وأعدتُ بناء الـ charts، وصمّمتُ الغلاف، وفي النهاية رتّبتُ المخطوطة للمطبعة. وهو الكتاب الوحيد الذي وضعنا عليه اسمينا معًا.
+
+@@b3451 p
+بدأ كفكرة قديمة عنده توقفت لسبب واحد. ففي 2024-06-18 كتب: <em>"I started the Goodman Playbook a couple of times...the issue was doing all the diagrams and charts; the text not too difficult."</em> فأجبته في اليوم التالي: <em>"Still i like the playbook idea."</em> وبعد سنة، في 2025-06-27، كانت المشكلة نفسها: <em>"I enjoy the writing but not the diagrams/charts/figures..."</em>
+
+@@b3452 p
+جاء الاسم في July 2025. ففي 2025-07-16 كتب: <em>"I hope Charlie not upset I rename 6 &amp; 6 to Molokai."</em> وMolokai هي الجزيرة الهاواوية التي قضى فيها شهر العسل، والـ setup يحمل تلك الذكرى. وقال في المقدمة بوضوح: <em>"For the record, 6 &amp; 6 refers to 'six swings and six parameters.'"</em>
+
+@@b3453 p
+وفي 2025-09-12 سأل: <em>"Almost done with Playbook! I'll need you to redo several charts, diagrams, etc... maybe design nice cover also??"</em> وبحلول November بلغ العدد اثنين وخمسين diagram. وفي 2026-01-26، بعد أن رأى رسوماتي للفصلين 3 و4، كتب: <em>"yours so muchore professional looking!!!"</em> وفي 2026-09-07 رددتُ عليه: <em>"Let's finish the Playbook. I organize it, update the diagrams."</em>
+
+@@b3454 p
+<mark>معنى ذلك عندي: أثبت الـ Playbook أن تقسيم العمل ينجح.</mark> لم يعد عليه أن يشرح الشكل أطول مما يستغرقه رسمه. أرسمه أنا، ويراجعه هو، ويتقدم الكتاب.
+
+@@b3455 h3
+The Goodman CODEX 2026، الجزآن 1 و2
+
+@@b3456 p
+الـ CODEX هو الموسوعة الجامعة لـ Goodman Wave Theory: دروس ورسائل نظرية ودراسات charts ومواد من غرفة التداول. وكانت النسخة الأصلية أول منشور لـ Michael عن Goodman. وفي 2020 كانت أيضًا أول نص عن Goodman قرأته في حياتي، وفي 2024-05-15 كتبت إليه: <em>"After years . Deep moment in codex."</em>
+
+@@b3457 p
+في December 2025 أعاد بناءه. ففي 2025-12-29 كتب: <em>"I think I just take original CODEX and add 15-20 articles to it... Offers an historical perspective from 2003-2025."</em> وضمّ إليه مقالاته على Substack وكذلك الـ Goodmanisms. وفي 2025-12-30 كتب: <em>"go ahead and re arrange CODEX into two parts."</em> فقسمته، وأعددتُ الصفحات التمهيدية، ثم أعدتُ لاحقًا رسم أشكاله. وللأغلفة نسختُ أشكالًا مباشرة من الكتب: الـ Goodman Setup للجزء 1، والـ Cancel-Over / Cancel-Under للجزء 2.
+
+@@b3458 p
+<mark>معنى ذلك عندي: صار الـ CODEX رفّ المراجع الذي يقف خلف كل شيء آخر.</mark> وكل كتاب لاحق يعود إليه.
+
+@@b3459 h3
+Goodman for Grasshoppers
+
+@@b3460 p
+كتاب Grasshoppers هو كتاب Michael التمهيدي، وهو في طبعته الثالثة منذ 2023. سُمّي باسم طالبه في Hong Kong، الذي كان يدعوه Grasshopper، وتتخلل أقواله الكتاب. وفي 2025-01-16 اقتبستُ له إحداها: <em>"GRASSHOPPER SAYS: You Learn Goodman the using the same process as you Trade."</em> الكتاب كتابه. وكان نصيبي الغلاف الجديد، المبني على شكله الخاص: الـ Goodman Smoothie، أي الـ degree الكبيرة تضيق نزولًا حتى الصفقة.
+
+@@b3461 p
+معنى ذلك عندي: Grasshoppers هو حيث يبدأ الطالب الجديد، والـ Smoothie هي الصورة المناسبة لذلك. <mark>تنزل من الـ degree الكبيرة إلى الصفقة.</mark>
+
+@@b3462 h3
+Over the Over
+
+@@b3463 p
+Over the Over هو دراسة Michael عن الـ Line: سوق يختبر مستوياته ويتجاوزها، تصحيحًا بعد تصحيح. قرأته مرات كثيرة. ففي 2025-02-08 كتبت: <em>"Re- Reading Over the over. Article."</em> وفي 2025-07-18 قال لي: <em>"I'm going to have to completely rewrite over the over - too out of date to just edit."</em> فرددتُ في اليوم نفسه: <em>"Over the over very useful article. Last time you add a bert line into it."</em> وكان نصيبي الغلاف، إذ نقلتُ الـ Line نقطةً نقطة (vertex by vertex) من شكله.
+
+@@b3464 p
+<mark>معنى ذلك عندي: كانت هذه الورقة هي التي علّمتني كيف أقرأ الـ Line</mark>، ثم غذّت لاحقًا دورة GWT الثانية.

@@ -1,0 +1,45 @@
+{
+ "chunk": "c60",
+ "highlights": [
+  {"b": "b3605", "en": "a screenshot is not a track record.", "level": 1},
+  {"b": "b3608", "en": "count every cost before you call it a bargain.", "level": 1},
+  {"b": "b3611", "en": "it is never too late to begin, but it is always\ntoo late to unlearn a bad start.", "level": 1},
+  {"b": "b3615", "en": "before you explain the chart, check what\nactually happened on it.", "level": 1},
+  {"b": "b3619", "en": "A trader is not a list\nof skills. He is a system: every part pushes on every other part, and\nthe pushes come back.", "level": 2},
+  {"b": "b3628", "en": "A loop can work for you or against you.", "level": 1},
+  {"b": "b3631", "en": "Nothing inside this loop says stop. That is its danger.", "level": 1},
+  {"b": "b3638", "en": "Keep in mind we are trading the money not the market... you do not\nhave many souls in the market, have only 30 souls!", "level": 1},
+  {"b": "b3644", "en": "The balancing loop does not stop losses. Nothing does.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b3603", "en": "Costly shortcuts", "ar": "اختصارات مكلفة", "note_en": "Stories of screenshots, bargain books and a saxophone: verify, count all costs, learn properly from the start.", "note_ar": "قصص لقطة الشاشة والكتب الرخيصة والساكسفون: تحقق، واحسب كل التكاليف، وتعلّم بشكل صحيح من البداية.", "imp": 2,
+   "children": [
+    {"b": "b3604", "en": "The Screenshot Track Record", "ar": "سجل الأداء بلقطة شاشة", "note_en": "An investor trusted a pretty MT4 screenshot and lost nearly everything in two days.", "note_ar": "وثق مستثمر بلقطة MT4 جميلة وخسر شبه كل شيء في يومين.", "imp": 1, "children": [
+      {"b": "b3605", "en": "Ask statement, trades, drawdown", "ar": "اطلب الكشف والصفقات والـ drawdown", "note_en": "A screenshot is not a track record.", "note_ar": "لقطة الشاشة ليست سجل أداء.", "imp": 2, "children": []}]},
+    {"b": "b3606", "en": "Bargain Chess Books", "ar": "كتب الشطرنج الرخيصة", "note_en": "A $400 purchase became $1000 after customs and fees.", "note_ar": "صارت صفقة 400 دولار ألف دولار بعد الجمارك والأتعاب.", "imp": 1, "children": [
+      {"b": "b3608", "en": "Count every cost", "ar": "احسب كل تكلفة", "note_en": "Commissions, spreads and swaps are the customs of trading.", "note_ar": "العمولات والـ spreads والـ swaps هي جمارك التداول.", "imp": 2, "children": []}]},
+    {"b": "b3609", "en": "The Saxophone", "ar": "الساكسفون", "note_en": "At seventy-three Michael takes lessons first.", "note_ar": "في الثالثة والسبعين يبدأ Michael بالدروس أولًا.", "imp": 1, "children": [
+      {"b": "b3611", "en": "Never unlearn a bad start", "ar": "لا تتخلص من بداية خاطئة", "note_en": "Get a teacher first, play later.", "note_ar": "معلّم أولًا ثم العزف.", "imp": 2, "children": []}]}
+   ]},
+  {"b": "b3612", "en": "The Glass Ball at Heidelberg", "ar": "الكرة الزجاجية في هايدلبرغ", "note_en": "A professor's elegant equations were wrong because workmen rotated the ball.", "note_ar": "معادلات الأستاذ الأنيقة خاطئة لأن العاملين يديرون الكرة.", "imp": 3,
+   "children": [
+    {"b": "b3614", "en": "Theory before observation", "ar": "النظرية قبل الملاحظة", "note_en": "He proved why the shady side is hot without checking what happened.", "note_ar": "أثبت لماذا الجانب المظلل ساخن دون أن يتحقق.", "imp": 2, "children": []},
+    {"b": "b3615", "en": "Look at the market first", "ar": "انظر إلى السوق أولًا", "note_en": "Check what actually happened on the chart before explaining it.", "note_ar": "تحقق مما حدث على الرسم قبل شرحه.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3617", "en": "Rung 10: The System", "ar": "Rung 10: The System", "note_en": "The last rung puts the nine rungs back together as one dynamic system.", "note_ar": "الدرجة الأخيرة تجمع الدرجات التسع في نظام ديناميكي واحد.", "imp": 3,
+   "children": [
+    {"b": "b3619", "en": "Trader as a system", "ar": "المتداول نظام", "note_en": "Every part pushes on every other part and the pushes come back.", "note_ar": "كل جزء يدفع الآخر والدفعات ترتد.", "imp": 3, "children": []},
+    {"b": "b3620", "en": "The parts that move", "ar": "الأجزاء المتحركة", "note_en": "Seeing, Deciding, Acting, Measuring, Feeling and Learning form a closed loop.", "note_ar": "Seeing وDeciding وActing وMeasuring وFeeling وLearning تشكل حلقة مغلقة.", "imp": 2, "children": [
+      {"b": "b3622", "en": "Early notes on loops", "ar": "ملاحظات مبكرة عن الحلقات", "note_en": "Notes from 2021 and 2022: feedback loop, loop between visualize and tactics, compound loops.", "note_ar": "ملاحظات 2021 و2022 عن حلقة التغذية الراجعة والحلقات المركّبة.", "imp": 1, "children": []},
+      {"b": "b3628", "en": "Reinforcing vs balancing", "ar": "معزِّزة مقابل متوازنة", "note_en": "A loop can work for or against you.", "note_ar": "الحلقة قد تعمل لك أو ضدك.", "imp": 2, "children": []}]},
+    {"b": "b3629", "en": "The reinforcing loop", "ar": "الحلقة المعزِّزة", "note_en": "Wins, confidence, overconfidence, bigger lot, bigger wins: no brake until a big loss.", "note_ar": "أرباح، ثقة، ثقة مفرطة، lot أكبر، أرباح أكبر: بلا فرامل حتى خسارة كبيرة.", "imp": 3, "children": [
+      {"b": "b3631", "en": "Nothing says stop", "ar": "لا شيء يقول قف", "note_en": "It grows until one large loss breaks it.", "note_ar": "تنمو حتى تكسرها خسارة كبيرة.", "imp": 3, "children": []},
+      {"b": "b3632", "en": "Navid's story", "ar": "قصة Navid", "note_en": "Doubled lot after thirty good trades; the psychological cycle between optimism and pessimism.", "note_ar": "ضاعف الـ lot بعد ثلاثين صفقة جيدة؛ الدورة النفسية بين التفاؤل والتشاؤم.", "imp": 2, "children": []}]},
+    {"b": "b3635", "en": "The balancing loop", "ar": "الحلقة المتوازنة", "note_en": "A negative link pulls the system back: drawdown cuts the lot, survival allows learning.", "note_ar": "رابط سالب يعيد النظام: الـ drawdown يقلص الـ lot والنجاة تتيح التعلم.", "imp": 3, "children": [
+      {"b": "b3637", "en": "Thirty souls", "ar": "ثلاثون روحًا", "note_en": "Set maximum drawdown first and divide it into thirty trades; trade the money, not the market.", "note_ar": "حدد أقصى drawdown وقسمه على ثلاثين صفقة؛ تداول المال لا السوق.", "imp": 3, "children": []},
+      {"b": "b3639", "en": "Survive and learn", "ar": "انجُ وتعلّم", "note_en": "Breakeven first, then label trades, Golden Ratio every ten trades, bathtub review.", "note_ar": "التعادل أولًا ثم تصنيف الصفقات والـ Golden Ratio والـ bathtub.", "imp": 2, "children": []},
+      {"b": "b3640", "en": "Lower the risk per trade", "ar": "اخفض المخاطرة لكل صفقة", "note_en": "Self-control during drawdowns by lowering risk.", "note_ar": "ضبط النفس في التراجعات بخفض المخاطرة.", "imp": 2, "children": []},
+      {"b": "b3644", "en": "It does not stop losses", "ar": "لا توقف الخسائر", "note_en": "It only keeps a loss from becoming a catastrophe.", "note_ar": "تمنع الخسارة من أن تصير كارثة فقط.", "imp": 2, "children": []}]}
+   ]}
+ ]
+}

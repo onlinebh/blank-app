@@ -1,0 +1,49 @@
+{
+ "chunk": "c58",
+ "highlights": [
+  {"b": "b3540", "en": "not every opportunity is an improvement.", "level": 1},
+  {"b": "b3540", "en": "Knowing when you\nhave enough is part of money management.", "level": 1},
+  {"b": "b3544", "en": "even on his first trade Michael took a profit at\nthe count and still came back for the bigger move when the market\nrepropagated.", "level": 1},
+  {"b": "b3547", "en": "a calendar system can work for a while, but only\nbecause of a hidden reason in the market.", "level": 1},
+  {"b": "b3547", "en": "When the reason disappears, so\ndoes the edge.", "level": 1},
+  {"b": "b3554", "en": "A fast 100% looks better than a slow\n38% until you ask what the person was risking to get it.", "level": 2},
+  {"b": "b3555", "en": "Rank your last twenty trades by risk\ntaken, not by profit.", "level": 1},
+  {"b": "b3559", "en": "even professionals with every model and every\ninterview fall for one good trade.", "level": 1},
+  {"b": "b3563", "en": "anything you must watch all the time does not\nbelong to you; you belong to it.", "level": 1},
+  {"b": "b3567", "en": "when everything is on fire, the most valuable\nperson is the calm one who does the next useful thing.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b3535", "en": "Bruce Gould's enough", "ar": "اكتفاء بروس غولد",
+   "note_en": "Gould refused a fund job because he already had a quiet office, a working method and time with his father.", "note_ar": "رفض غولد العمل في صندوق لأن لديه مكتبًا هادئًا وطريقة ناجحة ووقتًا مع والده.", "imp": 2,
+   "children": [
+    {"b": "b3540", "en": "Lesson: know when enough", "ar": "الدرس: اعرف متى يكفي", "note_en": "Not every opportunity is an improvement; knowing enough is money management.", "note_ar": "ليست كل فرصة تحسينًا؛ ومعرفة الكفاية جزء من إدارة المال.", "imp": 2, "children": []},
+    {"b": "b3539", "en": "Trading as a business", "ar": "التداول كعمل تجاري", "note_en": "Gould taught trading as a business and wrote World's Greatest Money Book.", "note_ar": "علّم غولد التداول كعمل تجاري وألّف كتابه عن المال.", "imp": 1, "children": []}
+   ]},
+  {"b": "b3542", "en": "First trade: Let's go, Dad!", "ar": "الصفقة الأولى: هيا بنا يا أبي", "note_en": "Michael's first silver trade in 1973 bought at $2.78, took profit at the Under count, re-entered at the Tipping Point.", "note_ar": "أول صفقة فضة لـ Michael عام 1973: شراء عند 2.78، وربح عند الـ Under count، ثم إعادة الدخول عند الـ Tipping Point.", "imp": 2,
+   "children": [
+    {"b": "b3543", "en": "Under count and Tipping Point", "ar": "Under count وTipping Point", "note_en": "One contract off at about 3.30, Under re-established at 3.30, liquidated near $6.00.", "note_ar": "أُخذ عقد عند نحو 3.30 وأُعيد الـ Under عند 3.30 وصُفّي قرب 6.00.", "imp": 2, "children": []},
+    {"b": "b3544", "en": "Lesson: bank, then return", "ar": "الدرس: اجنِ ثم عد", "note_en": "Bank the Under, then let the structure invite you back in.", "note_ar": "اجنِ ربح الـ Under ثم دع البنية تدعوك للعودة.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3545", "en": "The Magic Dates", "ar": "التواريخ السحرية", "note_en": "A five-dollar calendar system for silver worked for years because of year-end tax straddles.", "note_ar": "نظام تقويم للفضة بخمسة دولارات نجح سنوات بسبب straddles الضريبية.", "imp": 2,
+   "children": [
+    {"b": "b3547", "en": "Lesson: ask why it works", "ar": "الدرس: اسأل لماذا ينجح", "note_en": "When the hidden reason disappears, so does the edge.", "note_ar": "إذا زال السبب الخفي زالت الميزة.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3548", "en": "Kroll, Gould and sitting ducks", "ar": "Kroll وGould والـ sitting ducks", "note_en": "Van Eck's three-trader contest: Kroll's fast 100% ended in a fund failure while Michael's slow 38% was sound.", "note_ar": "منافسة Van Eck بين ثلاثة متداولين: ربح Kroll السريع انتهى بإغلاق الصندوق، وربح Michael البطيء كان سليمًا.", "imp": 3,
+   "children": [
+    {"b": "b3552", "en": "Kroll burns his stake", "ar": "Kroll يحرق رأسماله", "note_en": "Kroll lost the first $50,000, got another, then lost 50% of a $1 million fund.", "note_ar": "خسر Kroll الـ 50,000 الأولى ثم أخرى ثم 50% من صندوق بمليون.", "imp": 1, "children": []},
+    {"b": "b3554", "en": "What it means: risk first", "ar": "المعنى: المخاطرة أولًا", "note_en": "A fast 100% looks better than a slow 38% until you ask what was risked.", "note_ar": "يبدو 100% السريع أجمل حتى تسأل عن المخاطرة.", "imp": 3, "children": []},
+    {"b": "b3555", "en": "Try this: rank by risk", "ar": "جرّب: رتّب بالمخاطرة", "note_en": "Rank your last twenty trades by risk taken, not profit.", "note_ar": "رتّب آخر عشرين صفقة بحسب المخاطرة لا الربح.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3556", "en": "Sharpe Ratio and emotions", "ar": "Sharpe Ratio والعواطف", "note_en": "Commodity Corporation's due diligence was forgotten after one big winning trade.", "note_ar": "نُسي الـ due diligence في Commodity Corporation بعد صفقة رابحة كبيرة.", "imp": 2,
+   "children": [
+    {"b": "b3558", "en": "Emotions trump due diligence", "ar": "العواطف تغلب due diligence", "note_en": "Human nature beats parameters.", "note_ar": "الطبيعة البشرية تغلب المعايير.", "imp": 2, "children": []},
+    {"b": "b3559", "en": "Build rules before excitement", "ar": "ابنِ القواعد قبل الإثارة", "note_en": "The private trader must set rules before excitement arrives.", "note_ar": "على المتداول وضع قواعده قبل أن تأتي الإثارة.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3560", "en": "Car owns you; Burning Cadillac", "ar": "السيارة تملكك والـ Cadillac المحترقة", "note_en": "Two stories: possessions you must watch own you, and Jim's calm in a crisis.", "note_ar": "قصتان: ما تضطر لمراقبته يملكك، وهدوء Jim في الأزمة.", "imp": 2,
+   "children": [
+    {"b": "b3563", "en": "Lesson: position too big", "ar": "الدرس: مركز أكبر من اللازم", "note_en": "A position too big to stop thinking about is the same Ferrari.", "note_ar": "المركز الذي لا تكف عن التفكير فيه هو الـ Ferrari نفسها.", "imp": 2, "children": []},
+    {"b": "b3565", "en": "Jim stays calm", "ar": "Jim يبقى هادئًا", "note_en": "Jim walked over, handed the bag and asked if everyone was all right.", "note_ar": "جاء Jim ماشيًا وسلّم الكيس وسأل إن كان الجميع بخير.", "imp": 1, "children": []},
+    {"b": "b3567", "en": "Lesson: be the calm one", "ar": "الدرس: كن الهادئ", "note_en": "When a market explodes against you, do the next useful thing.", "note_ar": "حين ينفجر السوق ضدك افعل الخطوة النافعة التالية.", "imp": 2, "children": []}
+   ]}
+ ]
+}

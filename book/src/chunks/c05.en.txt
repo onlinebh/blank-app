@@ -1,0 +1,255 @@
+##CTX Part: Rung 1 · Being: Who Was Charlie? | Section: Introduction to Goodman: Method, Probability and the Will of the Market (2022) -> The Visionary Trader: Connecting the Dots (2024)
+
+@@b296 h3
+1.4 Balance
+
+@@b297 p
+Balance in the market means looking at both sellers and buyers to
+find the remainder factor on the chart. Always keep in mind these
+important changes in expectation: the players change their expectation
+by being willing to offer or to pay. The same reading also applies to
+the Goldilocks. Three cases, each with its selling and buying
+mirror:
+
+@@b298 blockquote
+<p>1. <strong>Important expectation in the FPS.</strong> Volume rises
+during the FPS, showing important selling (or buying), while the SS
+shows weak counter-activity with low expectation. Balance: most likely,
+sellers are willing to offer at a lower price (or buyers are willing to
+pay a higher price).</p>
+<p>2. <strong>A regular Jumbo with a change in the FMX.</strong> The
+Jumbo has regular volume (no important expectation). The FMX shows a
+change in expectation compared with the Jumbo, while the BMX shows
+either low expectation from the counter side or high expectation at the
+reversal point. Balance: most likely, sellers will offer lower (or
+buyers will pay higher).</p>
+<p>3. <strong>A regular Jumbo with exhaustion.</strong> The Jumbo has
+regular volume. The FMX changes from regular to very low expectation,
+and the BMX shows an even lower expectation — exhaustion at the high (or
+at the low). Balance: most likely, sellers will offer lower (or buyers
+will pay higher).</p>
+
+@@b299 h4
+Bernoulli's Axioms
+
+@@b300 blockquote
+<p>1. There is no place for conjectures in matters in which one may
+reach complete certainty.</p>
+<p>2. It is not sufficient to weigh one or another argument. Instead we
+must bring together all arguments that we can come to know and that seem
+in any way to work toward a proof of the thing.</p>
+<p>3. In matters that are uncertain and open to doubt, we should suspend
+our actions until we learn more. But if the occasion for action brooks
+no delay, then between two actions we should always choose the one that
+seems more appropriate, safer, more carefully considered, or more
+probable, even if neither action is such in a positive sense.</p>
+
+@@b301 h3
+1.5 Anticipation
+
+@@b302 p
+Anticipation is the process that follows the ability to interpret. It
+sets the necessary conditions for deciding whether buying or selling is
+advisable.
+
+@@b303 p
+To anticipate that <strong>buyers are willing to pay higher</strong>,
+check:
+
+@@b304 blockquote
+<p>1. The current Matrix relates to the larger and the smaller Matrix
+(general/partial concept) in a joint relationship.</p>
+<p>2. Propagation is in the direction of the larger Matrix.</p>
+<p>3. Important buying is confirmed.</p>
+<p>4. The 3-C is cancelled.</p>
+<p>5. There is an Overlay in the larger Matrix.</p>
+<p>6. Expectation (volume) is joint in both Matrices.</p>
+<p>7. Profit exceeds risk (the 3-C Setup target).</p>
+
+@@b306 p
+Figure: The buying checklist on a chart — joint with the larger
+Matrix, Propagation, important buying, 3-C cancel, Propagation Overlay
+and joint expectation in volume.
+
+@@b307 p
+To anticipate that <strong>sellers are willing to offer
+lower</strong>, check the same list in mirror form:
+
+@@b308 blockquote
+<p>1. The current Matrix relates to the larger and the smaller Matrix
+(general/partial concept) in a joint relationship.</p>
+<p>2. Propagation is in the direction of the larger Matrix.</p>
+<p>3. Important selling is confirmed.</p>
+<p>4. The 3-C is cancelled.</p>
+<p>5. There is an Overlay in the larger Matrix.</p>
+<p>6. Expectation (volume) is joint in both Matrices.</p>
+<p>7. Profit exceeds risk (the 3-C Setup target).</p>
+
+@@b310 p
+Figure: The selling checklist on a chart — the mirror of the buying
+case, with important selling and a Propagation Overlay in the larger
+Matrix.
+
+@@b311 h3
+1.6 Managing the Trade
+
+@@b312 p
+The biggest problem traders face is taking a loss. When we deal with
+chance, a loss or a win is just a chance. It takes a habit to stand firm
+in front of a series of small losses. Do not hurry to increase the lot
+size after a loss in the hope of profit. That action can destroy a
+trading account immediately.
+
+@@b313 p
+The secret of a winning attitude:
+
+@@b314 ul
+<li><p><strong>After a series of losses</strong>: lower your expectation
+by decreasing the lot size, and review your feedback.</p></li>
+<li><p><strong>After a series of wins</strong>: raise your expectation
+by increasing the lot, slowly.</p></li>
+
+@@b315 p
+Professional traders use this attitude, and we can see it easily on
+the chart. When buyers take profit from their expectation by riding the
+FPS, they lower their expectation in the SS. Then they repeat: they
+enter again at the EP of the SS, expecting to increase their profit.
+
+@@b317 p
+Figure: Buyers ride the FPS with high expectation (volume), lower it
+during the SS, then enter again at the EP of the SS.
+
+@@b318 p
+The best way to apply Goodman's theory is through experiment and
+investigation, and then to profit with confidence.
+
+@@b319 blockquote
+<p>"Chance, as we understand it, supposes the Existence of things, and
+their general known Properties: that a number of Dice, for instance,
+being thrown, each of them shall settle upon one or other of its Bases.
+After which, the Probability of an assigned Chance, that is of some
+particular disposition of the Dice, becomes as proper a subject of
+Investigation as any other quantity or Ratio can be."</p>
+
+@@b320 h2
+The Visionary
+Trader: Connecting the Dots (2024)
+
+@@b321 p
+In this short paper I describe one habit of mind I call being a
+visionary trader. I explain the two steps behind it, and then I show it
+on a real gold trade, from the daily Matrix Overlay down to a 5-minute
+entry.
+
+@@b322 h3
+Know Yourself First
+
+@@b323 p
+Every trader comes to recognize his emotional patterns, the good and
+the bad. He learns what he needs to fix to trade better. A feedback loop
+tells him, in detail, about his own process.
+
+@@b324 p
+You do not need to be perfect. No one is perfect. You improve
+gradually from your results. A deep understanding of "know yourself" is
+the key to consistent success, and it is inside you.
+
+@@b325 h3
+The Visionary Habit: Two
+Steps
+
+@@b326 p
+One important and highly emotionally intelligent skill is to be a
+visionary. It has two steps:
+
+@@b327 blockquote
+<p>1. <strong>Collect facts from everywhere</strong> until they become
+very strong evidence that points to a way of winning.</p>
+<p>2. <strong>Look for new facts</strong> that come to you and support
+that conclusion.</p>
+
+@@b328 p
+What do I see now? What do I want to see next? The two questions are
+connected and fit together, like drawing a line through many dots.
+Connect the dots! First you draw the line; then you watch forward for a
+new dot, and draw it again.
+
+@@b330 p
+Figure: The visionary habit as a loop — see now, expect next, then
+redraw the line with each new dot.
+
+@@b331 h3
+The Concept on a Chart
+
+@@b332 p
+Let me illustrate the concept on a chart. Suppose you are looking for
+a 1-hour Setup, and you use the daily chart as the Outward chart to
+analyze the Propagation.
+
+@@b334 p
+Figure: Price returns to the EP line at BP Matrix 1 and pushes to a
+new high at the EP of Matrix 2. Real data: XAUUSD (gold), 1-hour, 28
+February – 4 March 2022. (The original chart was Gold daily,
+January–July 2024; this one shows the same structure on gold, on the
+1-hour chart of the window the data covers.)
+
+@@b335 p
+Here we have a Matrix Overlay. The logic behind it: the sellers who
+held orders saw all their profit erased at the EP of Matrix 2. At the
+same time, this level attracts selling orders, because it is a new high
+(on my original gold chart, the highest price for gold ever). One can
+examine the feeling of the crowd when prices rise into a new high. The
+best strategy is to sell a new high and buy a new low!
+
+@@b336 p
+In my opinion the Matrix Overlay works very well when its components
+are Complex-Complex. A complex in the MO tells us about the strength of
+the trend, especially if there is a count. I look for complexes as a
+change in direction and in volatility. I cannot go on without explaining
+this behavior, pointing from the higher high to the lower low.
+
+@@b338 p
+Figure: The first complex after BP Matrix 1, a downward 1-2-3 whose
+wave 3 makes a new low below 1. Real data: AUDUSD, 30-minute, 28 Feb – 2
+Mar 2022. (The original chart was Gold daily, March–July 2024; gold is
+now in the data, but in the gold window available (14 February – 4 March
+2022) wave 3 does not make a new low below 1, so this one still shows
+the structure on AUDUSD.)
+
+@@b339 h4
+Matrix 1: The Energy of
+Selling
+
+@@b340 p
+In the first Matrix we need to measure the actual selling or buying
+impact on the Setup. The 1-2-3 tells us about the energy of selling. It
+is the point where selling energy grows: the EP of wave 3 is a new low
+below 1.
+
+@@b341 p
+If supply is high and demand is low, price will drop under its own
+weight. It is a tug of war.
+
+@@b342 h4
+Matrix 2: The Ultimate Test
+
+@@b343 p
+In Matrix 2 the buyers have something to say: a 1-2-3 with a new
+high. This is the ultimate test of the selling energy. Either the
+sellers renew their energy and drop the price, or buying drives the
+price much higher.
+
+@@b344 p
+Most probably the buyers are losing their energy. The crowd believes
+"price is too high, better to wait for the next correction". With this
+belief, demand is very low and supply is high. So it is time to spot a
+Setup at this location.
+
+@@b346 p
+Figure: The complete Complex-Complex Matrix Overlay, with the 1-2-3
+of Matrix 1 down and the 1-2-3 of Matrix 2 up to the new high. Real
+data: XAUUSD (gold), 30-minute, 1–4 March 2022. (The original chart was
+Gold daily, March–July 2024; this one shows the same structure on gold,
+in the window the data covers. Here wave 3 of Matrix 1 holds just above
+1.)
+

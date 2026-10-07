@@ -1,0 +1,58 @@
+{
+ "chunk": "c15",
+ "highlights": [
+  {"b":"b956","en":"Cycles govern volume, and price too.","level":2},
+  {"b":"b958","en":"Price makes volume; cycles make price.","level":1},
+  {"b":"b959","en":"losing capital is the worst idea.","level":1},
+  {"b":"b961","en":"It is Propagation by time: time forces new","level":1},
+  {"b":"b961","en":"Their first target is to recover what they lost.","level":1},
+  {"b":"b963","en":"In my opinion, it is the best indicator a","level":1},
+  {"b":"b965","en":"Measure where the Crosspoint line crosses the SS:","level":1},
+  {"b":"b966","en":"A bad response, less than 50% of the middle of the SS: the","level":1},
+  {"b":"b966","en":"A good response, more than 50% of the middle of the SS: the","level":1},
+  {"b":"b981","en":"I call it a corrupted cycle.","level":1},
+  {"b":"b981","en":"there is no complete cycle, no 1-2-3.","level":1},
+  {"b":"b986","en":"A Spread Triple connects three (or more) Return Points, the EPs of","level":1},
+  {"b":"b989","en":"an EP-SS, it recharges its energy and tries to jump higher than before,","level":1},
+  {"b":"b991","en":"When the market cannot jump higher than the old Propagation, the","level":2},
+  {"b":"b993","en":"We use time to answer","level":1},
+  {"b":"b994","en":"no trend can go on forever.","level":1},
+  {"b":"b1004","en":"Mr. Market's house has three rooms: FPS, SS and SPS.","level":1}
+ ],
+ "mindmap": [
+  {"b":"b955","en":"Cycles govern volume and price","ar":"الدورات تحكم الحجم والسعر","note_en":"Like the Earth's cycle governs weather and traffic, cycles make price and price makes volume.","note_ar":"كما تحكم دورة الأرض الطقس وحركة المرور، تصنع الدورات السعر ويصنع السعر الحجم.","imp":3,
+   "children":[
+    {"b":"b957","en":"Weather analogy","ar":"تشبيه الطقس","note_en":"Rain, snow, fog and heat stop road traffic, just as cycles shape volume.","note_ar":"المطر والثلج والضباب والحر توقف حركة المرور، كما تشكّل الدورات الحجم.","imp":1,"children":[]},
+    {"b":"b958","en":"Volume at 50%","ar":"الحجم عند 50%","note_en":"Heavy volume appears at the Intersection; price makes volume, cycles make price.","note_ar":"يظهر الحجم الكبير عند الـ Intersection؛ السعر يصنع الحجم والدورات تصنع السعر.","imp":2,"children":[]},
+    {"b":"b959","en":"Failed setup = bad weather","ar":"فشل Setup = طقس سيئ","note_en":"Be thankful for the stop; losing capital is the worst idea.","note_ar":"اشكر الـ stop؛ فخسارة رأس المال أسوأ فكرة.","imp":2,"children":[]}
+   ]},
+  {"b":"b960","en":"Angle Propagation and the spring","ar":"Angle Propagation والزنبرك","note_en":"Propagation by time: new buyers recover old profits, and the market stretches like a spring.","note_ar":"Propagation بالزمن: يسترد المشترون أرباحهم القديمة ويتمدد السوق كزنبرك.","imp":2,
+   "children":[
+    {"b":"b961","en":"Recover what was lost","ar":"استرداد ما خُسر","note_en":"Old buyers' first target is to recover their losses.","note_ar":"الهدف الأول للمشترين القدامى استرداد خسائرهم.","imp":2,"children":[]},
+    {"b":"b962","en":"Elastic energy","ar":"الطاقة المرنة","note_en":"After the EP-SS price moves fast from the Dagger; momentum and angle increase.","note_ar":"بعد EP-SS يبتعد السعر بسرعة عن الـ Dagger ويزداد الزخم والميل.","imp":1,"children":[]},
+    {"b":"b963","en":"Crosspoint as indicator","ar":"Crosspoint كمؤشر","note_en":"It measures the stretch: total energy, maximum and next target; the best overall indicator.","note_ar":"يقيس التمدد: الطاقة الكلية وأقصاها والهدف التالي؛ أفضل مؤشر شامل.","imp":3,"children":[]}
+   ]},
+  {"b":"b964","en":"Reading the Crosspoint","ar":"قراءة الـ Crosspoint","note_en":"Where the line crosses the SS tells the strength of the impression force.","note_ar":"مكان قطع الخط للـ SS يدل على قوة الانطباع.","imp":3,
+   "children":[
+    {"b":"b966","en":"Four readings","ar":"أربع قراءات","note_en":"Below 50% weak, above 50% strong, near EP-SS extremely weak, near EP-FPS extremely strong.","note_ar":"أقل من 50% ضعيف، أكثر من 50% قوي، قرب EP-SS ضعيف للغاية، قرب EP-FPS قوي للغاية.","imp":3,"children":[]},
+    {"b":"b969","en":"Examples","ar":"أمثلة","note_en":"GBPUSD weak, USDJPY extremely strong, NZDUSD qualifying a setup.","note_ar":"GBPUSD ضعيف، USDJPY قوي للغاية، NZDUSD للحكم على Setup.","imp":1,"children":[]},
+    {"b":"b977","en":"Corrupted cycle","ar":"الدورة الفاسدة","note_en":"When no down 1-2-3 completes, sellers are extremely weak; like a stopped circulation, big trouble for them.","note_ar":"عندما لا يكتمل 1-2-3 هابط يكون البائعون ضعفاء للغاية؛ كدورة دموية متوقفة.","imp":2,
+     "children":[
+      {"b":"b983","en":"Second-chance 6&6","ar":"6&6 بفرصة ثانية","note_en":"Usable when supply is extremely weak; only knowledge for confidence.","note_ar":"يُستخدم عندما يكون العرض ضعيفًا جدًا؛ معرفة لبناء الثقة فقط.","imp":1,"children":[]}
+     ]}
+   ]},
+  {"b":"b985","en":"Spread Triples","ar":"Spread Triples","note_en":"A chain through Return Points shows each jump recharging and losing energy until the trend ends.","note_ar":"سلسلة عبر Return Points تُظهر إعادة شحن كل قفزة وفقدان الطاقة حتى ينتهي الاتجاه.","imp":3,
+   "children":[
+    {"b":"b989","en":"Jumps and recharge","ar":"القفزات وإعادة الشحن","note_en":"At each EP-SS the market recharges like a child on a trampoline.","note_ar":"عند كل EP-SS يعيد السوق الشحن كطفل على ترامبولين.","imp":1,"children":[]},
+    {"b":"b990","en":"Capacitor","ar":"المكثِّف","note_en":"Charging through friction loses energy, so quality of the battery matters.","note_ar":"الشحن عبر الاحتكاك يفقد الطاقة، فجودة البطارية مهمة.","imp":1,"children":[]},
+    {"b":"b991","en":"Trend ends","ar":"نهاية الاتجاه","note_en":"If the market cannot jump higher than the old Propagation, the uptrend is over.","note_ar":"إن عجز السوق عن القفز أعلى من Propagation القديمة انتهى الاتجاه الصاعد.","imp":3,"children":[]},
+    {"b":"b992","en":"What time means","ar":"معنى الزمن","note_en":"Time answers questions about the present critical point; no trend lasts forever (2008).","note_ar":"الزمن يجيب عن أسئلة اللحظة الحالية؛ لا اتجاه يدوم للأبد (2008).","imp":2,"children":[]},
+    {"b":"b996","en":"Examples","ar":"أمثلة","note_en":"GBPUSD and EURUSD 15-minute: each jump reaches less, then the line breaks.","note_ar":"GBPUSD وEURUSD على 15-minute: كل قفزة أقصر ثم ينكسر الخط.","imp":1,"children":[]}
+   ]},
+  {"b":"b1002","en":"Mr. Market's house","ar":"بيت Mr. Market","note_en":"Three rooms, FPS, SS and SPS; circulation is how he flows through the 1-2-3.","note_ar":"ثلاث غرف: FPS وSS وSPS؛ والدوران هو تدفقه عبر الـ 1-2-3.","imp":2,
+   "children":[
+    {"b":"b1004","en":"Which room?","ar":"في أي غرفة؟","note_en":"Watch the chart to see his room; after FPS comes SS.","note_ar":"راقب الرسم لتعرف غرفته؛ بعد FPS تأتي SS.","imp":2,"children":[]},
+    {"b":"b1005","en":"Circulation","ar":"الدوران","note_en":"His state is read from the old jump and the Crosspoint.","note_ar":"تُعرف حالته من القفزة القديمة ومن الـ Crosspoint.","imp":2,"children":[]}
+   ]}
+ ]
+}

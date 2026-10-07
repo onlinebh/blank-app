@@ -1,0 +1,324 @@
+{
+ "chunk": "c11",
+ "highlights": [
+  {
+   "b": "b728",
+   "en": "Then the Dagger becomes very important, as evidence of",
+   "level": 1
+  },
+  {
+   "b": "b734",
+   "en": "Buyers dominate in the Dagger.",
+   "level": 1
+  },
+  {
+   "b": "b736",
+   "en": "Propagation and Nesting are the same thing.",
+   "level": 1
+  },
+  {
+   "b": "b739",
+   "en": "Our job is to make everything fit together.",
+   "level": 1
+  },
+  {
+   "b": "b742",
+   "en": "Everything is 1-2-3. The 1-2 is the Setup, and we trade for the 3.",
+   "level": 2
+  },
+  {
+   "b": "b742",
+   "en": "What do I see now, and what do I want to",
+   "level": 1
+  },
+  {
+   "b": "b747",
+   "en": "The trader needs to connect with that cat by watching it",
+   "level": 1
+  },
+  {
+   "b": "b753",
+   "en": "Neither buyers nor sellers can breach them.",
+   "level": 1
+  },
+  {
+   "b": "b757",
+   "en": "The core of every movement is a 1-2-3, or part of one.",
+   "level": 1
+  },
+  {
+   "b": "b760",
+   "en": "We need an Overlay that confirms the strength of buying when it faces",
+   "level": 1
+  },
+  {
+   "b": "b764",
+   "en": "The Goodman Setup is always 1-2-3.",
+   "level": 1
+  },
+  {
+   "b": "b765",
+   "en": "Goodman is based on matrices, not on time.",
+   "level": 1
+  },
+  {
+   "b": "b766",
+   "en": "A smaller propagation sits within a larger propagation, and the trend",
+   "level": 1
+  },
+  {
+   "b": "b767",
+   "en": "By trading on the side of propagation",
+   "level": 1
+  },
+  {
+   "b": "b771",
+   "en": "We must wait for the Intersection to work and change the trend.",
+   "level": 1
+  },
+  {
+   "b": "b779",
+   "en": "To get an idea of how long one must wait until the Jumbo fills, average",
+   "level": 1
+  },
+  {
+   "b": "b784",
+   "en": "Trade with the propagation of the Outward charts, not against",
+   "level": 1
+  },
+  {
+   "b": "b787",
+   "en": "everything is a 1-2-3, and I see a 1-2 Setup, then the 3 must follow.",
+   "level": 1
+  },
+  {
+   "b": "b788",
+   "en": "the rule is never proven.",
+   "level": 1
+  },
+  {
+   "b": "b788",
+   "en": "Induction gives probability, not certainty.",
+   "level": 1
+  },
+  {
+   "b": "b789",
+   "en": "Abduction is how we read the story behind the chart, the way one",
+   "level": 1
+  },
+  {
+   "b": "b789",
+   "en": "It is only plausible, so it must be",
+   "level": 1
+  },
+  {
+   "b": "b792",
+   "en": "the deeper you dig, the fewer possibilities you derive.",
+   "level": 2
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b727",
+   "en": "Dagger and Propagation",
+   "ar": "الـ Dagger والـ Propagation",
+   "note_en": "The Dagger shows equilibrium and buyers' dominance inside a propagation with breakaway; the Intersection marks the likely reversal point.",
+   "note_ar": "الـ Dagger دليل على التوازن وسيطرة المشترين داخل propagation مع breakaway، والـ Intersection يحدد نقطة الانعكاس المحتملة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b728",
+     "en": "Dagger as evidence of equilibrium",
+     "ar": "الـ Dagger دليل التوازن",
+     "note_en": "On the 5-minute Setup chart a propagation with breakaway makes the Dagger key; it is a struggle.",
+     "note_ar": "على رسم 5-minute يصبح الـ Dagger مهمًا؛ إنه صراع.",
+     "imp": 2
+    },
+    {
+     "b": "b731",
+     "en": "Multiple cancels, 2-minute",
+     "ar": "cancels متعددة، 2-minute",
+     "note_en": "Sellers fail to protect their line while buyers protect theirs and raise the speed angle with volume.",
+     "note_ar": "البائعون يفشلون في حماية خطهم والمشترون يحمون خطهم ويزيدون زاوية السرعة مع الـ volume.",
+     "imp": 1
+    },
+    {
+     "b": "b734",
+     "en": "Buyers dominate; Intersection",
+     "ar": "سيطرة المشترين والـ Intersection",
+     "note_en": "The Intersection helps find the most likely reversal point of the trade.",
+     "note_ar": "الـ Intersection يساعد على إيجاد أرجح نقطة انعكاس للصفقة.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b735",
+   "en": "Propagation = Nest",
+   "ar": "الـ Propagation = الـ Nest",
+   "note_en": "They are the same thing, seen from outside or inside a Matrix; the multi-timeframe summary ends in Everything is 1-2-3.",
+   "note_ar": "شيء واحد يُرى من خارج الـ Matrix أو داخلها؛ والخلاصة أن كل شيء 1-2-3.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b736",
+     "en": "Outward vs inward view",
+     "ar": "النظر للخارج أو الداخل",
+     "note_en": "Whether it is called Propagation or Nesting depends on the viewpoint.",
+     "note_ar": "التسمية تتوقف على زاوية النظر.",
+     "imp": 2
+    },
+    {
+     "b": "b741",
+     "en": "Timeframe summary",
+     "ar": "ملخص الأطر الزمنية",
+     "note_en": "1-hour Matrix at EP with cancel; 4-hour and 5-minute Goldilocks needing an Overlay; 2-minute Dagger.",
+     "note_ar": "1-hour: Matrix عند EP مع cancel؛ 4-hour و5-minute حالة Goldilocks تحتاج Overlay؛ 2-minute: Dagger.",
+     "imp": 1
+    },
+    {
+     "b": "b742",
+     "en": "Everything is 1-2-3",
+     "ar": "كل شيء 1-2-3",
+     "note_en": "The 1-2 is the Setup and we trade for the 3. Ask: what do I see now and what next?",
+     "note_ar": "الـ 1-2 هو الـ Setup ونتداول من أجل الـ 3. ماذا أرى الآن وماذا بعده؟",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b745",
+   "en": "Abduction: GBPCHF story",
+   "ar": "قصة GBPCHF (Abduction)",
+   "note_en": "A coil between a test point and an excess point is read as obstacles; the chart is like a cat to be understood.",
+   "note_ar": "التفاف بين test point وexcess point يُقرأ كعقبات؛ والرسم كقطّة يجب فهمها.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b747",
+     "en": "The chart is like a cat",
+     "ar": "الرسم مثل قطّة",
+     "note_en": "Watch and care about the chart until you know what it most likely does.",
+     "note_ar": "راقبه واهتم به حتى تعرف ما يفعله غالبًا.",
+     "imp": 1
+    },
+    {
+     "b": "b752",
+     "en": "Coil between test and excess",
+     "ar": "الالتفاف بين test وexcess",
+     "note_en": "Neither buyers nor sellers can breach the obstacles; volume shows the struggle; a strong bear bar showed lack of buying momentum.",
+     "note_ar": "لا أحد يخترق العقبات؛ الـ volume يُظهر الصراع؛ وbar هابطة قوية كشفت نقص الزخم.",
+     "imp": 2
+    },
+    {
+     "b": "b757",
+     "en": "Core is a 1-2-3",
+     "ar": "الجوهر 1-2-3",
+     "note_en": "Price moves in the SPS of the past Matrix with buyers in propagation mode.",
+     "note_ar": "السعر يتحرك في SPS من Matrix سابقة والمشترون في وضع propagation.",
+     "imp": 3
+    },
+    {
+     "b": "b759",
+     "en": "Can buyers breach the obstacle?",
+     "ar": "هل يخترق المشترون العقبة؟",
+     "note_en": "We are in doubt; we need an Overlay confirming buying strength at the obstacle.",
+     "note_ar": "نحن في شك؛ ونحتاج Overlay يؤكد قوة الشراء عند العقبة.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b761",
+   "en": "Matrices and Outward/Inward",
+   "ar": "الـ matrices وOutward/Inward",
+   "note_en": "Buyers come from larger matrices; trade with propagation and use a ladder of charts.",
+   "note_ar": "المشترون يأتون من matrices أكبر؛ نتداول مع الـ propagation ونستخدم سلّم رسوم.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b765",
+     "en": "Based on matrices, not time",
+     "ar": "matrices لا زمن",
+     "note_en": "Larger matrices produce buying; at SS-TP intersection buying wins, and sellers return as SS at the TP.",
+     "note_ar": "الأكبر ينتج الشراء؛ عند تقاطع SS مع TP ينتصر الشراء.",
+     "imp": 3
+    },
+    {
+     "b": "b766",
+     "en": "Small inside large",
+     "ar": "الأصغر داخل الأكبر",
+     "note_en": "Trend is with the SPS; failure of down propagation means buying moves with ease.",
+     "note_ar": "الـ trend مع الـ SPS؛ وفشل الهابط يسهّل الشراء.",
+     "imp": 2
+    },
+    {
+     "b": "b767",
+     "en": "Probability 52/48 and risk",
+     "ar": "احتمال 52/48 والـ risk",
+     "note_en": "Trading with propagation puts probability on our side, but a lower Matrix may change it.",
+     "note_ar": "التداول مع الـ propagation يضع الاحتمال لصالحنا لكن Matrix أدنى قد تغيّره.",
+     "imp": 2
+    },
+    {
+     "b": "b769",
+     "en": "Ladder of charts",
+     "ar": "سلّم الرسوم",
+     "note_en": "Two Outward (daily, 4-hour), watch 1-hour, two Inward (15-minute, 5-minute); wait for the Intersection.",
+     "note_ar": "Outward: daily و4-hour؛ مراقبة: 1-hour؛ Inward: 15-minute و5-minute؛ وننتظر الـ Intersection.",
+     "imp": 2
+    },
+    {
+     "b": "b774",
+     "en": "Waiting for the Setup",
+     "ar": "انتظار الـ Setup",
+     "note_en": "Wait for the Matrix Jumbo then the 1-2-3; estimate the wait by averaging FPS bars; usually one to two days.",
+     "note_ar": "انتظر Matrix Jumbo ثم الـ 1-2-3؛ قدّر المدة بمتوسط bars الـ FPS؛ عادة يوم إلى يومين.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b785",
+   "en": "Deduction, Induction, Abduction",
+   "ar": "Deduction وInduction وAbduction",
+   "note_en": "Three ways a trader reasons from what he sees to what he does.",
+   "note_ar": "ثلاث طرق يستدل بها المتداول مما يراه إلى ما يفعله.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b787",
+     "en": "Deduction",
+     "ar": "Deduction",
+     "note_en": "Rule to result: a 1-2 Setup means the 3 follows; certain only as the rule.",
+     "note_ar": "من القاعدة إلى النتيجة: 1-2 يعني أن الـ 3 سيأتي؛ ويقينه بقدر القاعدة.",
+     "imp": 2
+    },
+    {
+     "b": "b788",
+     "en": "Induction",
+     "ar": "Induction",
+     "note_en": "Many cases to a rule (AUDCAD causes #1-#3); gives probability, never proof.",
+     "note_ar": "من حالات كثيرة إلى قاعدة؛ يعطي احتمالًا لا برهانًا.",
+     "imp": 2
+    },
+    {
+     "b": "b789",
+     "en": "Abduction",
+     "ar": "Abduction",
+     "note_en": "Surprising result to best explanation; plausible only, so test with an Overlay.",
+     "note_ar": "من نتيجة مفاجئة إلى أفضل تفسير؛ معقول فقط فيُختبر بـ Overlay.",
+     "imp": 2
+    },
+    {
+     "b": "b792",
+     "en": "Use all three",
+     "ar": "استخدام الثلاثة",
+     "note_en": "Abduction proposes, Deduction predicts, Induction measures frequency; each removes possibilities and what remains is the trade.",
+     "note_ar": "Abduction يقترح، Deduction يتنبأ، Induction يقيس التكرار؛ وما يبقى هو الصفقة.",
+     "imp": 3
+    }
+   ]
+  }
+ ]
+}

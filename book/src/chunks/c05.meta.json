@@ -1,0 +1,309 @@
+{
+ "chunk": "c05",
+ "highlights": [
+  {
+   "b": "b297",
+   "en": "the players change their expectation\nby being willing to offer or to pay.",
+   "level": 1
+  },
+  {
+   "b": "b300",
+   "en": "There is no place for conjectures in matters in which one may\nreach complete certainty.",
+   "level": 1
+  },
+  {
+   "b": "b300",
+   "en": "In matters that are uncertain and open to doubt, we should suspend\nour actions until we learn more.",
+   "level": 1
+  },
+  {
+   "b": "b302",
+   "en": "It\nsets the necessary conditions for deciding whether buying or selling is\nadvisable.",
+   "level": 1
+  },
+  {
+   "b": "b312",
+   "en": "When we deal with\nchance, a loss or a win is just a chance.",
+   "level": 1
+  },
+  {
+   "b": "b312",
+   "en": "Do not hurry to increase the lot\nsize after a loss in the hope of profit.",
+   "level": 2
+  },
+  {
+   "b": "b314",
+   "en": "lower your expectation\nby decreasing the lot size, and review your feedback.",
+   "level": 1
+  },
+  {
+   "b": "b314",
+   "en": "raise your expectation\nby increasing the lot, slowly.",
+   "level": 1
+  },
+  {
+   "b": "b318",
+   "en": "The best way to apply Goodman's theory is through experiment and\ninvestigation, and then to profit with confidence.",
+   "level": 1
+  },
+  {
+   "b": "b324",
+   "en": "A deep understanding of \"know yourself\" is\nthe key to consistent success, and it is inside you.",
+   "level": 1
+  },
+  {
+   "b": "b327",
+   "en": "until they become\nvery strong evidence that points to a way of winning.",
+   "level": 1
+  },
+  {
+   "b": "b328",
+   "en": "Connect the dots!",
+   "level": 1
+  },
+  {
+   "b": "b335",
+   "en": "The\nbest strategy is to sell a new high and buy a new low!",
+   "level": 2
+  },
+  {
+   "b": "b336",
+   "en": "A complex in the MO tells us about the strength of\nthe trend, especially if there is a count.",
+   "level": 1
+  },
+  {
+   "b": "b340",
+   "en": "The 1-2-3 tells us about the energy of selling.",
+   "level": 1
+  },
+  {
+   "b": "b343",
+   "en": "This is the ultimate test of the selling energy.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b296",
+   "en": "Balance",
+   "ar": "التوازن (Balance)",
+   "note_en": "Look at sellers and buyers together to find the remainder factor, and watch how players change expectation.",
+   "note_ar": "انظر إلى البائعين والمشترين معًا لتجد عامل الباقي، وراقب كيف يغيّر اللاعبون توقّعهم.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b298",
+     "en": "Three Balance cases",
+     "ar": "ثلاث حالات للـ Balance",
+     "note_en": "Important expectation in the FPS; regular Jumbo with FMX change; regular Jumbo with exhaustion.",
+     "note_ar": "توقّع مهم في الـ FPS؛ Jumbo عادي مع تغيّر الـ FMX؛ Jumbo عادي مع إنهاك.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b298",
+       "en": "Important expectation in FPS",
+       "ar": "توقّع مهم في الـ FPS",
+       "note_en": "Volume rises in the FPS while the SS shows weak counter-activity; sellers will likely offer lower.",
+       "note_ar": "يرتفع الـ volume في الـ FPS ويضعف النشاط المضاد في الـ SS؛ يُرجَّح أن يعرض البائعون أدنى.",
+       "imp": 2
+      },
+      {
+       "b": "b298",
+       "en": "Regular Jumbo, FMX change",
+       "ar": "Jumbo عادي مع تغيّر FMX",
+       "note_en": "FMX changes versus the Jumbo; BMX shows low counter expectation or high expectation at reversal.",
+       "note_ar": "يتغيّر الـ FMX مقارنةً بالـ Jumbo، ويُظهر الـ BMX توقّعًا منخفضًا مضادًا أو مرتفعًا عند الانعكاس.",
+       "imp": 1
+      },
+      {
+       "b": "b298",
+       "en": "Regular Jumbo, exhaustion",
+       "ar": "Jumbo عادي مع إنهاك",
+       "note_en": "FMX drops to very low expectation and BMX even lower: exhaustion at the high or low.",
+       "note_ar": "ينخفض الـ FMX إلى توقّع منخفض جدًا ويكون الـ BMX أدنى: إنهاك عند القمة أو القاع.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b299",
+     "en": "Bernoulli's Axioms",
+     "ar": "بديهيات برنولي",
+     "note_en": "No conjecture where certainty is possible; gather all arguments; when uncertain, suspend action or choose the safer, more probable option.",
+     "note_ar": "لا تخمين حيث يمكن اليقين؛ اجمع كل الحجج؛ وعند عدم التأكد علّق الفعل أو اختر الأكثر أمانًا واحتمالًا.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b301",
+   "en": "Anticipation",
+   "ar": "الترقّب (Anticipation)",
+   "note_en": "The process after interpretation that sets the conditions for deciding to buy or sell.",
+   "note_ar": "العملية التي تلي التفسير وتضع شروط قرار الشراء أو البيع.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b303",
+     "en": "Buying checklist",
+     "ar": "قائمة الشراء",
+     "note_en": "Seven checks that buyers are willing to pay higher.",
+     "note_ar": "سبعة فحوص تدل على أن المشترين مستعدون للدفع أعلى.",
+     "imp": 3,
+     "children": [
+      {
+       "b": "b304",
+       "en": "Joint with larger Matrix",
+       "ar": "مشترك مع Matrix الأكبر",
+       "note_en": "Current Matrix relates jointly to larger and smaller Matrix; Propagation goes with the larger one.",
+       "note_ar": "الـ Matrix الحالي مرتبط بالأكبر والأصغر، والـ Propagation في اتجاه الأكبر.",
+       "imp": 2
+      },
+      {
+       "b": "b304",
+       "en": "Important buying, 3-C cancelled",
+       "ar": "شراء مهم وإلغاء الـ 3-C",
+       "note_en": "Important buying is confirmed and the 3-C is cancelled.",
+       "note_ar": "تأكّد الشراء المهم وإلغاء الـ 3-C.",
+       "imp": 2
+      },
+      {
+       "b": "b304",
+       "en": "Overlay and joint volume",
+       "ar": "Overlay وvolume مشترك",
+       "note_en": "Overlay in the larger Matrix and joint expectation (volume) in both Matrices.",
+       "note_ar": "وجود Overlay في الـ Matrix الأكبر وتوقّع (volume) مشترك في الـ Matrix معًا.",
+       "imp": 2
+      },
+      {
+       "b": "b304",
+       "en": "Profit exceeds risk",
+       "ar": "الربح يفوق المخاطرة",
+       "note_en": "The 3-C Setup target must be bigger than the risk.",
+       "note_ar": "يجب أن يتجاوز هدف الـ 3-C Setup المخاطرة.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b307",
+     "en": "Selling checklist",
+     "ar": "قائمة البيع",
+     "note_en": "The mirror of the buying list: important selling, same Matrix, Propagation and Overlay conditions.",
+     "note_ar": "مرآة قائمة الشراء: بيع مهم مع الشروط نفسها.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b311",
+   "en": "Managing the Trade",
+   "ar": "إدارة الصفقة",
+   "note_en": "Handling losses with a steady habit, and adjusting lot size to results.",
+   "note_ar": "التعامل مع الخسارة بعادة ثابتة وضبط حجم الـ lot حسب النتائج.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b312",
+     "en": "Losses are chance",
+     "ar": "الخسارة صدفة",
+     "note_en": "A loss or a win is just a chance; never raise the lot after a loss to recover, it can destroy the account.",
+     "note_ar": "الخسارة أو الربح مجرد فرصة؛ لا ترفع الـ lot بعد خسارة فقد يدمّر الحساب.",
+     "imp": 3
+    },
+    {
+     "b": "b313",
+     "en": "Winning attitude",
+     "ar": "العقلية الرابحة",
+     "note_en": "After losses lower the lot and review feedback; after wins raise it slowly.",
+     "note_ar": "بعد الخسائر اخفض الـ lot وراجع الـ feedback؛ وبعد الأرباح ارفعه ببطء.",
+     "imp": 3
+    },
+    {
+     "b": "b315",
+     "en": "Professionals on the chart",
+     "ar": "المحترفون على الرسم",
+     "note_en": "Buyers ride the FPS with high expectation, lower it in the SS, then re-enter at the EP of the SS.",
+     "note_ar": "يركب المشترون الـ FPS بتوقّع مرتفع، ويخفضونه في الـ SS، ثم يعيدون الدخول عند الـ EP.",
+     "imp": 2
+    },
+    {
+     "b": "b318",
+     "en": "Experiment and investigate",
+     "ar": "التجربة والتحقيق",
+     "note_en": "Apply Goodman's theory by experiment, then profit with confidence; quote on Chance and Probability.",
+     "note_ar": "طبّق نظرية Goodman بالتجربة ثم اربح بثقة؛ مع اقتباس عن الصدفة والاحتمال.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b320",
+   "en": "The Visionary Trader",
+   "ar": "المتداول صاحب الرؤية",
+   "note_en": "A 2024 paper on a habit of mind with two steps, shown on a gold trade from daily Matrix Overlay to 5-minute entry.",
+   "note_ar": "ورقة 2024 عن عادة ذهنية من خطوتين، تُطبَّق على صفقة ذهب من Matrix Overlay اليومي إلى دخول 5-minute.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b322",
+     "en": "Know yourself first",
+     "ar": "اعرف نفسك أولًا",
+     "note_en": "Recognize your emotional patterns; you need not be perfect, just improve from results via feedback.",
+     "note_ar": "تعرّف على أنماطك العاطفية؛ لا يلزم الكمال، بل التحسّن من النتائج عبر الـ feedback.",
+     "imp": 2
+    },
+    {
+     "b": "b325",
+     "en": "Visionary habit: two steps",
+     "ar": "عادة الرؤية: خطوتان",
+     "note_en": "Collect facts until they form strong evidence, then look for new facts that support it. Connect the dots.",
+     "note_ar": "اجمع الحقائق حتى تصير دليلًا قويًا، ثم ابحث عن حقائق جديدة تدعمه. صِل النقاط.",
+     "imp": 3
+    },
+    {
+     "b": "b331",
+     "en": "The concept on a chart",
+     "ar": "المفهوم على الرسم",
+     "note_en": "Looking for a 1-hour Setup with the daily chart as Outward chart for Propagation.",
+     "note_ar": "البحث عن Setup على 1-hour مع الرسم اليومي كـ Outward لتحليل الـ Propagation.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b335",
+       "en": "Matrix Overlay logic",
+       "ar": "منطق الـ Matrix Overlay",
+       "note_en": "Sellers' profit erased at EP of Matrix 2, and a new high attracts selling. Sell a new high, buy a new low.",
+       "note_ar": "يُمحى ربح البائعين عند EP الـ Matrix 2 والقمة الجديدة تجذب البيع. بِع القمة الجديدة واشترِ القاع الجديد.",
+       "imp": 3
+      },
+      {
+       "b": "b336",
+       "en": "Complex-Complex",
+       "ar": "Complex-Complex",
+       "note_en": "The Overlay works best when both components are complexes; a complex with a count shows trend strength.",
+       "note_ar": "يعمل الـ Overlay أفضل حين يكون المكوّنان complexes؛ والـ complex مع count يدل على قوة الـ trend.",
+       "imp": 2
+      },
+      {
+       "b": "b340",
+       "en": "Matrix 1: energy of selling",
+       "ar": "Matrix 1: طاقة البيع",
+       "note_en": "The 1-2-3 measures selling energy; wave 3 EP makes a new low below 1. High supply and low demand: a tug of war.",
+       "note_ar": "يقيس الـ 1-2-3 طاقة البيع؛ والـ EP للموجة 3 قاع جديد تحت 1. عرض مرتفع وطلب منخفض: شدّ حبل.",
+       "imp": 2
+      },
+      {
+       "b": "b342",
+       "en": "Matrix 2: ultimate test",
+       "ar": "Matrix 2: الاختبار الأخير",
+       "note_en": "Buyers make a 1-2-3 to a new high: either sellers renew and drop price or buying drives it higher. Most likely buyers are losing energy, so spot a Setup.",
+       "note_ar": "يصنع المشترون 1-2-3 بقمة جديدة: إمّا يجدد البائعون طاقتهم أو يرتفع السعر. الأرجح أن المشترين يفقدون طاقتهم فيُرصد Setup.",
+       "imp": 3
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

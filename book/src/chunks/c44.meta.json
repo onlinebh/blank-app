@@ -1,0 +1,55 @@
+{
+ "chunk": "c44",
+ "highlights": [
+  {"b":"b2813","en":"If you can't find water in a lake, how do you","level":1},
+  {"b":"b2817","en":"method that does not work. First find an edge, then narrow.","level":1},
+  {"b":"b2823","en":"When we enter someone else's","level":2},
+  {"b":"b2824","en":"learns to do routine things in a certain way and forgets there are other","level":1},
+  {"b":"b2826","en":"be a student first.","level":1},
+  {"b":"b2831","en":"Money is the last thing you want in the next world!","level":1},
+  {"b":"b2833","en":"how you hold it matters more than how much you hold.","level":1},
+  {"b":"b2843","en":"A teacher counts heads; a student","level":1},
+  {"b":"b2848","en":"If you give free people will think worthless, not respect it.","level":1},
+  {"b":"b2851","en":"A price is not only money; it is a filter for","level":1},
+  {"b":"b2854","en":"Greed eventually make you very poor.","level":1},
+  {"b":"b2856","en":"If I am greed the system will","level":1},
+  {"b":"b2861","en":"take only what the setup","level":1}
+ ],
+ "mindmap": [
+  {"b":"b2809","en":"The lake and the bathtub","ar":"البحيرة والحوض","note_en":"A Goodmanism: narrowing from many markets to two will not find water if the lake has none.","note_ar":"حكمة من Goodmanisms: التضييق من أسواق كثيرة إلى سوقين لا يجد ماءً إن خلت البحيرة منه.","imp":2,
+   "children":[
+    {"b":"b2813","en":"Charlie's reply","ar":"رد Charlie","note_en":"If you cannot find water in a lake, you will not find it in a bathtub.","note_ar":"من لا يجد الماء في بحيرة لن يجده في حوض.","imp":3,"children":[]},
+    {"b":"b2817","en":"Lesson: edge first","ar":"الدرس: edge أولًا","note_en":"Narrowing focus does not fix a broken method; find an edge, then narrow. Write your edge in one sentence.","note_ar":"التضييق لا يصلح منهجًا معطوبًا؛ اعثر على edge ثم ضيّق، واكتبه في جملة.","imp":2,"children":[]}
+   ]},
+  {"b":"b2819","en":"Entering someone else's house","ar":"حين ندخل بيت غيرنا","note_en":"Olives in spaghetti: we all think our routine way is the only way.","note_ar":"الزيتون في السباغيتي: نظن أن طريقتنا المعتادة هي الوحيدة.","imp":2,
+   "children":[
+    {"b":"b2823","en":"We are all children","ar":"نكون كلنا أطفالًا","note_en":"When we enter someone else's house, we are all children.","note_ar":"حين ندخل بيت غيرنا نكون كلنا أطفالًا.","imp":3,"children":[]},
+    {"b":"b2824","en":"Deeper reading","ar":"الفهم الأعمق","note_en":"Beyond deference: we forget other ways exist and reject the unfamiliar out of hand.","note_ar":"أبعد من الاحترام: ننسى أن للمهمة طرقًا أخرى فنرفض غير المألوف فورًا.","imp":2,"children":[]},
+    {"b":"b2827","en":"Try: ask for one trade","ar":"جرّب: اطلب صفقة","note_en":"Ask a trader with a different approach to show one trade start to finish before judging.","note_ar":"اطلب ممن يخالفك أن يريك صفقة كاملة قبل الحكم.","imp":1,"children":[]}
+   ]},
+  {"b":"b2828","en":"Do you wrap up your poop?","ar":"هل تلفّ فضلاتك؟","note_en":"At the Petroleum Club oil men argued over a deal; Charlie mocked taking money to the next world.","note_ar":"تجادل رجال النفط على صفقة فسخر Charlie من أخذ المال إلى الآخرة.","imp":1,
+   "children":[
+    {"b":"b2833","en":"How you hold money","ar":"كيف تمسك المال","note_en":"If you cannot take it with you, how you hold it matters more than how much.","note_ar":"إن لم تستطع أخذه فكيفية إمساكه أهم من مقداره.","imp":2,"children":[]},
+    {"b":"b2834","en":"Try: what is money for","ar":"جرّب: لماذا المال","note_en":"Write what your account money is for on the journal's first page.","note_ar":"اكتب سبب مال حسابك في أول صفحة من دفترك.","imp":1,"children":[]}
+   ]},
+  {"b":"b2835","en":"Our Conversations on Value","ar":"حواراتنا عن القيمة","note_en":"Letters between Michael and Mohamed on what knowledge is worth, who pays, and what a teacher owes.","note_ar":"رسائل بين Michael و Mohamed عن قيمة المعرفة ومن يدفع وماذا يدين المعلم.","imp":2,
+   "children":[
+    {"b":"b2837","en":"Pearls -> Pork Chops","ar":"Pearls -> Pork Chops","note_en":"Free seminar and free Substack met blank looks; yet one reader absorbed the Golden Ratios deeply.","note_ar":"قوبلت الندوة والمقالات المجانية بنظرات فارغة، لكن قارئًا استوعب Golden Ratios بعمق.","imp":2,
+     "children":[
+      {"b":"b2839","en":"No free lunch","ar":"لا غداء مجانيا","note_en":"Charlie: they came for a free lunch and you told them there is none.","note_ar":"جاؤوا لغداء مجاني وقيل لهم إنه لا يوجد.","imp":2,"children":[]},
+      {"b":"b2843","en":"Heads vs what stays","ar":"الرؤوس وما يبقى","note_en":"A teacher counts heads; a student counts what stayed in his head.","note_ar":"المعلّم يعدّ الرؤوس والطالب يعدّ ما بقي في رأسه.","imp":2,"children":[]}
+     ]},
+    {"b":"b2844","en":"Free Versus Paid","ar":"مجاني أم مدفوع","note_en":"Free is seen as junk; a price filters for seriousness and commitment.","note_ar":"المجاني يُظن خردة؛ والسعر مرشّح للجدّية والالتزام.","imp":3,
+     "children":[
+      {"b":"b2848","en":"Charge to be respected","ar":"السعر يجلب الاحترام","note_en":"The more you charge the more they appreciate it.","note_ar":"كلما زاد السعر زاد التقدير.","imp":2,"children":[]},
+      {"b":"b2851","en":"Door free, rooms earned","ar":"الباب مجاني والغرف بالالتزام","note_en":"Give the door freely but ask commitment before the inner rooms.","note_ar":"افتح الباب مجانًا واطلب الالتزام قبل الغرف الداخلية.","imp":2,"children":[]}
+     ]},
+    {"b":"b2852","en":"Greed and the Method","ar":"الطمع والمنهج","note_en":"Greed makes you poor and breaks the system; free-lunch thinking replaced judgement in the 1970s.","note_ar":"الطمع يفقّر ويفسد النظام؛ وفكر الغداء المجاني حلّ محل الحكم في السبعينيات.","imp":3,
+     "children":[
+      {"b":"b2856","en":"Greed breaks system","ar":"الطمع يكسر النظام","note_en":"If I am greedy the system will not work, and I lose.","note_ar":"إن كنت طمّاعًا لم ينجح النظام وخسرت.","imp":2,"children":[]},
+      {"b":"b2860","en":"Trading as process","ar":"التداول عملية","note_en":"Understand setup risk, find high-percentage setups, manage the trade, do bathtub analysis per 30 trades.","note_ar":"افهم مخاطرة الـ setup، وابحث عن setups عالية النسبة، وأدر الصفقة، وحلّل كل 30 صفقة.","imp":2,"children":[]},
+      {"b":"b2861","en":"Take only what setup gives","ar":"خذ ما يمنحه الـ setup","note_en":"Greed and free lunch are one hunger; the method asks for patience and doing the work.","note_ar":"الطمع والغداء المجاني جوع واحد؛ والمنهج يطلب الصبر والعمل.","imp":3,"children":[]}
+     ]}
+   ]}
+ ]
+}

@@ -1,0 +1,218 @@
+##CTX Part: Interlude: The Archer Stories | Section: Interlude: The Archer Stories
+
+@@b3568 h3
+The Random Walk at
+Midnight (2023-10-24)
+
+@@b3569 p
+Around 1990 Michael bought soybeans. "LOTS of soybeans. Somewhere I
+still have news tape say, 'large money manager buys 500 cars of
+beans'... 'money manager continues to buy beans, 300 cars.'" He went to
+bed. "Middle of the night I wake up in hot sweat think, 'What if market
+really is only a random walk!!!' Ahaha."
+
+@@b3570 p
+<em>The lesson:</em> even a trader with a method, a record and
+seventeen years of experience feels doubt when the position is large.
+The cure is not to remove the doubt but to size the trade so that you
+can sleep with it.
+
+@@b3571 h3
+Kant and the Late Paper
+(2024-11-17)
+
+@@b3572 p
+In college Michael once handed in a philosophy paper late. The rule
+was strict: a late paper loses one grade. He went to the professor and
+pleaded his case.
+
+@@b3573 blockquote
+<p>"He said, 'You know Kant's categorical imperative! No exceptions. If
+you can find an exception to CI by Wednesday morning when I start
+grading papers I will give you regular grade.' I rack my brain two days,
+cannot find exceptions but several interesting ideas... I go in
+Wednesday, admit cannot find exceptions but some interesting ideas! 'Go
+ahead, I'm listening!' So I talk several minutes my ideas... He says,
+'You really dug deep on CI! I'll go ahead and give you regular
+grade.'"</p>
+
+@@b3574 p
+<em>The lesson:</em> he did not win by finding the answer. He won by
+the honesty of saying he had not found it, and by the depth of the
+search. Teachers, and markets, reward serious work more than clever
+excuses.
+
+@@b3575 h3
+The Chess Exhibition
+(2025-06-20)
+
+@@b3576 p
+Around 1980, Michael, a former university chess champion, visited a
+coffee shop owned by an old college friend, with chessboards on every
+table. The friend asked him to give a small simultaneous exhibition, one
+player against several boards. Michael agreed to six or seven.
+
+@@b3577 p
+One opponent was said to be very strong. He played the Ruy Lopez
+straight out of the book for ten or twelve moves. Then, suddenly, he
+took his knight and put it back on its original square. Then the other
+knight. Then a bishop, then the queen, then the other bishop, "soon,
+only pawns out, no pieces." Michael advanced easily and gave checkmate a
+few moves later. The man jumped up, and Michael thought he was about to
+be hit. Instead he said: "You are only player who has been able to beat
+my strategy!" and walked away.
+
+@@b3578 p
+<em>The lesson:</em> a memorized opening is not a method. The man
+knew twelve moves of theory and nothing about why they were played, so
+he invented a "strategy" that undid them. Many traders do the same with
+a pattern copied from a book. Without understanding, they eventually
+pull every piece back home.
+
+@@b3579 h3
+Write It or Lose It
+(2023-05-15)
+
+@@b3580 p
+In college Michael carried small pocket-size spiral notebooks.
+"Whenever have thought, stop and write it in the book. I soon number
+subjects - think eventually 17 - like 17.1, 17.2 and put date start on
+cover of each book." By graduation he had well over a hundred of them,
+and the summer before he began trading he typed them all out and carried
+the pages through every move for years.
+
+@@b3581 p
+Then, back from Hawaii, the family's young puppy found the box while
+no one was home. "Chew half of the pages, pee on other half, haha, dog
+say 'this is what I think of your philosophy!' I salvaged about 15 pages
+is all."
+
+@@b3582 p
+<em>The lesson:</em> write your ideas down the moment they come,
+number them, date them, and keep a copy somewhere safer than a cardboard
+box. A trading journal is the same discipline. "Write it or lose
+it."
+
+@@b3583 h3
+Jim
+Bickford and Jonathan's Wave (2026-10-02, 2025-07-15)
+
+@@b3584 p
+"I met Jim in 1966 at Denver chess club. NO ONE, I mean NO ONE more
+loyal friend than Jim!"
+
+@@b3585 p
+In the summer of 1984 Michael came back from Hawaii with the design
+for a trading program he called Jonathan's Wave: "multiple indicators
+talk to each other in language of ME... I thought brilliant at the
+time." He asked Jim if he could program it. Jim was never one for
+compliments, "just all facts, focus." He looked and said, "This looks
+like it could actually work," which from Jim was a big compliment. "But
+I can't do it in BASIC."
+
+@@b3586 p
+Michael bought a full Smalltalk package for the research. Jim learned
+Smalltalk in less than a week, then said, "I don't think this will work
+either." So Michael bought an early Prolog. "Jim learn it in less than a
+week... write entire program bug free == two weeks!... Program run
+almost six years, returns are well documented!"
+
+@@b3587 p
+There were other Jim stories. Once the two of them lost the
+initialization string for an old modem; Jim started looking at 6 pm and
+found it around 4 am. Around 2002 a broker experimented with "box
+options": draw a box, and if price hits it, you win. "Jim play around,
+discover big hole in algorithm... We go in hit, hit, hit ahahaha... then
+they jiggle algorithm... Jim figure out again, hit, hit, hit... Third
+time, same thing! LOL! Next time we go in, no more Box Options!!!"
+
+@@b3588 p
+Michael used to drive the side road from Denver to Boulder every
+Sunday morning to meet Jim. "Brings back good memories of when Jim
+Bickford and I explored a lot of ideas."
+
+@@b3589 p
+<em>The lesson:</em> a good idea needs a good partner. Michael had
+the design; Jim had the patience to learn whatever language the idea
+required. And loyalty, more than talent, is what Michael remembered
+first.
+
+@@b3590 h3
+The English Horn (2025-06-12)
+
+@@b3591 p
+Around 2003 Michael answered a newspaper ad for an English horn, an
+instrument he wanted to learn at home. The seller was a widow in a small
+house in an old part of Denver, selling belongings to pay the bills; the
+horn had belonged to her husband's brother, a professional musician. He
+paid $500. At a music shop the man looked it over: a top-of-the-line
+Loree, almost new. "I don't buy these but I think you could get $7k-$8k
+easily."
+
+@@b3592 p
+"I tell him I'll sell the horn as is, buy something inexpensive...
+and pocket several thousand dollars." Then, driving home: "IT HITS ME -
+The Oboe Story with Walter!!!" It was Charlie's oboe story, told earlier
+in this book, from twenty-five years before. Michael took the horn back
+to the woman and connected her with a buyer. She received $7,000,
+returned his $500 and was very happy. "Talk about deja vu!!!!"
+
+@@b3593 p
+<em>The lesson:</em> a lesson is only learned when you obey it
+against your own interest. Michael heard the oboe story in the 1970s; a
+quarter of a century later it cost him several thousand dollars, and he
+paid it gladly.
+
+@@b3594 h3
+The Borrowed Picture
+(2025-06-18)
+
+@@b3595 p
+Michael owned a web conferencing company from 1998 to 2010. Around
+2005 he hired an outside team to refresh its website. "They do nice work
+- home page has beautiful, relevant image!!! ... everyone compliment me
+on new look." Soon a courier brought a letter: the image was
+copyrighted, and a Canadian company demanded payment or it would sue. He
+hired an internet lawyer, took the image down and settled. Later he
+learned that removing it on notice would probably have been enough. "So,
+$7k + $3k for attorney down toilet."
+
+@@b3596 p
+<em>The lesson:</em> check where your material comes from before you
+publish it, and get good advice before you pay, not after. Both are
+cheap compared with skipping them.
+
+@@b3597 h3
+Bet on the Method
+(2025-07-22)
+
+@@b3598 p
+Around 2010 a good friend of Michael's, a keen Go player, argued that
+computers had beaten chess but would need decades to beat Go, because
+the game is so much larger. Michael had been in touch with a researcher
+in the UK combining heuristic algorithms with Monte Carlo sampling. "I
+told my friend 'less than ten years' Go lose to computers." In 2016
+AlphaGo beat the world champion Lee Sedol with exactly that kind of
+search plus sampling.
+
+@@b3599 p
+<em>The lesson:</em> do not judge the future by the size of the
+problem; judge it by the method being applied to it. Michael read the
+method, not the headlines.
+
+@@b3600 h3
+Watch for Blue Hondas
+(2023-09-27)
+
+@@b3601 p
+Michael taught his students that seeing needs a hypothesis. He
+borrowed Charlie's line about the traders in the Peavey gallery, "They
+look but do not see," and added an exercise of his own: "You drive to
+next city, call me. I ask, 'How many blue Hondas you see?' No idea. Tell
+them, 'Watch for blue Hondas, then can know!'"
+
+@@b3602 p
+<em>The lesson:</em> you find on a chart what you have decided to
+look for. Know the setup you want before you open the screen, or a
+hundred setups will drive past unseen.
+

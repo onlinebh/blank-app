@@ -1,0 +1,35 @@
+{"chunk":"c26","highlights":[
+{"b":"b1681","en":"I also want to confirm the 3S count: the outside count should","level":1},
+{"b":"b1686","en":"A strong combination may promise a","level":1},
+{"b":"b1691","en":"This behaviour must be avoided.","level":1},
+{"b":"b1692","en":"opportunity is in the details, deeper and more specific.","level":1},
+{"b":"b1699","en":"the market for a long time by making at least breakeven or enough","level":1},
+{"b":"b1709","en":"No Risk No Reward","level":1},
+{"b":"b1712","en":"Take a trade only when there is a real potential of Y &gt; 2X.","level":2},
+{"b":"b1714","en":"Overlay, or with a weak Overlay, causes greater risk.","level":1},
+{"b":"b1718","en":"this is very important for feedback and for building a library.","level":1},
+{"b":"b1720","en":"the market is a movie.","level":1},
+{"b":"b1722","en":"Every market is unique.","level":1},
+{"b":"b1724","en":"There is not enough\noverlay","level":1},
+{"b":"b1725","en":"A guess is not strong evidence that can give us confidence.","level":1},
+{"b":"b1727","en":"to an Overlay, we must look at how the Overlays are interconnected.","level":1},
+{"b":"b1743","en":"This example shows how a bad combination increases the risk.","level":1}
+],
+"mindmap":[
+{"b":"b1680","en":"Confirming with the outside Overlay","ar":"التأكيد بالـ Overlay الخارجي","note_en":"The outside count must approve the watch chart's 3S count.","note_ar":"يجب أن يوافق العدّ الخارجي على عدّ 3S في الـ watch chart.","imp":2,"children":[]},
+{"b":"b1685","en":"Overlay Combination: purpose","ar":"Overlay Combination: الغاية","note_en":"A strong combination promises a safe trade; a weak one raises the risk.","note_ar":"الـ combination القوي يعد بصفقة آمنة والضعيف يرفع الـ risk.","imp":2,"children":[
+ {"b":"b1687","en":"Too many choices","ar":"خيارات كثيرة","note_en":"Like phones or 30,000 stocks, too much choice is more rope to hang yourself; avoid emotional buying and go from general to specific.","note_ar":"كثرة الخيارات، كالهواتف أو 30,000 سهم، حبل إضافي؛ تجنّب الشراء العاطفي وانتقل من العام إلى الخاص.","imp":2,"children":[
+  {"b":"b1692","en":"General to specific","ar":"من العام إلى الخاص","note_en":"The real opportunity is in the deeper, more specific details.","note_ar":"الفرصة الحقيقية في التفاصيل الأعمق والأكثر تحديداً.","imp":2,"children":[]}]}]},
+{"b":"b1693","en":"The equation of every market","ar":"معادلة كل سوق","note_en":"Buy at X, sell at Y: Y<X loss, Y=X wasted time, Y>X win. The basic requirement is Y > 2X.","note_ar":"اشترِ بـ X وبع بـ Y: Y<X خسارة، Y=X مضيعة وقت، Y>X ربح. والشرط الأساسي Y > 2X.","imp":3,"children":[
+ {"b":"b1700","en":"Two words to avoid","ar":"كلمتان يجب تجنّبهما","note_en":"Always, and Guarantee: someone is always smarter, and nothing guarantees the market follows you.","note_ar":"Always وGuarantee: هناك دائماً من هو أذكى، ولا ضمان أن يتبعك السوق.","imp":2,"children":[]},
+ {"b":"b1705","en":"Who loses?","ar":"من الخاسر؟","note_en":"Those who buy and price falls, or sell and price rises. No Risk No Reward.","note_ar":"من يشتري فيهبط السعر أو يبيع فيرتفع. No Risk No Reward.","imp":2,"children":[]},
+ {"b":"b1710","en":"Always look at X, Y, 2X","ar":"انظر دائماً إلى X وY و2X","note_en":"Risk of the trade X, potential profit Y > X, at least Y > 2X; take a trade only with real potential of Y > 2X.","note_ar":"الـ risk X، والربح المحتمل Y > X، وعلى الأقل Y > 2X؛ لا تدخل إلا مع احتمال حقيقي لـ Y > 2X.","imp":3,"children":[]}]},
+{"b":"b1713","en":"Why the combination matters","ar":"لماذا يهم الـ combination","note_en":"Combination with a Setup directly affects risk and reward; weak Overlay means greater risk. Judgement grows with experience.","note_ar":"الـ combination مع الـ Setup يؤثر مباشرة في الـ risk والـ reward؛ والضعيف يعني risk أكبر. والحكم ينمو بالخبرة.","imp":3,"children":[
+ {"b":"b1716","en":"Logic of a combination","ar":"منطق الـ combination","note_en":"Strongly bullish: happy passion, greed, Y > 2X for buyers. Strongly bearish: fear, Y > 2X for sellers. Degrees in between; record them to build a library.","note_ar":"Strongly bullish: شغف سعيد وطمع وY > 2X للمشترين. Strongly bearish: خوف وY > 2X للبائعين. وبينهما درجات؛ سجّلها لبناء library.","imp":2,"children":[]}]},
+{"b":"b1719","en":"The market is a movie","ar":"السوق فيلم","note_en":"Each Overlay is a scene; the combination is the full movie. Do justice to buyers and sellers instead of guessing; read Overlays through Propagation.","note_ar":"كل Overlay مشهد والـ combination هو الفيلم الكامل. أنصف المشترين والبائعين بدل التخمين، واقرأ الـ Overlays عبر Propagation.","imp":3,"children":[
+ {"b":"b1723","en":"Justice versus expectation","ar":"العدل مقابل التوقّع","note_en":"'There is not enough overlay' means we cannot yet judge; a guess is no evidence.","note_ar":"'There is not enough overlay' تعني أننا لا نستطيع الحكم بعد؛ والتخمين ليس دليلاً.","imp":2,"children":[]},
+ {"b":"b1726","en":"Proactive reading","ar":"القراءة الاستباقية","note_en":"Look at how Overlays connect from lower to higher time frames.","note_ar":"انظر كيف ترتبط الـ Overlays من الإطار الأدنى إلى الأعلى.","imp":2,"children":[]}]},
+{"b":"b1728","en":"A weak combination: daily vs 4-hour","ar":"Combination ضعيف: daily مقابل 4-hour","note_en":"A 4-hour 6&6 against a daily Matrix Overlay with no 3-C is not taken; sellers still control and the bounce failed to new lows.","note_ar":"6&6 على 4-hour مقابل Matrix Overlay على الـ daily دون 3-C لا يُؤخذ؛ فالبائعون ما زالوا مسيطرين وفشل الارتداد وكُسرت القيعان.","imp":3,"children":[
+ {"b":"b1732","en":"No 3-C on the daily","ar":"لا 3-C على الـ daily","note_en":"Without cancellation we cannot assume the end; there are still sellers.","note_ar":"دون cancellation لا نفترض النهاية؛ فما زال هناك بائعون.","imp":2,"children":[]},
+ {"b":"b1743","en":"Lesson: bigger investors dump","ar":"الدرس: الكبار يُغرقون السوق","note_en":"Daily-chart investors sold every 4-hour rally; a bad combination increases risk.","note_ar":"مستثمرو الـ daily باعوا كل صعود على 4-hour؛ والـ combination السيئ يزيد الـ risk.","imp":2,"children":[]}]}
+]}

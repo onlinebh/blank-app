@@ -1,0 +1,246 @@
+##CTX Part: Rung 5 · Acting: How Do I Manage the Trade? | Section: How I Manage a Trade -> Thirty Souls: The Arithmetic of Survival
+
+@@b2663 h3
+Under, Over and Line
+
+@@b2664 p
+Every trade I take ends in one of a few places. It goes to BE. It
+reaches the Under. It reaches the Line. Or it goes Over and I am out at
+a loss. Later I started to label every trade this way, and I will tell
+that story in the next chapter.
+
+@@b2665 p
+For management, the rule is plain. Protect at BE. Take part of the
+trade at the Under. Let the rest run to the Line. If I close everything
+early, my average win shrinks and my whole system weakens. If I never
+take anything, the market takes it back. The Under pays the bills; the
+Line pays for the years.
+
+@@b2667 p
+Figure: The path of one managed trade, from the Outward scan to the
+Line.
+
+@@b2668 h3
+The order of qualification
+
+@@b2669 p
+In July 2024 you sent me a sequence for deciding on a trade. I kept
+the steps, but I changed the order to match how my own mind works. I
+called it my "Top -Down approach":
+
+@@b2670 p
+"1)Do Outward analysis (Propagation Chart) if nothing interesting
+look for another chart." (July 3, 2024)
+
+@@b2671 p
+Then I identify a basic 6 &amp; 6 or Goldilocks setup. Then the
+Parameter analysis on a clean chart. Then Inward analysis. Then I decide
+if the setup is qualified enough for me. Then I consider the Risk-Reward
+Ledger. Only then do I watch for an entry.
+
+@@b2672 p
+The first step is the important one. If the propagation chart does
+not interest me, I do not force it. I move to the next chart. Most of my
+protection comes from the trades I never take.
+
+@@b2673 h3
+Money-management profiles
+
+@@b2674 p
+By December 2024 I had put the whole method into a short list for
+myself: setup, parameters, entry, outside analysis, and money
+management. For money management I named five profiles: "Money
+management : Walts ,Samba ,Bert,tiny dancer ,Fixed ." And under it I
+wrote: "It's simple , more systematic . but Require Each of them
+separate profiles ! . each profiles Fits as a Risk Strategy model ."
+(December 25, 2024)
+
+@@b2675 p
+Each of these is a different way to split and manage a position: how
+much at the Under, how much for the Line, when to move to BE, how much
+to add. Fixed is the simplest: one size, no changes. The point is not
+which profile is best. The point is that I choose one before I enter,
+and I know which risk model I am running. I do not invent the management
+in the middle of the trade.
+
+@@b2676 h3
+A trade I was not proud of
+
+@@b2677 p
+I want to include one trade where I broke my own rules, because it
+taught me more than ten good ones.
+
+@@b2678 p
+In August 2024 I bought AUDCAD. I made money. But when I looked at
+the numbers, I was not happy: "117p Risk : 59p Reward , which is a bad
+raito . almost 1 RISK TO 0.5 Reward". The lesson I wrote that day was
+short: "Entry is important , Risk /Reward . such mistakes aren't
+suitable for PRO! ." (August 29, 2024)
+
+@@b2679 p
+A profit does not make a trade good. If I keep risking two to make
+one, the arithmetic will catch me sooner or later, even with a high win
+rate. This trade was a win on the statement and a loss in the
+process.
+
+@@b2680 h3
+Questions before I accept a
+risk
+
+@@b2681 p
+In February 2026 I tried to make my risk decisions more formal.
+Before I accept a trade, I ask a few questions. How could this setup
+fail? Which Overlays am I relying on, and which am I ignoring? What is
+the impact if I am wrong? Is there whitespace, and is the chart
+clean?
+
+@@b2682 p
+Then I wrote the rule for acceptance: "Logically the risk accept when
+1) the impact of risk its very low impact that it's fine to live with.
+2) the risk is very low compare to profit." (February 2, 2026)
+
+@@b2683 p
+The next day I added something I did not expect to write: "the
+smaller risk if avoided will generate larger risk! . don't think about
+profit , profits that's what we want , but if not protect the process
+will lead to big loss." (February 3, 2026)
+
+@@b2684 p
+A trader who refuses every small risk will one day take a large one
+out of frustration. Accepting small, known, livable risks is how the
+process stays alive.
+
+@@b2685 h3
+What ties it together
+
+@@b2686 p
+Looking at these five years, I see one movement. In 2021 I only knew
+that BE came first. In 2022 I learned to make the small trade pay for
+the big one. In 2024 I put the qualification in my own order, named my
+management profiles, and was honest about my mistakes. In 2026 I turned
+risk acceptance into questions.
+
+@@b2687 p
+None of this replaced Goodman. It is the frame around Goodman. The
+Measured Move tells me where the Line is. Management decides whether I
+am still in the trade when price gets there.
+
+@@b2688 h1
+Rung 6 · Measuring: How
+Much Do I Risk?
+
+@@b2689 p
+<em>The arithmetic that keeps a trader alive long enough to be
+right.</em>
+
+@@b2690 h2
+Thirty Souls: The
+Arithmetic of Survival
+
+@@b2691 p
+I have always believed that trading is a business, and that the
+hardest problem in any business is cash flow. I told you this in my
+early letters, Michael: I came to the market from account management,
+and managing money is the part I enjoy. Over five years my rules about
+size changed shape many times. The core never changed. I decide what I
+can lose first, and only then do I look at the chart.
+
+@@b2692 h3
+2021: the strict plan
+
+@@b2693 p
+In February 2021 I sent you my plan. It was short and strict:
+
+@@b2694 p
+"1) I never risk more than 1.5 for every trade . or i am gamble 😂 2)
+I never open trades more than 6% of all my balance . 3) I never increase
+my lot until I double my balance" (February 22, 2021)
+
+@@b2695 p
+There was more. After 10 trades, if the result was not right, I
+reduced my lot. I never entered without a risk/reward. And if a trade
+was good but too expensive for me, I let it go and waited for the next
+one. I wrote then that I did not care about single trades: what matters
+is who wins at the end of the game.
+
+@@b2696 p
+Reading it now, I see a young rule set. It was about limits. It did
+not yet ask where the limits come from.
+
+@@b2697 h3
+2022: the Green and Red signals
+
+@@b2698 p
+In October 2022 I tried to connect size to psychology. A trader can
+be conservative, aggressive, or urgent, and each needs a different
+allocation. Above, there is a greedy zone; below, a danger zone. I did
+not want to move between them by feeling, so I made a rule:
+
+@@b2699 p
+"Green, Red signal policy.each critical points 5% lose 10% profit."
+(October 22, 2022)
+
+@@b2700 p
+A green signal, after 10% profit, allows the size to grow: for
+example, 1% of 100,000 plus 1% of the last 10% profit. A red signal,
+after a 5% loss, does the opposite. It forbids the losses from
+expanding, and the size comes down.
+
+@@b2702 p
+Figure: The Green / Red signal policy. Size changes only at critical
+points.
+
+@@b2703 h3
+2023: divide the drawdown by
+thirty
+
+@@b2704 p
+By April 2023 the rule had turned around. I no longer started from a
+percentage per trade. I started from the drawdown I was willing to live
+with:
+
+@@b2705 p
+"I have always decided, on my max DD, then I divide it into 30
+trades. if my capital is 20,000 . and I want only to risk 5%DD . the max
+loss is 1000, I divide it into 30 trades opportunity . so the max risk
+for every trade is 33 USD." (April 13, 2023)
+
+@@b2706 p
+Then every 10 trades I review and study the Overlay combinations. One
+to five trades a week. That was the whole plan.
+
+@@b2707 p
+This was a real change. In 2021 the per-trade risk decided my
+drawdown. In 2023 the drawdown decided my per-trade risk.
+
+@@b2708 h3
+2023: the Golden Ratio and the
+labels
+
+@@b2709 p
+In August 2023 I began labelling every trade: BE, Under, Over, Line,
+and for the losses, mistake, bad entry, or lack of discipline. "Now each
+of the trades from 300 has a specific label. These labels for sure
+changes the game." (August 11, 2023) Once a trade has a name, a losing
+streak is no longer a fog. I can see whether it came from the market or
+from me.
+
+@@b2710 p
+In October 2023 I called the control of risk the chassis of a system,
+like the chassis of a race car, and I put the Golden Ratio inside it:
+the percentage of winners in each 10 trades, and the average win against
+the average loss. "Golden Raito is standing behind the Probability of
+Ruin." (October 6, 2023) By December I was calling it the "Blood heart"
+(December 12, 2023).
+
+@@b2711 p
+In May 2024 I wrote down how to read it: "If my winning trades less
+than 4 out of 10. Its suggest ether have issue in one of psychology
+pattren. Or my choice in Market environment dosnt fit well." And if the
+average win falls below 1:2, "I know i make very bad judgment. I did not
+take under nor going for lines." (May 25, 2024)
+
+@@b2712 p
+So the ratio is not only a score. It is a diagnosis. It tells me
+where to look.
+

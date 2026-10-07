@@ -1,0 +1,247 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Market Circulation (2021)
+
+@@b904 h3
+10-4-1
+
+@@b905 p
+In Goodman trading, success means spotting 4 out of 10, with at least
+1 line. That one line can sometimes cover all 6 losses. This is a very
+important TTL: 10-4-1.
+
+@@b906 h3
+Many trends at once
+
+@@b907 p
+Many trends can conflict with each other. The 1-hour chart may trend
+differently from the weekly chart, or from the 5-minute chart. This is
+why the market is so difficult. It is only up and down, but with many,
+many up and down moves running at the same time.
+
+@@b908 p
+A friend once called me. He was long EURUSD and asked if I was long
+too. I told him I was short. We both made a good profit. The difference
+was that I ran a station point on the 15-minute chart, and he traded the
+daily chart.
+
+@@b909 p
+That is why it is a very bad idea to take market advice from anyone.
+They may tell you where to get in, but can they tell you where to exit,
+where to take profit, or when to raise your stop? It is better to start
+with one timeframe and stay with it until the current trend stops.
+Patience.
+
+@@b910 h3
+Cycles within cycles
+
+@@b911 p
+Things can become more complicated: cycles within cycles. Think of
+the Earth's seasons around the Sun, and the Moon's cycle around the
+Earth. Dealing with cycles helps us work out which season we are in
+(what do I see now?). From that cycle we can observe the next season
+(what do I want to see next?). Sometimes we also look at other cycles
+related to the same chart.
+
+@@b912 p
+A chart is the same: we read it horizontally, through time and
+cycles. Some currencies move with others in the same cycle, the general
+economic cycle. No one in the world can govern the market and fight the
+economic cycle. We can also compare cycles with each other, as
+scientists do with the Earth's climate over thousands of years.
+
+@@b913 h3
+The rules of the cycle are
+few
+
+@@b914 blockquote
+<p>1. For the current uptrend to continue, it must propagate a
+1-2-3.</p>
+<p>2. For the current downtrend to continue, it must propagate a
+1-2-3.</p>
+
+@@b915 p
+I treat a complete 1-2-3 as a complete cycle. To measure the strength
+of the cycle, I use a <strong>Crosspoint</strong>: a line drawn from the
+BP of the FPS to the EP of the SPS. When the cycle completes, this line
+crosses the SS and shows a full cycle.
+
+@@b917 p
+Figure: A complete 1-2-3 as a complete cycle: four batteries of
+potential energy, joined by the Crosspoint line from BP-FPS to
+EP-SPS.
+
+@@b918 p
+How does this 1-2-3 relate to "the market can only go up or down"?
+There is no difference. Each rectangle is a battery of potential energy
+that can launch a move. The red rectangle holds only 3 bars, which is
+why the move stopped at the Tipping Point.
+
+@@b919 p
+The market only moves up and down. But to make a trend, one wave of
+passion must have less energy and the other greater energy. Look at the
+SS: it has a smaller battery, less "hash". That is why we work with the
+1-2-3. Up and down without structure is not directional movement.
+
+@@b920 h4
+Seeing the battery
+
+@@b921 p
+Why can we not see the battery? It shows very clearly on point and
+figure charts, as a congestion area with a small reversal box. Or simply
+zoom in to a lower timeframe: the congestion area, the potential energy,
+appears clearly, often with a setup inside it.
+
+@@b923 p
+Figure: A 1-2-3 with its four batteries at points 0, 1, 2 and 3. Real
+data: GBPCHF, 15-minute, 24–25 February 2022. (The original chart was
+GBPCHF H4, date not shown; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b924 p
+Zoom in to a lower time frame (the 15-minute in my original; the
+30-minute here) at each battery: 0 at BP-FPS, 1 at EP-FPS, 2 at BP-SPS
+and 3 at EP-SPS.
+
+@@b926 p
+Figure: Inside battery 1 (EP-FPS): a 6&amp;6 builds at the top before
+the energy turns. Real data: GBPCHF, 30-minute, 22–24 February 2022.
+(The original chart was GBPCHF M15, 23 to 29 July 2021; this one shows
+the same structure on the same symbol, in the window the data
+covers.)
+
+@@b928 p
+Figure: Inside battery 2 (BP-SPS): price falls into the box, builds a
+6&amp;6 at the low, then charges up. Real data: GBPCHF, 15-minute, 1–3
+March 2022. (The original chart was GBPCHF M15, 30 July to 4 August
+2021; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b930 p
+Figure: Inside battery 3 (EP-SPS): a setup at the top marks the end
+of the cycle before price turns down. Real data: GBPCHF, 15-minute, 2–4
+March 2022. (The original chart was GBPCHF M15, 5 to 11 August 2021;
+this one shows the same structure on the same symbol, in the window the
+data covers.)
+
+@@b931 p
+Anyone can spot these areas: little to lose and much to gain. The
+market can only go up or down, but always within a 1-2-3.
+
+@@b932 h3
+Using the Crosspoint to
+find EP-SPS
+
+@@b933 p
+Instead of drawing the Crosspoint from BP-FPS to EP-SPS, we can use
+it to find the EP-SPS in advance. Draw a line from BP-FPS through the
+middle of the SS and extend it. You will see that it finds the EP-SPS
+almost exactly. It works better with a 3-C.
+
+@@b935 p
+Figure: A Crosspoint line from point 0 through the middle of the SS
+reaches almost exactly the EP-SPS. Real data: EURUSD, 15-minute, 24–25
+February 2022. (The original chart did not show its symbol or date; this
+one shows the same structure.)
+
+@@b936 p
+The Crosspoint is also a very good tool to show the velocity of the
+projectile launched from a battery.
+
+@@b937 h3
+Angle Propagation
+
+@@b938 p
+The Crosspoint is connected to the BP-FPS, so let us look first at
+the angle from the BP-FPS. This angle is just a slope in two dimensions,
+price and time, where x is time and y is price: y = mx + b, where m is
+the slope and b the y-intercept.
+
+@@b939 p
+When the market recovers from the SS, the SPS tries to move faster
+than the SS: price accelerates in much less time. All buyers now want to
+move faster than in the FPS. Why? It is the Dagger concept: elastic
+energy. That is why the cycle works.
+
+@@b940 h3
+Elastic energy: a tug of war
+
+@@b941 p
+When the market holds potential energy, it is elastic potential
+energy, like a spring. It comes from impression force on two sides,
+buyers and sellers, inside a very small range. This creates a war, with
+both sides seeking maximum profit: a Nash equilibrium.
+
+@@b942 p
+The reaction in the SS is not a reaction without real effort. It is
+decisive. Buyers from the FPS act like a magnetic field that tries to
+stop the whole SS through impression force.
+
+@@b943 p
+Impression forces come from many origins: emotions, pressure, pain.
+An impression is "an idea, feeling, or opinion about something or
+someone, especially one formed without conscious thought or on the basis
+of little evidence."
+
+@@b944 p
+In Goodman, the SS at 50% means half sellers, half buyers. Buyers in
+the SS are losing 50% of their old profit; sellers want 50% more profit.
+That is the Dagger story. Buyers want to hold their gains, so they use
+impression force and increase their orders, fighting the sellers for
+control.
+
+@@b945 p
+Like a compressed spring, when impression force puts the spring under
+high pressure, it releases very quickly. One side must win the war, and
+the stronger the impression force, the greater the success. The cycle
+continues until the impression force changes its passion, its opinion
+about price.
+
+@@b946 p
+We must go with the winner, the fresh flag. It is a pity, but that is
+the market. It is a game, a Monopoly game.
+
+@@b947 h3
+Tick volume as impression
+force
+
+@@b948 p
+The amount of trading reveals how strong the impression force is in
+the SS. In forex there is no central volume, only tick volume. A tick is
+a market's smallest possible price movement. For example, if a market
+moves in increments of 0.25, a change from 450.00 to 451.00 is four
+ticks, or one point. "The tick volume study simply counts the number of
+ticks during the interval specified."
+
+@@b949 p
+Tick volume differs between brokers, but I checked several and find
+about 70% of it agrees. When the mass of traders presses on a price,
+that pressure counts as ticks. The mass is the mass at every broker. So
+when price changes a lot, I ask why. It shows a tug of war, an
+impression force pushing up or down. Measuring ticks helps show how
+strong that force is.
+
+@@b950 blockquote
+<p>1. <strong>Many ticks</strong> mean a new impression force: new
+traders with great emotion. When a salesman promises a crowd a deal they
+believe in, many rush to buy, and the rush carries the price.</p>
+<p>2. <strong>Few ticks</strong> mean no great war: the impression force
+is low. Ask a child, "Do you want chocolate or carrots?" With no passion
+for carrots, we know the real passion is chocolate. That is how the mass
+plays. In the end, they are just human.</p>
+
+@@b951 p
+Any new impression force, especially when the market is in the SS,
+confirms the elastic energy in the market.
+
+@@b953 p
+Figure: The SS comes back to the TP, where new traders bring a new
+impression force and vote for the uptrend. Real data: GBPJPY, 15-minute,
+24–25 February 2022. (The original chart was Bitcoin, timeframe and date
+not shown; this one shows the same structure.)
+
+@@b954 p
+New traders vote for the uptrend: "Yes, we want the market to move
+up." That is why elastic energy is proven in the market. At 50%, old
+buyers seek new profit, or at least to hold their old gain. Sellers fear
+the 50% station point and no longer want to fight. When that happens,
+buyers take the flag and dominate.
+

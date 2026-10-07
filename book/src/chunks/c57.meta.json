@@ -1,0 +1,211 @@
+{
+ "chunk": "c57",
+ "highlights": [
+  {
+   "b": "b3504",
+   "en": "In every market the edge goes to the one who has\ndone the homework the other side skipped.",
+   "level": 1
+  },
+  {
+   "b": "b3508",
+   "en": "organize the material before you study it.",
+   "level": 1
+  },
+  {
+   "b": "b3513",
+   "en": "Learn the board before you play; study the setups and run a pitch-penny\naccount before you trade real size.",
+   "level": 2
+  },
+  {
+   "b": "b3516",
+   "en": "be quick while the crowd is watching, and stay\nhumble long after it has moved on.",
+   "level": 1
+  },
+  {
+   "b": "b3522",
+   "en": "Build your capital before you spend it, and do not hide\nyour reserve where someone else decides its value.",
+   "level": 1
+  },
+  {
+   "b": "b3526",
+   "en": "Michael did not fight his; he built his whole day around\nit. Find the session that suits you, guard your sleep, and the free\nhours become part of your edge.",
+   "level": 1
+  },
+  {
+   "b": "b3530",
+   "en": "Do not jump straight back in with real money. Replay, predict,\nwarm up the fingers, then play.",
+   "level": 1
+  },
+  {
+   "b": "b3534",
+   "en": "Integrity is not only a virtue;\nit can be a business plan.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b3502",
+   "en": "Lessons from youth and study",
+   "ar": "دروس الشباب والدراسة",
+   "note_en": "Stamps, the Green Book, chess and the first book on the Fischer match.",
+   "note_ar": "الطوابع والكتاب الأخضر والشطرنج وأول كتاب عن مباراة Fischer.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3502",
+     "en": "The Stamp Dealer at Thirteen",
+     "ar": "تاجر الطوابع",
+     "note_en": "Bought misidentified Canadian stamps for $25 and sold for $300.",
+     "note_ar": "اشترى طوابع كندية خطأ التعريف بـ $25 وباعها بـ $300.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3504",
+       "en": "Lesson: edge is homework",
+       "ar": "الدرس: الأفضلية هي الواجب",
+       "note_en": "The edge goes to whoever did the homework the other side skipped.",
+       "note_ar": "الأفضلية لمن أنجز الواجب الذي أهمله الطرف الآخر.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3505",
+     "en": "The Green Book",
+     "ar": "الكتاب الأخضر",
+     "note_en": "Typed 400+ pages of Presocratic Fragments with all translations grouped.",
+     "note_ar": "طبع 400+ صفحة من شذرات ما قبل سقراط بجميع ترجماتها مجتمعة.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3508",
+       "en": "Lesson: organize first",
+       "ar": "الدرس: رتّب أولًا",
+       "note_en": "Put every view side by side and the work goes faster.",
+       "note_ar": "ضع كل وجهات النظر جنبًا إلى جنب فيسرع العمل.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3509",
+     "en": "Two Sides of the Room",
+     "ar": "جانبا القاعة",
+     "note_en": "Chess students who studied before playing became better players; most chose to play immediately.",
+     "note_ar": "من درس قبل اللعب صار أقوى؛ وأكثرهم اختار اللعب فورًا.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3513",
+       "en": "Lesson: learn before you trade size",
+       "ar": "الدرس: تعلّم قبل الحجم",
+       "note_en": "Study setups and use a pitch-penny account before real size.",
+       "note_ar": "ادرس الـ setups واستخدم حسابًا زهيدًا قبل الحجم الحقيقي.",
+       "imp": 3
+      }
+     ]
+    },
+    {
+     "b": "b3514",
+     "en": "First Book on the Match",
+     "ar": "أول كتاب عن المباراة",
+     "note_en": "Co-wrote the first book on the Fischer-Spassky match; sold 1200 copies in two weeks.",
+     "note_ar": "شارك في تأليف أول كتاب عن مباراة Fischer-Spassky وباع 1200 نسخة في أسبوعين.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3516",
+       "en": "Lesson: fast and humble",
+       "ar": "الدرس: السرعة والتواضع",
+       "note_en": "Speed wins the moment; humility keeps you learning.",
+       "note_ar": "السرعة تربح اللحظة والتواضع يبقيك متعلمًا.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b3517",
+   "en": "Money and discipline",
+   "ar": "المال والانضباط",
+   "note_en": "The Story of Civilization, Hawaii trading hours, and getting back in the groove.",
+   "note_ar": "قصة الحضارة وساعات التداول في Hawaii والعودة إلى الإيقاع.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3517",
+     "en": "The Story of Civilization",
+     "ar": "The Story of Civilization",
+     "note_en": "Cash hidden in books was sold at a garage sale.",
+     "note_ar": "نقود مخبأة في كتب بيعت في بيع المرآب.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3522",
+       "en": "Lesson: build capital, don't hide reserve",
+       "ar": "الدرس: ابنِ رأس المال",
+       "note_en": "Build capital before spending it; do not let others decide your reserve's value.",
+       "note_ar": "ابنِ رأس المال قبل إنفاقه ولا تدع غيرك يقرر قيمة احتياطيك.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3523",
+     "en": "Trading Hours in Hawaii",
+     "ar": "ساعات التداول في Hawaii",
+     "note_en": "Futures traded about 4am to 11am; he built his day around the clock.",
+     "note_ar": "تداول العقود من نحو 4am إلى 11am؛ وبنى يومه حول الساعة.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3526",
+       "en": "Lesson: find your session",
+       "ar": "الدرس: اختر جلستك",
+       "note_en": "Guard your sleep; free hours become part of your edge.",
+       "note_ar": "احرص على نومك فتصير الساعات الحرة جزءًا من أفضليتك.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3527",
+     "en": "Getting Back in the Groove",
+     "ar": "العودة إلى الإيقاع",
+     "note_en": "Review last 3–4 trades step by step, then Ghost Trading for 1–2 days.",
+     "note_ar": "راجع آخر 3–4 صفقات خطوة بخطوة ثم Ghost Trading ليوم أو يومين.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3530",
+       "en": "Lesson: warm up first",
+       "ar": "الدرس: سخّن أولًا",
+       "note_en": "Replay, predict, warm up, then play.",
+       "note_ar": "أعد الشريط وتنبّأ وسخّن ثم العب.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b3531",
+   "en": "Peter Panholzer",
+   "ar": "Peter Panholzer",
+   "note_en": "Left a firm that mistreated customers, founded DynexCorp; Michael stayed in touch for almost fifty years.",
+   "note_ar": "ترك شركة تسيء إلى عملائها وأسس DynexCorp؛ وظل Michael على اتصال به قرابة خمسين عامًا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3534",
+     "en": "Lesson: integrity as plan",
+     "ar": "الدرس: النزاهة خطة",
+     "note_en": "A career can begin with a refusal; integrity can be a business plan.",
+     "note_ar": "قد تبدأ المسيرة برفض؛ والنزاهة قد تكون خطة عمل.",
+     "imp": 2
+    }
+   ]
+  }
+ ]
+}

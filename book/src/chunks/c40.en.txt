@@ -1,0 +1,232 @@
+##CTX Part: Rung 5 · Acting: How Do I Manage the Trade? | Section: Trading the Line (2021) -> How I Manage a Trade
+
+@@b2604 h3
+What This Study Shows
+
+@@b2605 p
+From this study we kept a profit from the uptrend: on this data the
+stop was caught at +64 pips, against 70 pips of first risk. The open
+profit had reached 127 pips, and the raised stops saved half of it. The
+move followed the same shape as the Propagation Jumbo shown earlier.
+
+@@b2606 p
+The study also shows what Trading the Line adds compared with only
+taking the Under. Our first protection came at the breakaway (see the
+first chart), and the trade finally stopped out at the end of the last
+propagation. The same Lines then gave the sell in the downturn, which
+ran 126 pips.
+
+@@b2607 p
+Here is the whole operation using TTL:
+
+@@b2609 p
+Figure: The full TTL operation: entry after the Dagger, stops raised
+through each 1-2-3, the 6x6 top where the stop is caught (on this data
++64 pips against 70 pips of first risk), then 126 pips from the sell.
+Real data: AUDUSD, 1-hour, 14–25 February 2022. (The original chart was
+EURUSD 4-hour, 2021, where the stop was caught for 3,897 pips of profit
+against 500 pips of risk; this one shows the same structure.)
+
+@@b2610 p
+Trading with TTL is effective because it protects what the market
+gives. Here the uptrend part was modest, yet the same routine kept the
+risk small and turned the top into a 126-pip sell. On my original EURUSD
+chart, the same routine kept 3,897 pips against 500 pips of risk.
+
+@@b2611 h2
+Three
+Swiss Franc Trades: When the Overlay Is Not Ready (2025)
+
+@@b2612 p
+In this paper I review three short-term trades I took in the Swiss
+franc pairs (AUDCHF, EURCHF and USDCHF) in March 2025. Each one starts
+from a Jumbo. The charts are redrawn on real 2022 data from other pairs,
+named in each caption, with the same structure. The lesson is about the
+Overlay: the Setup chart can be clear while the Overlay chart is not
+ready yet.
+
+@@b2613 h3
+Trade 1: AUDCHF
+
+@@b2614 h4
+The idea
+
+@@b2615 p
+This was a nice Jumbo. I was looking exactly at the arrow, hoping to
+find a short-term trade. The logic behind it: this is the EP of the
+Jumbo, and the first 1-2-3 will occur here.
+
+@@b2617 p
+Figure: A large Jumbo down; the arrow marks where I expect the EP of
+the Jumbo and the first 1-2-3. Real data: GBPUSD, 1-hour, 21–25 Feb
+2022. (The original chart was AUDCHF 4-hour, published 5 Mar 2025; this
+one shows the same structure.)
+
+@@b2618 p
+On the 15-minute chart there was a nice 3S Setup.
+
+@@b2620 p
+Figure: The 1-2-3 up from the EP of the Jumbo, then the 3S Setup and
+the buy point. Real data: GBPUSD, 15-minute, 24–25 Feb 2022. (The
+original chart was AUDCHF 15-minute, 4–5 Mar 2025; this one shows the
+same structure.)
+
+@@b2621 h4
+The
+difficulty: finding the EP of the Jumbo in the Overlay
+
+@@b2622 p
+What made this trade difficult? Finding the EP of the Jumbo in the
+Overlay chart. Let us look at the daily chart (redrawn here on 1-hour
+data).
+
+@@b2624 p
+Figure: The Matrix Overlay (MO) above the Line and the breakdown
+below it, marked by the arrow. Real data: GBPUSD, 1-hour, 15–25 Feb
+2022. (The original chart was AUDCHF daily, Nov 2024 – Mar 2025; this
+one shows the same structure.)
+
+@@b2625 p
+It is an MO, and I suspected the EP might occur earlier than this
+breakdown. Sometimes the Setup chart is clear, but the Overlay chart is
+not ready YET.
+
+@@b2626 h4
+What actually happened
+
+@@b2627 p
+My first idea was here.
+
+@@b2629 p
+Figure: The place of my first idea: price broke down through the
+Return instead of holding it. Real data: GBPUSD, 1-hour, 24 Feb – 2 Mar
+2022. (The original chart was AUDCHF 1-hour, 25 Feb – 4 Mar 2025; this
+one shows the same structure.)
+
+@@b2630 p
+I was looking for a Setup at the Return with a cancel. But the
+selling was so strong that buyers could not hold it.
+
+@@b2631 p
+The Overlay was not ready, and price failed to stop at the Return. At
+the same time, there was no Setup on the 5-minute chart. But I kept
+watching. (As the saying goes: the stupid go and study engineering, the
+smart study philosophy.)
+
+@@b2632 h4
+The hint I should have seen
+
+@@b2633 p
+One hint: the 1-2-3 was too small compared with the Jumbo. This is a
+BIG negative Overlay.
+
+@@b2635 p
+Figure: A small 1-2-3 (boxed) after a large Jumbo, a big negative
+Overlay, followed by further selling. Real data: GBPUSD, 4-hour, 16 Feb
+– 4 Mar 2022. (The original chart was AUDCHF 4-hour, Feb – Mar 2025;
+this one shows the same structure.)
+
+@@b2637 p
+Figure: Positive against negative Overlay: compare the first 1-2-3
+with the Jumbo before trusting the Setup.
+
+@@b2638 h3
+Trade 2: EURCHF, a Nest
+Overlay
+
+@@b2639 p
+This is the 4-hour structure (shown here on a 1-hour chart): a nice
+Jumbo, then a 1-2-3, then back to the Return. THIS IS EXACTLY WHAT I AM
+LOOKING FOR. Here is my bet.
+
+@@b2641 p
+Figure: A Jumbo down, a 1-2-3, and the return to the Return level: a
+Nest Overlay. Real data: NZDUSD, 1-hour, 23 Feb – 4 Mar 2022. (The
+original chart was EURCHF 4-hour, Feb – Mar 2025; this one shows the
+same structure.)
+
+@@b2643 p
+Figure: The cancel at the Return level, marked by the arrow. Real
+data: NZDUSD, 15-minute, 25 Feb – 1 Mar 2022. (The original chart was
+EURCHF 30-minute, 28 Feb – 5 Mar 2025; this one shows the same
+structure.)
+
+@@b2644 p
+Then I went to the 5-minute chart and did the inside analysis. I
+watched for the change in ME after the cancel.
+
+@@b2646 p
+Figure: Inside analysis after the cancel: a quick rise, a narrowing
+range, and the buy on the break. Real data: NZDUSD, 5-minute, 28 Feb
+2022. (The original chart was EURCHF 5-minute, 4 Mar 2025; this one
+shows the same structure.)
+
+@@b2647 h3
+Trade 3: USDCHF
+
+@@b2648 p
+A nice Jumbo again. One can follow the lack of follow-through when
+price makes a new low after the Jumbo, and then find a propagation.
+
+@@b2650 p
+Figure: After the Jumbo, a new low below the Line with no
+follow-through (arrow). Real data: USDCAD, 1-hour, 28 Feb – 4 Mar 2022.
+(The original chart was USDCHF 1-hour, 27 Feb – 5 Mar 2025; this one
+shows the same structure.)
+
+@@b2652 p
+Figure: The propagation that follows the failed new low, with the
+buy. Real data: USDCAD, 5-minute, 3 Mar 2022. (The original chart was
+USDCHF 5-minute, 5 Mar 2025; this one shows the same structure.)
+
+@@b2653 h2
+How I Manage a Trade
+
+@@b2654 p
+Charlie taught me to read the market. Managing a trade is the part I
+had to build for myself, one email at a time. When I look back at what I
+wrote to you, Michael, I see the same few ideas coming back, each time a
+little cleaner.
+
+@@b2655 h3
+The first aim is breakeven
+
+@@b2656 p
+In May 2021 I wrote to you about breakeven, and I still stand by
+every word: "The importance of BreakEven. if I am right the meanings of
+break-even the level trades start to show a profit. if I protect the
+breakeven and the market doesn't play against me I will Take The line."
+And then the sentence I would put on my wall: "GoodMan this is the first
+aim to traders." (May 10, 2021)
+
+@@b2657 p
+I used football then, and I still like the picture. Once the trade is
+at BE, my goal is safe. The other team cannot score against me. Now I
+can attack. My money, my experience, and the price of testing my idea
+are all protected.
+
+@@b2658 p
+Breakeven is not a target for profit. It is a target for safety. A
+trade that reaches BE can no longer hurt the account, and a mind that
+knows this can think clearly about the rest.
+
+@@b2659 h3
+Nests inside the big play
+
+@@b2660 p
+By September 2022 I had added a second layer. I would see a setup on
+the hourly or daily chart, but I would enter on a smaller Nest, on the
+5-minute chart, often from a Dagger. The quick trade had one job: to pay
+for the risk of the big one.
+
+@@b2661 p
+I wrote to you after one such trade: "so I entered in 5 min and my
+aim was to cover the risk of playing with 1 hour - daily chart. my idea
+is simply to play anything that covers the origin risk of BIG PLAY."
+(September 20, 2022)
+
+@@b2662 p
+This is a simple idea, but it changes how the trade feels. Once the
+small trade has paid for the risk of the large one, the large one is
+free. I can let it breathe. I am no longer staring at every bar.
+

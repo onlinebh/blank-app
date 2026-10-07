@@ -1,0 +1,243 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Volume Today: When Everyone Agrees (2025–2026)
+
+@@b2142 h3
+Our indicator:
+Continuity + Consensus Extreme
+
+@@b2143 p
+The answer I built is my own TradingView indicator,
+<strong>Continuity + Consensus Extreme (Time-aware)</strong>, which I
+call ContExtT, or simply "our indicator". It does three things.
+
+@@b2144 p
+<strong>1. It classifies every bar by structure, not by
+colour.</strong> A bar with a higher high and higher low is a bull bar.
+A lower high and lower low is a bear bar. An inside bar or an outside
+bar is undecided. The close is used only to break the tie on an outside
+bar.
+
+@@b2145 p
+<strong>2. It counts continuity volume.</strong> While bull bars
+follow each other, their volume is added into one buyer column. While
+bear bars follow each other, their volume is added into one seller
+column. Inside and outside bars do not break the count. Their volume
+waits in a pending pool. If the same direction resumes, the pool joins
+the streak. If the direction truly reverses, the pool is discarded. This
+is the "cumulative volume" of my 2025 note: the move, not the clock,
+defines the count.
+
+@@b2146 p
+<strong>3. It marks the consensus extreme.</strong> When a streak
+ends, the indicator compares its final total with every completed streak
+of the same side in the lookback window (50 bars by default). If it is a
+new record, a gold dot is placed on the last bar of the streak. That dot
+is the fold point: maximum one-sided commitment, immediately before the
+reversal.
+
+@@b2147 p
+In short form the logic is:
+
+@@b2148 p
+for each bar:
+
+@@b2149 p
+if inside or outside: pending += volume
+
+@@b2150 p
+elif bull bar: buyers = (last == up ? buyers + pending + volume :
+volume); sellers = 0; pending = 0
+
+@@b2151 p
+elif bear bar: sellers = (last == down ? sellers + pending + volume :
+volume); buyers = 0; pending = 0
+
+@@b2152 p
+if seller streak just ended and its total &gt; highest seller streak
+in lookback: mark SELLER CONSENSUS EXTREME (look to buy)
+
+@@b2153 p
+if buyer streak just ended and its total &gt; highest buyer streak in
+lookback: mark BUYER CONSENSUS EXTREME (look to sell)
+
+@@b2154 p
+The signal is contrarian on purpose. A record seller streak does not
+say "sell". It says the sellers have all sold.
+
+@@b2156 p
+Figure: The consensus-extreme logic applied to AUDUSD. Seller volume
+builds into one unbroken streak on 24 February; when the streak breaks
+at 13:00 it is the largest seller streak of the window (gold dot). Price
+makes its low four hours later at 0.70942 and climbs about 195 pips by 1
+March, where a record buyer streak (gold dot, top) marks the buyers'
+turn to be exhausted. Panel computed from tick volume with the
+indicator's rules. Real data: AUDUSD, H1, 21 February – 2 March
+2022.
+
+@@b2157 h3
+Many feeds, one vote:
+composite volume
+
+@@b2158 p
+One broker's tick volume is one broker's clients. So I added a
+multi-broker composite to the indicator: several forex feeds combined
+into one volume series. It works better than any single feed, because a
+real extreme shows on every feed at once, while a feed's own noise does
+not.
+
+@@b2159 p
+The open question is how to combine them. The <strong>mean</strong>
+lets one loud or quiet feed pull the whole composite. The
+<strong>median</strong> follows what most of the feeds say and ignores
+the single outlier. I am still weighing the two.
+
+@@b2160 p
+This does not cancel what I wrote earlier, that adding platforms
+cannot give the true market volume because one liquidity provider often
+serves many brokers. That is still right. I am not trying to measure the
+whole forex world. I am measuring agreement. In 2021 I found that about
+70% of the ticks agree between brokers; the composite asks the same
+question every hour: do the feeds agree that this is an extreme? Their
+overlap is part of why they agree, and the median keeps one odd feed
+from deciding the vote. The idea did not change; it grew.
+
+@@b2161 p
+The next plate is an illustration of the idea, not the indicator
+itself. It applies the same thinking across pairs instead of brokers.
+Each USD pair's tick volume is divided by its own five-day median, so
+every feed is on the same scale. The bars are the median of the
+three.
+
+@@b2163 p
+Figure: An illustration computed from the data: the tick volume of
+EURUSD, GBPUSD and AUDUSD, each divided by its own five-day median
+(lines), combined by the median of the three (bars). The composite peaks
+at 24 February 18:00, when all three USD feeds agree (EURUSD 3.78,
+GBPUSD 3.76, AUDUSD 2.36 times normal; mean 3.30, median 3.76). EURUSD
+prints its low of 1.11062 in the same hour and rises 168 pips by 25
+February 23:00. Real data: EURUSD, GBPUSD, AUDUSD, H1, 23–25 February
+2022.
+
+@@b2164 p
+Note what the median did here. AUDUSD was the quietest of the three,
+at 2.36 times normal. The mean was pulled down to 3.30 by that one feed.
+The median stayed with the two feeds that agreed, at 3.76.
+
+@@b2165 h3
+Two currencies, two votes
+
+@@b2166 p
+Volume can show me the selling too, not only the buying. When I read
+a pair at its two currencies, the volume is literally opposite. One side
+shows rising bars. The other side shows falling bars.
+
+@@b2167 p
+To see it, I put two pictures side by side: the dollar index (DXY)
+and the euro index (EXY). When EURUSD is about to turn, one index is
+being bought and the other is being sold. If both are at maximum volume
+at the same time, that is an excellent signal.
+
+@@b2168 p
+First, let me be clear about what makes EURUSD rise. There are three
+possibilities:
+
+@@b2169 blockquote
+<p>1. <strong>Strong buying in the euro, and weak buying in the
+dollar.</strong> Both are bought, but the euro is bought more.</p>
+<p>2. <strong>Strong buying in the euro, and no change in the
+dollar.</strong> The euro does all the work.</p>
+<p>3. <strong>No change in the euro, and strong selling in the
+dollar.</strong> The dollar does all the work.</p>
+
+@@b2171 p
+Figure: Three ways EURUSD rises. In each case the euro gains on the
+dollar, but the force comes from a different side.
+
+@@b2172 p
+None of these is what I wait for. The strongest case is consensus.
+Consensus is when I have two contradictory forces, both at their
+climax.
+
+@@b2173 p
+In the dollar I see a buying climax. Everyone has bought the dollar,
+so the dollar will fall. In the euro I see a selling climax. Everyone
+has sold the euro, so the euro will rise. Two exhausted crowds, pulling
+in opposite directions, and both of them act on the current pair.
+Together they push EURUSD up.
+
+@@b2174 p
+This is the rule of this chapter, seen from both sides at once. A
+climax is exhaustion. When everyone is buying the dollar, it means sell
+the dollar. When everyone is selling the euro, it means buy the
+euro.
+
+@@b2176 p
+Figure: The double climax. A buying climax in the dollar index
+(record up-wave volume, so it will fall) against a selling climax in the
+euro index (record down-wave volume, so it will rise). Both arrows meet
+at EURUSD up. Index = equal-weight, median volume (not DXY weights).
+
+@@b2177 p
+There is one problem. DXY does not express the real strength of the
+dollar. It is built with weights. The euro alone is more than half of
+it, so DXY is mostly the euro read upside down. It cannot give me a fair
+second opinion on EURUSD.
+
+@@b2178 p
+So I changed it. I build the index myself. For each currency I take
+its seven pairs and count every pair equally. Each pair's volume is
+divided by its own average, so a busy pair does not shout over a quiet
+one. Then I combine the pairs with the <strong>median</strong>, not the
+average. The euro pairs will vary: EURJPY can be wild while EURCHF
+sleeps. The median keeps one noisy pair from deciding the vote. Where
+the currency is the quote, as the dollar is in GBPUSD, I read that pair
+upside down, because the index must use all of its pairs.
+
+@@b2179 p
+In 2026 I put this into one tool, which I call NetGate. It draws the
+pair on top, and the two currency indexes below it. It cuts each index
+into swings by Goodman's rule: a swing ends only after a 25% correction,
+as Michael Archer teaches in <em>The Goodman 6 &amp; 6</em>. It adds up
+the volume of each wave. A wave is a record when its volume is above the
+last N waves. A double climax needs both currencies to print a record
+wave on at least 3 of their 7 pairs, closing against the move. It is
+counted inside the setup window, after the prior move. And the waves
+must have ended. Only then do I wait for my trigger. NetGate never tells
+me up or down. Direction belongs to the method.
+
+@@b2180 p
+Here is one real example, built the same way from the data I
+have.
+
+@@b2182 p
+Figure: The double climax on EURUSD. EURUSD H1 on top; below it the
+EUR index and the USD index, with volume summed wave by wave (buying
+waves above the line, selling waves below). Each pair's tick volume is
+divided by its own 120-hour average and the pairs are combined by the
+median; swings end on a 25% correction (with a minimum of three median
+hourly moves). EURUSD itself is left out of both indexes, because it is
+the chart's pair. The USD index now uses all six other USD pairs:
+USDJPY, USDCAD and USDCHF, with GBPUSD, AUDUSD and NZDUSD inverted. The
+EUR index still uses EURJPY and EURNZD: with EURGBP, EURCHF and EURAUD
+added, the median EUR index breaks the euro selling into shorter waves,
+so the panel keeps the two-pair index. The 3-of-7 test, applied pair by
+pair, passes on both sides: record selling waves in EURUSD, EURJPY and
+EURCHF ending on 24 February (EURCAD is not in the data), and record
+buying waves in 5 of the 7 USD pairs (EURUSD, GBPUSD, AUDUSD and NZDUSD
+read upside down, and USDCAD). Times are broker time (UTC+2). Real data:
+EURUSD, EURJPY, EURNZD, EURGBP, EURCHF, EURAUD, USDJPY, USDCAD, USDCHF,
+GBPUSD, AUDUSD, NZDUSD, H1, 22–25 February 2022.
+
+@@b2183 p
+Look at 24 February. From 22 February 16:00 the euro index was sold
+in one long wave of 54.3x, the largest since the prior move. From 23
+February 15:00 the dollar index was bought in one long wave of 44.5x,
+nearly three times its largest of the last eight waves. At 10:00 to
+11:00 both indexes were near their heaviest hour, and EURUSD stood at
+1.12451. That was the double climax. But I do not act on the climax. I
+wait for the waves to end. The euro selling wave ended at 12:00. The
+dollar buying wave ended at 17:00. At 18:00 EURUSD printed its low at
+1.11062. By 25 February 23:00 it stood at 1.12739, 168 pips higher.
+
+@@b2184 p
+One extreme is a hint. Two contradictory climaxes is the signal.
+

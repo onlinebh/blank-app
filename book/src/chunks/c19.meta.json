@@ -1,0 +1,297 @@
+{
+ "chunk": "c19",
+ "highlights": [
+  {
+   "b": "b1214",
+   "en": "Volume represents the intensity of belief in\nreaching the maximum.",
+   "level": 1
+  },
+  {
+   "b": "b1217",
+   "en": "Our task is to know which\nside has greater energy.",
+   "level": 1
+  },
+  {
+   "b": "b1220",
+   "en": "we place the box neatly around a\nswing, until the chart shows a 1-2-3.",
+   "level": 1
+  },
+  {
+   "b": "b1221",
+   "en": "The hypothesis can be false whenever the chart\ndoes not follow it. The market confirms the hypothesis.",
+   "level": 2
+  },
+  {
+   "b": "b1230",
+   "en": "Strong buyers must renew their energy to make a breakaway 3-C\ncount.",
+   "level": 1
+  },
+  {
+   "b": "b1231",
+   "en": "Watch the chart like a movie:\nthe energy changes between sellers and buyers, always inside the\nPropagation framework.",
+   "level": 1
+  },
+  {
+   "b": "b1235",
+   "en": "Whenever\nI have a 1-2-3 box, I mark the top of it in green.",
+   "level": 1
+  },
+  {
+   "b": "b1236",
+   "en": "As the proportions grow larger, the\ncorrection ratio also grows larger.",
+   "level": 1
+  },
+  {
+   "b": "b1244",
+   "en": "The\nmental energy is very fast, the endpoint gains relatively little, and\nthe intensity is very low.",
+   "level": 1
+  },
+  {
+   "b": "b1251",
+   "en": "When sellers cannot move fast, the message is that buyers' orders are\nstopping them.",
+   "level": 1
+  },
+  {
+   "b": "b1255",
+   "en": "At this point\nI take all the profit from the buy orders",
+   "level": 1
+  },
+  {
+   "b": "b1263",
+   "en": "The chart must confirm the hypothesis: buyers\ncannot move above the box.",
+   "level": 1
+  },
+  {
+   "b": "b1269",
+   "en": "Whenever I have a 1-2-3 after the Jumbo, I change from neutral to\nshort.",
+   "level": 2
+  },
+  {
+   "b": "b1270",
+   "en": "We must always read volume and time\nwithin the trend structure, the Propagation, and the Overlay\ncombination.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b1210",
+   "en": "Reading energy box by box",
+   "ar": "قراءة الطاقة box بعد box",
+   "note_en": "A theoretical analysis using the 1-2-3 and the Goodman Box with time and volume across one full cycle.",
+   "note_ar": "تحليل نظري يستخدم الـ 1-2-3 والـ Goodman Box مع الزمن والـ volume عبر دورة كاملة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1214",
+     "en": "Volume as belief",
+     "ar": "الـ volume شدّة الاعتقاد",
+     "note_en": "Take the highest volume in each swing; it shows the intensity of belief in reaching the maximum.",
+     "note_ar": "نأخذ أعلى volume في كل swing؛ فهو يمثّل شدّة الاعتقاد ببلوغ الحد الأقصى.",
+     "imp": 2
+    },
+    {
+     "b": "b1215",
+     "en": "Measured Move Rule",
+     "ar": "Measured Move Rule",
+     "note_en": "First swing goes to 100%, the reaction returns to 50%.",
+     "note_ar": "أول swing إلى 100% ورد الفعل يعود إلى 50%.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1216",
+   "en": "Which side has more energy?",
+   "ar": "أيّ جانب أكبر طاقة؟",
+   "note_en": "We only need to know which side has greater energy, then build probability logic; if unclear, stay neutral (50%).",
+   "note_ar": "نحتاج فقط أن نعرف أيّ جانب أقوى ثم نبني منطق احتمال؛ وإن لم يتضح فنحن محايدون (50%).",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1218",
+     "en": "Four signs for the SPS",
+     "ar": "أربع علامات للـ SPS",
+     "note_en": "Range 100% vs 50%, time held longer, volume rising on buyers, regular FPS range.",
+     "note_ar": "المدى 100% مقابل 50%، زمن أطول، volume متصاعد للمشترين، مدى FPS منتظم.",
+     "imp": 2
+    },
+    {
+     "b": "b1220",
+     "en": "Box around a swing",
+     "ar": "الـ box حول swing",
+     "note_en": "Until a 1-2-3 appears, wrap the box neatly around a swing.",
+     "note_ar": "حتى يظهر 1-2-3، نضع الـ box بإحكام حول swing.",
+     "imp": 1
+    },
+    {
+     "b": "b1221",
+     "en": "Hypothesis, then confirmation",
+     "ar": "الفرضية ثم التأكيد",
+     "note_en": "The four signs are premises of a hypothesis; the market confirms it, and it can be false.",
+     "note_ar": "العلامات الأربع مقدّمات فرضية؛ السوق يؤكدها وقد تكون خاطئة.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b1224",
+   "en": "Box 3 and the box propagates",
+   "ar": "Box 3 وتحرك الـ box بالـ Propagation",
+   "note_en": "Box 3 completes the 1-2-3 with +3 boxes; buyers are regular but not strong; a green mark tops each 1-2-3 box.",
+   "note_ar": "يكمل box 3 الـ 1-2-3 بـ +3 boxes؛ المشترون عاديون لا أقوياء؛ وعلامة خضراء تعلو كل 1-2-3 box.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1228",
+     "en": "Comparing boxes 1 and 3",
+     "ar": "مقارنة box 1 وbox 3",
+     "note_en": "Volume rose, but the range is less regular than box 1; buyers fell back a little.",
+     "note_ar": "ارتفع الـ volume لكن المدى أقل انتظامًا من box 1؛ تراجع المشترون قليلًا.",
+     "imp": 1
+    },
+    {
+     "b": "b1230",
+     "en": "Cancel by 3-C",
+     "ar": "الإلغاء بالـ 3-C",
+     "note_en": "Strong buyers must renew energy for a breakaway 3-C count; cancelling shows only regular buyers.",
+     "note_ar": "على الأقوياء تجديد الطاقة لعدّ 3-C انفلاتي؛ والإلغاء يدل على مشترين عاديين.",
+     "imp": 2
+    },
+    {
+     "b": "b1235",
+     "en": "Green mark on top",
+     "ar": "العلامة الخضراء",
+     "note_en": "Marking the top of each 1-2-3 box in green keeps me proactive.",
+     "note_ar": "تعليم قمة كل 1-2-3 box بالأخضر يُبقيني مبادرًا.",
+     "imp": 2
+    },
+    {
+     "b": "b1236",
+     "en": "Correction ratio grows",
+     "ar": "نسبة التصحيح تكبر",
+     "note_en": "Larger proportions bring larger corrections; box 2 only tests Propagation 1.",
+     "note_ar": "كلما كبرت النِّسَب كبر التصحيح؛ وbox 2 اختبار للـ Propagation 1 فقط.",
+     "imp": 1
+    },
+    {
+     "b": "b1237",
+     "en": "Buy Setup",
+     "ar": "buy Setup",
+     "note_en": "The chart gives a buy Setup toward box 3, the SPS.",
+     "note_ar": "يعطي الرسم buy Setup نحو box 3، أي الـ SPS.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1238",
+   "en": "Mental energy in box 3",
+   "ar": "الطاقة الذهنية في box 3",
+   "note_en": "Fast angle, small range, lowest volume: easy but slow progress, so the chance of resuming Propagation is lower.",
+   "note_ar": "زاوية سريعة ومدى صغير وأقل volume: حركة سهلة وتقدّم بطيء، فتقلّ فرصة استئناف الـ Propagation.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1243",
+     "en": "Three facts",
+     "ar": "ثلاث حقائق",
+     "note_en": "Faster angle, smaller range than box 1, lower volume than boxes 1 and 2.",
+     "note_ar": "زاوية أسرع، مدى أصغر من box 1، volume أقل من box 1 وbox 2.",
+     "imp": 1
+    },
+    {
+     "b": "b1245",
+     "en": "Easy move, little gain",
+     "ar": "حركة سهلة وكسب قليل",
+     "note_en": "Low energy yields a good range, yet the Measured Move Rule shows only +3.",
+     "note_ar": "طاقة منخفضة تعطي مدى جيدًا، لكن Measured Move Rule يُظهر +3 فقط.",
+     "imp": 2
+    },
+    {
+     "b": "b1250",
+     "en": "Risky buy in new box 2",
+     "ar": "شراء محفوف بالمخاطر",
+     "note_en": "Very slow SS with lower volume in an uptrend; another buy, but far from the BP.",
+     "note_ar": "SS بطيء جدًا وvolume أقل داخل uptrend؛ شراء آخر لكنه بعيد عن الـ BP.",
+     "imp": 1
+    },
+    {
+     "b": "b1251",
+     "en": "Tug of war",
+     "ar": "شدّ الحبل",
+     "note_en": "Slow sellers mean buyers' orders are stopping them, or no buyers' orders at all.",
+     "note_ar": "بطء البائعين يعني أن أوامر المشترين توقفهم أو أنه لا أوامر للمشترين.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1252",
+   "en": "Buyers withdraw",
+   "ar": "انسحاب المشترين",
+   "note_en": "Very slow buyers, poor gains, heavy volume: take all profit and go neutral.",
+   "note_ar": "مشترون بطيئون جدًا وأرباح ضعيفة وvolume ثقيل: أجني الربح وأصير محايدًا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1255",
+     "en": "Take profit, neutral",
+     "ar": "جني الربح والحياد",
+     "note_en": "Worst behavior of the three boxes; exit buys at the gray mark.",
+     "note_ar": "أسوأ سلوك بين الـ boxes الثلاثة؛ أخرج من الشراء عند العلامة الرمادية.",
+     "imp": 2
+    },
+    {
+     "b": "b1256",
+     "en": "Impression force",
+     "ar": "impression force",
+     "note_en": "Comparing old with new boxes over time reveals the withdrawal.",
+     "note_ar": "مقارنة القديم بالجديد عبر الزمن تكشف الانسحاب.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1260",
+   "en": "Sellers gain energy: Short",
+   "ar": "البائعون يكسبون طاقة: Short",
+   "note_en": "Sellers improve; the box becomes a Jumbo; a down 1-2-3 after it moves me from neutral to short.",
+   "note_ar": "يتحسن البائعون؛ يصير الـ box إلى Jumbo؛ و1-2-3 هابط بعده ينقلني من الحياد إلى Short.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1263",
+     "en": "Dagger and Jumbo",
+     "ar": "Dagger وJumbo",
+     "note_en": "Buyers cannot move above the box; last buyers lose energy while sellers gain new energy.",
+     "note_ar": "لا يستطيع المشترون الصعود فوق الـ box؛ يفقدون الطاقة ويكسب البائعون طاقة جديدة.",
+     "imp": 2
+    },
+    {
+     "b": "b1269",
+     "en": "1-2-3 after Jumbo",
+     "ar": "1-2-3 بعد الـ Jumbo",
+     "note_en": "Neutral turns to short; the Jumbo's volume is cancelled as it is the new trend.",
+     "note_ar": "من الحياد إلى Short؛ ويُلغى volume الـ Jumbo لأنه الاتجاه الجديد.",
+     "imp": 3
+    },
+    {
+     "b": "b1270",
+     "en": "Read volume in structure",
+     "ar": "قراءة الـ volume ضمن البنية",
+     "note_en": "Treat the Jumbo as FPS and the new trend as SS on the higher timeframe; read volume and time within Propagation and Overlay.",
+     "note_ar": "اعتبر الـ Jumbo هو الـ FPS والاتجاه الجديد SS على timeframe الأعلى؛ واقرأ الـ volume والزمن ضمن الـ Propagation والـ Overlay.",
+     "imp": 2
+    },
+    {
+     "b": "b1273",
+     "en": "Theory for real trading",
+     "ar": "نظرية لبناء طريقة",
+     "note_en": "Goodman Setup: short; only a theoretical idea to build a real-time method.",
+     "note_ar": "Goodman Setup: Short؛ فكرة نظرية لبناء طريقة للتداول الحقيقي.",
+     "imp": 1
+    }
+   ]
+  }
+ ]
+}

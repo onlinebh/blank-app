@@ -1,0 +1,53 @@
+{
+ "chunk": "c43",
+ "highlights": [
+  {"b":"b2759","en":"a mechanism in a process that prevents, corrects, or","level":1},
+  {"b":"b2762","en":"They fail from one disastrous event","level":1},
+  {"b":"b2769","en":"This is the 1-2-3 of my reading, enforced.","level":1},
+  {"b":"b2772","en":"block—don't allow.","level":2},
+  {"b":"b2774","en":"your analytical edge; it does not create one.","level":1},
+  {"b":"b2786","en":"to re-establish a balance by punishing you. And it charges interest.","level":1},
+  {"b":"b2790","en":"A wrong you leave unrepaired grows.","level":1},
+  {"b":"b2797","en":"when you do something for someone you NEVER think about getting","level":1},
+  {"b":"b2798","en":"A gift with a hidden invoice is a","level":1},
+  {"b":"b2805","en":"the misdeed of stealing $50 will stick to him like glue until he","level":1}
+ ],
+ "mindmap": [
+  {"b":"b2758","en":"Poka-Yoke Guardian","ar":"حارس Poka-Yoke","note_en":"Mistake-proofing turned into a MetaTrader 5 expert that guards against failure modes instead of analysing the market.","note_ar":"تحصين من الخطأ حُوّل إلى خبير MetaTrader 5 يحرس أنماط الفشل ولا يتدخل في التحليل.","imp":3,
+   "children":[
+    {"b":"b2759","en":"Poka-Yoke principle","ar":"مبدأ Poka-Yoke","note_en":"A mechanism that prevents, corrects or flags human error; like a plug that fits one way.","note_ar":"آلية تمنع الخطأ البشري أو تصحّحه أو تنبّه إليه، كقابس لا يدخل إلا بطريقة واحدة.","imp":2,"children":[]},
+    {"b":"b2762","en":"Why traders fail","ar":"لماذا يفشل المتداولون","note_en":"Not from poor analysis but from one disastrous event: no stop, revenge, overconfidence, doubling down.","note_ar":"لا بسبب ضعف التحليل بل بسبب حدث كارثي: غياب stop، الانتقام، الثقة المفرطة، المضاعفة.","imp":2,"children":[]},
+    {"b":"b2772","en":"When in doubt, block","ar":"عند الشك امنع","note_en":"Every layer blocks rather than allows; if the news calendar cannot be verified, trading stops.","note_ar":"كل طبقة تمنع ولا تسمح؛ وإن تعذّر التحقق من تقويم الأخبار توقف التداول.","imp":3,"children":[]}
+   ]},
+  {"b":"b2765","en":"The twelve layers","ar":"الطبقات الاثنتا عشرة","note_en":"Twelve protection layers in five groups: size, mind, method, market, review.","note_ar":"اثنتا عشرة طبقة حماية في خمس مجموعات: الحجم والعقل والمنهج والسوق والمراجعة.","imp":2,
+   "children":[
+    {"b":"b2767","en":"Size","ar":"الحجم","note_en":"Lot from real stop distance, locked 30-trade drawdown (Thirty Souls), daily limit, anti-Martingale step-down 100/75/50/25%, total open risk cap.","note_ar":"lot من مسافة stop الحقيقية، وdrawdown مقفل لـ 30 صفقة، وحد يومي، وتخفيض الحجم ضد Martingale، وسقف للمخاطرة المفتوحة.","imp":2,"children":[]},
+    {"b":"b2768","en":"Mind","ar":"العقل","note_en":"Cooling-off after a loss, written reason and emotional state before a trade, extra confirmation after wins.","note_ar":"تهدئة بعد الخسارة، وكتابة السبب والحالة قبل الصفقة، وتأكيد إضافي بعد الأرباح.","imp":2,"children":[]},
+    {"b":"b2769","en":"Method","ar":"المنهج","note_en":"Propagation Lens in five unskippable stages: Propagation, Intersection, 3-C Count, Overlays, Dagger.","note_ar":"Propagation Lens في خمس مراحل لا تُتخطى.","imp":2,"children":[]},
+    {"b":"b2770","en":"Market","ar":"السوق","note_en":"Correlated Exposure Barrier and high-impact news filter.","note_ar":"Correlated Exposure Barrier ومرشّح الأخبار عالية التأثير.","imp":1,"children":[]},
+    {"b":"b2771","en":"Review","ar":"المراجعة","note_en":"Golden Ratios every 10 and 30 trades with a permanent log and chart snapshots.","note_ar":"Golden Ratios كل 10 و30 صفقة مع سجل دائم ولقطات.","imp":1,"children":[]}
+   ]},
+  {"b":"b2773","en":"Limits and lessons","ar":"الحدود والدروس","note_en":"It manages an edge but does not create one, and relies on honesty; even experienced traders need it on bad days.","note_ar":"يدير الميزة ولا يصنعها ويعتمد على الأمانة؛ ويفيد ذوي الخبرة في أيامهم السيئة.","imp":2,
+   "children":[
+    {"b":"b2774","en":"What it cannot do","ar":"ما لا يفعله","note_en":"Weak analysis only bleeds slower; fixed size grows slower; it cannot stop deliberate lies.","note_ar":"التحليل الضعيف ينزف أبطأ فقط؛ الحجم الثابت ينمو أبطأ؛ ولا يمنع الكذب المتعمد.","imp":2,"children":[]},
+    {"b":"b2777","en":"What I keep","ar":"ما أحتفظ به","note_en":"Remove operations risk, ask how setups fail, rate the mind, build the guard once.","note_ar":"أزل مخاطرة التشغيل، واسأل كيف يفشل الـ setup، وقِس العقل، وابنِ الحارس مرة.","imp":3,"children":[]}
+   ]},
+  {"b":"b2778","en":"Rung 7: Doing Right","ar":"Rung 7: Doing Right","note_en":"Charlie believed what you do to others returns with interest; stories 15 to 17.","note_ar":"آمن Charlie أن ما تفعله بالآخرين يعود إليك بفائدة؛ القصص 15 إلى 17.","imp":2,
+   "children":[
+    {"b":"b2780","en":"15. The oboe","ar":"15. الأوبوا","note_en":"Walter kept money from an old woman's oboe; misfortunes followed until he returned it.","note_ar":"احتفظ Walter بمال من أوبوا امرأة عجوز فتوالت عليه المصائب حتى أعاده.","imp":2,
+     "children":[
+      {"b":"b2786","en":"Universe charges interest","ar":"الكون يأخذ فائدة","note_en":"The universe re-establishes balance by punishing, with interest; do not disturb connections.","note_ar":"الكون يعيد التوازن بالعقاب وبفائدة؛ لا تعبث بالروابط.","imp":3,"children":[]},
+      {"b":"b2790","en":"Lesson: repay early","ar":"الدرس: سدّد مبكرًا","note_en":"An unrepaired wrong grows; settle it while small.","note_ar":"الخطأ غير المصلَح يكبر؛ سدّده وهو صغير.","imp":2,"children":[]}
+     ]},
+    {"b":"b2792","en":"16. Never think of payback","ar":"16. لا تفكر في المقابل","note_en":"Charlie gave a Corvair to a young mother and taught that expecting reward spoils the gift.","note_ar":"أعطى Charlie سيارة لأم شابة وعلّم أن توقع المكافأة يفسد الهدية.","imp":2,
+     "children":[
+      {"b":"b2798","en":"Lesson: gift vs trade","ar":"الدرس: هدية أم صفقة","note_en":"A gift with a hidden invoice is a trade.","note_ar":"الهدية ذات الفاتورة الخفية صفقة.","imp":2,"children":[]}
+     ]},
+    {"b":"b2800","en":"17. The fifty-dollar investment","ar":"17. استثمار الخمسين دولارًا","note_en":"Charlie knowingly let a man con him of $50, treating it as an investment in the man's conscience.","note_ar":"ترك Charlie رجلًا يخدعه بـ 50 دولارًا عن علم، واعتبره استثمارًا في ضميره.","imp":2,
+     "children":[
+      {"b":"b2805","en":"Planned wrongs stick","ar":"الظلم المدبّر يلتصق","note_en":"Energy invested in a misdeed makes it stick like glue until undone.","note_ar":"الطاقة المبذولة في الجُرم تجعله يلتصق حتى يُمحى.","imp":2,"children":[]},
+      {"b":"b2807","en":"Lesson: peace intact","ar":"الدرس: السلام الداخلي","note_en":"The theft cost $50, not his peace.","note_ar":"كلّفته السرقة 50 دولارًا لا سلامه.","imp":2,"children":[]}
+     ]}
+   ]}
+ ]
+}

@@ -1,0 +1,232 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Volume (2021) -> Qualifying Trades by Using Volume (2023)
+
+@@b2051 h3
+Defining Volume from the
+Ground Up
+
+@@b2052 p
+Where could I start? Any first sign would help. I began by analyzing
+the dictionary definition. The Oxford dictionary says volume is "the
+amount of something". That was enough for me. I wanted a simple model to
+work with before I added any more parameters.
+
+@@b2053 p
+I asked two simple questions:
+
+@@b2054 blockquote
+<p>1. What benefit do I get from knowing the amount of something?</p>
+<p>2. What type of amount is it?</p>
+
+@@b2055 h4
+The benefit of knowing an
+amount
+
+@@b2056 p
+I remember a physics class about units. Before modern units, people
+used very old tools to measure amounts.
+
+@@b2058 p
+Figure: Old units of land measure (oxgang, virgate, carucate) — every
+age measured amounts with its own tools.
+
+@@b2059 p
+The benefit of knowing an amount is obvious: it lets us put things in
+the right place. How? An amount gives a differential picture. From that
+difference we can find the level or boundary. It is a matter of
+judgment: who is taller, who is shorter? Our ability to judge depends on
+our experience and knowledge.
+
+@@b2060 p
+Take chemistry. Which atom has the largest atomic radius? Potassium.
+We do not know everything, so we cannot judge everything. Sometimes we
+need a special tool to measure. For example:
+
+@@b2061 blockquote
+<p>"This is possible because carbon atoms occur in heavy and light forms
+or isotopes, and measuring the relative amounts of each can reveal the
+source of the carbon. Using carbon isotopes in this way is not a new
+idea, but it requires extremely precise—and expensive—measurements."</p>
+
+@@b2062 h4
+My simple conclusion
+
+@@b2063 p
+From this analysis I drew four points:
+
+@@b2064 ul
+<li><p>The main benefit of knowing an amount is to put each thing at its
+proper level or boundary.</p></li>
+<li><p>Some types of amount are easy to judge; others are hard.</p></li>
+<li><p>Judgment aims to place the amount inside its boundary — no more,
+no less. Sometimes the judgment is relative, as with carbon.</p></li>
+<li><p>The ways of measuring differ: different units, different tools,
+different devices.</p></li>
+
+@@b2065 p
+I use this simple conclusion as the ground on which to build
+something bigger. The word "volume" alone is not enough. We must dig
+deeper, because the model works only according to what we put into
+it.
+
+@@b2066 h3
+Measuring Humans
+
+@@b2067 p
+In the stock market, the reason behind every movement is humans, and
+only humans. I know of no monkey or animal that buys or sells. If anyone
+denies it, I welcome the discussion 😊.
+
+@@b2068 p
+So the critical question is not "how do we measure the number of
+humans?" It is "how do we put human action into levels or
+boundaries?"
+
+@@b2069 p
+Old wisdom shows how hard this is. Socrates said: "I know that I am
+intelligent because I know that I know nothing." There, intelligence
+goes with knowing nothing. Today it is the opposite: intelligence goes
+with the one who knows everything. The old teacher said: "I cannot teach
+anybody anything. I can only make them think." Today we say: go to
+school and take a certificate. I am not judging which is right. I only
+want to show how difficult it is to build a unit that measures human
+action or habit. From here my other ideas were born — energy, passion
+and others.
+
+@@b2070 p
+Still, some human things are easy to judge, such as love and hate.
+Someone who loves another will not kill him — that is 99% sure. So in
+some cases we can judge with high confidence.
+
+@@b2071 p
+But can we measure it with an equation? It is impossible. Can anyone
+write an equation that tells whether there is love in his marriage? We
+have tools inside our brain that measure the amount of love easily. Can
+any equation replace testosterone? A monitor may tell you how healthy
+your testosterone is, but reading a description is not the same as
+living the feeling. This is why I do not believe in indicators. I may be
+100% wrong, but I cannot fight my own analysis without a sign that
+proves me wrong.
+
+@@b2072 h3
+My Definition:
+The Amount of Selling at a Price
+
+@@b2073 p
+So what does volume in the market measure? It measures the amount of
+change in property. Mr. Goodman was right: price causes volume. In every
+market, the amount of selling depends on what the price is.
+
+@@b2074 p
+My definition is therefore: <strong>volume is the amount of selling,
+depending on the price.</strong> When the market is at price X, it
+generates an amount of selling Y.
+
+@@b2075 h4
+What the amount tells us
+
+@@b2076 p
+What is the benefit? In every market, the amount of selling tells a
+story about price:
+
+@@b2077 ul
+<li><p>When the amount of selling increases, the price will probably
+rise.</p></li>
+<li><p>When the amount of selling decreases, the price will probably be
+discounted.</p></li>
+<li><p>When the amount of selling runs at average, the price will
+probably follow whoever dominates.</p></li>
+<li><p>When the amount of selling is abnormally high, the price is
+probably at a critical point.</p></li>
+<li><p>When the amount of selling is abnormally low, the price is also
+probably at a critical point. No business can live without customers —
+the real boss of every business is the customer.</p></li>
+
+@@b2079 p
+Figure: Reading the amount of selling: what increasing, decreasing,
+average and abnormal volume probably tell us about price.
+
+@@b2080 h4
+A big note
+
+@@b2081 p
+One bar is not enough to tell the story, and the same is true of
+volume. We must work Inward and Outward to understand the amount of
+selling in each hour, day and week. Sometimes the market moves up on a
+very low amount of selling simply because it has just come from an
+abnormal amount. This is a soft judgment.
+
+@@b2083 p
+Figure: Volume bars read as nothing more than the quantity of sales
+in each period. Real data: GBPUSD, 1-hour volume, 28 Feb – 4 Mar 2022.
+(The original was a volume strip cut from another chart; this one is
+drawn from real volume.)
+
+@@b2084 h3
+Reading Volume with the
+Matrix
+
+@@b2085 p
+So all these columns follow one simple path: the quantity of sales.
+By judging the quantity, we can put it in the right place. For example,
+when the market moves up on a very low quantity of sales, we can easily
+judge that the market will probably go down. It is just an Overlay.
+
+@@b2086 p
+How do we judge that the quantity is very low? It is not hard:
+memorize the Matrix. Thank you, Mr. Goodman. I watch each Matrix,
+memorize the change, and make my judgment behind it. Most of the time I
+combine it with a judgment of time. Time represents control, like how
+long a football team keeps the ball.
+
+@@b2087 p
+The change in the amount of sales in each FPS, SS and SPS can tell
+the story.
+
+@@b2089 p
+Figure: Volume inside a down 1-2-3: the amount of selling under the
+FPS, SS and SPS, and what each change means.
+
+@@b2090 h4
+Example: EURUSD
+
+@@b2092 p
+Figure: A 1-2-3 down with the volume under each leg marked 1, 2 and
+3. Real data: EURUSD, 4-hour, 17 Feb – 2 Mar 2022. (The original chart
+was EURUSD daily, July–August 2021; this one shows the same
+structure.)
+
+@@b2093 blockquote
+<p>1. <strong>FPS (1).</strong> The volume fits the range of the wave
+very well; everything is fine. The amount of sales at 1 shows how the
+down move travels at an average pace. I memorize that.</p>
+<p>2. <strong>SS (2).</strong> But everything can change. At 2 the
+amount of sales is clearly lower than at 1. It shows only a correction.
+The time is very short, so there is no control.</p>
+<p>3. <strong>SPS (3).</strong> Here we have an indication. The volume
+is abnormal for the range and for the time held. There are a lot of
+sales and the market is at a critical point. Because sales increased on
+a down SPS held for very little time, it shows many buyers want to enter
+the market.</p>
+<p>4. <strong>After the SPS.</strong> As soon as the SPS ends, the
+quantity of sales rises above the SS at 2. More buyers want to bid the
+market. Reading this, I know the right place for this amount: it is to
+raise the price. Buyers have a lot of energy to pull the market up.</p>
+
+@@b2094 p
+I know this is tick volume, but it works well with judgment behind
+the Matrix. Reading volume without the 1-2-3 will mislead you a lot.
+
+@@b2095 p
+That is my very simple study of how I read volume — the quantity of
+sales. Thanks for reading.
+
+@@b2096 h2
+Qualifying Trades by
+Using Volume (2023)
+
+@@b2097 p
+In this short study I show how I use volume to qualify a trade. I
+start from one simple rule — price makes volume — and build a three-step
+routine around the 3-C cancel and the Matrix. Then I read two examples,
+and finally walk through a full chart bar by bar.
+

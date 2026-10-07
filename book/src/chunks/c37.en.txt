@@ -1,0 +1,283 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Counter Propagation (2023) -> Following the Propagation (2023)
+
+@@b2370 h2
+Counter Propagation (2023)
+
+@@b2371 p
+Everything is a 1-2-3 — from trading to trending. In this short note
+I show why it matters to read the chart through the lens of Propagation,
+and I give some hints for spotting a counter Propagation before it ruins
+a Setup.
+
+@@b2372 h3
+Two Examples
+
+@@b2373 h4
+Example 1
+
+@@b2375 p
+Figure: Buyers are not willing to build a 1-2-3: the second top (the
+EP of the SPS) stays below the first (the EP of the FPS), the counter
+Propagation starts, and a lower top follows. Real data: GBPUSD, 1-hour,
+22 Feb – 2 Mar 2022. (The original chart was AUDUSD daily, Jan – Aug
+2023; this one shows the same structure.)
+
+@@b2376 h4
+Example 2
+
+@@b2378 p
+Figure: After the TP, the up moves come back to the Return level
+(dotted line). Real data: USDJPY, 1-hour, 15–28 Feb 2022. (The original
+chart was USWHEAT daily, Jan – Aug 2023; this one shows the same
+structure.)
+
+@@b2380 p
+Figure: The counter Propagation walks back down to the Return Zone.
+Real data: EURJPY, 1-hour, 23 Feb – 1 Mar 2022. (The original chart was
+USWHEAT H1, 1–11 Aug 2023; this one shows the same structure.)
+
+@@b2381 h3
+Hints for Spotting a
+Counter Propagation
+
+@@b2382 p
+A counter Propagation is like a nightmare for a Setup. Here are some
+hints.
+
+@@b2383 h4
+1. A change in time rhythm
+
+@@b2384 p
+Watch for a time rhythm with no new low or new high. Watch for a
+change in the time rhythm inside the Propagation — either extremely slow
+or extremely fast.
+
+@@b2386 p
+Figure: An extremely fast counter Propagation. Real data: USDJPY,
+1-hour, 21–25 Feb 2022. (The original chart was USDMXN H4, Jul – Aug
+2023; this one shows the same structure.)
+
+@@b2388 p
+Figure: An extremely slow attempt to re-propagate inside a flat
+range. Real data: USDCAD, 1-hour, 14–21 Feb 2022. (The original chart
+was EURNOK H4, Jul – Aug 2023; this one shows the same structure.)
+
+@@b2390 p
+Figure: A change in time rhythm and price rhythm, with no new low.
+Real data: AUDUSD, 1-hour, 22 Feb – 1 Mar 2022. (The original chart was
+AUDNZD H4, Jul – Aug 2023; this one shows the same structure.)
+
+@@b2391 h4
+2. A new count
+
+@@b2392 p
+Build a new count for the counter Propagation.
+
+@@b2394 p
+Figure: A new counter Propagation count after the 1-2-3 up tops out.
+Real data: USDJPY, 30-minute, 1–4 Mar 2022. (The original chart was
+AUDJPY M30, 8–11 Aug 2023; this one shows the same structure.)
+
+@@b2395 p
+The new count is like the foundation of a building. A counter
+Propagation cannot move further without a foundation, so watch for the
+foundation of the move.
+
+@@b2397 p
+Figure: A change in time rhythm, no new lows, and a new foundation
+being built. Real data: GBPJPY, 1-hour, 23–28 Feb 2022. (The original
+chart was AUDNZD H1, Jul – Aug 2023; this one shows the same
+structure.)
+
+@@b2398 h4
+3. Wait for a Dagger
+
+@@b2399 p
+Wait for a Dagger, where both buyers and sellers lose their
+energy.
+
+@@b2401 p
+Figure: The converging lines of a Dagger, where both sides run out of
+energy. Real data: EURUSD, 1-hour, 24 Feb – 2 Mar 2022. (The original
+chart was USDCAD H4, Jun – Aug 2023; this one shows the same
+structure.)
+
+@@b2402 h4
+4. Follow the larger Nest
+
+@@b2403 p
+Follow the direction of the larger Nest until the larger Nest Setup
+fails.
+
+@@b2405 p
+Figure: The larger Nest, with its key level marked in red. Real data:
+GBPUSD, 4-hour, 14 Feb – 4 Mar 2022. (The original chart was AUDJPY
+weekly, 2017–2023; this one shows the same structure.)
+
+@@b2407 p
+Figure: Sell signals inside the direction of the larger Nest: at the
+key level, at the retest and at the lower top. Real data: GBPUSD,
+1-hour, 17–24 Feb 2022. (The original chart was AUDJPY H4, Jun – Aug
+2023; this one shows the same structure.)
+
+@@b2409 p
+Figure: Four hints of a counter Propagation: time rhythm, a new
+count, the Dagger, and the larger Nest.
+
+@@b2410 h2
+Following the Propagation
+(2023)
+
+@@b2411 p
+In this paper I show how to follow the Propagation on a lower time
+frame to judge a higher-time-frame Setup. I use six schematic examples
+of 5-minute action inside a 1-hour SPS, then a real AUDCHF trade, and I
+close with a two-step summary.
+
+@@b2412 h3
+Reading a Dead Chart
+
+@@b2413 p
+A chart by itself is only a description of a shift in motion. When we
+read the history of a bar chart, we are on the past axis — it is dead
+motion. To make an intelligent decision, we must interpret that history
+so that it builds an intelligent conclusion, based on a reasonable and
+factual process.
+
+@@b2414 p
+Anyone who knows Goodman knows that the core of all price action is
+the 1-2-3. That action has many implications from which we can draw new
+conclusions.
+
+@@b2415 p
+Here is an abstract 1-2-3 inside a larger 1-2-3. Which one has the
+better odds of completing the 1-2-3 elements? In each example below,
+there is a Goodman Setup on the 1H, and the question is the same:
+<strong>what does the 5M action imply, and are the odds in favor of this
+being the EP of the SPS on the 1H?</strong>
+
+@@b2416 h3
+Six Examples
+
+@@b2417 h4
+Example 1
+
+@@b2419 p
+Figure: Example 1 — choppy 5M action with no fresh lows inside the 1H
+SPS.
+
+@@b2420 p
+Is this 5M action more bullish? It is very clear: we have a Goodman
+Setup on the 1H, and this is most likely the EP of the SPS on the
+1H.
+
+@@b2421 h4
+Example 2
+
+@@b2423 p
+Figure: Example 2 — 5M action that keeps making new lows, with the
+last swing showing selling tiring.
+
+@@b2424 p
+This looks more bearish than bullish. Price can always move to a new
+low without any hesitation. The only problem is the last swing: it
+suggests the selling is temporarily tiring.
+
+@@b2425 h4
+Example 3
+
+@@b2427 p
+Figure: Example 3 — a clean, low-volatility down Propagation on the
+5M.
+
+@@b2428 p
+This is the most bearish example: a down Propagation with clear
+direction and low volatility. The odds of this being the EP of the SPS
+are very low. We can only treat it as a Jumbo and wait for more bullish
+development.
+
+@@b2429 h4
+Example 4
+
+@@b2431 p
+Figure: Example 4 — a breakaway low, then an up Propagation and a
+last down Propagation that fails to make a new low.
+
+@@b2432 p
+Here the market has a breakaway. Sometimes this produces panic
+behavior. Then the market tries to propagate up. The message of the last
+down Propagation is that sellers are unable to make a new low — there is
+a lack of sell orders. The odds are higher that this is the EP of the
+SPS on the 1H.
+
+@@b2433 h4
+Example 5
+
+@@b2435 p
+Figure: Example 5 — buyers try to end the down move (a weak sister),
+but sellers re-propagate lower.
+
+@@b2436 p
+The buyers try to propagate and end the down movement, but the
+sellers re-propagate for a further down move. This usually happens when
+the 1H has no 3-C cancel, or a bad Overlay combination.
+
+@@b2437 h4
+Example 6
+
+@@b2439 p
+Figure: Example 6 — a balancing Knot, with buyers and sellers
+struggling to dominate the Matrix.
+
+@@b2440 p
+This is balancing — Knot behavior. Buyers and sellers struggle to
+dominate the Matrix.
+
+@@b2441 h4
+What the examples teach
+
+@@b2442 p
+These examples give an idea of what happens on a live chart: the most
+bullish, the most bearish, where selling is only struggling, and where
+the Setup may fail and sellers re-propagate. They are based on many real
+charts.
+
+@@b2443 p
+Simply watch the up Propagation inside the down movement. Then
+measure its effect on buyers and sellers: how do they react?
+
+@@b2444 h3
+A Real Chart (first read on
+AUDCHF)
+
+@@b2445 p
+Here is the application on a real chart, first read on AUDCHF daily;
+the charts below show the same structure on real 2022 data. First the
+higher time frame.
+
+@@b2447 p
+Figure: A steady downtrend: is the latest low the EP of the SPS? Real
+data: EURNZD, 4-hour, 14 Feb – 4 Mar 2022. (The original chart was
+AUDCHF daily, July 2022 – May 2023; this one shows the same
+structure.)
+
+@@b2448 p
+Is this the EP of the SPS? Let us watch how buyers and sellers play
+on the lower time frame (the 4-hour in my original).
+
+@@b2450 p
+Figure: For the first time, buyers are able to propagate against the
+downtrend. Real data: GBPJPY, 1-hour, 28 Feb – 3 Mar 2022. (The original
+chart was AUDCHF H4, March–May 2023; this one shows the same
+structure.)
+
+@@b2451 p
+This is the basic Goodman Setup. For the first time, buyers are able
+to propagate against the downtrend. When price returned to the zone, I
+entered at the Dagger — just like Example 4.
+
+@@b2452 p
+Goodman points are very critical: "something may happen". When they
+intersect with a Propagation, they guide the direction at that point. It
+is most likely to explode.
+

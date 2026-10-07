@@ -1,0 +1,352 @@
+{
+ "chunk": "c06",
+ "highlights": [
+  {
+   "b": "b350",
+   "en": "A nice Jumbo Matrix: buyers lose their energy as price advances to a",
+   "level": 1
+  },
+  {
+   "b": "b354",
+   "en": "strengthens the picture: buyers are losing their energy at a new",
+   "level": 1
+  },
+  {
+   "b": "b355",
+   "en": "Short the new high when buying loses its energy simply because price",
+   "level": 2
+  },
+  {
+   "b": "b361",
+   "en": "source code of the market.",
+   "level": 1
+  },
+  {
+   "b": "b369",
+   "en": "The market is always in transition between these clusters, from Low",
+   "level": 1
+  },
+  {
+   "b": "b382",
+   "en": "Never short a dull market.",
+   "level": 1
+  },
+  {
+   "b": "b386",
+   "en": "Systems fail because they were developed and optimised over ME",
+   "level": 1
+  },
+  {
+   "b": "b391",
+   "en": "This is the Propagation",
+   "level": 1
+  },
+  {
+   "b": "b391",
+   "en": "unless we connect the Matrices in the best fit.",
+   "level": 1
+  },
+  {
+   "b": "b392",
+   "en": "For example, a Setup is a Propagation with a breakaway from the",
+   "level": 1
+  },
+  {
+   "b": "b393",
+   "en": "on the current ME; it anticipates and exploits the transition between",
+   "level": 2
+  },
+  {
+   "b": "b399",
+   "en": "see the false spike signals of Low DM / High V. And they have no real",
+   "level": 1
+  },
+  {
+   "b": "b400",
+   "en": "Multi-timeframe ≠ Propagation lens.",
+   "level": 2
+  },
+  {
+   "b": "b410",
+   "en": "Aligning multiple time frames with indicators does not show the real",
+   "level": 1
+  },
+  {
+   "b": "b411",
+   "en": "What do I see now, what do I want to see next.",
+   "level": 2
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b347",
+   "en": "Down to the Entry",
+   "ar": "النزول إلى الدخول",
+   "note_en": "A Jumbo to a new high with no follow-through, then a short entry on XAUUSD.",
+   "note_ar": "Jumbo يصعد إلى قمة جديدة دون استمرار، ثم دخول بيع على XAUUSD.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b350",
+     "en": "Jumbo Matrix",
+     "ar": "Jumbo Matrix",
+     "note_en": "Buyers lose energy at a new high; a Nest 6&6 at the EP signals a Dagger or small 3S Setup.",
+     "note_ar": "يفقد المشترون طاقتهم عند قمة جديدة؛ وNest 6&6 عند الـ EP يشير إلى Dagger أو Setup صغير 3S.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b349",
+       "en": "Gold 1-hour chart",
+       "ar": "رسم Gold 1-hour",
+       "note_en": "XAUUSD, 22-25 Feb 2022, mirrors the original July 2024 structure.",
+       "note_ar": "XAUUSD من 22 إلى 25 فبراير 2022، يعكس بنية الرسم الأصلي في يوليو 2024.",
+       "imp": 1
+      },
+      {
+       "b": "b352",
+       "en": "5-minute Setup",
+       "ar": "Setup على 5-minute",
+       "note_en": "Small Setup at the top of the triangle, second sell on the break of the lower line.",
+       "note_ar": "Setup صغير في أعلى المثلث، وبيع ثانٍ عند كسر الخط السفلي.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b354",
+     "en": "MO and 1-hour Setup",
+     "ar": "الـ MO وSetup الـ 1-hour",
+     "note_en": "Sellers move price while buying has no energy; the 1-hour Setup raises the probability.",
+     "note_ar": "البائعون يحركون السعر بينما الشراء بلا طاقة؛ وSetup الـ 1-hour يرفع الاحتمال.",
+     "imp": 2
+    },
+    {
+     "b": "b355",
+     "en": "Lesson: short the exhausted high",
+     "ar": "الدرس: بِعِ القمة المنهكة",
+     "note_en": "Short the new high when buying loses energy because price advanced too far.",
+     "note_ar": "بِعِ القمة الجديدة حين يفقد الشراء طاقته لأن السعر صعد كثيرًا.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b358",
+   "en": "How I Came to Goodman",
+   "ar": "كيف وصلتُ إلى Goodman",
+   "note_en": "The author's journey from awe at market swings to finding Goodman's Swing Count System.",
+   "note_ar": "رحلة المؤلف من الدهشة بتأرجحات السوق إلى اكتشاف Goodman's Swing Count System.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b359",
+     "en": "Swings at every scale",
+     "ar": "Swings على كل المقاييس",
+     "note_en": "Upswings and downswings appear on the 1-minute and the monthly chart alike.",
+     "note_ar": "موجات الصعود والهبوط تظهر على رسم 1-minute وعلى الشهري على حد سواء.",
+     "imp": 1
+    },
+    {
+     "b": "b361",
+     "en": "Source code of the market",
+     "ar": "الشيفرة المصدرية للسوق",
+     "note_en": "How, why and what type each swing is would be the market's source code.",
+     "note_ar": "كيف تحدث الموجات ولماذا ونوع كل swing هو الشيفرة المصدرية للسوق.",
+     "imp": 3
+    },
+    {
+     "b": "b362",
+     "en": "Lost in the forest",
+     "ar": "الضياع في الغابة",
+     "note_en": "More questions than answers; fear that it is only chaos.",
+     "note_ar": "أسئلة أكثر من الإجابات؛ وخوف من أن يكون الأمر فوضى.",
+     "imp": 1
+    },
+    {
+     "b": "b363",
+     "en": "Finding Goodman",
+     "ar": "العثور على Goodman",
+     "note_en": "Ferrera's book led to M. Duane Archer's article on Goodman's Swing Count System.",
+     "note_ar": "كتاب Ferrera قاد إلى مقال M. Duane Archer عن Goodman's Swing Count System.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b365",
+   "en": "The Market's Complexity",
+   "ar": "تعقيد السوق",
+   "note_en": "The ME shows facts through four clusters of DM and V; the market keeps transitioning.",
+   "note_ar": "الـ ME تعكس الحقائق عبر أربع مجموعات من DM وV؛ والسوق في انتقال دائم.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b367",
+     "en": "Four ME clusters",
+     "ar": "مجموعات ME الأربع",
+     "note_en": "High DM/Low V, High DM/High V, Low DM/Low V, Low DM/High V.",
+     "note_ar": "High DM/Low V وHigh DM/High V وLow DM/Low V وLow DM/High V.",
+     "imp": 2
+    },
+    {
+     "b": "b369",
+     "en": "Constant transition",
+     "ar": "انتقال دائم",
+     "note_en": "The market moves from Low DM / Low V toward High DM / High V.",
+     "note_ar": "السوق ينتقل من Low DM / Low V نحو High DM / High V.",
+     "imp": 3
+    },
+    {
+     "b": "b388",
+     "en": "Noise and indeterminacy",
+     "ar": "الضجيج وعدم اليقين",
+     "note_en": "The market is much less than 100 percent predictable.",
+     "note_ar": "السوق أقل بكثير من 100 بالمئة قابلية للتنبؤ.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b372",
+   "en": "Why Strategies Fail",
+   "ar": "لماذا تفشل الاستراتيجيات",
+   "note_en": "Each ME cluster breaks a different family of popular strategies.",
+   "note_ar": "كل مجموعة ME تُفشل عائلة مختلفة من الاستراتيجيات الشائعة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b374",
+     "en": "High DM / Low V",
+     "ar": "High DM / Low V",
+     "note_en": "Mean reversion and counter-trend fail; greed dominates and buying is aggressive.",
+     "note_ar": "تفشل mean reversion والتداول عكس الاتجاه؛ الطمع مسيطر والشراء عدواني.",
+     "imp": 1
+    },
+    {
+     "b": "b377",
+     "en": "High DM / High V",
+     "ar": "High DM / High V",
+     "note_en": "Pullback and tight-stop systems fail; fear and violent volatility.",
+     "note_ar": "تفشل أنظمة الـ pullback والـ stop الضيق؛ خوف وتذبذب عنيف.",
+     "imp": 1
+    },
+    {
+     "b": "b380",
+     "en": "Low DM / Low V",
+     "ar": "Low DM / Low V",
+     "note_en": "Trend following fails; never short a dull market, small breakouts are traps.",
+     "note_ar": "يفشل تتبّع الاتجاه؛ لا تبِع سوقًا باهتًا، والـ breakouts الصغيرة فخاخ.",
+     "imp": 2
+    },
+    {
+     "b": "b383",
+     "en": "Low DM / High V",
+     "ar": "Low DM / High V",
+     "note_en": "All trend systems and mostly false breakouts fail; fear creates volatility without direction.",
+     "note_ar": "تفشل كل أنظمة الاتجاه ومعظم الـ breakouts؛ الخوف يصنع تذبذبًا بلا اتجاه.",
+     "imp": 1
+    },
+    {
+     "b": "b386",
+     "en": "Systems fail on skewed ME data",
+     "ar": "الفشل بسبب بيانات منحازة",
+     "note_en": "Systems are optimised on one ME's data, not flawed back-testing; profits vanish after months.",
+     "note_ar": "الأنظمة تُحسَّن على بيانات ME واحدة، لا بسبب قصور الاختبار؛ فتضيع الأرباح بعد أشهر.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b389",
+   "en": "Propagation Lens",
+   "ar": "عدسة الـ Propagation",
+   "note_en": "Matrices within Matrices; the lens connects them and sees the transition that multi-timeframe tools miss.",
+   "note_ar": "Matrices داخل Matrices؛ والعدسة تربطها وترى الانتقال الذي تفوّته أدوات الأطر المتعددة.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b391",
+     "en": "Worlds inside worlds",
+     "ar": "عوالم داخل عوالم",
+     "note_en": "Without the lens we walk in the dark; connect Matrices in best fit.",
+     "note_ar": "بدون العدسة نمشي في العتمة؛ نربط الـ Matrices بأفضل ملاءمة.",
+     "imp": 2
+    },
+    {
+     "b": "b392",
+     "en": "Setup as ME transition",
+     "ar": "الـ Setup انتقال ME",
+     "note_en": "A Setup is a Propagation with a breakaway from the smaller Matrix into the larger.",
+     "note_ar": "الـ Setup هو Propagation مع breakaway من الـ Matrix الأصغر إلى الأكبر.",
+     "imp": 3
+    },
+    {
+     "b": "b393",
+     "en": "Works across ME clusters",
+     "ar": "يعمل عبر كل المجموعات",
+     "note_en": "It exploits transitions instead of depending on the current ME.",
+     "note_ar": "يستثمر الانتقالات بدل الاعتماد على الـ ME الحالية.",
+     "imp": 2
+    },
+    {
+     "b": "b396",
+     "en": "Multi-timeframe is not the lens",
+     "ar": "Multi-timeframe ليس العدسة",
+     "note_en": "Alignment of trend, momentum and signals misses transitions and false spikes.",
+     "note_ar": "محاذاة الاتجاه والزخم والإشارات تفوّت الانتقالات والـ spikes الكاذبة.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b401",
+   "en": "Indicators Sending Wrong Signals",
+   "ar": "مؤشرات ترسل إشارات خاطئة",
+   "note_en": "Tables contrast indicator readings with Goodman Wave Theory in each ME cluster.",
+   "note_ar": "جداول تقارن قراءات المؤشرات بما تقوله Goodman Wave Theory في كل مجموعة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b402",
+     "en": "Low DM / High V",
+     "ar": "Low DM / High V",
+     "note_en": "Volatility spikes are liquidation, stop runs and noise, not trend.",
+     "note_ar": "قفزات التذبذب تصفية وstop runs وضجيج، لا اتجاه.",
+     "imp": 1
+    },
+    {
+     "b": "b404",
+     "en": "Low DM / Low V",
+     "ar": "Low DM / Low V",
+     "note_en": "Compression inside a tiny Matrix; no breakaway, expansion or transition.",
+     "note_ar": "انضغاط داخل Matrix صغيرة؛ لا breakaway ولا توسّع ولا انتقال.",
+     "imp": 1
+    },
+    {
+     "b": "b406",
+     "en": "High DM / High V (late trend)",
+     "ar": "High DM / High V (اتجاه متأخر)",
+     "note_en": "Propagation slows, pullbacks mean weakness, high volume is climax.",
+     "note_ar": "الـ Propagation يتباطأ، والـ pullback ضعف، والـ volume المرتفع ذروة.",
+     "imp": 1
+    },
+    {
+     "b": "b408",
+     "en": "High DM / Low V",
+     "ar": "High DM / Low V",
+     "note_en": "Breakouts and expansion are random volatility without DM.",
+     "note_ar": "الـ breakouts والتوسّع تذبذب عشوائي بلا DM.",
+     "imp": 1
+    },
+    {
+     "b": "b410",
+     "en": "Conclusion",
+     "ar": "الخلاصة",
+     "note_en": "Aligned indicators distort the vision; use ME, Propagation lens, Intersection and 3-C.",
+     "note_ar": "المؤشرات المتوافقة تشوّه الرؤية؛ استخدم ME وعدسة Propagation وIntersection و3-C.",
+     "imp": 3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "chunk": "c09",
+ "highlights": [
+  {
+   "b": "b569",
+   "en": "A structure indication is one that has an element of inherence",
+   "level": 1
+  },
+  {
+   "b": "b571",
+   "en": "NO EXTREME EXAGGERATIONS",
+   "level": 1
+  },
+  {
+   "b": "b581",
+   "en": "buyers do not allow any significant movement in",
+   "level": 1
+  },
+  {
+   "b": "b582",
+   "en": "Every Goodman point tells its own story.",
+   "level": 1
+  },
+  {
+   "b": "b587",
+   "en": "Congruence is an indication that matches the most recent story.",
+   "level": 1
+  },
+  {
+   "b": "b591",
+   "en": "This\narrangement shows that buyers in CD have the same force as in AB.",
+   "level": 1
+  },
+  {
+   "b": "b593",
+   "en": "\"Everything is a 1-2-3.\"",
+   "level": 2
+  },
+  {
+   "b": "b595",
+   "en": "Implicitly is an indication that is implied by the most recent story.",
+   "level": 1
+  },
+  {
+   "b": "b600",
+   "en": "a buying force at F is implied.",
+   "level": 1
+  },
+  {
+   "b": "b602",
+   "en": "Implicitly works as a diagnostic tool to check the intensity of the",
+   "level": 1
+  },
+  {
+   "b": "b604",
+   "en": "Intrinsic is a compound of Congruence and Implicitly.",
+   "level": 1
+  },
+  {
+   "b": "b607",
+   "en": "Every 1-2-3 sits inside a larger 1-2-3.",
+   "level": 2
+  },
+  {
+   "b": "b609",
+   "en": "The price itself does not matter.",
+   "level": 1
+  },
+  {
+   "b": "b610",
+   "en": "\"The markets can only go up or down.\"",
+   "level": 1
+  },
+  {
+   "b": "b612",
+   "en": "A combination built on\nlogic can set, and keep, a very good return.",
+   "level": 1
+  },
+  {
+   "b": "b616",
+   "en": "When the market is not in one of\nthese cases, there is no signal.",
+   "level": 1
+  },
+  {
+   "b": "b622",
+   "en": "When there is a lot of propagation in the BMX, it suggests weakness.",
+   "level": 1
+  },
+  {
+   "b": "b636",
+   "en": "In trades like this, I enter in the Dagger.",
+   "level": 1
+  },
+  {
+   "b": "b642",
+   "en": "This combination of Overlays is the best!",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b568",
+   "en": "Structure indication",
+   "ar": "مؤشر البنية (Structure indication)",
+   "note_en": "A structure indication carries an element of inherence from buyers and sellers; arranging it gives them a structure.",
+   "note_ar": "مؤشر البنية فيه عنصر من الطبيعة الكامنة عند المشترين والبائعين، وترتيبه يمنحهم بنية.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b570",
+     "en": "The element: greed, fear",
+     "ar": "العنصر: الطمع والخوف",
+     "note_en": "Human nature gives intensity (when) and power (why), under one rule: no extreme exaggeration nor negligence.",
+     "note_ar": "طبيعة الإنسان تمنح الشدّة (when) والقدرة (why) بقاعدة واحدة: لا مبالغة مفرطة ولا إهمال.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b572",
+       "en": "Extremes and excitement",
+       "ar": "الأطراف القصوى والإثارة",
+       "note_en": "Extremes show maximum desire; the reaction is excitement, whose opposite is sadness.",
+       "note_ar": "الأطراف القصوى تُظهر أقصى رغبة، وردّ الفعل إثارة، وضدّها الحزن.",
+       "imp": 1
+      },
+      {
+       "b": "b573",
+       "en": "Goal hit or missed",
+       "ar": "بلوغ الهدف أو عدمه",
+       "note_en": "Humans are excited when they hit their goal and sad when they cannot.",
+       "note_ar": "يُثار الناس عند بلوغ الهدف ويحزنون عند عدمه.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b574",
+     "en": "Arranging by inherence",
+     "ar": "الترتيب وفق الطبيعة الكامنة",
+     "note_en": "The element is arranged by the last two inherences: when and why orders enter the market.",
+     "note_ar": "يُرتَّب العنصر وفق آخر طبيعتين: متى ولماذا تُدخل الأوامر.",
+     "imp": 1
+    },
+    {
+     "b": "b579",
+     "en": "Goodman points tell the story",
+     "ar": "نقاط Goodman تحكي القصة",
+     "note_en": "BP answers when buyers enter, 25% limits counter-moves, EP marks where greed is exhausted.",
+     "note_ar": "BP تجيب عن متى يدخل المشترون، و25% حدّ الحركة المعاكسة، وEP حيث ينفد الطمع.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b581",
+       "en": "BP, 25%, EP",
+       "ar": "BP و25% و EP",
+       "note_en": "Beginning Point driven by greed; no significant opposite move (25%); Ending Point at extreme exaggeration.",
+       "note_ar": "Beginning Point بدافع الطمع، لا حركة معاكسة كبيرة (25%)، وEnding Point عند المبالغة القصوى.",
+       "imp": 2
+      },
+      {
+       "b": "b583",
+       "en": "Greed as a force to act",
+       "ar": "الطمع قوة للتحرك",
+       "note_en": "Greed here is not a fault; it is simply the force to act.",
+       "note_ar": "الطمع هنا ليس عيبًا بل قوة للتحرك.",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b584",
+   "en": "Types of arrangement",
+   "ar": "أنواع الترتيب",
+   "note_en": "Three types: Congruence, Implicitly and Intrinsic.",
+   "note_ar": "ثلاثة أنواع: Congruence وImplicitly وIntrinsic.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b586",
+     "en": "Congruence",
+     "ar": "Congruence",
+     "note_en": "An indication matching the most recent story; a mirror story.",
+     "note_ar": "مؤشر يطابق أحدث قصة؛ قصة مرآة.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b589",
+       "en": "GBPUSD AB to CD",
+       "ar": "GBPUSD: AB إلى CD",
+       "note_en": "Buyers drive A to B, correct to C near TP, then CD mirrors AB with the same force.",
+       "note_ar": "المشترون يدفعون A إلى B، يصحّحون إلى C قرب TP، ثم CD مرآة لـ AB بالقوة نفسها.",
+       "imp": 1
+      },
+      {
+       "b": "b591",
+       "en": "Why the trend is up",
+       "ar": "لماذا الاتجاه صاعد",
+       "note_en": "Buyers recover strength after the correction and still match their past extremes.",
+       "note_ar": "المشترون يستعيدون قوتهم بعد التصحيح ويبلغون مثل أقصاهم السابق.",
+       "imp": 2
+      },
+      {
+       "b": "b593",
+       "en": "Everything is a 1-2-3",
+       "ar": "Everything is a 1-2-3",
+       "note_en": "Charlie's core saying.",
+       "note_ar": "عبارة Charlie الجوهرية.",
+       "imp": 3
+      }
+     ]
+    },
+    {
+     "b": "b594",
+     "en": "Implicitly",
+     "ar": "Implicitly",
+     "note_en": "An indication implied by the latest story; a sign of something about to occur.",
+     "note_ar": "مؤشر تُضمِره أحدث قصة؛ علامة على ما سيحدث.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b597",
+       "en": "USDCZK first and second implicitly",
+       "ar": "USDCZK: implicit أول وثانٍ",
+       "note_en": "Sellers lose force at C and E; downtrend in doubt; buying at F implied.",
+       "note_ar": "البائعون يفقدون القوة عند C وE؛ الاتجاه الهابط موضع شك؛ شراء عند F مُضمَر.",
+       "imp": 1
+      },
+      {
+       "b": "b600",
+       "en": "CD congruent with EF",
+       "ar": "CD متطابق مع EF",
+       "note_en": "The second implicitly implies a buy at F, forming a high-performance mirror story.",
+       "note_ar": "الثاني يُضمر شراءً عند F ويكوّن قصة مرآة عالية الأداء.",
+       "imp": 2
+      },
+      {
+       "b": "b602",
+       "en": "Diagnostic tool",
+       "ar": "أداة تشخيص",
+       "note_en": "Checks the intensity of the trend; several signs are needed.",
+       "note_ar": "تفحص شدّة الاتجاه؛ نحتاج عدة علامات.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b603",
+     "en": "Intrinsic",
+     "ar": "Intrinsic",
+     "note_en": "Compound of Congruence and Implicitly; the most important type.",
+     "note_ar": "مركّب من Congruence وImplicitly؛ أهم الأنواع.",
+     "imp": 3,
+     "children": [
+      {
+       "b": "b607",
+       "en": "1-2-3 inside a larger 1-2-3",
+       "ar": "1-2-3 داخل 1-2-3 أكبر",
+       "note_en": "Every 1-2-3 sits inside a larger one; it cannot be separated.",
+       "note_ar": "كل 1-2-3 داخل أكبر منه ولا يُفصل عنه.",
+       "imp": 3
+      },
+      {
+       "b": "b608",
+       "en": "Prediction: return to TP",
+       "ar": "التنبؤ: العودة إلى TP",
+       "note_en": "After a 1-2-3, watch for a return to the TP of the larger (1).",
+       "note_ar": "بعد 1-2-3 ترقّب العودة إلى TP للـ (1) الأكبر.",
+       "imp": 2
+      },
+      {
+       "b": "b609",
+       "en": "GBPSGD: A, B congruent, C implicit",
+       "ar": "GBPSGD: A وB وC",
+       "note_en": "Price follows Goodman points: bounces X, Y, Z. Price itself does not matter.",
+       "note_ar": "السعر يتبع نقاط Goodman: X وY وZ. السعر نفسه لا يهم.",
+       "imp": 2
+      },
+      {
+       "b": "b610",
+       "en": "Charlie: up or down",
+       "ar": "Charlie: صعود أو هبوط",
+       "note_en": "\"The markets can only go up or down.\"",
+       "note_ar": "«الأسواق لا تملك إلا الصعود أو الهبوط.»",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b611",
+   "en": "Constructing a Logical Combination",
+   "ar": "بناء Logical Combination",
+   "note_en": "Build a combination on logic, not guesses; trade only extremes with nested Overlays supported by MO and PO.",
+   "note_ar": "ابنِ تركيبة على المنطق لا التخمين؛ تداول الأطراف القصوى بـ Overlay متداخل مدعوم بـ MO وPO.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b612",
+     "en": "Logic over guesses",
+     "ar": "المنطق لا التخمين",
+     "note_en": "A logical combination can set and keep a very good return.",
+     "note_ar": "التركيبة المنطقية تحقق عائدًا جيدًا وتحافظ عليه.",
+     "imp": 2
+    },
+    {
+     "b": "b616",
+     "en": "Qualify the Overlay",
+     "ar": "تأهيل الـ Overlay",
+     "note_en": "No signal unless the market is in one of the cases; only extremes, nested.",
+     "note_ar": "لا إشارة ما لم يكن السوق في إحدى الحالات؛ أطراف قصوى متداخلة فقط.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b618",
+   "en": "Four examples",
+   "ar": "أربعة أمثلة",
+   "note_en": "Four cases with the author's observations.",
+   "note_ar": "أربع حالات مع ملاحظات المؤلف.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b619",
+     "en": "Case 1: 6x6 (GBPUSD)",
+     "ar": "الحالة 1: 6x6 (GBPUSD)",
+     "note_en": "Much propagation in the BMX means weakness; extreme at the MO; PO Overlay on 1-hour.",
+     "note_ar": "كثرة propagation في BMX ضعف؛ extreme عند MO؛ PO Overlay على 1-hour.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b622",
+       "en": "Weakness like a stopping car",
+       "ar": "الضعف كسيارة تتوقف",
+       "note_en": "The market cannot give a fast wave.",
+       "note_ar": "السوق لا يعطي موجة سريعة.",
+       "imp": 1
+      },
+      {
+       "b": "b626",
+       "en": "Manage by raising the stop",
+       "ar": "الإدارة برفع الـ stop",
+       "note_en": "Raise the stop with each 1-2-3 propagation or nest with the daily STP.",
+       "note_ar": "ارفع الـ stop مع كل propagation أو اعمل nest مع STP اليومي.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b630",
+     "en": "Case 2: Goldilocks (USDMXN)",
+     "ar": "الحالة 2: Goldilocks (USDMXN)",
+     "note_en": "Low EP for each Matrix then a bounce; enter in the Dagger on 1-hour with the STP under the last low.",
+     "note_ar": "EP منخفض لكل Matrix ثم bounce؛ الدخول في Dagger على 1-hour مع STP تحت آخر قاع.",
+     "imp": 3,
+     "children": [
+      {
+       "b": "b636",
+       "en": "Enter in the Dagger",
+       "ar": "الدخول في الـ Dagger",
+       "note_en": "Very low-risk long; manage with STP.",
+       "note_ar": "شراء بمخاطرة منخفضة جدًا؛ والإدارة بـ STP.",
+       "imp": 2
+      },
+      {
+       "b": "b642",
+       "en": "Best combination of Overlays",
+       "ar": "أفضل تركيبة Overlays",
+       "note_en": "The author's verdict on this case.",
+       "note_ar": "حكم المؤلف على هذه الحالة.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b643",
+     "en": "Case 3: PTS (USDCAD)",
+     "ar": "الحالة 3: PTS (USDCAD)",
+     "note_en": "Correction to PO Overlay at 50% of AB, higher than last SS so stronger; double 6x6 on 1-hour.",
+     "note_ar": "التصحيح إلى PO Overlay عند 50% من AB، أعلى من آخر SS فهو أقوى؛ double 6x6 على 1-hour.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b650",
+       "en": "Micro Nest to cut risk",
+       "ar": "micro Nest لتقليل المخاطرة",
+       "note_en": "Risk is high, so nest to minimize it.",
+       "note_ar": "المخاطرة عالية فنستخدم nest لتقليلها.",
+       "imp": 1
+      },
+      {
+       "b": "b653",
+       "en": "Trade the Line",
+       "ar": "تداول الـ Line",
+       "note_en": "Raise the stop with every 1-2-3 propagation, or nest with daily.",
+       "note_ar": "ارفع الـ stop مع كل propagation أو اعمل nest مع اليومي.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b654",
+     "en": "Case 4: PTS (AUDCAD)",
+     "ar": "الحالة 4: PTS (AUDCAD)",
+     "note_en": "PO at 50% with 1-2-3 waves; volume spike at A; Setup at the Return Zone; easy to manage.",
+     "note_ar": "PO عند 50% مع موجات 1-2-3؛ spike في volume عند A؛ Setup عند Return Zone؛ إدارة سهلة.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b660",
+       "en": "Weakness at A",
+       "ar": "الضعف عند A",
+       "note_en": "Last SS turns to SPS; next 1-2-3 lower than last EP-SS; volume helps.",
+       "note_ar": "آخر SS يصير SPS؛ الـ 1-2-3 التالي أدنى من آخر EP-SS؛ والـ volume يساعد.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

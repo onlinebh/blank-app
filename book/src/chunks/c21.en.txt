@@ -1,0 +1,317 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: The Analysis of Market Mind (2021) -> Using GWT as an Identification Tool for Intermarket Analysis (2025)
+
+@@b1369 p
+Figure: The buy after the Dagger and the rally that followed, with
+the stop moved up step by step (STP). Real data: NZDUSD, 1-hour, 24
+February to 4 March 2022. (The original chart was NZDUSD 1-hour, August
+2021, continuing the study above; this one shows the same structure on a
+later NZDUSD window.)
+
+@@b1370 p
+A good profit. I hope you enjoyed this study.
+
+@@b1371 h2
+Observe the Market Behavior
+(2022)
+
+@@b1372 p
+In this short paper I use one chart (originally AUDUSD daily, redrawn
+here on real EURUSD 2-hour data with the same structure) to show how
+Goodman Wave Theory reveals the way one swing intersects with other
+swings. I borrow two ideas from physics, external force and Newton's
+first law, to explain why a swing changes speed or direction exactly
+where it meets an earlier structure.
+
+@@b1374 p
+Figure: A down 1-2-3 (FPS, SS, SPS) whose SS stalls near the TP of
+the earlier swing, and whose SPS ends in a box past the end of line AA,
+the 3C. Real data: EURUSD, 2-hour, 21 February to 4 March 2022. (The
+original chart was AUDUSD daily, April to October 2022; this one shows
+the same structure.)
+
+@@b1375 h3
+Why did the SS fail
+to attract more buyers?
+
+@@b1376 blockquote
+<p>"Experiments have thoroughly verified that any change in velocity
+(speed or direction) must be caused by an external force. The idea of
+generally applicable or universal laws is important not only here—it is
+a basic feature of all laws of physics."</p>
+
+@@b1377 p
+The same applies in the market. An external force is the cause, and
+its effect is a change in speed or direction.
+
+@@b1378 p
+On this chart it is clear. The SS failed to attract buyers when it
+intersected with the TP. The TP acted as a Probability Cause. It
+produced the effect of an external selling force that changed the
+velocity of the SS.
+
+@@b1379 h3
+How far will the SPS run?
+
+@@b1380 blockquote
+<p>"A body at rest remains at rest, or, if in motion, remains in motion
+at a constant velocity unless acted on by a net external force." —
+Newton's First Law</p>
+
+@@b1381 p
+Selling will keep dominating price until it intersects with a
+Probability Cause, such as the end of line AA, where the 3C principle
+comes into play. Watch the box: the price bars start closing at the top.
+That change in direction reflects the external force coming from the
+Probability Cause, the 3C. The price structure that follows will be
+complex or flat.
+
+@@b1383 p
+Figure: The Probability Cause as an external force: a swing keeps its
+velocity until it meets a TP or the 3C line, then changes speed or
+direction.
+
+@@b1384 h3
+The Goodman trader's habit
+
+@@b1385 p
+The Goodman trader always watches these Probability Cause points.
+They are an important step in observing market behavior, and in making
+an inductive inference about what comes next.
+
+@@b1386 h2
+Using
+GWT as an Identification Tool for Intermarket Analysis (2025)
+
+@@b1387 p
+This study looks for relationships between currency markets. A topic
+like this can easily lead to analysis paralysis, where you end up
+nowhere. So I begin with a clear definition of trend, and then I use GWT
+to identify how each market stands against that definition.
+
+@@b1388 h3
+A working definition of
+trend
+
+@@b1389 p
+There are many definitions of trend. The one I find closest to the
+reality of the market is this:
+
+@@b1390 blockquote
+<p><strong>A price trend remains dominated by the Propagation until it
+is cancelled by another Strong Intersection.</strong></p>
+
+@@b1391 p
+This definition holds an inverse relationship between two forces: the
+Propagation and the Intersection. The Intersection plays the key role in
+halting the Propagation.
+
+@@b1393 p
+Figure: The working definition of trend read top-down, with the
+Propagation running until a Strong Intersection halts or cancels it.
+
+@@b1394 h4
+A first example
+(first read on USDMXN, 2-hour)
+
+@@b1396 p
+Figure: The EP-SPS meets the EP-FPS area, and the Intersection
+cancels Matrix 2 in favour of Matrix 1. Real data: USDCAD, 30-minute,
+23–25 February 2022. (The original chart was USDMXN 2-hour, 20 Dec 2024
+– 10 Jan 2025; this one shows the same structure.)
+
+@@b1397 p
+On my original USDMXN 2-hour chart (shown here on real USDCAD data),
+the EP of the SPS met the EP-FPS, and it was also close to the EP-SS.
+This cancelled Matrix 2, which had been the last dominant matrix. Its
+dominance ended when it intersected with the components of Matrix 1.
+
+@@b1398 p
+The market then resolved in the direction of Matrix 1. The
+Intersection was strong enough to stop Matrix 2 from dominating the
+trend.
+
+@@b1399 h3
+The top-down approach on
+USDMXN
+
+@@b1400 p
+In GWT we analyze at least three matrices: Outward, Watch and Inward.
+Each one shows its own matrices and its own Goodman points.
+
+@@b1401 h4
+Weekly (Outward)
+
+@@b1403 p
+Figure: Price leaves the range and goes Over it while the Propagation
+keeps making new EPs. Real data: AUDUSD, 4-hour, 14 Feb – 4 Mar 2022.
+(The original chart was USDMXN weekly, July 2022 – January 2025, with
+the Over-3C count; this one shows the same structure.)
+
+@@b1404 p
+On the weekly chart (redrawn here on 4-hour data), the current price
+is close to the Over-3C count, which represents an Equilibrium.
+Meanwhile, the Propagation is still making new EPs, and it may develop
+into a Line. Let us zoom in to the daily.
+
+@@b1405 h4
+Daily (Watch)
+
+@@b1407 p
+Figure: A trending market turns into a trading range. Real data:
+NZDUSD, 1-hour, 28 Feb – 3 Mar 2022. (The original chart was USDMXN
+daily, August 2024 – January 2025, where the Intersection with the 3C
+made the range; this one shows the same structure.)
+
+@@b1408 p
+The market moved into a trading range because of the Intersection
+with the 3C. The 3C was strong enough to change the market from trending
+into a trading range.
+
+@@b1409 h4
+2-hour (Inward)
+
+@@b1410 p
+Zooming in to the 2-hour chart brings us back to the first example
+above. Matrix 2 was cancelled, and price resolved in the direction of
+Matrix 1.
+
+@@b1411 p
+All of this follows the definition: a price trend remains dominated
+by the Propagation until it is cancelled by another Strong
+Intersection.
+
+@@b1412 table
+<thead>
+<tr>
+<th><strong>Weekly</strong></th>
+<th><strong>Daily</strong></th>
+<th><strong>Hourly</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intersection with the Over count</td>
+<td>Equilibrium resulting from the weekly Intersection; the ME
+changed</td>
+<td>In the direction of the larger proportion (the weekly), hopefully
+breaking out of the trading range; Matrix 2 is cancelled</td>
+</tr>
+</tbody>
+
+@@b1413 h3
+Why this matters for
+intermarket analysis
+
+@@b1414 p
+A study like this opens many doors for exploring the relationships
+between markets. Descartes' philosophy does not let me accept any
+easy-going correlation between currencies. At the same time, I need to
+identify the big players that dominate the currency market.
+
+@@b1415 p
+Then I try to explore the correlation approximately, as our
+definition of trend reveals it. So I applied the same reading to EURUSD,
+GBPUSD and USDCAD. The charts under each pair redraw its weekly and
+daily structure on real 2022 data, often from another pair; each caption
+names the data shown.
+
+@@b1416 h3
+EURUSD
+
+@@b1418 p
+Figure: The failure of the EP-SPS to make a new high above the
+EP-FPS, with the TP and EP-SS marked. Real data: GBPUSD, 2-hour, 15–25
+February 2022. (The original chart was EURUSD weekly, March 2022 –
+January 2025; this one shows the same structure.)
+
+@@b1420 p
+Figure: The re-propagation lower inside a falling channel, and the
+points it may intersect. Real data: EURUSD, 1-hour, 28 Feb – 4 Mar 2022.
+(The original chart was EURUSD daily, August 2024 – January 2025; this
+one shows the same structure.)
+
+@@b1421 table
+<thead>
+<tr>
+<th><strong>Weekly</strong></th>
+<th><strong>Daily</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The EP-SPS failed to make a new high above the EP-FPS. The TP and
+the EP-SS were unable to halt the daily re-propagation.</td>
+<td>There are many scenarios in which the Propagation intersects some of
+these points and is then cancelled. But for now there is no Strong
+Intersection enhanced by a multicount.</td>
+</tr>
+</tbody>
+
+@@b1422 h3
+GBPUSD
+
+@@b1424 p
+Figure: Price close to the EP-SS, with the bar closing near its low.
+Real data: GBPJPY, 2-hour, 14–23 February 2022. (The original chart was
+GBPUSD weekly, October 2022 – January 2025; this one shows the same
+structure.)
+
+@@b1426 p
+Figure: A falling channel drawn from the Propagation, showing where
+it may intersect. Real data: GBPUSD, 2-hour, 25 Feb – 4 Mar 2022. (The
+original chart was GBPUSD daily, August 2024 – January 2025; this one
+shows the same structure.)
+
+@@b1427 table
+<thead>
+<tr>
+<th><strong>Weekly</strong></th>
+<th><strong>Daily</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Close to the EP-SS, but the bar closed near its low. If next week
+does not hold, it does not work.</td>
+<td>The Propagation will intersect at only one of these points, where
+there is a multicount.</td>
+</tr>
+</tbody>
+
+@@b1428 h3
+USDCAD
+
+@@b1430 p
+Figure: A rising channel and a clean 1-2-3 as price approaches the
+EP-SPS. Real data: NZDUSD, 2-hour, 24 Feb – 4 Mar 2022. (The original
+chart was USDCAD weekly, October 2022 – January 2025; this one shows the
+same structure.)
+
+@@b1431 p
+The weekly chart (redrawn here on 2-hour data) shows a nice 1-2-3,
+close to the EP-SPS. If price reaches it, it will be a strong inverse
+Intersection to EURUSD and GBPUSD.
+
+@@b1433 p
+Figure: A trading range after the rise reaches the count. Real data:
+AUDUSD, 30-minute, 3–4 March 2022. (The original chart was USDCAD daily,
+October 2024 – January 2025; this one shows the same structure.)
+
+@@b1434 p
+Normally, an Intersection with a count then changes the ME.
+
+@@b1435 table
+<thead>
+<tr>
+<th><strong>Weekly</strong></th>
+<th><strong>Daily</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Near the EP-SPS; Cancel.</td>
+<td>Trading range. Let us see next week: if price can break out of the
+trading range, it may develop into a Line.</td>
+</tr>
+</tbody>
+

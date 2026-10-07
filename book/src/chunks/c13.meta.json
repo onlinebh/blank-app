@@ -1,0 +1,92 @@
+{
+ "chunk": "c13",
+ "highlights": [
+  {"b": "b847", "en": "The King does not create price. He only manages it.", "level": 2},
+  {"b": "b848", "en": "If buyers can pay with abundance and without poverty,\nhe allows sellers to raise the price further.", "level": 1},
+  {"b": "b854", "en": "The King learns his people's ability by experiment.", "level": 1},
+  {"b": "b866", "en": "The red arrow was an experiment for the general uptrend, a test of\nabundance.", "level": 1},
+  {"b": "b869", "en": "For every experiment there is an inference. From that inference comes\nthe King's justice: will the move complete the SPS or not?", "level": 1},
+  {"b": "b873", "en": "It is always a 1-2-3\ninside a larger 1-2-3.", "level": 1},
+  {"b": "b874", "en": "When the smaller 1-2-3 stops supporting the larger, the\nnext move is the SS.", "level": 1},
+  {"b": "b879", "en": "The energy of every larger 1-2-3 is simply divided among its smaller\n1-2-3s.", "level": 1},
+  {"b": "b885", "en": "Watching the chain energy develop from two boxes\nto three boxes is very helpful when you build a Propagation template\nwith boxes.", "level": 1},
+  {"b": "b887", "en": "a swing\nfrom extreme happiness to extreme sadness, and back again.", "level": 1},
+  {"b": "b894", "en": "The market can only go up or down.", "level": 1},
+  {"b": "b895", "en": "When we deal only with down and up, the market looks very simple, and it\nreally is simple.", "level": 1},
+  {"b": "b897", "en": "where\nthe bus is in potential energy, at the top of the hill before it rolls.", "level": 1},
+  {"b": "b902", "en": "What do I want to see next?", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b846", "en": "The King of price", "ar": "الـ King ملك السعر",
+   "note_en": "Harmonic culture is pictured as a King who does not create price but manages it by judging what buyers can afford.",
+   "note_ar": "تُصوَّر الثقافة الـ harmonic كملك لا يصنع السعر بل يديره، فيحكم بما يستطيع المشترون تحمّله.", "imp": 3,
+   "children": [
+    {"b": "b848", "en": "Floor and abundance", "ar": "الأرضية والوفرة",
+     "note_en": "At low prices he stops sellers' greed to protect buyers from poverty; at high prices he allows more rise if buyers pay with abundance.",
+     "note_ar": "عند الأسعار المنخفضة يوقف طمع البائعين حمايةً للمشترين من الفقر، وعند المرتفعة يسمح بالمزيد إن دفعوا بوفرة.", "imp": 2,
+     "children": [
+      {"b": "b850", "en": "New high, fewer buyers", "ar": "قمة جديدة بمشترين أقل",
+       "note_en": "A new high can form with fewer buyers because they can still pay with abundance.",
+       "note_ar": "قد تتكوّن قمة جديدة مع قلة المشترين لأنهم ما زالوا يدفعون بوفرة.", "imp": 1, "children": []},
+      {"b": "b850", "en": "New low, fewer sellers", "ar": "قاع جديد ببائعين أقل",
+       "note_en": "A new low can form with fewer sellers because a higher price would bring buyers into poverty.",
+       "note_ar": "قد يتكوّن قاع جديد مع قلة البائعين لأن السعر الأعلى سيدخل المشترين في الفقر.", "imp": 1, "children": []}
+     ]},
+    {"b": "b851", "en": "How he reverses a trend", "ar": "كيف يعكس الاتجاه",
+     "note_en": "Abundance turns down to up; poverty at the current price turns up to down.",
+     "note_ar": "الوفرة تقلب الهبوط إلى صعود، والفقر عند السعر الحالي يقلب الصعود إلى هبوط.", "imp": 2, "children": []},
+    {"b": "b853", "en": "Judgment by experiment", "ar": "الحكم بالتجربة",
+     "note_en": "The King learns buyers' ability by testing; his judgment follows the last experiment.",
+     "note_ar": "يتعلم الملك قدرة شعبه بالاختبار، ويتبع حكمه التجربة الأخيرة.", "imp": 2, "children": []}
+   ]},
+  {"b": "b859", "en": "Experiments on the chart", "ar": "التجارب على الرسم",
+   "note_en": "Real USDCAD charts show each experiment followed by justice (SPS or FPS).",
+   "note_ar": "رسوم USDCAD حقيقية تُظهر كل تجربة يتبعها justice (SPS أو FPS).", "imp": 2,
+   "children": [
+    {"b": "b865", "en": "Red and green arrows", "ar": "السهم الأحمر والأخضر",
+     "note_en": "Each red arrow against the trend is a test of abundance; after several bars the green arrow resumes the move.",
+     "note_ar": "كل سهم أحمر ضد الاتجاه اختبار للوفرة، وبعد عدة bars يستأنف السهم الأخضر الحركة.", "imp": 1, "children": []},
+    {"b": "b868", "en": "Experiment, inference, justice", "ar": "تجربة، استنتاج، justice",
+     "note_en": "Each small EP-SS is an experiment; the inference leads to the King's justice: will the SPS complete?",
+     "note_ar": "كل EP-SS صغير تجربة، ومن الاستنتاج يأتي عدل الملك: هل يكتمل الـ SPS؟", "imp": 2, "children": []}
+   ]},
+  {"b": "b872", "en": "Smaller 1-2-3s as blood", "ar": "الـ 1-2-3 الأصغر كدم",
+   "note_en": "Every justice supports either the larger FPS/SPS or the larger SS; a 1-2-3 always lives inside a larger 1-2-3.",
+   "note_ar": "كل justice يدعم الـ FPS/SPS الأكبر أو الـ SS الأكبر؛ والـ 1-2-3 دائمًا داخل 1-2-3 أكبر.", "imp": 3,
+   "children": [
+    {"b": "b874", "en": "Support or stop", "ar": "الدعم أو التوقف",
+     "note_en": "When smaller 1-2-3s stop supporting the larger, the next move is the SS; without support the larger moves opposite.",
+     "note_ar": "عندما تتوقف الأصغر عن الدعم تكون الحركة التالية SS؛ وبلا دعم يتحرك الأكبر عكسيًا.", "imp": 2, "children": []},
+    {"b": "b875", "en": "Fresh blood", "ar": "دم جديد",
+     "note_en": "Justice supporting a larger timeframe 1-2-3 means fresh blood flows in a new direction.",
+     "note_ar": "دعم الـ justice لـ 1-2-3 على timeframe أكبر يعني تدفق دم جديد في اتجاه جديد.", "imp": 1, "children": []}
+   ]},
+  {"b": "b878", "en": "Energy boxes and chain line", "ar": "صناديق الطاقة والخط المتسلسل",
+   "note_en": "A larger 1-2-3 divides into energy boxes joined by a chain energy line, passing Propagation upward.",
+   "note_ar": "ينقسم الـ 1-2-3 الأكبر إلى energy boxes يربطها chain energy line وتمرّر الـ Propagation إلى الأعلى.", "imp": 2,
+   "children": [
+    {"b": "b885", "en": "Two to three boxes", "ar": "من صندوقين إلى ثلاثة",
+     "note_en": "Watching the chain energy grow from two boxes to three helps build a Propagation template.",
+     "note_ar": "مراقبة نمو الـ chain energy من صندوقين إلى ثلاثة تفيد في بناء Propagation template.", "imp": 1, "children": []}
+   ]},
+  {"b": "b886", "en": "Market Circulation: cycles and energy", "ar": "Market Circulation: الدورات والطاقة",
+   "note_en": "Life and markets move in cycles, a swing from extreme happiness to extreme sadness and back; projectiles store potential energy before the next launch.",
+   "note_ar": "الحياة والسوق يتحركان في دورات؛ والمقذوفات تخزّن طاقة كامنة قبل الانطلاقة التالية.", "imp": 3,
+   "children": [
+    {"b": "b889", "en": "Projectiles and potential energy", "ar": "المقذوفات والطاقة الكامنة",
+     "note_en": "Each leg is a projectile whose angle shows strength; the market only goes up or down, otherwise it is in a hash charging energy.",
+     "note_ar": "كل موجة مقذوف تدل زاويته على قوته؛ السوق يصعد أو يهبط وإلا فهو في hash يشحن طاقته.", "imp": 2, "children": []},
+    {"b": "b896", "en": "Where to board the bus", "ar": "أين تركب الحافلة",
+     "note_en": "The safest entry is at potential energy, the top of the hill, as in the 6&6 and the Goldilocks.",
+     "note_ar": "أأمن دخول عند الطاقة الكامنة، على قمة التل، كما في 6&6 و Goldilocks.", "imp": 2,
+     "children": [
+      {"b": "b900", "en": "Station point", "ar": "Station point",
+       "note_en": "Where a trend slows until velocity reaches zero and stops, like a car at a checkpoint.",
+       "note_ar": "حيث يبطئ الاتجاه حتى تبلغ سرعته الصفر ويتوقف كسيارة عند نقطة تفتيش.", "imp": 2, "children": []},
+      {"b": "b901", "en": "What do I want to see next?", "ar": "ماذا أريد أن أرى بعد ذلك؟",
+       "note_en": "Use the Overlay to find a station point; knowing what you want to see is the most important question, otherwise trading is random.",
+       "note_ar": "استخدم الـ Overlay لإيجاد station point؛ معرفة ما تريد رؤيته أهم سؤال، وبدونه يكون التداول عشوائيًا.", "imp": 3, "children": []}
+     ]}
+   ]}
+ ]
+}

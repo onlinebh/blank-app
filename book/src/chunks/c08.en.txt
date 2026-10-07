@@ -1,0 +1,331 @@
+##CTX Part: Rung 2 · Knowing: How Is Truth Learned? | Section: The Logic of Goodman (2022)
+
+@@b489 h3
+1.1 Learning the logic of
+Goodman
+
+@@b490 p
+We learn logic so that we can stand in reality, between probability
+and delusion, when we decide. The urgency to learn comes from one fact:
+we cannot control what the market does. That inability exists for simple
+reasons:
+
+@@b491 ul
+<li><p>The market does not exist by our choice.</p></li>
+<li><p>Price will not move up or down because of our bias.</p></li>
+<li><p>The market exists, but we cannot force it to move as we
+wish.</p></li>
+
+@@b492 p
+The market continues even if you feel frozen and cannot act. It
+continues even if it locks you into a losing position and you panic. It
+simply keeps moving normally.
+
+@@b493 p
+Logic is our primary tool for becoming aware of this nature, which we
+can do nothing about. It produces self-awareness: of the market's
+existence, and of the limits of our own ability. So we must be
+selective. We must be picky.
+
+@@b494 h4
+The process of deciding
+
+@@b495 p
+When we face an unknown outcome, we stand between probability and
+delusion. This is the furthest the learning curve can take us. There is
+no certainty.
+
+@@b496 p
+So we must move from the known to the unknown. The known are our
+axioms, such as "everything is a 1-2-3". The mind takes this knowledge
+and uses it to find the unknowns, and those unknowns are our probability
+decisions. It is like algebra, where we use what we know to find X.
+
+@@b497 p
+In practice, the trader looks at a timeframe where price is moving.
+He knows the problem: will price move to SS or to SPS? Will this action
+propagate? He asks several such questions to define the type of
+unknown.
+
+@@b498 p
+Then his mind starts to work on how to solve that type. He organizes
+his knowledge and moves Outward or Inward. He tries to reach a logical
+reason for the probable outcome. If, after this process, he can conclude
+with confidence where the next direction will be, SPS or SS, the problem
+is solved.
+
+@@b499 h4
+The five steps
+
+@@b500 p
+The process has five steps:
+
+@@b501 blockquote
+<p>1. <strong>Know the problem</strong>: the unknown.</p>
+<p>2. <strong>Know the type of unknown.</strong> Many traders face the
+unknown but do not know what type of unknown it is.</p>
+<p>3. <strong>Choose the tool.</strong> By organizing the type of
+unknown, we know what we need to use: the Overlay.</p>
+<p>4. <strong>Build the evidence.</strong> Using what is known, the
+Overlay, we construct logical evidence for what is required to solve the
+unknown.</p>
+<p>5. <strong>Meet the conclusion.</strong> We match the conclusion of
+our logical construction with the unknown.</p>
+
+@@b503 p
+Figure: The five steps of a Goodman decision, from knowing the
+unknown to the conclusion; experienced traders start at step 3.
+
+@@b504 p
+Experienced traders, with some intuition, start directly at steps 3,
+4 and 5. For steps 1 and 2 they carry a kind of axiom.
+
+@@b505 p
+So the logic of Goodman is a set of research on how to construct an
+argument that solves the unknown. It defines the unknown and its type,
+and it justifies the tools we use. It gives a reasonable ground for
+balancing the Overlay to trigger the trade.
+
+@@b506 h3
+1.2 The language of the bar
+chart
+
+@@b507 p
+Understanding the language of the bar chart helps us receive the
+chart's message. Every chart is unique and carries a different
+message.
+
+@@b508 p
+Logic connects directly with understanding that message. The chart is
+only a language, spoken through its basic mediator: the bar, with its
+OPEN, CLOSE, HIGH and LOW.
+
+@@b510 p
+Figure: GBPUSD, 15-minute, 17–21 February 2022. Every bar is built
+from four words, Open, High, Low and Close, and together they record
+what buyers and sellers did.
+
+@@b511 p
+Logic aims to use at least these four data points to understand the
+message clearly. They play a very important role. They bring us the
+activity of all buyers and sellers within a specific time.
+
+@@b512 p
+The chart does for us something we cannot do. It shows buyers and
+sellers from everywhere in the world, and the bar carries their meaning.
+This is very deep. We could never watch every buyer and seller in the
+real world at every moment. So instead of trying to find out who is
+buying and who is selling, we take what the chart already gives us.
+
+@@b513 p
+The chart registers all buyer and seller activity. Let me
+summarize:
+
+@@b514 blockquote
+<p>"The existence of any bar*, exist a meaning about
+buyers-sellers."</p>
+
+@@b515 p
+That meaning gives us an indication of the trend.
+
+@@b516 p
+*In many cases a single bar does not reveal any significant
+indication.
+
+@@b517 h4
+What is an indication?
+
+@@b518 p
+When someone knocks on the door, the mind translates the sound into
+an indication: someone is standing in front of the door. That indication
+may be significant for us.
+
+@@b519 p
+So an indication works like this. We know that something exists, a
+sound or a bar. Then, through a process of the mind, it indicates that
+something else exists: buyers or sellers.
+
+@@b520 h4
+A significant indication
+
+@@b521 p
+In the next chart, a significant indication shows the existence of
+buyers. Why is it significant? Look at the older bars. Here buyers
+increase their energy for the first time. Did such buying energy exist
+before? No. That is what makes the indication significant: the existence
+of buyers with new energy.
+
+@@b523 p
+Figure: EURUSD, 15-minute, 23–25 February 2022. After a long fall,
+buyers show new energy at the low on heavy volume: a significant
+indication of the future trend.
+
+@@b524 p
+A significant indication works as evidence of the future trend.
+
+@@b525 h4
+Three types of indication
+
+@@b526 p
+The existence of buyers or sellers can carry different meanings. That
+is the type of indication. Each type may be significant or
+non-significant. There are three types:
+
+@@b527 ul
+<li><p>Logical indication</p></li>
+<li><p>Character indication</p></li>
+<li><p>Structure indication</p></li>
+
+@@b529 p
+Figure: The three types of indication (logical, character and
+structure), and the three kinds of structure: congruence, implicitly and
+intrinsic.
+
+@@b530 h3
+Logical indication
+
+@@b531 p
+A logical indication is one that has an inherence in existence that
+comes from buyers and sellers.
+
+@@b533 p
+Figure: EURUSD, 5-minute, 24 February 2022. At A sellers increase
+their orders; at B they renew them in the same way.
+
+@@b534 p
+At bar A the indication shows inherence to sellers: sellers increase
+their orders. At bar B sellers renew their orders, just as at A. Both A
+and B carry an inherence.
+
+@@b535 h4
+The six types of inherence
+
+@@b536 p
+There are six types of inherence. Each applies to both buyers and
+sellers. They can show their existence on the chart at any time by:
+
+@@b537 blockquote
+<p>1. <strong>Entering</strong> orders into the market.</p>
+<p>2. <strong>Leaving</strong> (exiting), that is, stopping to enter
+orders into the market.</p>
+
+@@b539 p
+Figure: GBPUSD, 5-minute, 24 February 2022. Buyers show their
+existence by entering at the low; sellers show theirs by leaving.
+
+@@b540 blockquote
+<p>1. <strong>Increasing</strong> their orders to the market.</p>
+<p>2. <strong>Decreasing</strong> their orders to the market.</p>
+
+@@b542 p
+Figure: GBPUSD, 15-minute, 21–24 February 2022. Buyers increase, then
+decrease; sellers increase, then increase more than last time.
+
+@@b543 blockquote
+<p>1. <strong>Deciding when</strong> they want to enter orders into the
+market.</p>
+<p>2. <strong>Deciding why</strong> they want to enter orders into the
+market.</p>
+
+@@b545 p
+Figure: Buyers and sellers show their existence by when and why they
+enter: after the fall, sellers increase at its TP, and again when buyers
+rally back to the same price level. Real data: AUDSGD, daily, 19 May
+2017 – 13 April 2018. (Same symbol, timeframe and dates as the original
+chart. The daily data file has no volume, so the volume panel is
+empty.)
+
+@@b546 p
+Inherences 1 to 4 also belong to the Character indication. Inherences
+5 and 6 work as the Structure indication. In many cases they play
+together.
+
+@@b548 p
+Figure: Buyers increase at the TP of the rise, then sellers increase
+at the TP of the fall, a sign of strong character and of a future trend.
+Real data: AUDSGD, daily, 20 November 2017 – 23 March 2018. (Same
+symbol, timeframe and dates as the original chart. The daily data file
+has no volume, so the volume panel is empty.)
+
+@@b549 p
+Here buyers increased with the character of greed. Then sellers
+increased, which caused fear in buyers to enter more orders. That is a
+significant indication of a future trend.
+
+@@b550 h3
+Character indication
+
+@@b551 p
+A character indication is one whose inherence comes from the nature
+of buyers and sellers: greed and fear.
+
+@@b552 blockquote
+<p>"All through time, people have basically acted and re-acted the same
+way in the market as a result of: greed, fear, ignorance, and hope-that
+is why the numerical formations and patterns recur on a constant basis."
+— Jesse Livermore</p>
+
+@@b553 p
+Crying, for example, is an indication that someone feels pain. As I
+said, character has four essential inherences. Extracting indications
+from natural inherence is studied by different schools of psychology and
+philosophy, and the door is always open to further study.
+
+@@b554 h4
+Entering and
+exiting: the responsibility of choice
+
+@@b555 p
+The first two inherences are:
+
+@@b556 blockquote
+<p>1. They show their existence on the chart by entering orders into the
+market at any time.</p>
+<p>2. They show their existence on the chart by leaving (exiting) the
+market at any time.</p>
+
+@@b557 p
+Both show that traders have a choice: to enter or to exit. They carry
+full responsibility for those choices. Their choices run in the market,
+where some win and others lose.
+
+@@b558 p
+All choices move toward their destinations, sometimes under
+predestination. In the end, our control is limited to the choice.
+Everything returns to choices.
+
+@@b559 p
+A good trade returns good profit. But that is not always the case: a
+bad trade returns a loss. Because there are consequences, participants
+want to make rational choices. Yet humans act non-rationally, through
+their beliefs.
+
+@@b561 p
+Figure: EURNZD, 5-minute, 24 February 2022. Buyers enter at the top
+and many become losers; sellers enter at the bottom. Every move is the
+result of a choice.
+
+@@b562 h4
+Increasing and
+decreasing: hope and anxiety
+
+@@b563 p
+The next two inherences are:
+
+@@b564 blockquote
+<p>1. They show their existence on the chart by increasing orders to the
+market at any time.</p>
+<p>2. They show their existence on the chart by decreasing orders to the
+market at any time.</p>
+
+@@b565 p
+When traders realize they are against the trend, they enter a state
+of hope that they can still make some profit. That hope increases their
+orders. Then anxiety from the losing side makes them decrease their
+orders.
+
+@@b567 p
+Figure: EURNZD, 5-minute, 24 February 2022. Above the line buyers
+keep adding orders in hope, while sellers who sold the bottom grow
+anxious.
+

@@ -1,0 +1,67 @@
+{
+ "chunk": "c29",
+ "highlights": [
+  {"b": "b1901", "en": "A bounce is simply a price", "level": 1},
+  {"b": "b1906", "en": "it means a bull propagation.", "level": 1},
+  {"b": "b1911", "en": "In cases like this the bounces are weak, both bull and bear.", "level": 1},
+  {"b": "b1912", "en": "By balancing these propagations, their bounces and their EPs, we see", "level": 1},
+  {"b": "b1917", "en": "propagation to bear propagation shows weakness: buyers are simply unable", "level": 1},
+  {"b": "b1929", "en": "A Matrix Overlay is when buyers or sellers return to the original", "level": 1},
+  {"b": "b1930", "en": "The 3-C is evidence that the move against the MO trend has no energy.", "level": 1},
+  {"b": "b1931", "en": "without a proper construction of the MO and", "level": 1},
+  {"b": "b1950", "en": "Energy can be measured by E = hv; on the chart, E = Volume.", "level": 1},
+  {"b": "b1951", "en": "what the volume shows is the quantity of", "level": 2},
+  {"b": "b1960", "en": "Volume, like calories, is relative energy: the energy spent from one", "level": 1},
+  {"b": "b1964", "en": "To confirm it, buyers must make price absorb the next visual", "level": 1},
+  {"b": "b1976", "en": "energy will return price to level 2.", "level": 1},
+  {"b": "b1980", "en": "A 1-2-3 down on increased energy, and a", "level": 1},
+  {"b": "b1981", "en": "Its SS has broken the BP of the FPS.", "level": 1},
+  {"b": "b1987", "en": "What matters is the new behaviour at the green", "level": 1},
+  {"b": "b1993", "en": "volume shows the energy behind", "level": 2}
+ ],
+ "mindmap": [
+  {
+   "b": "b1898", "en": "Bounces and balancing propagations", "ar": "الـ Bounces وموازنة الـ propagations",
+   "note_en": "Every market move divides into bounces; balancing propagations, bounces and EPs reveals what buyers and sellers can do at an Intersection.",
+   "note_ar": "كل حركة في السوق تنقسم إلى bounces؛ وموازنة الـ propagations والـ bounces والـ EPs تكشف ما يستطيع المشترون والبائعون فعله عند Intersection.",
+   "imp": 3,
+   "children": [
+    {"b": "b1900", "en": "What is a bounce?", "ar": "ما هو الـ bounce؟", "note_en": "A price level that generates momentum up (bull bounce) or down (bear bounce); similar to the triple spread.", "note_ar": "مستوى سعري يولّد زخمًا صاعدًا (bull bounce) أو هابطًا (bear bounce)؛ وهو قريب من triple spread.", "imp": 2,
+     "children": [
+      {"b": "b1906", "en": "Higher or lower EP", "ar": "EP أعلى أو أدنى", "note_en": "A higher EP than the last means bull propagation; a lower EP means bear propagation.", "note_ar": "EP أعلى من السابق يعني bull propagation، وأدنى منه يعني bear propagation.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1907", "en": "Balancing a combination", "ar": "موازنة المزيج", "note_en": "A chart mixes bear, bull, timehash or Knot propagations. Weak bounces on both sides mean a tug of war; balancing them shows whether the move is bull, bear or a Knot.", "note_ar": "الرسم مزيج من propagations هابطة وصاعدة وtimehash أو Knot. الـ bounces الضعيفة على الجانبين شدّ حبل؛ وموازنتها تكشف هل الحركة bull أم bear أم Knot.", "imp": 2, "children": []},
+    {"b": "b1913", "en": "The wood wall image", "ar": "صورة جدار الخشب", "note_en": "The Matrix Overlay is a wall of MDF wood; a change from bull to bear propagation shows buyers cannot hold price, so the wall will not break.", "note_ar": "Matrix Overlay جدار من خشب MDF؛ والتحول من bull إلى bear propagation يدل على عجز المشترين عن تثبيت السعر، فلا ينكسر الجدار.", "imp": 2, "children": []},
+    {"b": "b1918", "en": "Chart example AA and BB", "ar": "مثال: الخطان AA وBB", "note_en": "After a Jumbo, a series of bear propagations meets BB; new orders at BB turn the matter to the buying side after a 6&6.", "note_ar": "بعد Jumbo تأتي سلسلة bear propagations إلى BB؛ وأوامر جديدة عند BB تحوّل الأمر إلى جانب الشراء بعد 6&6.", "imp": 1, "children": []}
+   ]
+  },
+  {
+   "b": "b1926", "en": "Matrix Overlay with Volume", "ar": "Matrix Overlay مع Volume",
+   "note_en": "Volume, read through Goodman theory, confirms a Matrix Overlay when treated as energy spent across Goodman levels.",
+   "note_ar": "الـ volume، حين يُقرأ بنظرية Goodman، يؤكد Matrix Overlay إذا عومل على أنه طاقة تُنفَق عبر مستويات Goodman.",
+   "imp": 3,
+   "children": [
+    {"b": "b1928", "en": "The Matrix Overlay in brief", "ar": "Matrix Overlay باختصار", "note_en": "Return to the original point after a substantial move; stronger by 1-2-3 movements, and cancelled by a 3-C gives more confidence. The 3-C shows the counter move has no energy.", "note_ar": "عودة إلى النقطة الأصلية بعد حركة كبيرة؛ وتزداد قوته بحركات 1-2-3، ويعطي إلغاؤها بـ 3-C ثقة أكبر. والـ 3-C يدل على أن الحركة المعاكسة بلا طاقة.", "imp": 2,
+     "children": [
+      {"b": "b1931", "en": "Caution: construct properly", "ar": "تحذير: البناء الصحيح", "note_en": "Without a proper MO and 1-2-3, volume misleads about true energy.", "note_ar": "من دون MO و1-2-3 صحيحين، يضلّل الـ volume بشأن الطاقة الحقيقية.", "imp": 3, "children": []}
+     ]},
+    {"b": "b1933", "en": "Example 1: EURUSD 1-hour", "ar": "المثال 1: EURUSD، 1-hour", "note_en": "Price returns to the origin point in the buyers' zone; the MO has two 1-2-3s and a cancel, like a 6&6 Setup. Volume alone shows only meaningless columns, so interpret it with Goodman theory. Each box is split into Goodman levels.", "note_ar": "يعود السعر إلى نقطة الأصل في منطقة المشترين؛ وللـ MO اثنان من 1-2-3 وإلغاء، كـ Setup من نوع 6&6. والـ volume وحده أعمدة بلا معنى، فيُفسَّر بنظرية Goodman. ويُقسَّم كل صندوق إلى مستويات Goodman.", "imp": 2, "children": []},
+    {"b": "b1943", "en": "Energy levels", "ar": "مستويات الطاقة", "note_en": "Like an electron jumping between atomic energy levels, price spends energy (volume) to transit between Goodman levels. E = Volume.", "note_ar": "كإلكترون يقفز بين مستويات الطاقة في الذرة، ينفق السعر طاقة (volume) لينتقل بين مستويات Goodman. E = Volume.", "imp": 2,
+     "children": [
+      {"b": "b1951", "en": "Concept 1: energy spent", "ar": "المفهوم 1: الطاقة المُنفَقة", "note_en": "Volume shows the quantity of energy spent (absorption) at every level.", "note_ar": "الـ volume يُظهر كمية الطاقة المُنفَقة (absorption) عند كل مستوى.", "imp": 3, "children": []}
+     ]},
+    {"b": "b1952", "en": "Calories analogy", "ar": "تشبيه السعرات الحرارية", "note_en": "Calories: input is food, output is activity. Volume: input is buyers' and sellers' transactions, output is the absorption that moves price to the next level. Both are relative energy.", "note_ar": "السعرات: المُدخل الطعام والمُخرج النشاط. الـ volume: المُدخل صفقات المشترين والبائعين والمُخرج الامتصاص الذي ينقل السعر إلى المستوى التالي. وكلاهما طاقة نسبية.", "imp": 2, "children": []},
+    {"b": "b1961", "en": "Reading the first box", "ar": "قراءة الصندوق الأول", "note_en": "Four levels of activity: energy at level 1 shows buyers, a transit to level 2 on less volume succeeds, a small sideways box fails to reach level 3, then buyers lift energy to level 3 but fail above it.", "note_ar": "أربعة مستويات نشاط: طاقة عند المستوى 1 تدل على المشترين، وانتقال إلى المستوى 2 بـ volume أقل ينجح، وصندوق جانبي صغير يفشل في بلوغ المستوى 3، ثم يرفع المشترون الطاقة إلى المستوى 3 لكنهم يفشلون فوقه.", "imp": 2,
+     "children": [
+      {"b": "b1976", "en": "Failure returns price", "ar": "الفشل يعيد السعر", "note_en": "When buyers fail to move to the next level, the energy will return price to level 2.", "note_ar": "حين يفشل المشترون في الانتقال إلى المستوى التالي، ستعيد الطاقة السعر إلى المستوى 2.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1977", "en": "The Nest setup", "ar": "Setup الـ Nest", "note_en": "A 1-2-3 down on increased energy and a last rally on decreased energy favours sellers (lower low, lower high). The SS broke the BP of the FPS, and the larger 1-2-3 proves the smaller one.", "note_ar": "1-2-3 هابط بطاقة متزايدة وآخر صعود بطاقة متناقصة يصبّ في صالح البائعين (lower low وlower high). كسر SS الـ BP الخاص بـ FPS، والـ 1-2-3 الأكبر يُثبت الأصغر.", "imp": 2,
+     "children": [
+      {"b": "b1987", "en": "Enter on the lower time frame", "ar": "الدخول على الإطار الأدنى", "note_en": "Enter before the bar closes; what matters is the new behaviour at the green arrow, where volume rose but could not transit lower.", "note_ar": "ادخل قبل إغلاق الـ bar؛ والمهم السلوك الجديد عند السهم الأخضر حيث ارتفع الـ volume ولم ينتقل إلى الأدنى.", "imp": 2, "children": []},
+      {"b": "b1990", "en": "Dagger toward level 4", "ar": "Dagger نحو المستوى 4", "note_en": "Energy lifts price above level 3; on lower energy price hugs level 3 and forms a Dagger, breaking out near level 4.", "note_ar": "ترفع الطاقة السعر فوق المستوى 3؛ ومع طاقة أقل يلازم المستوى 3 ويشكّل Dagger وينطلق قرب المستوى 4.", "imp": 1, "children": []}
+     ]},
+    {"b": "b1993", "en": "Lesson: volume is energy", "ar": "الدرس: الـ volume طاقة", "note_en": "Volume shows the energy behind the Goodman levels.", "note_ar": "الـ volume يُظهر الطاقة الكامنة وراء مستويات Goodman.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

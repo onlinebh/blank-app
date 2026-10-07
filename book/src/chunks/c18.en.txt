@@ -1,0 +1,377 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: The Analysis of Market Mind (2021)
+
+@@b1131 h2
+The Analysis of Market Mind
+(2021)
+
+@@b1132 p
+In this paper I want to show how people change their beliefs over
+time, and how we can read those changes on a chart. From the changes in
+belief I build a hypothesis about the near future, and then I let the
+market confirm it or reject it. The first part lays the ground: price,
+volume and time, demand, mental energy and the Goodman rules. The second
+part puts that ground to work on theoretical charts, on a set of
+correlated pairs, on real examples, and finally on a full live study of
+NZDUSD.
+
+@@b1133 h3
+Introduction: conflict and
+belief
+
+@@b1134 p
+In every conflict, people naturally look for a way out. They do not
+want the conflict; they want it to disappear. When it is intense they
+cannot wait for it to end, even if it takes months.
+
+@@b1135 p
+When they see a high chance that the bad outcome will happen, they
+treat it as definite fate. Then they start looking for a way through.
+They know that fear is only the gate to the dark, the place of doubt and
+hesitation.
+
+@@b1136 p
+So they try to believe there is a happier fate. There is a
+possibility instead of the unwanted consequence, a chance for the events
+they want. That good chance appears whenever there is a balance in
+beliefs.
+
+@@b1137 p
+The human mind naturally weighs every premise. It tries to weaken
+every conclusion that supports fearful beliefs, and it lets good beliefs
+emerge by drawing new conclusions. The pages that follow explain how
+people change their beliefs, and how I make a hypothesis about the near
+future from those changes over time.
+
+@@b1138 h3
+Ideology: what a chart
+carries
+
+@@b1139 p
+A chart carries only a few pieces of data:
+
+@@b1140 ul
+<li><p><strong>Price:</strong> high, low, open and close.</p></li>
+<li><p><strong>Time:</strong> the period within which price
+travels.</p></li>
+<li><p><strong>Volume:</strong> the liquidity.</p></li>
+
+@@b1141 h3
+Logical ground
+
+@@b1142 h4
+Price, volume and time as
+one space
+
+@@b1143 p
+Price tells us the final negotiation between buyers and sellers
+within a period. Volume describes the quantity buyers took from sellers,
+or sellers gave to buyers, in that same period. The two are connected as
+dependent variables. Together with time they form a kind of 3D
+space.
+
+@@b1144 h4
+Price shapes belief
+
+@@b1145 p
+Price affects the buyer's beliefs about the future. When the current
+price is heavily discounted, sellers are reluctant to sell until price
+reaches what they desire. Remember the headlines about the milk crash,
+when Sardinian farmers dumped their milk in protest at prices.
+
+@@b1146 p
+This is the most exciting part of the supply and demand equation.
+Buyer and seller are both dependent variables. Most of the time it works
+like an auction: each side bids against the other, and the stronger side
+sets the price.
+
+@@b1147 h4
+The types of demand
+
+@@b1148 p
+Demand is not one thing. The standard list [Demand, Wikipedia] gives
+eight states:
+
+@@b1149 ul
+<li><p><strong>Negative demand:</strong> consumers dislike the product
+and may even pay to avoid it.</p></li>
+<li><p><strong>Nonexistent demand:</strong> consumers may be unaware of
+the product or uninterested in it.</p></li>
+<li><p><strong>Latent demand:</strong> consumers may share a strong need
+that no existing product can satisfy.</p></li>
+<li><p><strong>Declining demand:</strong> consumers begin to buy the
+product less often, or not at all.</p></li>
+<li><p><strong>Irregular demand:</strong> purchases vary by season,
+month, week, day or even hour.</p></li>
+<li><p><strong>Full demand:</strong> consumers are adequately buying all
+products put into the marketplace.</p></li>
+<li><p><strong>Overfull demand:</strong> more consumers want to buy than
+can be satisfied.</p></li>
+<li><p><strong>Unwholesome demand:</strong> consumers may be attracted
+to products with undesirable social consequences.</p></li>
+
+@@b1150 h3
+The Mental Energy Model
+
+@@b1151 h4
+Energy behind every change
+in price
+
+@@b1152 p
+This model analyzes the energy behind every change in price within
+the order system. Mental energy simply deals with the reaction of
+belief. In the end, belief controls the space of action.
+
+@@b1153 p
+When belief is very strong, the reaction, the action, is just as
+strong, but in a different direction. Belief lives in the direction of
+the heart; action lives in the direction of the senses.
+
+@@b1154 p
+I call it <em>analysis</em> because it is very close to logical
+analysis. There are propositions; we order them with logical operators;
+and we reach an inference.
+
+@@b1155 h4
+Goals, choices and energy
+
+@@b1156 p
+Think of a team that wants to win the World Cup final. You can see
+the players energized by the goal itself. The origin of energy is the
+desire to achieve a goal. Goals act directly on choices, and choices are
+the key to energy.
+
+@@b1157 p
+The Nash equilibrium (after the mathematician John Forbes Nash Jr.)
+deals with which strategy, which choice, is best for a player to
+maximize the payoff against an opponent:
+
+@@b1158 blockquote
+<p>"If two players Alice and Bob choose strategies A and B, (A, B) is a
+Nash equilibrium if Alice has no other strategy available that does
+better than A at maximizing her payoff in response to Bob choosing B,
+and Bob has no other strategy available that does better than B at
+maximizing his payoff in response to Alice choosing A."</p>
+
+@@b1159 p
+No risk, no reward. Here risk means the energy spent to maximize the
+payoff inside the game.
+
+@@b1160 h4
+The market as a zero-sum
+game
+
+@@b1161 p
+In game theory, "a zero-sum game is a mathematical representation of
+a situation in which an advantage that is won by one of two sides is
+lost by the other" [Cambridge Business English Dictionary]. The market
+and its financial instruments are an example. Debit and credit in
+accounting show this very simply:
+
+@@b1162 blockquote
+<p>"The rules governing the use of debits and credits are as
+follows:</p>
+<p>All accounts that normally contain a debit balance will increase in
+amount when a debit (left column) is added to them, and reduced when a
+credit (right column) is added to them. The types of accounts to which
+this rule applies are expenses, assets, and dividends.</p>
+<p>All accounts that normally contain a credit balance will increase in
+amount when a credit (right column) is added to them, and reduced when a
+debit (left column) is added to them. The types of accounts to which
+this rule applies are liabilities, revenues, and equity.</p>
+<p>The total amount of debits must equal the total amount of credits in
+a transaction. Otherwise, an accounting transaction is said to be
+unbalanced, and will not be accepted by the accounting software."
+[Debits and credits definition, accountingtools.com]</p>
+
+@@b1163 h4
+Impression force
+
+@@b1164 p
+Whenever buyers believe there is a chance, an opportunity, to reach
+the maximum payoff by choosing a strategy, the goal energizes their mind
+and belief. The reaction becomes more intense.
+
+@@b1165 p
+Over time that energy leaves an impression. An impression is one type
+of memory. It can support energy and encourage it to reach the goal.
+Energy and impression are independent variables.
+
+@@b1166 p
+The crowd at a football match supports the player: that is the
+impression force, an independent variable. The player energizes himself
+by the goal: that is mental energy. When the impression force is at its
+maximum, it becomes like a gravity force that acts as an energy
+field.
+
+@@b1168 p
+Figure: The mental energy model: goal, choice, mental energy and
+action, with the impression force supporting from outside.
+
+@@b1169 h3
+The Goodman rules behind the
+model
+
+@@b1170 h4
+Goodman Measured Move Rule
+
+@@b1171 p
+Every swing moves by percentage from 0 to 100, and the reaction
+returns from 100 towards 0. This is the total progress of each buyer's
+and seller's energy. When buyers seek their maximum payoff, it is
+relative to the previous payoff, and that progress shows very clearly
+how buyers move.
+
+@@b1172 h4
+Propagation
+
+@@b1173 p
+Buyers and sellers always seek a maximum, and each maximum is
+relative to the old one. They grow whenever they seek a new maximum.
+
+@@b1174 h4
+Goodman Setup
+
+@@b1175 p
+Whenever the market shows a 1-2-3, the move propagates into a 1. When
+price returns to around the TP of that 1, or between the EP and the SS,
+it sets up the next swing in the direction of the 1-2-3. Every trade
+must be qualified, and it requires at least one Propagation.
+
+@@b1176 h4
+Intersection
+
+@@b1177 p
+When the market moves into an old maximum, there is almost always an
+impression force there. It acts directly on today's traders who seek the
+new maximum. This is the Intersection between the old and the current
+maximum, and the Goodman Box shows it very clearly.
+
+@@b1178 h4
+Trend
+
+@@b1179 p
+Anyone who fights the trend is fated to lose; no one can beat the
+market. The trend is simply the path along which Propagation can happen.
+Propagation shows the progress of the movement and of the mental
+energy.
+
+@@b1180 h3
+Methodology: from theory
+to application
+
+@@b1181 p
+In this part I give theoretical examples that turn the ground above
+into a constructive application. I start from the basics and go to the
+deepest concepts.
+
+@@b1182 h4
+Drawing a swing
+
+@@b1183 p
+No one can take swings into a 1-2-3 and on to Propagation without
+first drawing the swing correctly; it is very hard to continue without
+this. As a rule, buyers and sellers always seek their maximum. So when
+you draw a swing, follow it to its extreme and then draw a line. That
+line represents a wave.
+
+@@b1185 p
+Figure: A raw price chart before any drawing. Real data: AUDUSD,
+2-hour, 14 February to 4 March 2022. (The original chart's symbol and
+dates are not known; this one shows the same structure.)
+
+@@b1186 p
+Where are the maximum point and the minimum point?
+
+@@b1188 p
+Figure: The first swings drawn to their extremes: FPS, SS and SPS.
+Real data: AUDUSD, 2-hour, 14 February to 4 March 2022. (The original
+chart's symbol and dates are not known; this one shows the same
+structure.)
+
+@@b1189 blockquote
+<p>1. The first swing runs to its maximum, the EP of the FPS.</p>
+<p>2. The second swing runs to its maximum, the EP of the SS.</p>
+<p>3. The third swing runs to its maximum, the EP of the SPS.</p>
+
+@@b1190 p
+The market shows progress from 0 at the BP of the FPS to 100 at the
+EP of the SPS. Now these three waves propagate into one wave, and we
+test the next reaction.
+
+@@b1191 h4
+The 25% rule for a reaction
+
+@@b1192 p
+When a reaction tests the entire movement, anything less than 25%
+cannot count as a reaction to the whole move. It may be a reaction to
+one swing, but never to the entire movement as a Propagation.
+
+@@b1194 p
+Figure: The 1-2-3 propagates into a 1, and the next swing is read as
+the reaction to that 1. Real data: AUDUSD, 2-hour, 14 February to 4
+March 2022. (The original chart's symbol and dates are not known; this
+one shows the same structure.)
+
+@@b1195 p
+Here the 1-2-3 propagates into a 1, and the next reaction can be read
+as a reaction to that 1. At this point there is a Setup signal for a
+long trade, but only after qualifying the trade with inside and outside
+analysis. It is stronger when an Overlay combination shows at the
+extremes. Even a Dagger setup must sit within the SS of the last
+Propagation, perhaps a Propagation on a higher timeframe.
+
+@@b1197 p
+Figure: The buy Setup at the reaction to the propagated 1. Real data:
+AUDUSD, 2-hour, 14 February to 4 March 2022. (The original chart's
+symbol and dates are not known; this one shows the same structure.)
+
+@@b1198 h4
+Larger and larger cycles
+
+@@b1199 p
+Here is a larger 1-2-3; I call it a complete cycle to the upside.
+Notice that on the downside there is never a complete cycle, never a
+1-2-3. With Propagation you follow the trend easily, because you know
+the market is simply propagating. Think in 1-2-3 with Propagation. So
+let us draw it as a larger 1, and then watch the new SS.
+
+@@b1201 p
+Figure: A larger 1-2-3 completes on the upside, with a second buy at
+its reaction. Real data: AUDUSD, 2-hour, 14 February to 4 March 2022.
+(The original chart's symbol and dates are not known; this one shows the
+same structure.)
+
+@@b1202 p
+Again a larger 1-2-3, then the next reaction. Everything in the
+market fits inside the 1-2-3 and Propagation framework. So you know
+everything: if the market always moves within this framework, nothing in
+it is strange and nothing is new.
+
+@@b1203 p
+What follows is more logical analysis of this framework, but the
+framework alone is enough. Its great advantage is that it always keeps
+you with the trend, instead of thinking about reversals and always
+fighting the trend.
+
+@@b1205 p
+Figure: The largest 1-2-3 propagates again, and the buy comes at the
+reaction to the new 1. Real data: AUDUSD, 2-hour, 14 February to 4 March
+2022. (The original chart's symbol and dates are not known; this one
+shows the same structure.)
+
+@@b1206 p
+Three notes on Propagation:
+
+@@b1207 blockquote
+<p>1. A larger Propagation requires a larger reaction SS. 25% of a
+smaller Propagation is smaller than 25% of a larger one.</p>
+<p>2. When the market comes out of a Jumbo, the new trend starts with a
+small Propagation that grows larger and larger. Do not forget to treat
+it as a Jumbo.</p>
+<p>3. Always confirm the Propagation with Inward-Outward analysis.</p>
+
+@@b1209 p
+Figure: Thinking in 1-2-3 with Propagation: three swings collapse
+into one larger "1", and a reaction of at least 25% of the whole move is
+the Setup.
+

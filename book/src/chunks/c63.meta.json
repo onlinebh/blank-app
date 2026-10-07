@@ -1,0 +1,42 @@
+{
+ "chunk": "c63",
+ "highlights": [
+  {"b": "b3704", "en": "Not the books. The responsibility.", "level": 1},
+  {"b": "b3708", "en": "I put\nthem on the ladder so that whoever climbs it after us can hear Charlie's\nvoice the way you still hear it.", "level": 1},
+  {"b": "b3709", "en": "This book is my Line.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b3698", "en": "A Last Letter to Michael", "ar": "رسالة أخيرة إلى Michael",
+   "note_en": "Mohamed's closing letter thanking Michael after six years of correspondence and explaining why the book exists.",
+   "note_ar": "رسالة Mohamed الختامية يشكر فيها Michael بعد ست سنوات من المراسلة ويشرح سبب وجود الكتاب.",
+   "imp": 3,
+   "children": [
+    {"b": "b3700", "en": "Six years of learning", "ar": "ست سنوات من التعلّم",
+     "note_en": "From the first letter in September 2020 (the CODEX, memorizing the Goodmanisms) to learning their meaning one chart and one letter at a time.",
+     "note_ar": "من أول رسالة في سبتمبر 2020 (الـ CODEX وحفظ الـ Goodmanisms) إلى تعلّم معناها رسمًا ورسالة في كل مرة.",
+     "imp": 2, "children": []},
+    {"b": "b3701", "en": "Teaching by chart and question", "ar": "التعليم بالرسم والسؤال",
+     "note_en": "Michael taught as Charlie did: show a chart, ask a question, wait; 'Mohamed is Magic Man' (2023-03-18).",
+     "note_ar": "علّم Michael كما علّم Charlie: يُري رسمًا ويسأل وينتظر؛ 'Mohamed is Magic Man'.",
+     "imp": 2, "children": []},
+    {"b": "b3702", "en": "Handing over the responsibility", "ar": "تسليم المسؤولية",
+     "note_en": "'Everything Goodman soon yours' (2025-06-22); what Michael gave was not the books but the responsibility; the miracle ran both ways (2025-12-20).",
+     "note_ar": "'Everything Goodman soon yours'؛ ما منحه Michael ليس الكتب بل المسؤولية؛ والمعجزة كانت في الاتجاهين.",
+     "imp": 3, "children": []},
+    {"b": "b3706", "en": "Why this book exists", "ar": "لماذا وُجد هذا الكتاب",
+     "note_en": "Michael wrote that without Mohamed Charlie's stories would be lost; the book is Mohamed's answer, placing the stories on the ladder so others can hear Charlie's voice.",
+     "note_ar": "كتب Michael أنه لولا Mohamed لضاعت قصص Charlie؛ والكتاب جوابه، يضع القصص على السُّلَّم ليسمع الآخرون صوت Charlie.",
+     "imp": 3,
+     "children": [
+      {"b": "b3709", "en": "This book is my Line", "ar": "هذا الكتاب هو الـ Line الخاص بي",
+       "note_en": "Breakeven, a Setup set up to go, always leave something for the Line; the Under is taken, this part is left running for whoever comes next.",
+       "note_ar": "breakeven، والـ Setup جاهز للانطلاق، ونترك دائمًا شيئًا للـ Line؛ أخذ الـ Under وترك هذا الجزء يعمل لمن يأتي بعده.",
+       "imp": 3, "children": []}
+     ]}
+   ]},
+  {"b": "b3713", "en": "Index of My Research", "ar": "فهرس أبحاثي",
+   "note_en": "A table of every research chapter in order of appearance with its year and the rung where it belongs, from Opening to Closing across rungs 1 to 10.",
+   "note_ar": "جدول بكل فصل بحثي بترتيب ظهوره مع سنته والدرجة التي ينتمي إليها، من الافتتاحية إلى الخاتمة عبر الدرجات 1 إلى 10.",
+   "imp": 2, "children": []}
+ ]
+}

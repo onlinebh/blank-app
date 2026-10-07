@@ -1,0 +1,221 @@
+##CTX Part: Rung 6 · Measuring: How Much Do I Risk? | Section: Thirty Souls: The Arithmetic of Survival -> The Error-Proof Trader: Poka-Yoke in Trading (2026)
+
+@@b2713 h3
+2025: expect the worst
+
+@@b2714 p
+In January 2025 I described four kinds of equity periods: a rare best
+streak, a worst streak of maybe 10 losses in a row, a rare run of trades
+near BE, and the normal days, the stairs of one step up and a little
+down that Charlie called 10-4-1. If I want a maximum drawdown of 2.5%,
+the simplest way is to size so that 10 losses in a row still fit.
+"Knowing the boundaries decreasing the surprising element .. its about
+surviving first . The goal is BE.!" (January 24, 2025)
+
+@@b2715 p
+A few weeks earlier I had written something that sits under all of
+this: "I know there will be many time i lose money. Its threat to the
+capital . But i believe in methodology, its the edge i have . So its
+kind of balance rather than trying to eliminate risk from the equation."
+(January 4, 2025)
+
+@@b2716 h3
+2025: thirty souls
+
+@@b2717 p
+In March 2025 the idea found its final form, and its name:
+
+@@b2718 p
+"Keep in mind we are trading the money not the market. so, every
+trade is part of 30 trades, find the best or simply no action. you do
+not have many souls in the market, have only 30 souls! take the best to
+survive after 30 trades." (March 5, 2025)
+
+@@b2719 p
+Thirty souls means each trade spends one life. I do not spend a life
+on a setup I only half believe. The first goal of the series is to
+survive it, at least at breakeven. Profit comes from the probability
+being on my side over the whole series, not from any one trade.
+
+@@b2721 p
+Figure: How my sizing rules grew from 2021 to 2026.
+
+@@b2722 h3
+What the arithmetic
+actually looks like
+
+@@b2723 p
+I wanted to see my rule run, not only describe it. So we simulated
+it. The edge is the one I used as an example in my letters: 40% winners
+at two times the risk, 60% losers at one. The size is my rule: a 5%
+maximum drawdown divided by 30, which is about 0.17% per trade.
+
+@@b2724 p
+Over 10,000 simulated series of 30 trades, not one touched the 5%
+limit. The median series ended about 1% up. Around three in ten ended
+slightly down, which is honest: 30 trades is a short road. But nobody
+died.
+
+@@b2725 p
+Then the same edge at higher sizes, over 100 trades. At 1% per trade,
+a drawdown of 20% from the peak happened in about 2% of runs. At 1.5%,
+in about 16%. At 2%, in about 41%. At 3%, in about 79%. Same system,
+same win rate, same reward. Only the size changed.
+
+@@b2727 p
+Figure: A simulation of my max-DD/30 rule (illustration, not a
+forecast), with simulated risk of ruin at higher sizes.
+
+@@b2728 p
+This is the whole chapter in one picture. The edge is the engine. The
+size decides whether you are still driving when the edge pays.
+
+@@b2729 h3
+Expectancy as momentum
+
+@@b2730 p
+In July 2025, after our talks about Molokai, I tried to write the
+same thing as a line. There are two kinds of curves close to
+compounding: "Y = kx" and "Y = k/x." In one, things multiply and riches
+come to the door. In the other, things divide and poverty comes to the
+door.
+
+@@b2731 p
+With my example edge: 0.4 times 2, minus 0.6 times 1, gives 0.2. "0.2
+is the factor. K . While x is money." And then the advice to myself:
+"You don't need to modify the factor. Just keep it consistently. But add
+more money slowly" (July 18, 2025)
+
+@@b2732 p
+Keep k steady by keeping the Golden Ratio healthy. Grow x slowly. In
+December 2024 I had already said I like to trade at a risk of ruin of
+around 0 to 5% in my simulations. The momentum line is the same idea,
+seen from the other side.
+
+@@b2733 h3
+The Market
+Environment as money management
+
+@@b2734 p
+My latest step, in August 2025, was to see the Market Environment
+itself as part of money management. "Flat jumbo + setup . Is less risky
+than a propagation jumbo with a setup." And: "Make each a setup its a
+part of money managment. Each setup may play a rule . Maybe for a more
+gains . Or a hedge , or a decrease the risk." (August 30, 2025)
+
+@@b2735 p
+Size is one lever. Choosing which environment to trade, and combining
+setups from different environments, is another.
+
+@@b2736 h3
+FireStarter: a separate
+strategy
+
+@@b2737 p
+I must say clearly that one rule in my letters belongs to a different
+strategy. FireStarter is quick trading on the 5-minute chart or less,
+with PTS, Goldilocks and 66, and the Overlay mostly PO and Nest. It has
+its own money management, and it does not replace anything above.
+
+@@b2738 p
+"Divide the capital into 30 or 50. Never change the size either in
+losses or either in profit. NEVER." (March 5, 2025)
+
+@@b2739 p
+In FireStarter I do not adjust the size, and I do not watch the
+drawdown closely, because the trades are quick and the win ratio does
+the work. I also wrote that the mind cannot run two profiles at once:
+"Firestarter, or nothing." When I trade it, I trade only it.
+
+@@b2740 h3
+What I learned
+
+@@b2741 p
+From 1.5% in 2021 to thirty souls in 2025, the rules grew more
+patient and more humble. They moved from "how much can I risk?" to "how
+much can I survive?" The arithmetic is not exciting. It is what lets the
+exciting part happen again tomorrow.
+
+@@b2742 h2
+The
+Error-Proof Trader: Poka-Yoke in Trading (2026)
+
+@@b2743 p
+Thirty Souls is about the arithmetic of survival. This chapter is
+about the engineering of it. The arithmetic tells me how much I can
+lose. The engineering makes sure I cannot lose it by mistake.
+
+@@b2744 h3
+Mistakes are an operations
+risk
+
+@@b2745 p
+On 2026-04-03 I wrote to Michael that trading needs three things
+aligned: the dynamic market, the trading system, and yourself.
+
+@@b2746 blockquote
+<p>"If have a system not aligned with market means losing. If have a
+good system deals with market but unable to be discipline with means
+also losing. Making mistake is a operations risk to the system."</p>
+
+@@b2747 p
+My background in risk work taught me to separate risks by where they
+come from. Market risk is the price going against a good setup. I accept
+it, because it is part of the 10-4-1. Operations risk is different. It
+is the trade without a stop, the lot typed wrong, the revenge entry
+after a loss. Years ago I defined it simply: "Mistakes = any
+controllable action in wrong time." Market risk I manage. Operations
+risk I should remove.
+
+@@b2748 h3
+Finding the causes first
+
+@@b2749 p
+Before you can block a mistake, you have to know where it comes from.
+On 2026-02-03 I wrote:
+
+@@b2750 blockquote
+<p>"the smaller risk if avoided will generate larger risk! . don't think
+about profit , profits that's what we want , but if not protect the
+process will lead to big loss. i like fishbone diagram"</p>
+
+@@b2751 p
+The fishbone diagram is a quality tool. You write the problem at the
+head, a bad trade, and draw the bones behind it: method, mind, size,
+market, review. Each bone holds the causes. When I draw it for my own
+losses, most of the bones are not about the market at all. They are
+about me.
+
+@@b2752 p
+The day before, on 2026-02-02, I wrote the questions I ask before I
+accept a trade:
+
+@@b2753 blockquote
+<p>"1)how could the setup fails? 2)at which overlays i rely and what the
+sign's tell me wrong about the combination. Then 3) what the impact when
+i am wrong. Its too high? 4) where is the causal factor? Have
+whitespace? Its clean?"</p>
+
+@@b2754 p
+And the rule for acceptance: "Logically the risk accept when 1) the
+impact of risk its very low impact that it's fine to live with. 2) the
+risk is very low compare to profit." This is a risk register for one
+trade. The failure modes are named before money is at stake.
+
+@@b2755 h3
+Measuring the mind
+
+@@b2756 p
+A mistake starts in a state of mind, so I measure the state. On
+2026-03-17 I sent Michael a table for rating emotion from 1 to 10 at
+each checkpoint: before the trade, at entry, during it, at exit, after
+it, and at random moments when I am only watching. The scale is simple.
+1–2 is very angry or frustrated. 3–4 is nervous or uncomfortable. 5–6 is
+calm and in control. 7–8 is confident and energized. 9–10 is too excited
+or overconfident.
+
+@@b2757 p
+The point is in the two ends. A 9 is as dangerous as a 2. The best
+trading happens in the middle, at 5 or 6. As I wrote under the table:
+"Monitoring your emotions helps keep them under control."
+

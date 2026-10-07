@@ -1,0 +1,267 @@
+{
+ "chunk": "c56",
+ "highlights": [
+  {
+   "b": "b3467",
+   "en": "3S was the setup we actually traded together, so it\nwas the easiest to teach.",
+   "level": 1
+  },
+  {
+   "b": "b3470",
+   "en": "the Playbook is the short road and the 6 &amp; 6 is\nthe long one.",
+   "level": 1
+  },
+  {
+   "b": "b3473",
+   "en": "Handling them carefully was a duty.",
+   "level": 1
+  },
+  {
+   "b": "b3477",
+   "en": "FireStarter went from a trade in our emails to a\nmethod on paper, with every number checked against its own rules.",
+   "level": 1
+  },
+  {
+   "b": "b3480",
+   "en": "it saved what Michael had spent years unpacking, so a\nnew student would not need years.",
+   "level": 1
+  },
+  {
+   "b": "b3483",
+   "en": "The\ncourses reach the student who learns by watching first.",
+   "level": 1
+  },
+  {
+   "b": "b3486",
+   "en": "The work no longer lives only in our\ninboxes.",
+   "level": 1
+  },
+  {
+   "b": "b3488",
+   "en": "None of it would exist if Michael had kept trying to\ndraw his own diagrams. None of it would make sense if he had not first\nspent eleven years with Charlie.",
+   "level": 2
+  },
+  {
+   "b": "b3497",
+   "en": "hard work can make you a state champion; only\nthe wider arena tells you where you really stand.",
+   "level": 1
+  },
+  {
+   "b": "b3501",
+   "en": "someone once gave you a moment you never forgot;\nwhen your turn comes, give it back.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b3465",
+   "en": "More books in the Library",
+   "ar": "مزيد من كتب الـ Library",
+   "note_en": "The Simple System Setup, the 6 & 6, Charlie's Notebooks, FireStarter.",
+   "note_ar": "الـ 3S والـ 6 & 6 وNotebooks لـ Charlie وFireStarter.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3465",
+     "en": "Simple System Setup (3S)",
+     "ar": "Simple System Setup (3S)",
+     "note_en": "One setup, start to finish, with entries and a target box; our everyday language.",
+     "note_ar": "setup واحد من البداية إلى النهاية بنقاط دخول وصندوق هدف؛ لغتنا اليومية.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3467",
+       "en": "Lesson: easiest to teach",
+       "ar": "الدرس: الأسهل تدريسًا",
+       "note_en": "It was the setup we actually traded together.",
+       "note_ar": "كان الـ setup الذي تداولناه معًا فعلًا.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3468",
+     "en": "Goodman 6 & 6",
+     "ar": "Goodman 6 & 6",
+     "note_en": "Six swings off the G-Spot graded by six parameters; the deep study behind Molokai.",
+     "note_ar": "ستة swings من الـ G-Spot تُقيَّم بستة parameters؛ الدراسة العميقة وراء Molokai.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3470",
+       "en": "Lesson: short road vs long road",
+       "ar": "الدرس: الطريق القصير والطويل",
+       "note_en": "Playbook is the short road, 6 & 6 the long one; readers choose.",
+       "note_ar": "الـ Playbook الطريق القصير والـ 6 & 6 الطويل؛ والقارئ يختار.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3471",
+     "en": "Charlie's Secret Notebooks",
+     "ar": "Charlie's Secret Notebooks",
+     "note_en": "Three books from 2016 edited by Michael: propagation, Crossover Point, Landing Area.",
+     "note_ar": "ثلاثة كتب من 2016 حرّرها Michael: propagation وCrossover Point وLanding Area.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3473",
+       "en": "Lesson: Charlie's own voice",
+       "ar": "الدرس: صوت Charlie",
+       "note_en": "Handling them carefully was a duty.",
+       "note_ar": "كان التعامل معها بعناية واجبًا.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3474",
+     "en": "FireStarter",
+     "ar": "FireStarter",
+     "note_en": "Short-term trade off the end of a Jumbo swing; I built a 29-page, 32-figure companion.",
+     "note_ar": "صفقة قصيرة الأمد من نهاية Jumbo swing؛ وبنيتُ كتابًا مرافقًا من 29 صفحة و32 شكلًا.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3477",
+       "en": "Lesson: from trade to method",
+       "ar": "الدرس: من صفقة إلى method",
+       "note_en": "Every number checked against its own rules.",
+       "note_ar": "كل رقم مراجَع على قواعده.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b3478",
+   "en": "Courses and the Library website",
+   "ar": "الدورات وموقع الـ Library",
+   "note_en": "Goodmanisms series, five Udemy courses, and the website that gathers it all.",
+   "note_ar": "سلسلة Goodmanisms وخمس دورات على Udemy والموقع الذي يجمع كل شيء.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3478",
+     "en": "Goodmanisms series",
+     "ar": "سلسلة Goodmanisms",
+     "note_en": "Charlie's sayings illustrated as a course of seven rules for trading discipline.",
+     "note_ar": "أقوال Charlie مصوّرة في دورة من سبع قواعد لانضباط التداول.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3480",
+       "en": "Lesson: save years of unpacking",
+       "ar": "الدرس: توفير سنوات من الفهم",
+       "note_en": "A new student need not spend years.",
+       "note_ar": "لا يحتاج الطالب الجديد إلى سنوات.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3481",
+     "en": "GWT courses on Udemy",
+     "ar": "دورات GWT على Udemy",
+     "note_en": "Five courses: 1-2-3, Journal and Expectancy, Trade Management, 3-C, 3S.",
+     "note_ar": "خمس دورات: الـ 1-2-3 والـ Journal والـ Expectancy وTrade Management والـ 3-C والـ 3S.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3483",
+       "en": "Lesson: learn by watching",
+       "ar": "الدرس: التعلم بالمشاهدة",
+       "note_en": "Courses reach students who learn by watching first.",
+       "note_ar": "تصل الدورات إلى من يتعلم بالمشاهدة أولًا.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3484",
+     "en": "Goodman Library website",
+     "ar": "موقع Goodman Library",
+     "note_en": "Rebuilt in September 2026, with a cover for every book.",
+     "note_ar": "أُعيد بناؤه في September 2026 مع غلاف لكل كتاب.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3486",
+       "en": "Lesson: work no longer in inboxes",
+       "ar": "الدرس: العمل خارج البريد",
+       "note_en": "Charlie's method, Michael's books and my drawings sit side by side.",
+       "note_ar": "تجتمع طريقة Charlie وكتب Michael ورسوماتي معًا.",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b3487",
+   "en": "What it all meant",
+   "ar": "ماذا عنى ذلك كله",
+   "note_en": "2024 ideas, 2025 writing, 2026 building; my part was giving the work a usable form.",
+   "note_ar": "2024 أفكار، 2025 كتابة، 2026 بناء؛ ودوري منح العمل شكلًا قابلًا للاستخدام.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b3488",
+     "en": "Both halves were needed",
+     "ar": "كلا الجانبين ضروري",
+     "note_en": "Without Michael's eleven years with Charlie it would make no sense; without the diagrams it would not exist.",
+     "note_ar": "بدون سنوات Michael الإحدى عشرة مع Charlie لا معنى له، وبدون الرسوم لا وجود له.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b3489",
+   "en": "Interlude: The Archer Stories",
+   "ar": "فاصل: حكايات Archer",
+   "note_en": "Michael's promise: 'someday you tell your students Archer stories'; short, funny stories with a lesson at the end.",
+   "note_ar": "وعد Michael: ستروي يومًا لطلابك حكايات Archer؛ حكايات قصيرة طريفة بدرس في آخرها.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3493",
+     "en": "The Racing Bike",
+     "ar": "دراجة السباق",
+     "note_en": "Won the Colorado Junior State Championship, then was beaten by a 13-year-old in France.",
+     "note_ar": "فاز ببطولة Colorado Junior ثم هزمه فتى في الثالثة عشرة في فرنسا.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3497",
+       "en": "Lesson: know where you stand",
+       "ar": "الدرس: اعرف أين تقف",
+       "note_en": "Only the wider arena shows your real standing; keep size modest.",
+       "note_ar": "الساحة الأوسع وحدها تُظهر مكانتك؛ فأبقِ الحجم متواضعًا.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3498",
+     "en": "You Like My Car, Son?",
+     "ar": "You Like My Car, Son?",
+     "note_en": "A stranger's ride in a Corvette, repaid 25 years later with a Ferrari ride for a boy.",
+     "note_ar": "جولة غريب في Corvette ردّها بعد 25 عامًا بجولة Ferrari لولد.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3501",
+       "en": "Lesson: pass it on",
+       "ar": "الدرس: ورّثها",
+       "note_en": "Give back the moment someone gave you.",
+       "note_ar": "أعد اللحظة التي مُنحتها.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

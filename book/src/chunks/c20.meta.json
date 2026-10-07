@@ -1,0 +1,339 @@
+{
+ "chunk": "c20",
+ "highlights": [
+  {
+   "b": "b1280",
+   "en": "Across boxes A, B and C, the best chance to",
+   "level": 1
+  },
+  {
+   "b": "b1286",
+   "en": "So the healthiest to trade are box D, then box C.",
+   "level": 1
+  },
+  {
+   "b": "b1305",
+   "en": "I use the Goodman Box to mark the border",
+   "level": 1
+  },
+  {
+   "b": "b1309",
+   "en": "we must connect with the market and touch the sellers' mind and",
+   "level": 1
+  },
+  {
+   "b": "b1319",
+   "en": "As a guideline: when volume spikes at the end of a box, most of the",
+   "level": 1
+  },
+  {
+   "b": "b1324",
+   "en": "If the buyers are truly strong, they must move up to that red",
+   "level": 1
+  },
+  {
+   "b": "b1333",
+   "en": "The message: buyers are losing their power.",
+   "level": 1
+  },
+  {
+   "b": "b1338",
+   "en": "range is small too, that is the confirmation.",
+   "level": 1
+  },
+  {
+   "b": "b1339",
+   "en": "The message: buyers are very weak. Go short.",
+   "level": 2
+  },
+  {
+   "b": "b1349",
+   "en": "Always protect your gain and kill",
+   "level": 1
+  },
+  {
+   "b": "b1360",
+   "en": "The message: a new buyer army has arrived, while the sellers give up",
+   "level": 1
+  },
+  {
+   "b": "b1367",
+   "en": "it is a buy signal, and the red mark changes to green.",
+   "level": 2
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b1274",
+   "en": "Market correlation",
+   "ar": "ارتباط الأسواق",
+   "note_en": "Comparing four theoretical pairs A to D through the FPS, SS and SPS of the Propagation to see which leads up or down.",
+   "note_ar": "مقارنة أربعة أزواج نظرية من A إلى D عبر FPS وSS وSPS لمعرفة أيها يقود صعودًا أو هبوطًا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1279",
+     "en": "FPS: BP to EP",
+     "ar": "FPS: من BP إلى EP",
+     "note_en": "A has the best move and angle; D has no complete cycle or 1-2-3 but leads down.",
+     "note_ar": "A الأفضل حركةً وزاوية؛ وD بلا دورة كاملة ولا 1-2-3 لكنه يقود الهبوط.",
+     "imp": 1
+    },
+    {
+     "b": "b1281",
+     "en": "SS: lead changes",
+     "ar": "SS: تغيّر القيادة",
+     "note_en": "A reacts about 50% on more volume; B is healthy, so the lead passes from A to B.",
+     "note_ar": "A يرتد نحو 50% على volume أكبر؛ وB سليم فتنتقل القيادة من A إلى B.",
+     "imp": 1
+    },
+    {
+     "b": "b1283",
+     "en": "SPS: weakness",
+     "ar": "SPS: الضعف",
+     "note_en": "All show weakness; D leads it with a healthy downtrend, then C with the lowest gains.",
+     "note_ar": "كلها تُظهر ضعفًا؛ يقودها D باتجاه هابط سليم ثم C بأقل gains.",
+     "imp": 1
+    },
+    {
+     "b": "b1286",
+     "en": "Conclusion: trade D then C",
+     "ar": "الخلاصة: D ثم C",
+     "note_en": "Healthiest to trade are D then C; stay neutral on A and B.",
+     "note_ar": "الأسلم للتداول D ثم C؛ وأبقى محايدًا تجاه A وB.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1287",
+   "en": "Operation: real examples",
+   "ar": "التطبيق: أمثلة حقيقية",
+   "note_en": "Real charts showing the same ideas with only the 1-2-3 and Propagation.",
+   "note_ar": "رسوم حقيقية تُظهر الأفكار نفسها بالـ 1-2-3 والـ Propagation فقط.",
+   "imp": 1,
+   "children": [
+    {
+     "b": "b1290",
+     "en": "Up or down?",
+     "ar": "صعود أم هبوط؟",
+     "note_en": "Reading volume on swings to judge where the greater chance lies (NZDUSD 1-hour).",
+     "note_ar": "قراءة الـ volume على الـ swings لمعرفة أين الفرصة الأكبر (NZDUSD).",
+     "imp": 1
+    },
+    {
+     "b": "b1293",
+     "en": "After the 1-2-3",
+     "ar": "بعد الـ 1-2-3",
+     "note_en": "The 1-2-3 propagates; the highest volume of the first Propagation is marked.",
+     "note_ar": "الـ 1-2-3 يتمدد، ويُوسم أعلى volume في أول Propagation.",
+     "imp": 1
+    },
+    {
+     "b": "b1299",
+     "en": "Turn down: who has the chance?",
+     "ar": "انقلاب هابط: لمن الفرصة؟",
+     "note_en": "Buyers, sellers or neutral; a proper stop loss allows a good profit.",
+     "note_ar": "مشترون أم بائعون أم محايد؛ ومع stop loss مناسب يتحقق ربح جيد.",
+     "imp": 1
+    },
+    {
+     "b": "b1302",
+     "en": "The dip always happens",
+     "ar": "الغوص يحدث دائمًا",
+     "note_en": "A dip just under the earlier low precedes a long up Propagation (USDJPY).",
+     "note_ar": "غوص تحت القاع السابق يسبق Propagation صاعدًا طويلًا (USDJPY).",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1304",
+   "en": "Live study: buyers' and sellers' minds",
+   "ar": "دراسة حيّة: عقول المشترين والبائعين",
+   "note_en": "On H1 the Goodman Box marks the fight, volume shows liquidity, time shows speed, price action tells the truth.",
+   "note_ar": "على H1 يرسم Goodman Box حدود الصراع، والـ volume يبيّن السيولة، والوقت يبيّن السرعة، وprice action يقول الحقيقة.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1305",
+     "en": "Tools of the fight",
+     "ar": "أدوات قراءة الصراع",
+     "note_en": "Goodman Box = border; volume = liquidity; time = speed; price action = honest report.",
+     "note_ar": "Goodman Box = الحدود؛ volume = السيولة؛ الوقت = السرعة؛ price action = التقرير الصادق.",
+     "imp": 2
+    },
+    {
+     "b": "b1309",
+     "en": "Connect with the market",
+     "ar": "الاتصال بالسوق",
+     "note_en": "Without drawing the conflict is unreadable; touch both minds and see which side is more intense. Start from the top, ignore the higher timeframe.",
+     "note_ar": "دون رسم لا يُقرأ الصراع؛ المس عقل الطرفين وانظر أيهما أشد. ابدأ من الأعلى وتجاهل الـ timeframe الأعلى.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1311",
+   "en": "First box: the oasis illusion",
+   "ar": "الصندوق الأول: الواحة وهم",
+   "note_en": "Buyers look healthy but it is noise; volume at the top of the box (points 1 to 5) reveals a new army.",
+   "note_ar": "المشترون يبدون أصحّاء لكنه noise؛ والـ volume عند قمة الصندوق (النقاط 1-5) يكشف جيشًا جديدًا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1317",
+     "en": "Volume points 1 to 5",
+     "ar": "نقاط الـ volume من 1 إلى 5",
+     "note_en": "At 4 bar size does not fit volume; at 5 market falls on falling volume.",
+     "note_ar": "عند 4 لا يناسب حجم العمود الـ volume؛ وعند 5 ينزل السوق على volume متراجع.",
+     "imp": 1
+    },
+    {
+     "b": "b1319",
+     "en": "Rule: volume spike at box end",
+     "ar": "قاعدة: قفزة volume في نهاية الصندوق",
+     "note_en": "Usually the new army helps the opposite force; be cautious.",
+     "note_ar": "غالبًا يريد الجيش الجديد مساعدة القوة المقابلة؛ فكن حذرًا.",
+     "imp": 3
+    },
+    {
+     "b": "b1324",
+     "en": "The red mark",
+     "ar": "العلامة الحمراء",
+     "note_en": "Tests buyers' desire: they must reach the red level to meet the 1-2-3 requirement.",
+     "note_ar": "تختبر رغبة المشترين: عليهم بلوغ المستوى الأحمر لتحقيق شرط الـ 1-2-3.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1325",
+   "en": "Sellers' army camp",
+   "ar": "معسكر جيش البائعين",
+   "note_en": "Boxes 1 to 9 show sellers entering at the top of each box while buyers weaken.",
+   "note_ar": "الصناديق من 1 إلى 9 تُظهر دخول البائعين عند قمة كل صندوق بينما يضعف المشترون.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1329",
+     "en": "Points 8 and 9",
+     "ar": "النقطتان 8 و9",
+     "note_en": "Small bar at 9 confirms buyers are slowed by the new seller army.",
+     "note_ar": "العمود الصغير عند 9 يؤكد أن جيش البائعين الجديد يبطّئ المشترين.",
+     "imp": 1
+    },
+    {
+     "b": "b1332",
+     "en": "A and B: bad players",
+     "ar": "A وB: لاعبون سيئون",
+     "note_en": "New buyers at A; no volume rise at B after many failures.",
+     "note_ar": "مشترون جدد عند A؛ ولا ارتفاع volume عند B بعد فشل متكرر.",
+     "imp": 1
+    },
+    {
+     "b": "b1333",
+     "en": "Lesson: buyers losing power",
+     "ar": "الدرس: المشترون يفقدون قوتهم",
+     "note_en": "Buyers are old in the battle and cannot fight.",
+     "note_ar": "المشترون منهكون ولا يستطيعون القتال.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1334",
+   "en": "Tiny box: go short",
+   "ar": "الصندوق الصغير: Short",
+   "note_en": "A tiny box with tiny volume at C shows very weak buyers: sell signal.",
+   "note_ar": "صندوق صغير مع volume ضئيل عند C يدل على ضعف المشترين: إشارة بيع.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1338",
+     "en": "Small volume and range",
+     "ar": "volume ومدى صغيران",
+     "note_en": "Easy for sellers to push down; this confirms the signal.",
+     "note_ar": "من السهل على البائعين الدفع للأسفل؛ وهذا تأكيد الإشارة.",
+     "imp": 2
+    },
+    {
+     "b": "b1340",
+     "en": "New speed for sellers",
+     "ar": "سرعة جديدة للبائعين",
+     "note_en": "At XX the sharpest angle yet; volume rise at D is profit-taking; trend is down.",
+     "note_ar": "عند XX أحدّ زاوية حتى الآن؛ وارتفاع volume عند D جني أرباح؛ والاتجاه هابط.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1345",
+   "en": "Continuation box and new buyers",
+   "ar": "صندوق الاستمرار ووصول المشترين",
+   "note_en": "Continuation box protects against noise (E); then at H new buyers enter and the sellers fade at J.",
+   "note_ar": "صندوق الاستمرار يحمي من الضجيج (E)؛ ثم يدخل مشترون جدد عند H ويخفت البائعون عند J.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1349",
+     "en": "Move stop to TP",
+     "ar": "انقل الـ stop إلى TP",
+     "note_en": "Low volume at C confirms weak buyers; protect gain and kill loss.",
+     "note_ar": "volume المنخفض عند C يؤكد ضعف المشترين؛ احمِ الربح واقتل الخسارة.",
+     "imp": 2
+    },
+    {
+     "b": "b1352",
+     "en": "F and G",
+     "ar": "F وG",
+     "note_en": "Spike at F mid-box is fine; rise at G hints a rally, but sellers still hold the crown.",
+     "note_ar": "قفزة F في المنتصف مقبولة؛ وارتفاع G يلمّح لصعود، لكن التاج لا يزال للبائعين.",
+     "imp": 1
+    },
+    {
+     "b": "b1356",
+     "en": "H: new buyers arrive",
+     "ar": "H: وصول مشترين جدد",
+     "note_en": "Buying rises with every up bar; move stop above the rally and prepare for uptrend.",
+     "note_ar": "الشراء يرتفع مع كل عمود صاعد؛ انقل الـ stop فوق الصعود واستعد لاتجاه صاعد.",
+     "imp": 1
+    },
+    {
+     "b": "b1359",
+     "en": "J: sellers give up",
+     "ar": "J: استسلام البائعين",
+     "note_en": "Slowest angle, no gain, falling volume: no new sellers.",
+     "note_ar": "أبطأ زاوية، بلا gain، وvolume متراجع: لا بائعين جدد.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1361",
+   "en": "Buyers' camp and the Dagger",
+   "ar": "معسكر المشترين والـ Dagger",
+   "note_en": "Volume rises on the up move at L versus J; the tiny last down box breaks out as a Dagger: buy signal.",
+   "note_ar": "يرتفع الـ volume عند L مقارنةً بـ J؛ والصندوق الهابط الأخير الصغير ينكسر كـ Dagger: إشارة شراء.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1364",
+     "en": "L versus J",
+     "ar": "L مقابل J",
+     "note_en": "Persistently rising volume shows the buyers' army lives.",
+     "note_ar": "الـ volume المرتفع باستمرار يدل على حياة جيش المشترين.",
+     "imp": 1
+    },
+    {
+     "b": "b1367",
+     "en": "Dagger buy signal",
+     "ar": "إشارة شراء Dagger",
+     "note_en": "Lowest volume of any down box, last bar breaks out; red mark turns green.",
+     "note_ar": "أدنى volume بين الصناديق الهابطة، والعمود الأخير يكسر؛ وتتحول العلامة الحمراء إلى خضراء.",
+     "imp": 3
+    }
+   ]
+  }
+ ]
+}

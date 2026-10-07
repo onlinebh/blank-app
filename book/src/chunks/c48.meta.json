@@ -1,0 +1,46 @@
+{
+ "chunk": "c48",
+ "highlights": [
+  {"b":"b3034","en":"The 1-2-3 is the basic component that buyers and sellers must\nfollow.","level":1},
+  {"b":"b3041","en":"In Goodman we prefer an intersection to a Fibonacci number.","level":1},
+  {"b":"b3047","en":"When swing 2\nintersects an old EP-SS, there is a high probability that sellers are\nlosing their power.","level":1},
+  {"b":"b3064","en":"the behavior (price action) in swing 3 will show us where it stops.","level":1},
+  {"b":"b3065","en":"When the market cannot complete a 1-2-3 cycle, it shows more\nweakness.","level":1},
+  {"b":"b3070","en":"Buyers move up on a very small amount, which shows they are\nleaving the market; they do not want this price.","level":1},
+  {"b":"b3071","en":"Keeping cash is better than\ntrading.","level":1},
+  {"b":"b3081","en":"We can always change a laydown when the\nchart changes. A laydown is a vision of the future of the pair.","level":1},
+  {"b":"b3081","en":"When the market confirms my laydown, I trade. Otherwise I draw another\nlaydown and let the market confirm it for me.","level":2}
+ ],
+ "mindmap": [
+  {"b":"b3027","en":"Market Adventure (2021) setup","ar":"مدخل Market Adventure (2021)","note_en":"A study following EURUSD, AUDUSD, GBPUSD and NZDUSD on the daily chart from 14 April 2021 to build a campaign; charts are redrawn on real 2022 data.","note_ar":"دراسة تتابع أربعة أزواج على الـ chart اليومي من 14 April 2021 لبناء حملة؛ والـ charts معاد رسمها على بيانات حقيقية من 2022.","imp":2,"children":[]},
+  {"b":"b3029","en":"EURUSD: reading the equilibrium","ar":"EURUSD: قراءة الـ equilibrium","note_en":"Seeing the chart as a Nash equilibrium of buyers' and sellers' efforts, built from a large 1-2-3 and a Jumbo 1.","note_ar":"النظر إلى الـ chart بوصفه Nash equilibrium لجهود المشترين والبائعين، مبنيًا على 1-2-3 كبير وJumbo 1.","imp":3,
+   "children":[
+    {"b":"b3033","en":"Nash equilibrium and the 1-2-3","ar":"Nash equilibrium والـ 1-2-3","note_en":"The 1-2-3 is the basic component buyers and sellers must follow; in Goodman it is an axiom.","note_ar":"الـ 1-2-3 المكوّن الأساسي الذي يتبعه المشترون والبائعون؛ وهو في Goodman axiom.","imp":3,"children":[]},
+    {"b":"b3038","en":"Jumbo 1","ar":"Jumbo 1","note_en":"A large swing 1 from BP 20 March 2020 to EP 6 January 2021; Hope dominated for over six months.","note_ar":"swing 1 كبير من BP في 20 March 2020 إلى EP في 6 January 2021؛ وهيمن الأمل أكثر من ستة أشهر.","imp":2,"children":[]},
+    {"b":"b3040","en":"Intersections instead of Fibonacci","ar":"Intersections بدل Fibonacci","note_en":"An intersection is where buyers and sellers fought in the past, called a Return Zone; swing 2 returns to it. Longer sideways stays make it stronger.","note_ar":"الـ intersection موضع صراع في الماضي ويُسمى Return Zone؛ يعود إليه الـ swing 2. والبقاء الجانبي الأطول يقوّيه.","imp":3,
+     "children":[
+      {"b":"b3044","en":"Split swing 1 into its own 1-2-3","ar":"قسّم الـ swing 1 إلى 1-2-3","note_en":"Find where buyers struggled for long; swing 2 stopped between EP-FPS and EP-SS, a sign sellers were losing power.","note_ar":"ابحث أين تصارع المشترون طويلًا؛ توقف الـ swing 2 بين EP-FPS وEP-SS علامة على فقدان البائعين قوتهم.","imp":2,"children":[]}
+     ]}
+   ]},
+  {"b":"b3048","en":"Where can swing 3 stop? Five tools","ar":"أين يتوقف الـ swing 3؟ خمس أدوات","note_en":"Five conflict levels to project where swing 3 may end, then confirm with price action.","note_ar":"خمسة مستويات صراع لتوقع نهاية الـ swing 3، ثم التأكد بسلوك السعر.","imp":3,
+   "children":[
+    {"b":"b3049","en":"The 3-C count","ar":"عدّ الـ 3-C","note_en":"Projection of swing 3 from the 1-2-3 inside swing 1.","note_ar":"إسقاط الـ swing 3 من الـ 1-2-3 داخل الـ swing 1.","imp":2,"children":[]},
+    {"b":"b3052","en":"Angle propagation","ar":"Angle propagation","note_en":"A blue line from the BP to suggest the most likely 3.","note_ar":"خط أزرق من الـ BP لاقتراح النقطة 3 الأرجح.","imp":1,"children":[]},
+    {"b":"b3055","en":"Return Zone of swing 2","ar":"الـ Return Zone للـ swing 2","note_en":"The EP box of its first break as a possible stopping area.","note_ar":"صندوق الـ EP لأول كسر كمنطقة توقف محتملة.","imp":1,"children":[]},
+    {"b":"b3058","en":"Tipping Point (TP)","ar":"Tipping Point (TP)","note_en":"The 50% level of swing 2.","note_ar":"مستوى 50% من الـ swing 2.","imp":1,"children":[]},
+    {"b":"b3061","en":"Matrix Overlay at 1","ar":"Matrix Overlay عند 1","note_en":"MO at the level of 1 together with EP, TP and propagation lines.","note_ar":"الـ MO عند مستوى 1 مع خطوط EP وTP والـ propagation.","imp":1,"children":[]},
+    {"b":"b3064","en":"Price action decides","ar":"سلوك السعر يحسم","note_en":"Watch all levels; an incomplete 1-2-3 cycle shows weakness.","note_ar":"راقب كل المستويات؛ والدورة غير المكتملة تدل على ضعف.","imp":2,"children":[]}
+   ]},
+  {"b":"b3066","en":"Volume and spread triple","ar":"الـ Volume والـ spread triple","note_en":"Volume inside the boxes shows buyers fading: strong at 1, weak at 2, absent at 3. Spread triple confirms a failed cycle.","note_ar":"الـ volume داخل الصناديق يبيّن تراجع المشترين: قوي عند 1، ضعيف عند 2، غائب عند 3. والـ spread triple يؤكد دورة فاشلة.","imp":3,
+   "children":[
+    {"b":"b3070","en":"Volume at 1, 2 and 3","ar":"الـ volume عند 1 و2 و3","note_en":"At 1 many new buyers; at 2 sellers moved on small volume; at 3 the SPS starts with no buyers.","note_ar":"عند 1 مشترون جدد كثر؛ عند 2 تحرك البائعون بحجم صغير؛ وعند 3 يبدأ الـ SPS بلا مشترين.","imp":2,"children":[]},
+    {"b":"b3071","en":"No trade on day 14","ar":"لا صفقة في اليوم 14","note_en":"Keeping cash is better than trading.","note_ar":"الاحتفاظ بالنقد أفضل من التداول.","imp":3,"children":[]},
+    {"b":"b3072","en":"Spread triple","ar":"Spread triple","note_en":"When volume is unclear, use the spread triple to measure power per cycle; the last cycle failed to exceed the last jump.","note_ar":"حين لا يتضح الـ volume، يُقاس بالـ spread triple قوة كل دورة؛ وقد فشلت الأخيرة في تجاوز القفزة الأخيرة.","imp":2,"children":[]}
+   ]},
+  {"b":"b3077","en":"EURUSD conclusion and laydown","ar":"خلاصة EURUSD والـ laydown","note_en":"EURUSD likely cannot rise back to 1 nor fall below the Jumbo's BP; the laydown is an incomplete cycle and a sell that stops before the BP. Trade only when the market confirms.","note_ar":"على الأرجح لا يعود EURUSD إلى 1 ولا يهبط دون BP الـ Jumbo؛ والـ laydown دورة غير مكتملة وبيع يتوقف قبل الـ BP. ولا نتداول إلا بتأكيد السوق.","imp":3,
+   "children":[
+    {"b":"b3079","en":"Three reasons","ar":"ثلاثة أسباب","note_en":"Jumbo 1 took over six months and destroyed demand; sellers at 2 moved on small volume; cycles incomplete.","note_ar":"استغرق Jumbo 1 أكثر من ستة أشهر ودمّر الطلب؛ تحرك البائعون عند 2 بحجم صغير؛ الدورات غير مكتملة.","imp":2,"children":[]},
+    {"b":"b3081","en":"Laydown is a vision, market confirms","ar":"الـ laydown رؤية والسوق يؤكد","note_en":"Change a laydown as the chart changes; move one step at a time and trade only on confirmation.","note_ar":"غيّر الـ laydown حين يتغير الـ chart؛ وتحرك خطوة بخطوة ولا تتداول إلا بعد التأكيد.","imp":3,"children":[]}
+   ]}
+ ]
+}

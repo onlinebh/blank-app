@@ -1,0 +1,1 @@
+window.__ch("ch55",[{"id":"b2513","t":"h1","e":"Rung 5 · Acting: How Do\nI Manage the Trade?","a":"<span class=\"lt\" dir=\"ltr\">Rung 5 · Acting</span>: كيف\nأدير الصفقة؟"},{"id":"b2514","t":"p","e":"<em>From the entry to the exit: protecting the trade, then letting it\nrun.</em>","a":"<em>من الدخول إلى الخروج: حماية الصفقة، ثم تركها تجري.</em>"}]);

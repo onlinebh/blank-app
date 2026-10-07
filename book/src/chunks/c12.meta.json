@@ -1,0 +1,335 @@
+{
+ "chunk": "c12",
+ "highlights": [
+  {
+   "b": "b798",
+   "en": "It is just human psychology!",
+   "level": 1
+  },
+  {
+   "b": "b801",
+   "en": "figure the dogs, but you can't figure the human race!",
+   "level": 1
+  },
+  {
+   "b": "b802",
+   "en": "Before you build a theory about why",
+   "level": 1
+  },
+  {
+   "b": "b809",
+   "en": "then it is all over the street and prices are only up a few cents today.",
+   "level": 1
+  },
+  {
+   "b": "b811",
+   "en": "News is worth what the market has not",
+   "level": 1
+  },
+  {
+   "b": "b818",
+   "en": "Those rail cars are either empty or just partially full.",
+   "level": 1
+  },
+  {
+   "b": "b820",
+   "en": "heavy with a load, they buck and jerk, because momentum makes them push",
+   "level": 1
+  },
+  {
+   "b": "b824",
+   "en": "Charlie's edge was a lifetime of",
+   "level": 1
+  },
+  {
+   "b": "b825",
+   "en": "Keep a notebook of small things you notice",
+   "level": 1
+  },
+  {
+   "b": "b833",
+   "en": "When every newsletter agrees, you are",
+   "level": 1
+  },
+  {
+   "b": "b837",
+   "en": "If I had been a greedy man, my method would not have worked and",
+   "level": 1
+  },
+  {
+   "b": "b837",
+   "en": "Just go for the high percentage sitting ducks, Dad!",
+   "level": 1
+  },
+  {
+   "b": "b837",
+   "en": "Remember, light shines brightest in a dark room!",
+   "level": 1
+  },
+  {
+   "b": "b837",
+   "en": "You put enough lines on a chart, one of them is bound to be",
+   "level": 1
+  },
+  {
+   "b": "b837",
+   "en": "Information is so plentiful as to be nearly worthless.",
+   "level": 2
+  },
+  {
+   "b": "b842",
+   "en": "It is a shared culture that manages price, and it",
+   "level": 1
+  },
+  {
+   "b": "b844",
+   "en": "sellers refuse to sell lower than that price.",
+   "level": 1
+  },
+  {
+   "b": "b845",
+   "en": "the harmonic culture of sellers.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b795",
+   "en": "Silver and soybeans",
+   "ar": "الفضة وفول الصويا",
+   "note_en": "Two unrelated markets moved together; Charlie explained it by human psychology.",
+   "note_ar": "تحرك سوقان غير مرتبطين معًا، وفسّر Charlie ذلك بنفسية البشر.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b798",
+     "en": "Pits side by side",
+     "ar": "الحلقتان المتجاورتان",
+     "note_en": "Action in silver spills over to soybean traders who want action too.",
+     "note_ar": "النشاط في الفضة ينتقل إلى متداولي فول الصويا الراغبين في حركة.",
+     "imp": 2
+    },
+    {
+     "b": "b801",
+     "en": "You can't figure the human race",
+     "ar": "لا تفهم الجنس البشري",
+     "note_en": "Michael's repeated line from Charlie.",
+     "note_ar": "العبارة التي يردّدها Michael عن Charlie.",
+     "imp": 2
+    },
+    {
+     "b": "b803",
+     "en": "Lesson: ask who stands next to whom",
+     "ar": "الدرس: اسأل من بجوار من",
+     "note_en": "Write a human explanation before a mathematical one.",
+     "note_ar": "اكتب تفسيرًا إنسانيًا قبل التفسير الرياضي.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b804",
+   "en": "Man with inside information",
+   "ar": "صاحب المعلومة الداخلية",
+   "note_en": "A contrary-opinion story: a tip everyone knows is already in the price.",
+   "note_ar": "قصة رأي مضاد: النصيحة التي يعرفها الجميع دخلت السعر.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b806",
+     "en": "The tip and ten contracts",
+     "ar": "النصيحة وعشرة عقود",
+     "note_en": "A man in a suit buys ten bullish soybean contracts on a report tip.",
+     "note_ar": "رجل أنيق يشتري عشرة عقود على معلومة عن التقرير.",
+     "imp": 1
+    },
+    {
+     "b": "b809",
+     "en": "Charlie's prediction",
+     "ar": "توقع Charlie",
+     "note_en": "Strong close, then a sharp sell-off; the news is already in the market.",
+     "note_ar": "إغلاق قوي ثم هبوط حاد؛ فالخبر موجود في السوق.",
+     "imp": 2
+    },
+    {
+     "b": "b810",
+     "en": "Outcome: limit down",
+     "ar": "النتيجة: الحد الأدنى",
+     "note_en": "Bullish report, yet the market collapsed and closed limit down.",
+     "note_ar": "التقرير إيجابي لكن السوق انهار وأغلق عند الحد الأدنى.",
+     "imp": 2
+    },
+    {
+     "b": "b811",
+     "en": "Lesson: news is already priced",
+     "ar": "الدرس: الخبر مسعَّر",
+     "note_en": "Ask who already knows this and what they have done.",
+     "note_ar": "اسأل: من يعرف الخبر وماذا فعل به؟",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b813",
+   "en": "Simplot potato scandal (1976)",
+   "ar": "فضيحة بطاطس Simplot",
+   "note_en": "Charlie read steady rail cars as empty or half full and held the position.",
+   "note_ar": "قرأ Charlie ثبات العربات فحكم بأنها فارغة أو نصف ممتلئة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b816",
+     "en": "The squeeze",
+     "ar": "الـ squeeze",
+     "note_en": "Simplot was short with no potatoes; moves grew from 2-4 cents to 7.",
+     "note_ar": "Simplot باع على المكشوف بلا بطاطس؛ والحركة بلغت سبعة سنتات.",
+     "imp": 1
+    },
+    {
+     "b": "b818",
+     "en": "Charlie says hold",
+     "ar": "Charlie: تمسّك",
+     "note_en": "The train news was misleading; the contract would go to 15-20 cents.",
+     "note_ar": "خبر القطار مضلل؛ والعقد سيصعد إلى 15-20 سنتًا.",
+     "imp": 2
+    },
+    {
+     "b": "b820",
+     "en": "Boxcars buck and jerk",
+     "ar": "العربات تهتز",
+     "note_en": "Loaded cars jerk because of momentum; steady cars are empty.",
+     "note_ar": "العربات المحمّلة تهتز بسبب الزخم، والثابتة فارغة.",
+     "imp": 3
+    },
+    {
+     "b": "b823",
+     "en": "Contract killed",
+     "ar": "موت العقد",
+     "note_en": "Force majeure settled it near 8 cents and ended the contract.",
+     "note_ar": "القوة القاهرة سوّت العقد قرب 8 سنتات وأنهته.",
+     "imp": 1
+    },
+    {
+     "b": "b825",
+     "en": "Lesson: keep a notebook",
+     "ar": "الدرس: دفتر الملاحظات",
+     "note_en": "Record small things not on your indicators; review monthly.",
+     "note_ar": "سجّل ما لا تظهره المؤشرات وراجعه شهريًا.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b826",
+   "en": "Bearish at the bottom (1974)",
+   "ar": "التشاؤم عند القاع",
+   "note_en": "When all market letters agree, it is a crowd, not information.",
+   "note_ar": "حين تتفق النشرات فهذا جمهور لا معلومات.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b828",
+     "en": "Dow bottom near 575",
+     "ar": "قاع Dow قرب 575",
+     "note_en": "After a seven-year bear market, every letter was gloomy.",
+     "note_ar": "بعد سوق هابطة سبع سنوات كانت كل النشرات متشائمة.",
+     "imp": 1
+    },
+    {
+     "b": "b829",
+     "en": "Charlie says buy near 600",
+     "ar": "Charlie: اشتروا قرب 600",
+     "note_en": "Only Jerry Peters believed him.",
+     "note_ar": "لم يصدّقه إلا Jerry Peters.",
+     "imp": 2
+    },
+    {
+     "b": "b832",
+     "en": "Dow 575 to 800",
+     "ar": "من 575 إلى 800",
+     "note_en": "Goodman plus a fundamental ratio served clients well.",
+     "note_ar": "خدمت Goodman مع نسبة أساسية العملاء جيدًا.",
+     "imp": 1
+    },
+    {
+     "b": "b834",
+     "en": "Lesson: count the crowd",
+     "ar": "الدرس: عدّ الجمهور",
+     "note_en": "If nearly all analysts share your view, reduce size.",
+     "note_ar": "إن شاركك الجميع رأيك فقلّل الحجم.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b835",
+   "en": "Goodmanisms",
+   "ar": "الـ Goodmanisms",
+   "note_en": "Six short sayings from the trading room.",
+   "note_ar": "ستة أقوال قصيرة من غرفة التداول.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b837",
+     "en": "Greed and doing something",
+     "ar": "الطمع والفعل لمجرد الفعل",
+     "note_en": "Greed would have broken the method; acting for its own sake is wrong.",
+     "note_ar": "الطمع كان سيفسد الطريقة؛ والفعل لمجرد الفعل خطأ.",
+     "imp": 2
+    },
+    {
+     "b": "b837",
+     "en": "Light in a dark room",
+     "ar": "النور في الغرفة المظلمة",
+     "note_en": "After bad trades, learning happens and boys are separated from men.",
+     "note_ar": "بعد الصفقات الخاسرة يحدث التعلّم.",
+     "imp": 2
+    },
+    {
+     "b": "b837",
+     "en": "Too many lines on a chart",
+     "ar": "خطوط كثيرة على الرسم",
+     "note_en": "One of enough lines will be right by chance.",
+     "note_ar": "سيصيب أحد الخطوط بالصدفة.",
+     "imp": 1
+    },
+    {
+     "b": "b837",
+     "en": "Information, Knowledge, Wisdom",
+     "ar": "المعلومات والمعرفة والحكمة",
+     "note_en": "Information is plentiful, knowledge is useful, wisdom is rarest.",
+     "note_ar": "المعلومات وفيرة، والمعرفة نافعة، والحكمة أندر.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b841",
+   "en": "Market Anatomy (2021)",
+   "ar": "Market Anatomy (2021)",
+   "note_en": "Price is managed by a shared culture that judges by experiment.",
+   "note_ar": "السعر تديره ثقافة مشتركة تحكم بالتجربة.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b843",
+     "en": "Why price rises without buyers",
+     "ar": "لماذا يرتفع السعر بلا مشترين",
+     "note_en": "Markets reach new highs because sellers refuse lower prices.",
+     "note_ar": "يبلغ السوق قممًا جديدة لأن البائعين يرفضون الأسعار الأدنى.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b845",
+       "en": "Harmonic culture of sellers",
+       "ar": "Harmonic culture للبائعين",
+       "note_en": "Sellers agree not to accept an unacceptable lower price.",
+       "note_ar": "يتفق البائعون على رفض سعر أدنى غير مقبول.",
+       "imp": 3
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

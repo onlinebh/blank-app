@@ -1,0 +1,231 @@
+{
+ "chunk": "c17",
+ "highlights": [
+  {
+   "b": "b1088",
+   "en": "Every mind holds a thousand false\nconclusions.",
+   "level": 1
+  },
+  {
+   "b": "b1090",
+   "en": "with more practice, a chance\nbecomes more attainable.",
+   "level": 1
+  },
+  {
+   "b": "b1092",
+   "en": "events with zero correlation can\nproduce a new correlation across many outcomes",
+   "level": 1
+  },
+  {
+   "b": "b1095",
+   "en": "there are no rules: only\ninvestigation, with patience and passion.",
+   "level": 1
+  },
+  {
+   "b": "b1099",
+   "en": "When these pairs rise,\nthe dollar falls.",
+   "level": 1
+  },
+  {
+   "b": "b1101",
+   "en": "EUR, GBP, AUD and NZD all share at least one direct cause,\nthe dollar.",
+   "level": 1
+  },
+  {
+   "b": "b1108",
+   "en": "Goldilocks behaviour is\nfaster than a Dagger.",
+   "level": 1
+  },
+  {
+   "b": "b1108",
+   "en": "Together, the Goldilocks and the Dagger are a\ndecisive sign that the dollar is weak.",
+   "level": 1
+  },
+  {
+   "b": "b1117",
+   "en": "Always redraw the lines into Propagations.",
+   "level": 1
+  },
+  {
+   "b": "b1117",
+   "en": "Without taking profit, you will lose your capital very\nquickly.",
+   "level": 1
+  },
+  {
+   "b": "b1120",
+   "en": "new sellers in EURUSD correlate with\nGBPUSD",
+   "level": 1
+  },
+  {
+   "b": "b1126",
+   "en": "When sellers start in EURUSD, GBPUSD\nfollows the weakness a few weeks later.",
+   "level": 1
+  },
+  {
+   "b": "b1127",
+   "en": "when both pairs confirm each other, they\ngive the best indication of domination",
+   "level": 1
+  },
+  {
+   "b": "b1130",
+   "en": "I think it is a\nhigh-percentage duck trade.",
+   "level": 2
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b1081",
+   "en": "How the mind correlates",
+   "ar": "كيف يربط العقل",
+   "note_en": "The mind correlates past events to meet each new challenge, and can reach a goal by chance, logic or both.",
+   "note_ar": "يربط العقل الماضي بالتحدي الجديد، ويبلغ غايته بالصدفة أو المنطق أو بهما معًا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1085",
+     "en": "Chance",
+     "ar": "الصدفة",
+     "note_en": "Zero correlation to work with; the outcome is decided by chance.",
+     "note_ar": "لا ارتباط يعمل به العقل؛ والحسم للصدفة.",
+     "imp": 1
+    },
+    {
+     "b": "b1088",
+     "en": "Logic",
+     "ar": "المنطق",
+     "note_en": "A true conclusion correlates with its premise, but false conclusions bring bad fate.",
+     "note_ar": "نتيجة صحيحة ترتبط بمقدّمتها، لكن النتائج الخاطئة تجلب سوء الحظ.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b1088",
+       "en": "A thousand false conclusions",
+       "ar": "ألف نتيجة خاطئة",
+       "note_en": "Every mind holds a thousand false conclusions.",
+       "note_ar": "كل عقل يحمل ألف نتيجة خاطئة.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b1089",
+     "en": "Luck, or blessing",
+     "ar": "الحظ أو التوفيق",
+     "note_en": "Built on months and years of practice; relative logic and relative chance, linked to the law of attraction.",
+     "note_ar": "يُبنى على التدريب الطويل؛ منطق نسبي وصدفة نسبية، وله صلة بـ law of attraction.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b1091",
+   "en": "The new theory of chance",
+   "ar": "النظرية الجديدة للصدفة",
+   "note_en": "Zero-correlation events can produce a new correlation across many outcomes, like 100 coin flips.",
+   "note_ar": "أحداث بلا ارتباط تنتج ارتباطًا جديدًا عبر نتائج كثيرة، كما في 100 رمية عملة.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1093",
+     "en": "Inventors and Edison",
+     "ar": "المخترعون وEdison",
+     "note_en": "Great inventors searched many outcomes for a definite correlation; Edison found 10,000 ways that did not work.",
+     "note_ar": "بحث المخترعون في نتائج كثيرة عن ارتباط محدد؛ وجد Edison 10,000 طريقة لا تنجح.",
+     "imp": 2
+    },
+    {
+     "b": "b1095",
+     "en": "No rules, only investigation",
+     "ar": "لا قواعد، بل بحث",
+     "note_en": "Correlation must be known for each circumstance, with patience and passion.",
+     "note_ar": "يجب معرفة الارتباط في كل ظرف، بصبر وشغف.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b1096",
+   "en": "Organizing pairs by the dollar",
+   "ar": "تنظيم الأزواج حول الدولار",
+   "note_en": "Group EURUSD, GBPUSD, AUDUSD and NZDUSD because the dollar is the currency of international trade.",
+   "note_ar": "نجمع EURUSD وGBPUSD وAUDUSD وNZDUSD لأن الدولار عملة التجارة الدولية.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b1099",
+     "en": "Pairs rise, dollar falls",
+     "ar": "ارتفاع الأزواج وهبوط الدولار",
+     "note_en": "When these pairs rise the dollar falls and its purchasing power drops.",
+     "note_ar": "حين ترتفع الأزواج يهبط الدولار وتنخفض قوته الشرائية.",
+     "imp": 2
+    },
+    {
+     "b": "b1101",
+     "en": "Shared direct cause",
+     "ar": "سبب مباشر مشترك",
+     "note_en": "EUR, GBP, AUD and NZD share the dollar as a direct cause: a logical correlation.",
+     "note_ar": "تشترك العملات في الدولار سببًا مباشرًا: ارتباط منطقي.",
+     "imp": 3
+    }
+   ]
+  },
+  {
+   "b": "b1102",
+   "en": "The race: EURUSD vs GBPUSD",
+   "ar": "السباق بين EURUSD وGBPUSD",
+   "note_en": "Using Goodman points to compare which pair is faster, stage by stage.",
+   "note_ar": "مقارنة أي الزوجين أسرع مرحلة بعد مرحلة باستخدام نقاط Goodman.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b1108",
+     "en": "Dagger and Goldilocks",
+     "ar": "Dagger وGoldilocks",
+     "note_en": "EURUSD shows a Dagger, GBPUSD a faster Goldilocks: two signs the dollar is weak, so go long.",
+     "note_ar": "EURUSD يُظهر Dagger وGBPUSD Goldilocks أسرع: علامتان على ضعف الدولار، فندخل Long.",
+     "imp": 3
+    },
+    {
+     "b": "b1113",
+     "en": "Roles swap",
+     "ar": "تبدّل الأدوار",
+     "note_en": "After the TP EURUSD drives higher while GBPUSD becomes slower; both remain uptrends.",
+     "note_ar": "بعد الـ TP يندفع EURUSD أعلى ويصبح GBPUSD أبطأ؛ ويبقى الاتجاهان صاعدين.",
+     "imp": 2
+    },
+    {
+     "b": "b1117",
+     "en": "3-C cancels together",
+     "ar": "إلغاء الـ 3-C معًا",
+     "note_en": "Redraw into Propagations; take partial profit and let the rest run to the TTL.",
+     "note_ar": "أعد الرسم على شكل Propagations، واجنِ ربحًا جزئيًا واترك الباقي حتى الـ TTL.",
+     "imp": 2
+    },
+    {
+     "b": "b1120",
+     "en": "EURUSD gives the alert",
+     "ar": "EURUSD يعطي التنبيه",
+     "note_en": "EURUSD cancels first and shows a top; new sellers there warn GBPUSD longs to close.",
+     "note_ar": "EURUSD يُلغى أولًا ويُظهر قمة؛ والبائعون الجدد ينبّهون إلى إغلاق Long في GBPUSD.",
+     "imp": 3
+    },
+    {
+     "b": "b1126",
+     "en": "Sell signal and confirmation",
+     "ar": "إشارة البيع والتأكيد",
+     "note_en": "Both make a lower high and confirm each other; GBPUSD follows EURUSD's weakness.",
+     "note_ar": "كلاهما يصنع lower high ويؤكد الآخر؛ وGBPUSD يتبع ضعف EURUSD.",
+     "imp": 3
+    },
+    {
+     "b": "b1130",
+     "en": "Return Zone and 6&6 under MO",
+     "ar": "Return Zone و6&6 تحت MO",
+     "note_en": "Different setups agree under an MO Overlay: a high-percentage duck trade.",
+     "note_ar": "setups مختلفة تتفق تحت MO Overlay: duck trade عالية النسبة.",
+     "imp": 2
+    }
+   ]
+  }
+ ]
+}

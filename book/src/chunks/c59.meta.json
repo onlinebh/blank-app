@@ -1,0 +1,54 @@
+{
+ "chunk": "c59",
+ "highlights": [
+  {"b": "b3570", "en": "The cure is not to remove the doubt but to size the trade so that you\ncan sleep with it.", "level": 2},
+  {"b": "b3574", "en": "He won by\nthe honesty of saying he had not found it, and by the depth of the\nsearch.", "level": 1},
+  {"b": "b3578", "en": "a memorized opening is not a method.", "level": 1},
+  {"b": "b3582", "en": "write your ideas down the moment they come,\nnumber them, date them, and keep a copy somewhere safer than a cardboard\nbox.", "level": 1},
+  {"b": "b3582", "en": "\"Write it or lose\nit.\"", "level": 1},
+  {"b": "b3589", "en": "a good idea needs a good partner.", "level": 1},
+  {"b": "b3593", "en": "a lesson is only learned when you obey it\nagainst your own interest.", "level": 1},
+  {"b": "b3596", "en": "check where your material comes from before you\npublish it, and get good advice before you pay, not after.", "level": 1},
+  {"b": "b3599", "en": "do not judge the future by the size of the\nproblem; judge it by the method being applied to it.", "level": 1},
+  {"b": "b3602", "en": "you find on a chart what you have decided to\nlook for.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b3568", "en": "Doubt and honest work", "ar": "الشك والعمل الصادق", "note_en": "Doubt at night over a large position, and a Kant paper won by honest, deep effort.", "note_ar": "شك ليلي أمام مركز كبير، وبحث كانط الذي كسبه الصدق والعمق.", "imp": 2,
+   "children": [
+    {"b": "b3569", "en": "Random Walk at Midnight", "ar": "المشي العشوائي", "note_en": "After a big soybean buy Michael woke wondering if markets were a random walk.", "note_ar": "بعد شراء كبير للصويا استيقظ Michael متسائلًا إن كان السوق random walk.", "imp": 1, "children": [
+      {"b": "b3570", "en": "Size so you can sleep", "ar": "اضبط الحجم لتنام", "note_en": "Do not remove doubt; size the trade so you can sleep with it.", "note_ar": "لا تزل الشك، بل اضبط حجم الصفقة لتنام.", "imp": 3, "children": []}]},
+    {"b": "b3571", "en": "Kant and the Late Paper", "ar": "كانط والبحث المتأخر", "note_en": "Michael admitted he found no exception to the categorical imperative but showed deep thought.", "note_ar": "اعترف بأنه لم يجد استثناءً لكنه أظهر عمق التفكير.", "imp": 1, "children": [
+      {"b": "b3574", "en": "Honesty and depth win", "ar": "الصدق والعمق يفوزان", "note_en": "Serious work beats clever excuses.", "note_ar": "العمل الجاد أفضل من الأعذار الذكية.", "imp": 2, "children": []}]}
+   ]},
+  {"b": "b3575", "en": "Method versus memorization", "ar": "الطريقة لا الحفظ", "note_en": "A chess opponent who memorized the Ruy Lopez but did not understand it.", "note_ar": "خصم شطرنج حفظ Ruy Lopez دون أن يفهمها.", "imp": 3,
+   "children": [
+    {"b": "b3577", "en": "Pieces pulled back home", "ar": "القطع تعود للبيت", "note_en": "He retreated every piece, then lost to checkmate.", "note_ar": "سحب كل القطع ثم خسر بكش مات.", "imp": 1, "children": []},
+    {"b": "b3578", "en": "Lesson: opening is not method", "ar": "الدرس: الافتتاحية ليست طريقة", "note_en": "Traders copy patterns without understanding and pull every piece home.", "note_ar": "ينسخ المتداولون الأنماط بلا فهم.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3579", "en": "Write It or Lose It", "ar": "اكتبها أو اخسرها", "note_en": "Michael's numbered notebooks were mostly destroyed by a puppy.", "note_ar": "أتلف جرو معظم دفاتر Michael المرقمة.", "imp": 2,
+   "children": [
+    {"b": "b3580", "en": "Numbered notebooks", "ar": "دفاتر مرقمة", "note_en": "Over a hundred notebooks, typed out before trading.", "note_ar": "أكثر من مئة دفتر طُبعت قبل التداول.", "imp": 1, "children": []},
+    {"b": "b3582", "en": "Journal discipline", "ar": "انضباط الدفتر", "note_en": "Write, number, date and back up ideas; a trading journal is the same.", "note_ar": "اكتب ورقّم وأرِّخ واحفظ نسخة؛ ودفتر التداول مثله.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3583", "en": "Jim Bickford and Jonathan's Wave", "ar": "Jim Bickford وJonathan's Wave", "note_en": "Loyal friend and programmer who built Michael's program in Prolog.", "note_ar": "صديق وفي ومبرمج بنى برنامج Michael بلغة Prolog.", "imp": 2,
+   "children": [
+    {"b": "b3585", "en": "Jonathan's Wave", "ar": "Jonathan's Wave", "note_en": "Multiple indicators talking to each other; Jim learned Smalltalk then Prolog.", "note_ar": "مؤشرات تتحدث بعضها مع بعض؛ تعلّم Jim لغتين.", "imp": 1, "children": []},
+    {"b": "b3587", "en": "Box options hole", "ar": "ثغرة Box options", "note_en": "Jim found the same hole in a broker's algorithm three times.", "note_ar": "وجد Jim الثغرة ذاتها ثلاث مرات.", "imp": 1, "children": []},
+    {"b": "b3589", "en": "Lesson: good partner", "ar": "الدرس: شريك جيد", "note_en": "A good idea needs a good partner; loyalty is remembered first.", "note_ar": "الفكرة الجيدة تحتاج شريكًا؛ والوفاء يُذكر أولًا.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3590", "en": "Lessons obeyed and costs", "ar": "دروس مُطاعة وكلفتها", "note_en": "The English horn, the borrowed picture, and Go: acting on lessons and methods.", "note_ar": "الـ English horn والصورة المستعارة وGo: العمل بالدروس والطرق.", "imp": 2,
+   "children": [
+    {"b": "b3592", "en": "The Oboe Story again", "ar": "قصة الأوبوا مرة أخرى", "note_en": "Michael returned the valuable horn so the widow received $7,000.", "note_ar": "أعاد الآلة لتنال الأرملة 7,000 دولار.", "imp": 2, "children": [
+      {"b": "b3593", "en": "Obey against interest", "ar": "أطع ضد مصلحتك", "note_en": "A lesson is learned when obeyed against your interest.", "note_ar": "يتعلم المرء الدرس حين يطيعه ضد مصلحته.", "imp": 3, "children": []}]},
+    {"b": "b3595", "en": "The Borrowed Picture", "ar": "الصورة المستعارة", "note_en": "A copyrighted image cost about $10k.", "note_ar": "كلفت صورة محمية نحو 10 آلاف دولار.", "imp": 1, "children": [
+      {"b": "b3596", "en": "Check sources, get advice first", "ar": "تحقق من المصدر واستشر قبلًا", "note_en": "Both checks are cheap compared with skipping them.", "note_ar": "كلاهما رخيص مقارنة بتركهما.", "imp": 1, "children": []}]},
+    {"b": "b3598", "en": "Bet on the Method (Go)", "ar": "راهن على الطريقة (Go)", "note_en": "Michael predicted computers would beat Go within ten years; AlphaGo did in 2016.", "note_ar": "توقع Michael هزيمة Go خلال عشر سنوات وتحقق ذلك عام 2016.", "imp": 2, "children": [
+      {"b": "b3599", "en": "Judge by method", "ar": "احكم بالطريقة", "note_en": "Judge the future by the method, not the size of the problem.", "note_ar": "احكم على المستقبل بالطريقة لا بحجم المشكلة.", "imp": 2, "children": []}]}
+   ]},
+  {"b": "b3600", "en": "Watch for Blue Hondas", "ar": "ترقّب سيارات Honda الزرقاء", "note_en": "Seeing needs a hypothesis; you find what you decided to look for.", "note_ar": "الرؤية تحتاج فرضية؛ تجد ما قررت البحث عنه.", "imp": 3,
+   "children": [
+    {"b": "b3601", "en": "They look but do not see", "ar": "ينظرون ولا يرون", "note_en": "Charlie's line about Peavey gallery traders plus the blue Hondas exercise.", "note_ar": "قول Charlie عن متداولي Peavey وتمرين سيارات Honda.", "imp": 2, "children": []},
+    {"b": "b3602", "en": "Know the setup first", "ar": "اعرف الـ setup أولًا", "note_en": "Decide the setup before opening the screen or a hundred pass unseen.", "note_ar": "حدد الـ setup قبل فتح الشاشة وإلا فاتتك مئة فرصة.", "imp": 3, "children": []}
+   ]}
+ ]
+}

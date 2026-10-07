@@ -1,0 +1,281 @@
+##CTX Part: Rung 2 · Knowing: How Is Truth Learned? | Section: Some Notes on Goodman's Words (2023) -> Deduction, Induction and Abduction
+
+@@b727 h3
+The Dagger as evidence of
+equilibrium
+
+@@b728 p
+In my watch chart, the Setup chart, there is a propagation with a
+breakaway. Then the Dagger becomes very important, as evidence of
+equilibrium. It is a struggle. This is the 5-minute chart.
+
+@@b730 p
+Figure: Propagation with breakaway tips, ending at the cancel
+intersection with the EP level. Real data: EURUSD, 5-minute, 1 March
+2022. (The original chart was USDMXN, 5-minute, 10–13 April 2023; this
+one shows the same structure.)
+
+@@b731 p
+Here is a propagation with a breakaway and multiple cancels. Again
+the Dagger is very important. This is the 2-minute chart.
+
+@@b733 p
+Figure: Sellers fail to protect their line while buyers protect
+theirs every time, then increase the speed angle with demand on the
+volume. Real data: EURUSD, 2-minute, 1 March 2022. (The original chart
+was USDMXN, 2-minute, 12–13 April 2023; this one shows the same
+structure.)
+
+@@b734 p
+Buyers dominate in the Dagger. The Intersection helps us find the
+most likely point where the trade is about to reverse.
+
+@@b735 h3
+Propagation and Nest
+are the same thing
+
+@@b736 p
+Propagation and Nesting are the same thing. It depends on whether we
+look out from a Matrix or into it.
+
+@@b738 p
+Figure: The BP, the start of propagation from it, the cancel line,
+and the smaller Matrix propagation that follows. Real data: EURUSD,
+4-hour, 18 February – 4 March 2022. (The original chart was USDMXN,
+4-hour, 10 January – 12 April 2023; this one shows the same
+structure.)
+
+@@b739 p
+This is the 4-hour chart. Propagation and Nest are the same, and all
+the principles work. Our job is to make everything fit together.
+
+@@b740 h3
+Summary
+
+@@b741 ul
+<li><p><strong>1-hour:</strong> the Matrix is at the EP of the SPS, with
+a cancel.</p></li>
+<li><p><strong>4-hour:</strong> a Goldilocks. It does not necessarily
+work alone; it needs an Overlay from the daily chart.</p></li>
+<li><p><strong>5-minute:</strong> a Goldilocks with an Overlay from the
+1-hour.</p></li>
+<li><p><strong>2-minute:</strong> a Dagger where buyers overcome
+supply.</p></li>
+
+@@b742 p
+Everything is 1-2-3. The 1-2 is the Setup, and we trade for the 3. It
+depends on which Matrix we see. What do I see now, and what do I want to
+see next?
+
+@@b744 p
+Figure: Everything is a 1-2-3: the 1-2 Setup, the 3 as the trade, and
+Propagation and Nest as two views of one Matrix.
+
+@@b745 h2
+Abduction (2023)
+
+@@b746 p
+Here are some ideas and applications I do not want to lose. As the
+old saying goes: write it, or lose it!
+
+@@b747 p
+The chart is like a cat: a different world, a different spirit, a
+different mind. The trader needs to connect with that cat by watching it
+and caring about it, until he knows what the cat most likely does in
+different conditions.
+
+@@b748 h3
+The story behind the chart
+
+@@b749 p
+I first read this on GBPCHF, daily chart; here the same structure is
+shown on real EURUSD 1-hour data.
+
+@@b751 p
+Figure: Price coiling under a falling line from the excess point and
+around the test point: too long in contraction, expect a great
+expansion. Real data: GBPCHF, 1-hour, 14–23 February 2022. (The original
+chart was GBPCHF, daily, August 2022 – May 2023; this one shows the same
+structure on the same symbol, in the window the data covers.)
+
+@@b752 p
+There was a propagation (on 16 September 2022, in my original chart).
+Then the market coiled between a test point and an excess point, unable
+to breach either of them.
+
+@@b753 p
+My logical inference about these points is that they are obstacles.
+Neither buyers nor sellers can breach them. Watch the volume in March:
+many buyers and many sellers struggling at the test point. In April,
+buyers could not breach the obstacle of the excess point line. A strong
+bear bar changed the equation: a lack of buying momentum. This produced
+the last downswing to 29 April.
+
+@@b754 p
+This alternation from a buying swing to a selling swing and back to a
+buying swing carries a message.
+
+@@b756 p
+Figure: The FPS, SS and SPS marked inside the coil, with buyers
+turning to propagation mode. Real data: GBPCHF, 1-hour, 14–23 February
+2022. (The original chart was GBPCHF, daily, August 2022 – May 2023;
+this one shows the same structure on the same symbol, in the window the
+data covers.)
+
+@@b757 p
+The core of every movement is a 1-2-3, or part of one. The current
+price is moving in the SPS of the past Matrix, where buyers are in
+propagation mode.
+
+@@b758 h3
+Can buyers breach the
+obstacle?
+
+@@b759 p
+If buyers can propagate within the excess and test levels, how far
+can price go? Is there the strength to breach the excess obstacle? The
+logical answer is that we are in doubt. Buyers can withdraw from the
+market when they struggle with the excess obstacle.
+
+@@b760 p
+We need an Overlay that confirms the strength of buying when it faces
+the obstacle.
+
+@@b761 h3
+Buyers come from different
+matrices
+
+@@b763 p
+Figure: The larger Matrix: from A to the excess point (FPS), down to
+the SS, with the TP of each leg. Real data: GBPCHF, 1-hour, 14–23
+February 2022. (The original chart was GBPCHF, daily, August 2022 – May
+2023; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b764 p
+By doing this, we see that all the matrices are in propagation mode.
+The Goodman Setup is always 1-2-3.
+
+@@b765 p
+Goodman is based on matrices, not on time. It is very clear that
+larger matrices produce buying. At the SS intersection with the TP,
+buying wins. When the sellers' EP of the FPS meets the TP, the sellers
+return as an SS.
+
+@@b766 p
+A smaller propagation sits within a larger propagation, and the trend
+is with the SPS. The failure of the down propagation means buying has
+more ease of movement, while sellers have none.
+
+@@b767 p
+By trading on the side of propagation, we let the probability of
+buying from different matrices work on our side. It is about 52% buying
+and 48% selling, and a lower Matrix may change the equation. We must
+deal with the risk.
+
+@@b768 h3
+Outward and inward
+
+@@b769 p
+The Outward analysis says: buying. Now let us watch how buying and
+selling matrices behave on lower time frames, close to the watch chart.
+I use:
+
+@@b770 ul
+<li><p>two Outward charts: daily and 4-hour;</p></li>
+<li><p>a watch chart: 1-hour;</p></li>
+<li><p>two Inward charts: 15-minute and 5-minute.</p></li>
+
+@@b771 p
+We must wait for the Intersection to work and change the trend.
+Otherwise we trade in the wrong direction, against the Outward
+matrices.
+
+@@b773 p
+Figure: The ladder of charts: two Outward, one watch chart and two
+Inward, with the role of each.
+
+@@b774 h3
+Waiting for the Setup
+
+@@b775 p
+This is how to wait for a Setup.
+
+@@b777 p
+Figure: The fall, the 1-2-3 back up, and sellers returning at the
+return point just under the TP. Real data: GBPCHF, 4-hour, 18 February –
+2 March 2022. (The original chart was GBPCHF, 4-hour, 9 February – 12
+May 2023; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b778 p
+The lower time frame matrices are in a downtrend propagation.
+
+@@b779 p
+On the 1-hour watch chart, wait for the Matrix Jumbo, then the 1-2-3.
+To get an idea of how long one must wait until the Jumbo fills, average
+the FPS bars.
+
+@@b781 p
+Figure: The Matrix Jumbo forming: sellers drop from the top, buyers
+answer up to the return point, then sellers take over. Real data:
+GBPCHF, 1-hour, 24 February – 1 March 2022. (The original chart was
+GBPCHF, 1-hour, 28 April – 15 May 2023; this one shows the same
+structure on the same symbol, in the window the data covers.)
+
+@@b783 p
+Figure: The FPS measured in bars (6 here; about 20 in the original)
+and the same count from the return point to estimate the wait. Real
+data: GBPCHF, 1-hour, 24 February – 1 March 2022. (The original chart
+was GBPCHF, 1-hour, 28 April – 15 May 2023; this one shows the same
+structure on the same symbol, in the window the data covers.)
+
+@@b784 p
+A trade like this usually takes one to two days until the 1-2-3 is
+produced. Trade with the propagation of the Outward charts, not against
+it, and watch how buyers and sellers behave at different obstacles.
+
+@@b785 h2
+Deduction, Induction and
+Abduction
+
+@@b786 p
+Looking back at these papers, I see that I was really studying one
+question: how does a trader reason from what he sees to what he does?
+Logic gives three answers, and I used all three.
+
+@@b787 p
+<strong>Deduction</strong> goes from a rule to a result. If
+everything is a 1-2-3, and I see a 1-2 Setup, then the 3 must follow.
+The conclusion is certain, but only as certain as the rule. My four
+logical combinations work this way: when the daily and the 1-hour agree
+on an extreme, the signal follows from the rule.
+
+@@b788 p
+<strong>Induction</strong> goes from many cases to a rule. In the
+AUDCAD study I added probability positive causes, #1, #2 and #3, until I
+could infer a reversal. This is how we learn the market. But, as I wrote
+in "The Problem of Imperfect Induction," the rule is never proven.
+Another cause may be at work, and the cause that worked yesterday may
+fail tomorrow. Induction gives probability, not certainty.
+
+@@b789 p
+<strong>Abduction</strong> goes from a surprising result to the best
+explanation. GBPCHF coiled between a test point and an excess point.
+Why? My best story was obstacles that neither buyers nor sellers could
+breach. Abduction is how we read the story behind the chart, the way one
+learns what a cat usually does. It is only plausible, so it must be
+tested by an Overlay before we act.
+
+@@b791 p
+Figure: The three kinds of reasoning use the same parts, rule, case
+and result, in three different directions.
+
+@@b792 p
+A good trader moves between all three. Abduction proposes the story.
+Deduction tells him what must happen if the story is right. Induction,
+case after case, tells him how often it really does. Goodman's words fit
+here: the deeper you dig, the fewer possibilities you derive. Each kind
+of reasoning removes some possibilities, and what remains is the
+trade.
+

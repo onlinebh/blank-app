@@ -1,0 +1,89 @@
+{
+ "chunk": "c41",
+ "highlights": [
+  {"b": "b2665", "en": "Protect at BE. Take part of the", "level": 1},
+  {"b": "b2665", "en": "Let the rest run to the Line.", "level": 1},
+  {"b": "b2665", "en": "The Under pays the bills; the", "level": 1},
+  {"b": "b2670", "en": "1)Do Outward analysis (Propagation Chart) if nothing interesting", "level": 1},
+  {"b": "b2672", "en": "not interest me, I do not force it.", "level": 1},
+  {"b": "b2675", "en": "which profile is best. The point is that I choose one before I enter,", "level": 1},
+  {"b": "b2675", "en": "I do not invent the management", "level": 1},
+  {"b": "b2678", "en": "Entry is important , Risk /Reward . such mistakes aren't", "level": 1},
+  {"b": "b2679", "en": "A profit does not make a trade good.", "level": 1},
+  {"b": "b2682", "en": "Logically the risk accept when", "level": 1},
+  {"b": "b2683", "en": "smaller risk if avoided will generate larger risk! . don't think about", "level": 1},
+  {"b": "b2684", "en": "Accepting small, known, livable risks is how the", "level": 1},
+  {"b": "b2687", "en": "It is the frame around Goodman.", "level": 2},
+  {"b": "b2691", "en": "I decide what I", "level": 2},
+  {"b": "b2694", "en": "I never risk more than 1.5 for every trade", "level": 1},
+  {"b": "b2699", "en": "Green, Red signal policy.each critical points 5% lose 10% profit.", "level": 1},
+  {"b": "b2705", "en": "I have always decided, on my max DD, then I divide it into 30", "level": 1},
+  {"b": "b2707", "en": "In 2023 the drawdown decided my per-trade risk.", "level": 2},
+  {"b": "b2709", "en": "Once a trade has a name, a losing", "level": 1},
+  {"b": "b2710", "en": "Golden Raito is standing behind the Probability of", "level": 1},
+  {"b": "b2712", "en": "So the ratio is not only a score. It is a diagnosis.", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b2663",
+   "en": "Under, Over and Line",
+   "ar": "Under وOver وLine",
+   "note_en": "Every trade ends at BE, the Under, the Line, or Over (a loss). Management follows from that.",
+   "note_ar": "كل صفقة تنتهي عند BE أو الـ Under أو الـ Line أو Over (خسارة). ومن هنا تأتي الإدارة.",
+   "imp": 3,
+   "children": [
+    {"b": "b2665", "en": "The management rule", "ar": "قاعدة الإدارة", "note_en": "Protect at BE, take part at the Under, let the rest run to the Line. Closing everything early shrinks the average win; never taking anything gives it back.", "note_ar": "احمِ عند BE، وخذ جزءًا عند الـ Under، واترك الباقي نحو الـ Line. الإغلاق المبكر يقلّص متوسط الربح، وعدم الأخذ يردّه السوق.", "imp": 3, "children": [
+      {"b": "b2665", "en": "Under pays bills, Line pays years", "ar": "الـ Under للفواتير والـ Line للسنين", "note_en": "The two exits do different jobs.", "note_ar": "لكل مخرج وظيفة مختلفة.", "imp": 2, "children": []}
+    ]},
+    {"b": "b2664", "en": "Labelling every trade", "ar": "تسمية كل صفقة", "note_en": "Later the author labelled each trade this way; the story comes in the next chapter.", "note_ar": "بدأ المؤلف لاحقًا يصنّف كل صفقة هكذا؛ وستأتي القصة في الفصل التالي.", "imp": 1, "children": []}
+   ]
+  },
+  {
+   "b": "b2668",
+   "en": "Order of qualification",
+   "ar": "ترتيب التأهيل",
+   "note_en": "The Top-Down approach from July 2024: Outward analysis first, then Setup, Parameters, Inward analysis, decision, Risk-Reward Ledger, entry.",
+   "note_ar": "منهج Top-Down منذ July 2024: Outward analysis أولًا، ثم Setup وParameters وInward analysis، ثم القرار، ثم Risk-Reward Ledger، ثم الدخول.",
+   "imp": 2,
+   "children": [
+    {"b": "b2670", "en": "Step 1: Outward analysis", "ar": "الخطوة 1: Outward analysis", "note_en": "If the propagation chart is not interesting, look for another chart.", "note_ar": "إن لم يكن رسم الـ propagation مثيرًا للاهتمام فابحث عن رسم آخر.", "imp": 2, "children": []},
+    {"b": "b2671", "en": "The following steps", "ar": "الخطوات التالية", "note_en": "Basic 6 & 6 or Goldilocks setup, Parameter analysis, Inward analysis, qualification, Ledger, then watch for entry.", "note_ar": "Setup أساسي 6 & 6 أو Goldilocks، ثم Parameter analysis، ثم Inward analysis، ثم التأهيل، ثم Ledger، ثم مراقبة الدخول.", "imp": 1, "children": []},
+    {"b": "b2672", "en": "Do not force it", "ar": "لا تفرض الصفقة", "note_en": "Most protection comes from the trades never taken.", "note_ar": "معظم الحماية تأتي من الصفقات التي لا تُؤخذ.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b2673",
+   "en": "Profiles, mistakes and risk questions",
+   "ar": "الملفات والأخطاء وأسئلة المخاطرة",
+   "note_en": "Money-management profiles, an AUDCAD trade with bad risk/reward, and formal questions before accepting risk.",
+   "note_ar": "ملفات إدارة المال، وصفقة AUDCAD بنسبة risk/reward سيئة، وأسئلة رسمية قبل قبول المخاطرة.",
+   "imp": 2,
+   "children": [
+    {"b": "b2674", "en": "Five money-management profiles", "ar": "خمسة ملفات لإدارة المال", "note_en": "Walts, Samba, Bert, tiny dancer, Fixed: each a separate risk strategy model.", "note_ar": "Walts وSamba وBert وtiny dancer وFixed: كل منها نموذج مخاطرة مستقل.", "imp": 2, "children": [
+      {"b": "b2675", "en": "Choose before entering", "ar": "اختر قبل الدخول", "note_en": "Know which risk model you run; never invent management mid-trade.", "note_ar": "اعرف أي نموذج مخاطرة تعمل به؛ ولا تخترع الإدارة في منتصف الصفقة.", "imp": 3, "children": []}
+    ]},
+    {"b": "b2676", "en": "A trade I was not proud of", "ar": "صفقة لستُ فخورًا بها", "note_en": "AUDCAD, August 2024: 117p risk for 59p reward. A win in the statement, a loss in the process.", "note_ar": "AUDCAD في August 2024: مخاطرة 117p مقابل 59p. ربح في الكشف وخسارة في العملية.", "imp": 2, "children": [
+      {"b": "b2679", "en": "Lesson: profit does not make a trade good", "ar": "الدرس: الربح لا يجعل الصفقة جيدة", "note_en": "Risking two to make one will catch you even with a high win rate.", "note_ar": "المخاطرة باثنين لربح واحد ستدركك حتى مع نسبة فوز عالية.", "imp": 3, "children": []}
+    ]},
+    {"b": "b2680", "en": "Questions before accepting risk", "ar": "أسئلة قبل قبول المخاطرة", "note_en": "How could it fail? Which Overlays? What is the impact? Is the chart clean? Accept risk only when impact and risk are very low versus profit.", "note_ar": "كيف يفشل؟ أي Overlays؟ ما الأثر؟ هل الرسم نظيف؟ لا تقبل المخاطرة إلا حين يكون أثرها وحجمها صغيرين جدًا مقارنةً بالربح.", "imp": 2, "children": [
+      {"b": "b2683", "en": "Avoiding small risk breeds large risk", "ar": "تجنّب الصغيرة يولّد الكبيرة", "note_en": "Accepting small, known, livable risks keeps the process alive.", "note_ar": "قبول المخاطر الصغيرة المعروفة يُبقي العملية حيّة.", "imp": 3, "children": []}
+    ]},
+    {"b": "b2685", "en": "What ties it together", "ar": "ما يربط هذا كله", "note_en": "2021 BE first, 2022 small trade pays for big, 2024 own order and profiles, 2026 risk as questions. Management is the frame around Goodman.", "note_ar": "2021 الـ BE أولًا، 2022 الصغيرة تدفع ثمن الكبيرة، 2024 ترتيب وملفات خاصة، 2026 المخاطرة أسئلة. الإدارة إطار يحيط بـ Goodman.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b2688",
+   "en": "Rung 6 · Measuring: Thirty Souls",
+   "ar": "المرحلة 6 · Measuring: Thirty Souls",
+   "note_en": "How size rules evolved over five years; the core: decide what you can lose first, then look at the chart.",
+   "note_ar": "كيف تطورت قواعد الحجم على خمس سنوات؛ والجوهر: قرر أولًا ما تستطيع خسارته ثم انظر إلى الرسم.",
+   "imp": 3,
+   "children": [
+    {"b": "b2692", "en": "2021: the strict plan", "ar": "2021: الخطة الصارمة", "note_en": "Never risk more than 1.5 per trade, never open more than 6% of balance, never raise lot until balance doubles.", "note_ar": "لا أخاطر بأكثر من 1.5 في الصفقة، ولا أفتح أكثر من 6% من الرصيد، ولا أرفع lot حتى يتضاعف الرصيد.", "imp": 2, "children": []},
+    {"b": "b2697", "en": "2022: Green and Red signals", "ar": "2022: إشارتا Green وRed", "note_en": "Size grows after 10% profit and shrinks after 5% loss, changing only at critical points.", "note_ar": "ينمو الحجم بعد ربح 10% ويتقلص بعد خسارة 5%، ولا يتغير إلا عند النقاط الحرجة.", "imp": 2, "children": []},
+    {"b": "b2703", "en": "2023: divide the drawdown by thirty", "ar": "2023: قسمة الـ drawdown على ثلاثين", "note_en": "Start from the max DD you accept and divide by 30 trades: 5% of 20,000 is 1000, so 33 USD per trade. The drawdown decides the per-trade risk.", "note_ar": "ابدأ من أقصى DD تقبله وقسّمه على 30 صفقة: 5% من 20,000 هي 1000، أي 33 USD للصفقة. الـ drawdown يحدد مخاطرة الصفقة.", "imp": 3, "children": []},
+    {"b": "b2708", "en": "2023: Golden Ratio and labels", "ar": "2023: Golden Ratio والتسميات", "note_en": "Label every trade (BE, Under, Over, Line, mistake types). The Golden Ratio is a diagnosis: fewer than 4 wins in 10 or average win below 1:2 shows where to look.", "note_ar": "سمِّ كل صفقة (BE وUnder وOver وLine وأنواع الأخطاء). الـ Golden Ratio تشخيص: أقل من 4 رابحات من 10 أو متوسط ربح دون 1:2 يدل على موضع الخلل.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

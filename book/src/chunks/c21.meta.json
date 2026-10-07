@@ -1,0 +1,58 @@
+{
+ "chunk": "c21",
+ "highlights": [
+  {"b": "b1377", "en": "The same applies in the market. An external force is the cause, and", "level": 1},
+  {"b": "b1381", "en": "Selling will keep dominating price until it intersects with a", "level": 1},
+  {"b": "b1385", "en": "The Goodman trader always watches these Probability Cause points.", "level": 1},
+  {"b": "b1390", "en": "A price trend remains dominated by the Propagation until it", "level": 2},
+  {"b": "b1391", "en": "This definition holds an inverse relationship between two forces: the", "level": 1},
+  {"b": "b1398", "en": "Intersection was strong enough to stop Matrix 2 from dominating the", "level": 1},
+  {"b": "b1408", "en": "The 3C was strong enough to change the market from trending", "level": 1},
+  {"b": "b1411", "en": "a price trend remains dominated", "level": 1},
+  {"b": "b1434", "en": "Normally, an Intersection with a count then changes the ME.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b1371", "en": "Observe the Market Behavior (2022)", "ar": "راقب سلوك السوق (2022)",
+   "note_en": "Goodman Wave Theory shows how one swing intersects other swings, using two ideas from physics.",
+   "note_ar": "تبيّن Goodman Wave Theory كيف يتقاطع swing مع swings أخرى، بالاستعانة بفكرتين من الفيزياء.",
+   "imp": 2,
+   "children": [
+    {"b": "b1375", "en": "Why the SS failed", "ar": "لماذا فشل الـ SS", "note_en": "The SS met the TP, which acted as a Probability Cause and an external selling force.", "note_ar": "التقى الـ SS بالـ TP الذي عمل Probability Cause وقوة بيع خارجية.", "imp": 2,
+     "children": [
+      {"b": "b1377", "en": "External force", "ar": "القوة الخارجية", "note_en": "Any change in speed or direction needs an external force; the same holds in the market.", "note_ar": "أي تغيّر في السرعة أو الاتجاه سببه قوة خارجية، وكذلك في السوق.", "imp": 3}
+     ]},
+    {"b": "b1379", "en": "How far will the SPS run?", "ar": "إلى أي مدى سيمضي الـ SPS؟", "note_en": "Newton's first law: selling dominates until a Probability Cause such as the 3C at the end of line AA.", "note_ar": "قانون نيوتن الأول: يسيطر البيع حتى يلتقي بـ Probability Cause كالـ 3C عند نهاية الخط AA.", "imp": 2,
+     "children": [
+      {"b": "b1381", "en": "Bars close at the top in the box", "ar": "إغلاق الـ bars عند القمة في الـ box", "note_en": "The change in direction shows the 3C acting; the next structure will be complex or flat.", "note_ar": "يعكس التغيّر عمل الـ 3C؛ والبنية التالية معقّدة أو flat.", "imp": 1}
+     ]},
+    {"b": "b1384", "en": "The Goodman trader's habit", "ar": "عادة متداول Goodman", "note_en": "Always watch Probability Cause points to make an inductive inference about what comes next.", "note_ar": "راقب دائمًا نقاط الـ Probability Cause للاستدلال الاستقرائي على ما يأتي.", "imp": 2}
+   ]},
+  {"b": "b1386", "en": "GWT for Intermarket Analysis (2025)", "ar": "GWT في تحليل Intermarket (2025)",
+   "note_en": "Avoid analysis paralysis by starting from a clear definition of trend, then identify each market against it.",
+   "note_ar": "لتفادي شلل التحليل نبدأ بتعريف واضح للـ trend ثم نحدد موقع كل سوق منه.",
+   "imp": 2,
+   "children": [
+    {"b": "b1388", "en": "Working definition of trend", "ar": "التعريف العملي للـ trend", "note_en": "A price trend stays dominated by the Propagation until another Strong Intersection cancels it.", "note_ar": "يظل الـ trend تحت هيمنة الـ Propagation حتى يُلغيه Strong Intersection آخر.", "imp": 3,
+     "children": [
+      {"b": "b1391", "en": "Propagation vs Intersection", "ar": "Propagation مقابل Intersection", "note_en": "An inverse relationship; the Intersection halts the Propagation.", "note_ar": "علاقة عكسية؛ والـ Intersection يوقف الـ Propagation.", "imp": 2}
+     ]},
+    {"b": "b1394", "en": "First example: USDMXN 2-hour", "ar": "مثال أول: USDMXN 2-hour", "note_en": "EP of the SPS met the EP-FPS and EP-SS, cancelling Matrix 2; the market resolved toward Matrix 1.", "note_ar": "التقى EP الـ SPS بـ EP-FPS وEP-SS فأُلغيت Matrix 2 وانحسم السوق نحو Matrix 1.", "imp": 2},
+    {"b": "b1399", "en": "Top-down on USDMXN", "ar": "من الأعلى إلى الأسفل على USDMXN", "note_en": "Analyze Outward, Watch and Inward matrices, each with its own Goodman points.", "note_ar": "نحلّل matrices: Outward وWatch وInward، لكل منها نقاطه.", "imp": 2,
+     "children": [
+      {"b": "b1401", "en": "Weekly (Outward)", "ar": "Weekly (Outward)", "note_en": "Price is near the Over-3C count (Equilibrium) while the Propagation keeps making new EPs; may become a Line.", "note_ar": "السعر قرب عدّ Over-3C (Equilibrium) والـ Propagation يصنع EPs جديدة؛ وقد يصبح Line.", "imp": 2},
+      {"b": "b1405", "en": "Daily (Watch)", "ar": "Daily (Watch)", "note_en": "Intersection with the 3C turned the trend into a trading range.", "note_ar": "حوّل الـ Intersection مع الـ 3C الـ trend إلى trading range.", "imp": 2},
+      {"b": "b1409", "en": "2-hour (Inward)", "ar": "2-hour (Inward)", "note_en": "Back to the first example: Matrix 2 cancelled, price follows Matrix 1.", "note_ar": "عودة إلى المثال الأول: أُلغيت Matrix 2 واتبع السعر Matrix 1.", "imp": 1}
+     ]},
+    {"b": "b1413", "en": "Why it matters for intermarket", "ar": "لماذا يهم تحليل intermarket", "note_en": "Descartes' philosophy rejects easy correlation; identify the big players and read correlation through the trend definition.", "note_ar": "فلسفة Descartes ترفض الارتباط السهل؛ نحدد اللاعبين الكبار ونقرأ الارتباط عبر تعريف الـ trend.", "imp": 2}
+   ]},
+  {"b": "b1416", "en": "Applying it: EURUSD, GBPUSD, USDCAD", "ar": "التطبيق: EURUSD وGBPUSD وUSDCAD",
+   "note_en": "The same reading applied to three pairs, weekly and daily.",
+   "note_ar": "القراءة نفسها مطبّقة على ثلاثة أزواج، أسبوعيًا ويوميًا.",
+   "imp": 2,
+   "children": [
+    {"b": "b1416", "en": "EURUSD", "ar": "EURUSD", "note_en": "Weekly: EP-SPS failed to make a new high above EP-FPS. Daily: no Strong Intersection enhanced by a multicount yet.", "note_ar": "أسبوعيًا: فشل EP-SPS في قمة جديدة فوق EP-FPS. يوميًا: لا Strong Intersection معزَّز بـ multicount بعد.", "imp": 1},
+    {"b": "b1422", "en": "GBPUSD", "ar": "GBPUSD", "note_en": "Weekly: near EP-SS but bar closed near its low. Daily: will intersect only where there is a multicount.", "note_ar": "أسبوعيًا: قرب EP-SS لكن الـ bar أُغلق قرب قاعه. يوميًا: يتقاطع حيث يوجد multicount فقط.", "imp": 1},
+    {"b": "b1428", "en": "USDCAD", "ar": "USDCAD", "note_en": "Weekly 1-2-3 near EP-SPS would be a strong inverse Intersection to EURUSD and GBPUSD; daily is a trading range. An Intersection with a count changes the ME.", "note_ar": "1-2-3 أسبوعي قرب EP-SPS سيكون Intersection عكسيًا قويًا لـ EURUSD وGBPUSD؛ ويوميًا trading range. والـ Intersection مع عدّ يغيّر الـ ME.", "imp": 2}
+   ]}
+ ]
+}

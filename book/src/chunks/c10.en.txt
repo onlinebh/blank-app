@@ -1,0 +1,262 @@
+##CTX Part: Rung 2 · Knowing: How Is Truth Learned? | Section: How One Can Construct a Logical Combination (2021) -> Some Notes on Goodman's Words (2023)
+
+@@b664 h3
+Conclusion
+
+@@b665 p
+Just buy and sell at extremes. Every Overlay combination, constructed
+logically, helps you reach your goals in trading.
+
+@@b666 h2
+The Problem of
+Imperfect Induction (2022)
+
+@@b667 p
+Imperfect induction is the kind of reasoning we use every day on the
+chart. We see a cause work a few times and we expect it to work again.
+In this short paper I want to show the problems it faces, as they appear
+to me.
+
+@@b668 h3
+Problem 1: no proof of a
+definite cause
+
+@@b669 p
+The aim of induction is to establish a general law: every natural
+phenomenon has a cause. But without proof of a definite cause, it is
+probable that some other cause is at work. It is even probable that the
+phenomenon happens without any cause.
+
+@@b670 p
+When we consider these possibilities, it follows that a cause does
+not necessarily produce its effect.
+
+@@b672 p
+Figure: Old highs that looked like a definite cause for sellers to
+stop the rise; each one failed, and price closed above them. Real data:
+AUDJPY, 1-hour, 28 February – 4 March 2022. (The original chart was
+AUDJPY, 1-hour, 4–21 July 2022; this one shows the same structure on the
+same symbol, in the window the data covers.)
+
+@@b673 h3
+Problem 2: will the
+cause work in the future?
+
+@@b674 p
+The purpose of induction is to generalize the cause so that it works
+in the future. It claims that every time the cause happens, it will
+produce the phenomenon. So we must prove that the cause will keep
+working in the future.
+
+@@b676 p
+Figure: A high that stopped buyers this time; a cause observed in the
+past does not promise the same effect in the future. Real data: AUDJPY,
+1-hour, 21–24 February 2022. (The original chart was AUDJPY, 1-hour, 30
+August – 16 September 2022; this one shows the same structure on the
+same symbol, in the window the data covers.)
+
+@@b678 p
+Figure: The two gaps of imperfect induction: an unproven cause, and
+an unproven future.
+
+@@b679 h3
+What this means for the
+trader
+
+@@b680 p
+Every time one makes an imperfect induction, one will face these
+problems. One must realize this, above all when something important
+rests on it.
+
+@@b681 h2
+Propagation and Probability
+(2022)
+
+@@b682 p
+In this AUDCAD study, I want to show how the Propagation lens makes
+the chart clearer and easier to grasp. I also want to show how we can
+add probability causes, one by one, until we can make an inductive
+inference about a reversal.
+
+@@b683 h3
+The Jumbo and the first
+positive cause
+
+@@b685 p
+Figure: The Jumbo: YY, the X-Propagation from EP-Jumbo, and the
+LS-Propagation back to the same low at A (here A holds 0.6 pip above the
+EP-Jumbo low). Real data: AUDCAD, 1-hour, 23 February – 2 March 2022.
+(The original chart was AUDCAD, 4-hour, 15 June – 24 August 2022; this
+one shows the same structure on the same symbol, in the window the data
+covers.)
+
+@@b686 p
+The Jumbo is a flat decline. It is a propagation, a concentration of
+selling force that comes from seeking profit in a downtrend. The selling
+at YY is the fastest swing in the Jumbo.
+
+@@b687 p
+An external purchasing force enters the market at EP-Jumbo. It tries
+to concentrate its buying power by X-propagating the swings, from a
+1-2-3 to a larger 1-2-3. The buying force appears able to concentrate,
+taking all the shares until it meets selling at YY.
+
+@@b688 p
+This gives <strong>probability positive cause #1</strong>. It
+suggests that the new external force from the X-propagation may change
+the velocity (speed and direction). When the next selling swing comes
+with contraction, that confirms it, and we add the cause. A positive
+cause raises the chance that the trend velocity changes from down to
+up.
+
+@@b689 p
+Note that the LS (last downswing) Propagation comes with contraction
+rather than expansion.
+
+@@b690 h3
+The advanced
+tools and the second positive cause
+
+@@b691 p
+If we add some advanced tools, the Triple Spread and the Boxes, the
+forces become even clearer. Here is the same chart with these tools.
+
+@@b693 p
+Figure: The Triple Spread Line through points 1 and 2, with Boxes 1,
+2 and 3. Real data: AUDCAD, 1-hour, 23 February – 2 March 2022. (The
+original chart was AUDCAD, 4-hour, 15 June – 24 August 2022; this one
+shows the same structure on the same symbol, in the window the data
+covers.)
+
+@@b694 p
+Watch how the selling force contracts against the external force, the
+propagation of the buying force.
+
+@@b695 blockquote
+<p>1. Box 1 represents the Jumbo. Here the selling force could hold for
+a long time.</p>
+<p>2. Box 2 is very clear: the force is smaller in distance and in
+time.</p>
+<p>3. Box 3: finally, the sellers are unable to concentrate and
+propagate.</p>
+
+@@b696 p
+This adds <strong>probability positive cause #2</strong>.
+
+@@b697 h3
+Volume and the third
+positive cause
+
+@@b698 p
+Also watch what happens when price moves to EP-Jumbo, which is a
+probability cause point. The external force sets in, and buying appears
+at A. Volume rises to a new level at A, which shows buyers are present.
+This is reflected in a bar closing near its high: a reversal bar.
+
+@@b699 p
+This adds <strong>probability positive cause #3</strong>.
+
+@@b700 h3
+The inductive inference
+
+@@b702 p
+Figure: The 3C read at point 2, and the cancel: on 2 March buyers
+close above points 1 and 2, a higher high that cancels the sell setup,
+as in the original. Real data: AUDCAD, 1-hour, 23 February – 2 March
+2022. (The original chart was AUDCAD, 4-hour, 15 June – 24 August 2022;
+this one shows the same structure on the same symbol, in the window the
+data covers.)
+
+@@b703 p
+By considering causes #1, #2 and #3 together, one can make an
+inductive inference that a reversal will follow. At the least, these
+causes will change the speed and direction. This is confirmed at Box 3,
+where price moves away from the Triple Spread Line. There is no selling
+spread anymore!
+
+@@b704 p
+The trend is now in the hands of the buying force. It will continue,
+as in Newton's first law, until an external force sets in at a
+probability cause point, the 3C. Then price changes direction.
+
+@@b706 p
+Figure: Three probability positive causes feeding one inductive
+inference: a change in speed and direction.
+
+@@b707 p
+If one zooms into Box 2, one will see the same behavior as a nested
+Overlay, and one can practice the theory there.
+
+@@b708 h3
+The gap and the XX bar
+
+@@b710 p
+Figure: The EP-Jumbo line and the XX bar, which comes back to the
+line (0.6 pip above it) and closes well above it. Real data: AUDCAD,
+15-minute, 24–28 February 2022. (The original chart was AUDCAD,
+15-minute, 8–13 July 2022; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b711 p
+I also want you to notice the gap and the price reversal as a
+probability positive cause, together with #1, #2 and #3, and the
+propagation that comes from the 15-minute chart at EP-Jumbo. Does anyone
+wonder where the XX bar comes from? It is simply a concentration of
+buying force, coming from a different level. Notice the buying present
+at different levels of volume; both reach a new level.
+
+@@b712 h3
+A word of caution
+
+@@b713 p
+This study reveals a high chance of a reversal. But that is not
+always the case. One must be flexible and ready for more complex
+situations, when the chart shows a probability negative cause and a
+positive cause at the same time.
+
+@@b714 h2
+Some Notes on Goodman's Words
+(2023)
+
+@@b715 p
+These are short notes I wrote on some of Goodman's words. They are
+about one simple idea: everything is made of 1-2-3.
+
+@@b716 h3
+What a Setup is
+
+@@b717 p
+A Setup is a propagation with a breakaway to the larger Matrix (the
+Jumbo swing).
+
+@@b718 ul
+<li><p>1-2-3 → the 1-2 is a Setup.</p></li>
+<li><p>1-2-3 → the full 1-2-3 is a trade.</p></li>
+
+@@b720 p
+Figure: The fall AB repeated from C projects the EP of the Matrix;
+price stops there, a cancel at the point of equilibrium. Real data:
+EURUSD, 1-hour, 25 February – 2 March 2022. (The original chart was
+USDMXN, 1-hour, 29 March – 13 April 2023; this one shows the same
+structure.)
+
+@@b721 p
+Here we have a cancel: the point of equilibrium, at the EP of the
+Matrix, where the return starts.
+
+@@b723 p
+Figure: Redrawn sketch: our location at the EP of the Matrix after
+the cancel, and the target of the return.
+
+@@b724 p
+This is the SPS EP.
+
+@@b725 h3
+The maker of every maker
+
+@@b726 p
+In Arabic we have a phrase: "the maker of every maker." Goodman
+theory is very natural. Everything is made from 1-2-3; propagation and
+Nest are also made from 1-2-3. It depends on whether we look in or out.
+The deeper you dig into Goodman, the fewer possibilities you derive.
+

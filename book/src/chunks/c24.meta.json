@@ -1,0 +1,64 @@
+{
+ "chunk": "c24",
+ "highlights": [
+  {"b": "b1551", "en": "I study price action only at the TP, EP", "level": 1},
+  {"b": "b1562", "en": "sellers clearly control the market at the TP level.", "level": 1},
+  {"b": "b1563", "en": "close\nany long and go short.", "level": 1},
+  {"b": "b1571", "en": "That shows the sellers have relatively more force.", "level": 1},
+  {"b": "b1576", "en": "buyers' maximum stops at the TP at 8. So here I sell.", "level": 1},
+  {"b": "b1585", "en": "No 1-2-3, no uptrend.", "level": 2},
+  {"b": "b1592", "en": "there is a high probability the market will move down.", "level": 1},
+  {"b": "b1600", "en": "The sellers are smart. They understand the\nbuyers are weak, so they increase their speed to F at 9.", "level": 1},
+  {"b": "b1609", "en": "A state that has\noccurred more often has a higher probability, in mathematics, than one\nthat has occurred less often.", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b1550", "en": "Reading time at TP, EP and BP", "ar": "قراءة الزمن عند TP وEP وBP",
+   "note_en": "A long worked example (EURUSD 1-hour, points 1 to 13) studying price action only at the TP, EP or BP, without looking for a Setup, to understand time phenomena.",
+   "note_ar": "مثال طويل (EURUSD، النقاط 1 إلى 13) ندرس فيه حركة السعر عند TP أو EP أو BP فقط، دون البحث عن Setup، لفهم ظواهر الزمن.", "imp": 3,
+   "children": [
+    {"b": "b1552", "en": "Points 1-4: sellers cannot push down", "ar": "النقاط 1-4: البائعون لا يدفعون للأسفل",
+     "note_en": "At 1 (Ending Point) price runs to the TP; at 2 a long delta forms a minor 6&6; at 3 a reversal bar sits at the TP; at 4 a buy Setup (6&6) appears because buyers' new habit forced sellers to reduce power.",
+     "note_ar": "عند 1 يندفع السعر إلى TP؛ عند 2 delta طويل يشكل 6&6 صغيرًا؛ عند 3 reversal bar عند TP؛ عند 4 Setup شراء (6&6).", "imp": 2, "children": []},
+    {"b": "b1559", "en": "Points 5-6: buyers lose power at TP", "ar": "النقطتان 5-6: المشترون يفقدون القوة عند TP",
+     "note_en": "A long delta between 5 and 6 shows buyers losing power; sellers control the TP level. Close longs and go short. The zone after 6 is the sellers' area.",
+     "note_ar": "delta طويل بين 5 و6 يُظهر فقدان المشترين لقوتهم؛ البائعون يسيطرون على مستوى TP. أغلق الـ Long وادخل Short. المنطقة بعد 6 هي منطقة البائعين.", "imp": 3, "children": []},
+    {"b": "b1565", "en": "Point 7: who is stronger?", "ar": "النقطة 7: من الأقوى؟",
+     "note_en": "Sellers reach their maximum in the Buyers Camp. Connecting a 1-2-3 from above and from below shows nearly equal power, but sellers completed a cycle at 7 while buyers' cycles at 6 were incomplete, so avoid buying at 7.",
+     "note_ar": "يبلغ البائعون أقصى قوتهم في معسكر المشترين. القوة متقاربة، لكن البائعين أكملوا دورة عند 7 بينما دورات المشترين عند 6 ناقصة، فأتجنب الشراء عند 7.", "imp": 2, "children": []},
+    {"b": "b1573", "en": "Point 8: confirmation and sell", "ar": "النقطة 8: التأكيد والبيع",
+     "note_en": "Buyers stop at the 50% TP of the 5-to-7 swing, a TP lower than the old one: sellers dominate the trend, so I sell. The green zone now belongs to sellers; shorts at 9 must be closed.",
+     "note_ar": "يتوقف المشترون عند TP بنسبة 50% وهو أدنى من القديم: البائعون يهيمنون، فأبيع. المنطقة الخضراء صارت للبائعين؛ تُغلق الـ Short عند 9.", "imp": 3, "children": []},
+    {"b": "b1581", "en": "Points 9-11: no 1-2-3, no uptrend", "ar": "النقاط 9-11: لا 1-2-3 ولا اتجاه صاعد",
+     "note_en": "The rally at 10 can fool anyone; let the market confirm. No 1-2-3 means no green mark and no uptrend. 1 to 7 is sideways; the move at 9 confirms the downtrend. Buyers lose energy at 2, 3, 5, 6, 8, 10, 12.",
+     "note_ar": "صعود 10 قد يخدع أي أحد؛ ندع السوق يؤكد. لا 1-2-3 فلا علامة خضراء ولا اتجاه صاعد. من 1 إلى 7 حركة جانبية؛ وحركة 9 تؤكد الهبوط.", "imp": 3, "children": []},
+    {"b": "b1588", "en": "Points 12-13: the apex", "ar": "النقطتان 12-13: الـ apex",
+     "note_en": "At 13 buyers lose energy again; with no up 1-2-3, go short. The market enters an apex (equilibrium) but the probability favors down; buyers struggle at the large box boundary, now sellers' level, in the last Dagger.",
+     "note_ar": "عند 13 يفقد المشترون الطاقة؛ لا 1-2-3 صاعد فندخل Short. يدخل السوق apex (توازن) لكن الاحتمال يميل للهبوط.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1596", "en": "Reading the market by time alone", "ar": "قراءة السوق بالزمن وحده",
+   "note_en": "Adding salt to the food: read the same chart using only the time variable, through spans A to F.",
+   "note_ar": "إضافة الملح إلى الطعام: قراءة الرسم نفسه بمتغير الزمن وحده عبر الفترات A إلى F.", "imp": 3,
+   "children": [
+    {"b": "b1600", "en": "Spans A, C, E and 10", "ar": "الفترات A وC وE والنقطة 10",
+     "note_en": "A: buyers circle from 2 to 3, sellers react slowly. C: buyers fail again, sellers faster than at A. E: buyers show no energy at the TP at 8, sellers speed up to F at 9. 10: first buyer speed of this kind, a danger alarm.",
+     "note_ar": "A: المشترون يدورون من 2 إلى 3 والبائعون يتفاعلون ببطء. C: فشل آخر والبائعون أسرع. E: لا طاقة عند TP في 8 والبائعون يتسارعون إلى F عند 9. 10: أول سرعة من هذا النوع، إنذار خطر.", "imp": 2, "children": []},
+    {"b": "b1603", "en": "11 to 13: last try of buyers", "ar": "من 11 إلى 13: آخر محاولة للمشترين",
+     "note_en": "At 11 the market stops at the TP; buyers' last try at 12 and 13 fails. Point 10 was only a rally, not the start of an uptrend, as 13 confirmed.",
+     "note_ar": "عند 11 يتوقف السوق عند TP؛ آخر محاولة للمشترين عند 12 و13 تفشل. النقطة 10 مجرد صعود لا بداية اتجاه، وهذا ما أكده 13.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1605", "en": "A little joke and probability logic", "ar": "مزحة صغيرة ومنطق الاحتمالات",
+   "note_en": "Compare buyers at YY with XX: are they asleep? A state that occurred more often has higher probability. Every time buyers try up, sellers appear and win the trend.",
+   "note_ar": "قارن المشترين عند YY وXX: هل هم نائمون؟ الحالة الأكثر تكرارًا أعلى احتمالًا. كلما حاول المشترون الصعود ظهر البائعون وكسبوا الاتجاه.", "imp": 2,
+   "children": [
+    {"b": "b1609", "en": "Probability logic", "ar": "منطق الاحتمالات",
+     "note_en": "Watch long enough and go a little deeper; seeing the more frequent state gives confidence.",
+     "note_ar": "راقب وقتًا كافيًا وتعمّق قليلًا؛ رؤية الحالة الأكثر تكرارًا تمنح الثقة.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

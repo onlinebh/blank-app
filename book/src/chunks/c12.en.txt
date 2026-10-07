@@ -1,0 +1,253 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Rung 3 · Seeing: What Is a Market? -> Market Anatomy (2021)
+
+@@b793 h1
+Rung 3 · Seeing: What Is a
+Market?
+
+@@b794 p
+<em>Charlie did not predict prices. He read people. Five chapters
+from the Peavey and Bache years.</em>
+
+@@b795 h2
+10. Silver and soybeans
+
+@@b796 p
+<em>Why two unrelated markets moved together.</em>
+
+@@b797 p
+Michael was watching the markets at Peavey and noticed that every
+time silver rallied or fell sharply, soybeans followed. He worked out a
+wild theory to explain why and told Charlie, a little proud of his
+analysis.
+
+@@b798 p
+Charlie smiled and chuckled. "No, Dad. The silver and soybean pits
+are squeezed right next to each other. When there is a lot of action in
+silver, it spills over to the soybean traders. They see action and want
+some of their own. It is just human psychology!"
+
+@@b800 p
+Figure: The silver and soybean pits stood side by side, so action in
+silver spilled over to the soybean traders.
+
+@@b801 p
+And then the line Michael has repeated for fifty years: "You can
+figure the dogs, but you can't figure the human race!"
+
+@@b802 p
+<strong>What it means.</strong> Before you build a theory about why
+two markets are linked, ask who is standing next to whom.
+
+@@b803 p
+<strong>Try this.</strong> When two charts move together, write down
+one human explanation before you write a mathematical one.
+
+@@b804 h2
+11. The man with inside
+information
+
+@@b805 p
+<em>A contrary-opinion story from 1974 or 1975.</em>
+
+@@b806 p
+A man in a very nice suit, carrying a fancy briefcase, walked into
+the Peavey office one morning. The manager, Pete Rednor, asked if he
+could help. "I have inside information on tomorrow's soybean report. It
+is going to be very bullish. I want to purchase ten contracts!"
+
+@@b807 p
+Everyone listened. Pete explained that inside information on crop
+reports is all but impossible to get, but of course he would take the
+business. The man filled out an account card and wrote a check for the
+margin. "I am told soybeans will be up the limit at least two days. I
+will come back tomorrow before the market opens to hear the report."
+
+@@b808 p
+After he left, Michael, Pete, Charlie and two other traders looked at
+the soybean chart. Nobody saw anything bullish or bearish. They asked
+Charlie what he thought.
+
+@@b809 p
+"If this guy who knows nothing about the market has this information,
+then it is all over the street and prices are only up a few cents today.
+Everyone who wants to buy will buy today. I predict a strong close,
+maybe a slightly strong opening, then a sharp sell-off. The report will
+be bullish but already in the market."
+
+@@b810 p
+He suggested watching the point and figure chart at the opening, on
+the minimum tick, for a sell signal. The market closed a little strong.
+The man came back early. The report was very bullish, and he smiled at
+what he thought was a $2,000-per-contract profit on ten contracts. Then
+the market opened up two or three cents, moved sideways, collapsed, and
+closed limit down. "Never see man again," Michael wrote.
+
+@@b811 p
+<strong>What it means.</strong> News is worth what the market has not
+already paid for it. When everyone has the same tip, the tip is already
+in the price.
+
+@@b812 p
+<strong>Try this.</strong> Before you trade a headline, ask: who
+already knows this, and what have they already done?
+
+@@b813 h2
+12. The train that did not
+jerk
+
+@@b814 p
+<em>The Simplot potato scandal, 1976.</em>
+
+@@b815 p
+Michael says it helps to search for the Simplot potato scandal of
+1976, but that none of the accounts is entirely accurate, and he was
+there.
+
+@@b816 p
+The May Maine potato contract was nearing delivery. Everyone said
+Simplot, a big grower who was heavily short, did not have potatoes to
+deliver, so a squeeze was on. Michael traded the "pots" because the
+contract was small and its moves were small. He was long three
+contracts. Normally May potatoes moved two to four cents a pound. Now
+they were moving seven.
+
+@@b817 p
+Big longs were also buying up rail cars so Simplot could not ship
+potatoes to Chicago. The story ran on the evening news for days. Then
+one night the news showed a big train of sixty or seventy cars rolling
+into the Chicago yards, all stamped SIMPLOT. Simplot had found potatoes.
+Sell, sell. The squeeze was over.
+
+@@b818 p
+Charlie called Michael at home right after the news. "Dad, don't sell
+your potatoes. Those rail cars are either empty or just partially full.
+When they open them, the potato contract goes to 15 or 20 cents. Hold
+your position!"
+
+@@b819 p
+"How do you know that, Charlie?"
+
+@@b820 p
+"Dad, the commodity house in Garden City, Kansas, where I traded as a
+young man, was right across from the rail yards. We used to watch the
+trains come in as a distraction from slow markets. When boxcars are
+heavy with a load, they buck and jerk, because momentum makes them push
+and pull. Those Simplot cars are running too steady. I see no jerking or
+bucking. They are either empty or just partially full."
+
+@@b822 p
+Figure: Loaded boxcars buck and jerk; the Simplot cars ran too
+steady, so Charlie judged them empty or partly full.
+
+@@b823 p
+Charlie was right. Potatoes soared. Then the New York Mercantile
+Exchange declared force majeure and settled the contract at about 8
+cents. It killed the potato futures contract. Michael wrote that people
+thought, "I can't win even when I am right, why play?" A new contract
+was tried two years later and no one would touch it.
+
+@@b824 p
+<strong>What it means.</strong> Charlie's edge was a lifetime of
+watching small physical details, and the patience to remember them for
+forty years.
+
+@@b825 p
+<strong>Try this.</strong> Keep a notebook of small things you notice
+about how a market moves that are not on your indicators. Review it
+monthly.
+
+@@b826 h2
+13. Everyone was bearish at
+the bottom
+
+@@b827 p
+<em>The 1974 low and the market letters.</em>
+
+@@b828 p
+The Dow came off a seven-year bear market and bottomed at about 575
+in October 1974. Charlie and Michael used to go to Bache and read all
+the market letters: Dines, Schultz, Russell, Holt, Myers and others.
+They were all doom and gloom. Charlie joked, "You read these, you feel
+like going home and blowing your brains out."
+
+@@b829 p
+Around 600, Charlie told the Bache brokers to buy, because the market
+had bottomed. Only Jerry Peters believed him.
+
+@@b831 p
+Figure: The Dow bottomed near 575 in October 1974 while every market
+letter was gloomy; Charlie said buy around 600.
+
+@@b832 p
+From 1975 to 1980 Michael managed stock accounts for two brokers
+while the Dow climbed from 575 to about 800. Charlie had given him a
+fundamental ratio, and Goodman plus the ratio served those clients very
+well. "Charlie hated technical ratios but seemed OK with some basic
+fundamental stuff."
+
+@@b833 p
+<strong>What it means.</strong> When every newsletter agrees, you are
+looking at a crowd, not at information. Charlie bought where the crowd
+could not.
+
+@@b834 p
+<strong>Try this.</strong> Count how many analysts in your feed share
+your view. If it is nearly all of them, reduce your size.
+
+@@b835 h2
+14. Short
+sayings that cost nothing and saved a lot
+
+@@b836 p
+<em>Six Goodmanisms from the trading room.</em>
+
+@@b837 ul
+<li><p>"If I had been a greedy man, my method would not have worked and
+I'd be broke!" Someone had told him, in the early 1970s, that a greedy
+man could have made millions more.</p></li>
+<li><p>"We'll do something even if it's wrong!" Michael's reading: doing
+something just to be doing something is probably wrong. You need to plan
+and prepare.</p></li>
+<li><p>"Just go for the high percentage sitting ducks, Dad!"</p></li>
+<li><p>"Remember, light shines brightest in a dark room!" He said it in
+about 1975, when Michael had made four or five bad trades in a row and
+wanted to quit and go back to school. "Hang in there, Dad, this is where
+the learning takes place and the boys are separated from the
+men."</p></li>
+<li><p>"You put enough lines on a chart, one of them is bound to be
+right!"</p></li>
+<li><p>"Information is so plentiful as to be nearly worthless. Knowledge
+is when you combine information for something useful, practical. Wisdom
+is rarest. It is when knowledge is combined to achieve truth."</p></li>
+
+@@b839 p
+Figure: Charlie's ladder from plentiful information to useful
+knowledge to rare wisdom.
+
+@@b840 p
+<strong>Try this.</strong> Pick one saying and write it on a card
+above your screen for a week.
+
+@@b841 h2
+Market Anatomy (2021)
+
+@@b842 p
+In this paper I look at the anatomy of the market: who really decides
+that price may go higher or lower. My answer is not "buyers" or
+"sellers" alone. It is a shared culture that manages price, and it
+judges by experiment.
+
+@@b843 h3
+Why price rises without
+buyers
+
+@@b844 p
+Many people believe that when price is very high, it must fall
+because buyers are missing. Yet if you watch closely, the market often
+moves from one new high to the next even when buyers are few. The reason
+is simple: sellers refuse to sell lower than that price.
+
+@@b845 p
+I call this the harmonic culture of sellers. They agree together not
+to accept a lower, unacceptable price.
+

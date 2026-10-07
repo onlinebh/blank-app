@@ -1,0 +1,135 @@
+{
+ "chunk": "c40",
+ "highlights": [
+  {"b": "b2610", "en": "Trading with TTL is effective because it protects what the market", "level": 1},
+  {"b": "b2612", "en": "the Setup chart can be clear while the Overlay chart is not", "level": 1},
+  {"b": "b2625", "en": "Sometimes the Setup chart is clear, but the Overlay chart is", "level": 1},
+  {"b": "b2633", "en": "BIG negative Overlay.", "level": 1},
+  {"b": "b2637", "en": "compare the first 1-2-3", "level": 1},
+  {"b": "b2639", "en": "THIS IS EXACTLY WHAT I AM", "level": 1},
+  {"b": "b2657", "en": "at BE, my goal is safe. The other team cannot score against me.", "level": 1},
+  {"b": "b2658", "en": "Breakeven is not a target for profit. It is a target for safety.", "level": 2},
+  {"b": "b2660", "en": "The quick trade had one job: to pay", "level": 1},
+  {"b": "b2662", "en": "small trade has paid for the risk of the large one, the large one is", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b2604",
+   "en": "What the TTL Study Shows",
+   "ar": "ما تُظهره دراسة TTL",
+   "note_en": "Trading the Line (TTL) protects what the market gives: raised stops saved half of the open profit and the same Lines produced the later sell.",
+   "note_ar": "تحمي Trading the Line ما يعطيه السوق: الـ stops المرفوعة حفظت نصف الربح المفتوح، وأعطتنا الـ Lines نفسها صفقة البيع اللاحقة.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b2605",
+     "en": "Raised stops saved profit",
+     "ar": "الـ stops المرفوعة حفظت الربح",
+     "note_en": "Stop caught at +64 pips against 70 pips of first risk; open profit had reached 127 pips.",
+     "note_ar": "أُصيب الـ stop عند +64 pips مقابل 70 pips مخاطرة أولى، وكان الربح المفتوح قد بلغ 127 pips.",
+     "imp": 2,
+     "children": [
+      {"b": "b2609", "en": "Full TTL operation", "ar": "عملية TTL كاملة", "note_en": "Entry after the Dagger, stops raised through each 1-2-3, the 6x6 top, then a 126-pip sell (AUDUSD 1-hour).", "note_ar": "دخول بعد الـ Dagger، ورفع الـ stops عبر كل 1-2-3، ثم القمة 6x6، ثم بيع بـ 126 pip.", "imp": 1, "children": []}
+     ]
+    },
+    {
+     "b": "b2606",
+     "en": "What TTL adds over the Under",
+     "ar": "ما تضيفه TTL على الـ Under",
+     "note_en": "First protection at the breakaway, final stop at the end of the last propagation, then the same Lines gave the sell.",
+     "note_ar": "حماية أولى عند الـ breakaway، وخروج أخير عند نهاية آخر propagation، ثم أعطت الـ Lines نفسها صفقة البيع.",
+     "imp": 2,
+     "children": []
+    },
+    {
+     "b": "b2610",
+     "en": "Lesson: protect what the market gives",
+     "ar": "الدرس: احمِ ما يعطيه السوق",
+     "note_en": "Even with a modest uptrend, the routine kept risk small; on the original EURUSD chart it kept 3,897 pips against 500 pips of risk.",
+     "note_ar": "حتى مع uptrend متواضع أبقى الروتين المخاطرة صغيرة؛ وفي رسم EURUSD الأصلي حفظ 3,897 pips مقابل 500 pips.",
+     "imp": 3,
+     "children": []
+    }
+   ]
+  },
+  {
+   "b": "b2611",
+   "en": "Three Swiss Franc Trades",
+   "ar": "ثلاث صفقات على الفرنك السويسري",
+   "note_en": "Three short-term trades from a Jumbo in March 2025; the lesson is that the Setup chart can be clear while the Overlay is not ready.",
+   "note_ar": "ثلاث صفقات قصيرة الأجل من Jumbo في March 2025؛ والدرس أن رسم الـ Setup قد يكون واضحًا بينما الـ Overlay غير جاهز.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b2613",
+     "en": "Trade 1: AUDCHF",
+     "ar": "الصفقة 1: AUDCHF",
+     "note_en": "A Jumbo, a 3S Setup on the 15-minute chart, but the Overlay was not ready and the Return failed to hold.",
+     "note_ar": "Jumbo، و3S Setup على رسم 15-minute، لكن الـ Overlay لم يكن جاهزًا وفشل الـ Return في الصمود.",
+     "imp": 2,
+     "children": [
+      {"b": "b2615", "en": "The idea", "ar": "الفكرة", "note_en": "Expect the EP of the Jumbo and the first 1-2-3 at the arrow.", "note_ar": "توقع الـ EP للـ Jumbo والـ 1-2-3 الأول عند السهم.", "imp": 1, "children": []},
+      {"b": "b2621", "en": "The difficulty: EP in the Overlay", "ar": "الصعوبة: الـ EP في الـ Overlay", "note_en": "Hard to find the EP of the Jumbo in the MO; the EP might occur earlier than the breakdown.", "note_ar": "يصعب إيجاد الـ EP للـ Jumbo في الـ MO؛ فقد تحدث قبل الكسر الهابط.", "imp": 2, "children": []},
+      {"b": "b2626", "en": "What happened", "ar": "ما حدث", "note_en": "Selling was so strong that buyers could not hold the Return; no Setup on the 5-minute chart.", "note_ar": "كان البيع قويًا فلم يصمد المشترون عند الـ Return؛ ولم يكن هناك Setup على رسم 5-minute.", "imp": 1, "children": []},
+      {"b": "b2632", "en": "The missed hint", "ar": "التلميح الذي فاتني", "note_en": "The 1-2-3 was too small compared with the Jumbo: a big negative Overlay. Compare them before trusting the Setup.", "note_ar": "كان الـ 1-2-3 صغيرًا جدًا مقارنةً بالـ Jumbo: Overlay سلبي كبير. قارن بينهما قبل أن تثق بالـ Setup.", "imp": 3, "children": []}
+     ]
+    },
+    {
+     "b": "b2638",
+     "en": "Trade 2: EURCHF Nest Overlay",
+     "ar": "الصفقة 2: EURCHF Nest Overlay",
+     "note_en": "Jumbo, 1-2-3, then back to the Return: exactly the pattern sought; entry via cancel and inside analysis on the 5-minute chart.",
+     "note_ar": "Jumbo ثم 1-2-3 ثم العودة إلى الـ Return: النمط المطلوب بالضبط؛ والدخول عبر الـ cancel والـ inside analysis على رسم 5-minute.",
+     "imp": 2,
+     "children": [
+      {"b": "b2644", "en": "Inside analysis", "ar": "الـ Inside analysis", "note_en": "Watch the change in ME after the cancel: quick rise, narrowing range, buy on the break.", "note_ar": "راقب التغيّر في ME بعد الـ cancel: ارتفاع سريع، ونطاق يضيق، ثم الشراء عند الكسر.", "imp": 2, "children": []}
+     ]
+    },
+    {
+     "b": "b2647",
+     "en": "Trade 3: USDCHF",
+     "ar": "الصفقة 3: USDCHF",
+     "note_en": "After a Jumbo, a new low with no follow-through, then a propagation and the buy.",
+     "note_ar": "بعد Jumbo، قاع جديد دون follow-through، ثم propagation والشراء.",
+     "imp": 1,
+     "children": []
+    }
+   ]
+  },
+  {
+   "b": "b2653",
+   "en": "How I Manage a Trade",
+   "ar": "كيف أدير الصفقة",
+   "note_en": "Charlie taught reading the market; managing the trade was built by the author himself, email by email.",
+   "note_ar": "علّمني Charlie قراءة السوق؛ أما إدارة الصفقة فبناها المؤلف بنفسه، رسالةً بعد رسالة.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b2655",
+     "en": "The first aim is breakeven",
+     "ar": "الهدف الأول هو breakeven",
+     "note_en": "From May 2021: once at BE the goal is safe and the trader can attack. BE is a target for safety, not profit.",
+     "note_ar": "منذ May 2021: عند BE يصبح الهدف آمنًا ويستطيع المتداول أن يهاجم. الـ BE هدف للأمان لا للربح.",
+     "imp": 3,
+     "children": [
+      {"b": "b2656", "en": "\"First aim to traders\"", "ar": "\"الهدف الأول للمتداولين\"", "note_en": "Protect the breakeven and, if the market does not play against you, Take The line.", "note_ar": "احمِ الـ breakeven، وإن لم يلعب السوق ضدك فخذ الـ line.", "imp": 2, "children": []},
+      {"b": "b2657", "en": "The football picture", "ar": "صورة كرة القدم", "note_en": "At BE the other team cannot score; money, experience and the cost of testing are protected.", "note_ar": "عند BE لا يستطيع الفريق الآخر أن يسجّل؛ فالمال والخبرة وثمن الاختبار محميّة.", "imp": 1, "children": []},
+      {"b": "b2658", "en": "Clear thinking", "ar": "التفكير بوضوح", "note_en": "A trade at BE cannot hurt the account, so the mind can think clearly about the rest.", "note_ar": "الصفقة عند BE لا تؤذي الحساب، فيفكر العقل بوضوح في الباقي.", "imp": 2, "children": []}
+     ]
+    },
+    {
+     "b": "b2659",
+     "en": "Nests inside the big play",
+     "ar": "الـ Nests داخل اللعبة الكبيرة",
+     "note_en": "From September 2022: enter on a smaller Nest (5-minute, often from a Dagger) whose job is to pay for the risk of the BIG PLAY.",
+     "note_ar": "منذ September 2022: الدخول على Nest أصغر (5-minute، وغالبًا من Dagger) مهمته دفع ثمن مخاطرة الـ BIG PLAY.",
+     "imp": 3,
+     "children": [
+      {"b": "b2661", "en": "Cover the origin risk", "ar": "تغطية المخاطرة الأصلية", "note_en": "Play anything that covers the origin risk of the 1-hour or daily play.", "note_ar": "العب أي صفقة تغطي المخاطرة الأصلية للعبة الـ 1-hour أو اليومية.", "imp": 2, "children": []},
+      {"b": "b2662", "en": "Lesson: the large trade becomes free", "ar": "الدرس: الصفقة الكبيرة تصبح مجانية", "note_en": "Once the small trade pays for the large one's risk, let it breathe and stop staring at every bar.", "note_ar": "حين تدفع الصغيرة ثمن مخاطرة الكبيرة، دعها تتنفس وتوقف عن التحديق في كل bar.", "imp": 3, "children": []}
+     ]
+    }
+   ]
+  }
+ ]
+}

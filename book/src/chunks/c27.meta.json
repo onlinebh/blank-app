@@ -1,0 +1,36 @@
+{"chunk":"c27","highlights":[
+{"b":"b1745","en":"Fitting that knowledge to serve our","level":1},
+{"b":"b1748","en":"No one can rely on one trade.","level":1},
+{"b":"b1753","en":"Remember, the aim of every campaign","level":2},
+{"b":"b1761","en":"Losers are those who buy and the price moves down, and those who sell","level":1},
+{"b":"b1763","en":"be cautious when volume increases at the end of a box and","level":1},
+{"b":"b1776","en":"But one must enter only the best trades.","level":1},
+{"b":"b1779","en":"winning trade; the time must also be reasonable.","level":1},
+{"b":"b1779","en":"When the ME is not directional, it is very hard to","level":1},
+{"b":"b1783","en":"Manage the risk, let the market manage the reward","level":1},
+{"b":"b1786","en":"A discounted trade is our aim: I want trades where the risk is","level":1},
+{"b":"b1795","en":"that proves there are buyers, one that plays the role of a magnetic","level":1},
+{"b":"b1804","en":"the mass enjoys the uptrend more than the downtrend.","level":1},
+{"b":"b1812","en":"a safe path to protect our capital.","level":1}
+],
+"mindmap":[
+{"b":"b1744","en":"Knowledge versus wisdom","ar":"المعرفة مقابل الحكمة","note_en":"Knowledge is everywhere; fitting it to our aims is wisdom. A campaign yields one of three decisions: Long, Short or Don't Trade.","note_ar":"المعرفة في كل مكان؛ وتطويعها لأهدافنا هو الحكمة. والـ campaign تنتج أحد ثلاثة قرارات: Long أو Short أو Don't Trade.","imp":2,"children":[]},
+{"b":"b1747","en":"Anatomy of a campaign","ar":"تشريح الـ campaign","note_en":"Think of 10 trades as one campaign, never rely on one trade. The aim is 10, 4, 1.","note_ar":"فكّر في 10 صفقات كـ campaign واحدة ولا تعتمد على صفقة واحدة. الهدف 10, 4, 1.","imp":3,"children":[
+ {"b":"b1749","en":"Operation","ar":"Operation","note_en":"Tracking: always look for candidate trades.","note_ar":"Tracking: ابحث دائماً عن صفقات مرشّحة.","imp":1,"children":[]},
+ {"b":"b1749","en":"Strategy","ar":"Strategy","note_en":"Staging: be sure the Overlays can make the setup go before entering.","note_ar":"Staging: تأكد أن الـ Overlays تستطيع جعل الـ setup ينطلق قبل الدخول.","imp":2,"children":[]},
+ {"b":"b1749","en":"Technique","ar":"Technique","note_en":"Stop-loss placement, raising the stop, taking profit.","note_ar":"وضع الـ stop-loss، ورفع الـ stop، وجني الربح.","imp":1,"children":[]},
+ {"b":"b1749","en":"Feedback","ar":"Feedback","note_en":"Y<X, Y>X or Y=X? Find what made it succeed or fail; learn from losses and wins.","note_ar":"Y<X أم Y>X أم Y=X؟ اعرف ما جعلها تنجح أو تفشل وتعلّم من الخسائر والمكاسب.","imp":2,"children":[]}]},
+{"b":"b1754","en":"Chart 1: TRYJPY, passed","ar":"الرسم 1: TRYJPY، تم تجاوزه","note_en":"Volume surged at the end of Jumbo A, then small box B left late sellers no future; the daily was non-trending and storing energy, so Y = X and risky, and the trade was slow.","note_ar":"ازداد الـ volume في نهاية Jumbo A، ثم الصندوق الصغير B ترك البائعين المتأخرين بلا مستقبل؛ والـ daily غير متجه ويخزّن الطاقة، فالصفقة Y = X ومحفوفة بالمخاطر وكانت بطيئة.","imp":3,"children":[
+ {"b":"b1763","en":"Volume at box end","ar":"volume في نهاية الصندوق","note_en":"Be cautious when volume rises at the end of a box and the next box is a small range.","note_ar":"احذر حين يزداد الـ volume في نهاية صندوق ويكون التالي نطاقاً صغيراً.","imp":2,"children":[]},
+ {"b":"b1774","en":"Judging the daily","ar":"الحكم على الـ daily","note_en":"Between excess and test lines, near bottom at 2, no 1-2-3, ME shows low directionality and volatility.","note_ar":"بين خطي excess وtest، قرب القاع عند 2، لا 1-2-3، والـ ME بتوجه وتقلب منخفضين.","imp":2,"children":[]},
+ {"b":"b1779","en":"Lesson: time matters","ar":"الدرس: الوقت مهم","note_en":"6 days in a narrow range: a winning trade is not enough, time must be reasonable; hard to ride when ME is not directional.","note_ar":"6 أيام في نطاق ضيق: لا تكفي صفقة رابحة، يجب أن يكون الوقت معقولاً؛ ويصعب الركوب حين لا تكون الـ ME اتجاهية.","imp":3,"children":[]}]},
+{"b":"b1780","en":"Chart 2: USDJPY, avoided","ar":"الرسم 2: USDJPY، تم تجنّبه","note_en":"Entry too far from BP-FPS means too much risk for a 1-hour chart, even though it paid well.","note_ar":"الدخول بعيد عن BP-FPS يعني risk كبيراً لرسم 1-hour، رغم أنه أعطى مكافأة جيدة.","imp":2,"children":[
+ {"b":"b1783","en":"Manage the risk","ar":"أدر الـ risk","note_en":"'Manage the risk, let the market manage the reward' (Goodman); avoid any high-risk trade.","note_ar":"'Manage the risk, let the market manage the reward' (Goodman)؛ تجنّب أي صفقة عالية الـ risk.","imp":3,"children":[]},
+ {"b":"b1786","en":"Discounted trade","ar":"الصفقة المخفّضة","note_en":"Aim for trades with the least risk.","note_ar":"اهدف إلى صفقات بأقل risk.","imp":2,"children":[]}]},
+{"b":"b1787","en":"Chart 3: EURCAD, taken","ar":"الرسم 3: EURCAD، تم أخذه","note_en":"No FMX/BMX so not a clean 6&6, but a Jumbo, many bars at the energy level, a reversal bar and a strong angle, supported by a nested Overlay and the daily, with the least risk.","note_ar":"لا FMX/BMX فليس 6&6 نظيفاً، لكن هناك Jumbo وعدة bars عند مستوى الطاقة وbar انعكاس وزاوية قوية، مدعومة بـ Nested Overlay وبالـ daily، وبأقل risk.","imp":3,"children":[
+ {"b":"b1795","en":"Replacing the FMX","ar":"بديل الـ FMX","note_en":"Find a strong Overlay that proves buyers exist and acts as a magnetic field.","note_ar":"ابحث عن Overlay قوي يثبت وجود المشترين ويعمل كحقل مغناطيسي.","imp":2,"children":[
+  {"b":"b1797","en":"Boxes A, B, C","ar":"الصناديق A وB وC","note_en":"A: 1-2-3 magnet; B: Dagger, sellers lose passion; C: confirming 1-2-3; yellow circles: quick reversal shows strong buyers.","note_ar":"A: مغناطيس 1-2-3؛ B: Dagger ويفقد البائعون شغفهم؛ C: 1-2-3 مؤكِّد؛ الدوائر الصفراء: انعكاس سريع يدل على مشترين أقوياء.","imp":2,"children":[]}]},
+ {"b":"b1802","en":"Volume points 1-5","ar":"نقاط الـ volume 1-5","note_en":"Buyers absorb each push down; at 5 a quick volume rise ended in a strong close, so buyers dominate.","note_ar":"المشترون يمتصون كل دفعة هابطة؛ وعند 5 ازداد الـ volume بسرعة ثم جاء إغلاق قوي، فالمشترون مسيطرون.","imp":2,"children":[]},
+ {"b":"b1805","en":"Higher time frame movie","ar":"فيلم الإطار الأعلى","note_en":"Daily shows 6&6, weeks of energy, a Goldilocks and the Return Zone: a strong Overlay combination.","note_ar":"يُظهر الـ daily 6&6 ثم أسابيع من الطاقة ثم Goldilocks والـ Return Zone: Overlay combination قوي.","imp":2,"children":[]},
+ {"b":"b1811","en":"Result: least risk","ar":"النتيجة: أقل risk","note_en":"A good profit with the stop right under box C; very low risk protects capital.","note_ar":"ربح جيد مع الـ stop تحت الصندوق C مباشرة؛ والـ risk المنخفض جداً يحمي رأس المال.","imp":3,"children":[]}]}
+]}

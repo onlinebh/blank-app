@@ -1,0 +1,66 @@
+{
+ "chunk": "c02",
+ "highlights": [
+  {"b":"b96","en":"The fastest gain bar: a significant sign of bullishness.","level":1},
+  {"b":"b99","en":"Anyone who enters a trade must specify the maximum","level":1},
+  {"b":"b102","en":"It shows the ability to propagate and reaches the","level":1},
+  {"b":"b109","en":"To summarize it all in two words:","level":2},
+  {"b":"b119","en":"Charlie's method came from hours of","level":1},
+  {"b":"b119","en":"Depth comes from time spent with one","level":1},
+  {"b":"b126","en":"The best lessons are often offered to","level":1},
+  {"b":"b133","en":"Calm in the markets and kindness","level":1},
+  {"b":"b140","en":"Charlie valued study.","level":1},
+  {"b":"b148","en":"the scientific method has three steps:","level":1},
+  {"b":"b150","en":"The path to success in","level":1},
+  {"b":"b151","en":"Without action there is no","level":1},
+  {"b":"b152","en":"I make it by my hand, I visualize it in my head, I collect the","level":2}
+ ],
+ "mindmap": [
+  {"b":"b92","en":"Reading the GBPJPY trade","ar":"قراءة صفقة GBPJPY","note_en":"A chart walk-through of a re-entry trade: the 1-2-3, the new count, the reversal bar, propagation to target and the Cancel.","note_ar":"جولة على الرسم في صفقة إعادة دخول: الـ 1-2-3 والـ count الجديد والـ reversal bar والـ propagation حتى الهدف ثم الـ Cancel.","imp":2,"children":[
+   {"b":"b92","en":"Dagger and the 1-2-3","ar":"الـ Dagger والـ 1-2-3","note_en":"On the 5-minute, buyers press against the Dagger line to complete the 1-2-3.","note_ar":"على إطار 5-minute يضغط المشترون على خط الـ Dagger لإكمال الـ 1-2-3.","imp":1,"children":[]},
+   {"b":"b93","en":"New count toward the Under","ar":"count جديد نحو الـ Under","note_en":"A new count develops from the new low toward the Under of the green.","note_ar":"يتكوّن count جديد من القاع الجديد نحو الـ Under للأخضر.","imp":1,"children":[]},
+   {"b":"b96","en":"Fastest gain bar","ar":"أسرع gain bar","note_en":"A significant sign of bullishness.","note_ar":"علامة مهمة على الصعود.","imp":2,"children":[]},
+   {"b":"b99","en":"Re-entry and tight stop","ar":"إعادة الدخول وstop ضيق","note_en":"While the larger Outward overlay is active, he re-enters at the reversal bar. Every trader must set maximum risk; a day trader uses a very tight stop, or the R/R changes.","note_ar":"بينما الـ Outward overlay الأكبر فعّال يعيد الدخول عند الـ reversal bar. على كل متداول تحديد أقصى مخاطرة؛ والمتداول اليومي يستخدم stop ضيقًا وإلا تغيّر الـ R/R.","imp":2,"children":[
+    {"b":"b99","en":"Define maximum risk","ar":"تحديد أقصى مخاطرة","note_en":"Anyone entering must specify the maximum risk before the trade.","note_ar":"كل من يدخل عليه تحديد أقصى مخاطرة قبل الصفقة.","imp":3,"children":[]},
+    {"b":"b99","en":"Tight stop and R/R","ar":"stop ضيق والـ R/R","note_en":"Trades come every day; raising the risk changes the R/R.","note_ar":"الصفقات تأتي كل يوم، وزيادة المخاطرة تغيّر الـ R/R.","imp":2,"children":[]}
+   ]},
+   {"b":"b102","en":"Propagation to target","ar":"الـ propagation حتى الهدف","note_en":"The market carries the trade overnight with a breakeven stop; the bearish-looking gap gets no follow-through.","note_ar":"يحمل السوق الصفقة عبر الليل مع stop عند breakeven؛ والفجوة الهابطة لا تجد follow-through.","imp":2,"children":[]},
+   {"b":"b105","en":"Sellers enter, buyers return","ar":"دخول البائعين وعودة المشترين","note_en":"After the target, sellers change the trend for a while until buyers step in; this is cancel evidence.","note_ar":"بعد الهدف يغيّر البائعون الـ trend لفترة حتى يتدخل المشترون؛ وهذا دليل إلغاء.","imp":1,"children":[]},
+   {"b":"b109","en":"Propagation lens","ar":"Propagation lens","note_en":"The whole trade summed up in two words.","note_ar":"الصفقة كلها في كلمتين.","imp":3,"children":[]}
+  ]},
+  {"b":"b112","en":"Rung 1 Being: Who Was Charlie?","ar":"Rung 1 Being: من كان Charlie؟","note_en":"Four short chapters about the man before the method.","note_ar":"أربعة فصول قصيرة عن الرجل قبل الطريقة.","imp":3,"children":[
+   {"b":"b114","en":"Twelve hours in the field","ar":"اثنتا عشرة ساعة في الحقل","note_en":"Born 23 October 1916 in Eads, Colorado; farm work and long drives gave him time to think about life and markets.","note_ar":"وُلد في 23 أكتوبر 1916 في Eads بـ Colorado؛ والعمل في الحقل والرحلات الطويلة منحاه وقتًا للتفكير في الحياة والأسواق.","imp":2,"children":[
+    {"b":"b116","en":"Dust-bowl farm youth","ar":"شباب في مزرعة الـ dust-bowl","note_en":"Planted three times in one season; worked twelve to fourteen hours a day.","note_ar":"زرع ثلاث مرات في موسم واحد وعمل اثنتي عشرة إلى أربع عشرة ساعة يوميًا.","imp":1,"children":[]},
+    {"b":"b117","en":"Drive to the brokerage","ar":"الرحلة إلى بيت السمسرة","note_en":"A long trip to Garden City, Kansas, with time to think about the markets.","note_ar":"رحلة طويلة إلى Garden City في Kansas مع وقت للتفكير في الأسواق.","imp":1,"children":[]},
+    {"b":"b118","en":"Thinking beats the pain","ar":"التفكير يبعد الألم","note_en":"In the heat he thought about the world and mankind, asking why.","note_ar":"في الحر كان يفكّر في العالم والبشرية ويسأل: لماذا؟","imp":1,"children":[]},
+    {"b":"b119","en":"Lesson: depth takes time","ar":"الدرس: العمق يحتاج وقتًا","note_en":"His method came from slow attention, not a screen. Try: sit with one chart for twenty minutes without trading.","note_ar":"جاءت طريقته من انتباه بطيء لا من شاشة. جرّب: اجلس مع رسم واحد عشرين دقيقة دون تداول.","imp":3,"children":[]}
+   ]},
+   {"b":"b121","en":"Listen to every damn word","ar":"أنصِت إلى كل كلمة","note_en":"Michael met Charlie in July 1973 at Peavey & Company in Denver; manager Pete Rednor told him to listen to every word.","note_ar":"التقى Michael بـ Charlie في يوليو 1973 في Peavey & Company بـ Denver؛ ونصحه المدير Pete Rednor بالإنصات إلى كل كلمة.","imp":2,"children":[
+    {"b":"b123","en":"Charlie's love of trading","ar":"حب Charlie للتداول","note_en":"He had quit professionally (\"I've made mine\") but loved studying charts and comparing markets with life.","note_ar":"ترك التداول المهني لكنه أحب دراسة الرسوم ومقارنة الأسواق بالحياة.","imp":1,"children":[]},
+    {"b":"b124","en":"Pete Rednor's advice","ar":"نصيحة Pete Rednor","note_en":"People gathered around Charlie's large charts; Rednor told Michael to listen to every word.","note_ar":"كان الناس يتجمعون حول رسوم Charlie الكبيرة؛ ونصح Rednor الفتى بالإنصات.","imp":1,"children":[]},
+    {"b":"b126","en":"Lesson: show up","ar":"الدرس: احضر وواظب","note_en":"The best lessons go to the one who keeps showing up. Try: ask a person you respect one good question, then listen.","note_ar":"أفضل الدروس لمن يواظب على الحضور. جرّب: اسأل من تحترم سؤالًا جيدًا ثم أنصِت.","imp":2,"children":[]}
+   ]},
+   {"b":"b128","en":"The cat on the doorstep","ar":"القطة على عتبة الباب","note_en":"Charlie disliked pets, yet cared for an injured stray cat and wept when it died.","note_ar":"لم يكن يحب الحيوانات الأليفة لكنه اعتنى بقطة جريحة وبكى حين ماتت.","imp":2,"children":[
+    {"b":"b131","en":"Rescue","ar":"الإنقاذ","note_en":"He wrapped the bleeding cat in a towel, took it to the vet and reluctantly kept it.","note_ar":"لفّ القطة النازفة بمنشفة وأخذها للطبيب وأبقاها على كره.","imp":1,"children":[]},
+    {"b":"b132","en":"Friendship and loss","ar":"الصداقة والفقد","note_en":"The cat rode with him between Eads and Denver; after a year it was put down and Michael saw him wipe tears.","note_ar":"رافقته بين Eads وDenver؛ وبعد سنة أُنهيت حياتها ورآه Michael يمسح دموعه.","imp":1,"children":[]},
+    {"b":"b133","en":"Lesson: calm and kindness","ar":"الدرس: الهدوء واللطف","note_en":"Calm in markets and kindness at home came from the same character. Try: do one small kind thing after a hard trade.","note_ar":"الهدوء في الأسواق واللطف في البيت من شخصية واحدة. جرّب: افعل شيئًا لطيفًا بعد صفقة صعبة.","imp":2,"children":[]}
+   ]},
+   {"b":"b135","en":"The house on Colfax and Fillmore","ar":"البيت عند Colfax وFillmore","note_en":"His Denver house, roll-top desk, Corvairs and a library of privately published system books.","note_ar":"بيته في Denver ومكتبه ذو الغطاء المنزلق وسياراته Corvair ومكتبته من كتب الأنظمة المنشورة على نفقة أصحابها.","imp":2,"children":[
+    {"b":"b137","en":"Houses in Denver and Eads","ar":"البيتان في Denver وEads","note_en":"Roll-top desk facing Fillmore Street; the Eads house had three stories.","note_ar":"مكتب أمام شارع Fillmore؛ وبيت Eads من ثلاثة طوابق.","imp":1,"children":[]},
+    {"b":"b138","en":"Mimeographed system books","ar":"كتب الأنظمة المستنسخة","note_en":"Monographs from the 1930s to 1960s in runs of 50 to 200 copies; a two-volume point and figure work bought for $500 in 1948.","note_ar":"دراسات من الثلاثينيات إلى الستينيات بطبعات من 50 إلى 200 نسخة؛ ومجلدان عن point and figure اشتراهما بـ 500 دولار عام 1948.","imp":2,"children":[]},
+    {"b":"b139","en":"The lost set","ar":"المجموعة المفقودة","note_en":"He promised them to Michael, but someone else took them after his death.","note_ar":"وعد بها Michael لكن غيره أخذها بعد وفاته.","imp":1,"children":[]},
+    {"b":"b140","en":"Lesson: value study","ar":"الدرس: قيمة الدراسة","note_en":"Charlie valued study like a treasure. Try: read ten pages of an unfinished book today.","note_ar":"قدّر Charlie الدراسة كالكنز. جرّب: اقرأ عشر صفحات من كتاب لم تُنهِه.","imp":2,"children":[]}
+   ]}
+  ]},
+  {"b":"b142","en":"Introduction: Method, Probability, Will of the Market","ar":"مدخل: المنهج والاحتمال وإرادة السوق","note_en":"Lays the ground before Goodman's theory: scientific method, probability, human behavior, Goodman Wave Theory, chance, balance, anticipation and trade management.","note_ar":"تمهيد قبل نظرية Goodman: المنهج العلمي والاحتمال والسلوك البشري وGoodman Wave Theory والصدفة والتوازن والتوقّع وإدارة الصفقة.","imp":2,"children":[
+   {"b":"b143","en":"Roadmap of the introduction","ar":"خريطة المدخل","note_en":"From method and probability to behavior, bar by bar, swing by swing, Matrix by Matrix.","note_ar":"من المنهج والاحتمال إلى السلوك، bar بعد bar وswing بعد swing وMatrix بعد Matrix.","imp":1,"children":[]},
+   {"b":"b144","en":"The scientific method and the trader","ar":"المنهج العلمي والمتداول","note_en":"Scientists move problems from complexity to simplicity through evidence and patient experiment.","note_ar":"ينقل العلماء المشكلات من التعقيد إلى البساطة بالدليل والتجربة الصبورة.","imp":2,"children":[
+    {"b":"b147","en":"History of science","ar":"تاريخ العلم","note_en":"Evidence gathered day and night, year after year, until the hypothesis is proven.","note_ar":"أدلة تُجمع ليلًا ونهارًا سنة بعد سنة حتى تثبت الفرضية.","imp":1,"children":[]},
+    {"b":"b148","en":"Three steps","ar":"ثلاث خطوات","note_en":"1. Ask a question and form a hypothesis. 2. Collect evidence by experiment or observation. 3. Analyze results and conclude.","note_ar":"1. اطرح سؤالًا وضع فرضية. 2. اجمع الأدلة بتجربة أو مراقبة. 3. حلّل النتائج واستنتج.","imp":3,"children":[]},
+    {"b":"b150","en":"No shortcut","ar":"لا اختصار","note_en":"Success belongs to those who experiment and practice, like Goodman with his many bathtubs.","note_ar":"النجاح لمن يجرّب ويمارس، كما فعل Goodman بـ bathtubs الكثيرة.","imp":2,"children":[]},
+    {"b":"b151","en":"Action brings results","ar":"العمل يأتي بالنتيجة","note_en":"Without action there is no result; the result is the best teacher.","note_ar":"بلا عمل لا نتيجة، والنتيجة هي أفضل معلّم.","imp":2,"children":[]},
+    {"b":"b152","en":"Goodman's saying","ar":"قول Goodman","note_en":"I make it by my hand, I visualize it in my head, I collect the evidence, I test it, and never fail.","note_ar":"أصنعه بيدي وأتخيله في رأسي وأجمع الأدلة وأختبره ولا أفشل أبدًا.","imp":3,"children":[]}
+   ]}
+  ]}
+ ]
+}

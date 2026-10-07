@@ -1,0 +1,381 @@
+##CTX Part: Rung 2 · Knowing: How Is Truth Learned? | Section: The Logic of Goodman (2022) -> How One Can Construct a Logical Combination (2021)
+
+@@b568 h3
+Structure indication
+
+@@b569 p
+A structure indication is one that has an element of inherence coming
+from buyers and sellers. Arranging that element according to the
+inherences gives buyers and sellers a structure.
+
+@@b570 h4
+The element:
+greed, fear, excitement and sadness
+
+@@b571 p
+The element comes from human nature. Humans have greed and fear.
+These forces give us the intensity to act on an opportunity: the
+<strong>when</strong>. They also give us the power to cause action: the
+<strong>why</strong>. But they follow one rule: NO EXTREME EXAGGERATIONS
+NOR NEGLIGENCE.
+
+@@b572 p
+Extremes show the maximum desire of buyers and sellers. The reaction
+to this process is excitement. In this game, the opposite of excitement
+is sadness.
+
+@@b573 p
+Humans are excited when they can hit their goal, and sad when they
+cannot. This is the element.
+
+@@b574 h4
+Arranging the element by
+inherence
+
+@@b575 p
+The element is arranged according to the last two inherences:
+
+@@b576 blockquote
+<p>1. They show their existence on the chart by deciding
+<strong>when</strong> they want to enter orders into the market at any
+time.</p>
+<p>2. They show their existence on the chart by deciding
+<strong>why</strong> they want to enter orders into the market at any
+time.</p>
+
+@@b578 p
+Figure: One leg of buying told by the Goodman points: the BP where
+buyers start, the 50% Tipping Point, and the EP where greed runs
+out.
+
+@@b579 h4
+The Goodman points tell the
+story
+
+@@b580 p
+The Goodman points use this element.
+
+@@b581 ul
+<li><p><strong>BP (Beginning Point)</strong> is the point that answers
+when buyers enter orders. Greed drives the force. Buyers act by entering
+orders to absorb the offers. This reflects courage to take the
+opportunity, and the excitement of hitting the goal.</p></li>
+<li><p>Along the way, buyers do not allow any significant movement in
+the opposite direction (25%).</p></li>
+<li><p>Greed* then rises to the extreme: EXTREME EXAGGERATIONS. There
+the <strong>EP (Ending Point)</strong> occurs. Buyers have exceeded
+their ability and cannot continue.</p></li>
+
+@@b582 p
+Every Goodman point tells its own story.
+
+@@b583 p
+*There is nothing wrong with greed. Here it is simply a force to act,
+different from its usual meaning.
+
+@@b584 h3
+Types of arrangement
+
+@@b585 p
+There are three types of arrangement: Congruence, Implicitly and
+Intrinsic.
+
+@@b586 h4
+Congruence
+
+@@b587 p
+Congruence is an indication that matches the most recent story. It
+gives a mirror story, or a high-performance mirror story.
+
+@@b589 p
+Figure: GBPUSD, 5-minute, 1–2 March 2022. Buyers drive A to B,
+correct to C near the TP, then drive C to D with the same force: CD is a
+congruent mirror of AB.
+
+@@b590 p
+The story starts at A, when buyers decide to enter orders. Their
+maximum comes when they reach point B. They then correct their positions
+at mid-way (TP). Then buyers enter again at C and move to D.
+
+@@b591 p
+The story CD is a mirror of AB; it is congruent with it. This
+arrangement shows that buyers in CD have the same force as in AB. The
+trend is up, for simple reasons:
+
+@@b592 ul
+<li><p>Buyers can recover their strength from the correction.</p></li>
+<li><p>Even after the correction, buyers can move with performance
+similar to their past extremes.</p></li>
+
+@@b593 blockquote
+<p>"Everything is a 1-2-3."</p>
+
+@@b594 h4
+Implicitly
+
+@@b595 p
+Implicitly is an indication that is implied by the most recent story.
+It gives a sign of something about to occur.
+
+@@b597 p
+Figure: Sellers lose force at C and again at E while buyers re-enter;
+two implicit signs put the downtrend in doubt and point to the buying
+force at F. Real data: USDCZK, daily, 27 October 2021 – 4 March 2022.
+(Same symbol, timeframe and dates as the original chart. The daily data
+file has no volume, so the volume panel is empty.)
+
+@@b598 p
+Buyers enter at A with the force to carry price to the maximum at B,
+mid-way of A (TP).
+
+@@b599 ul
+<li><p><strong>First implicitly:</strong> sellers at C lose their force.
+This shows either that buyers are too strong or that sellers are too
+weak. The downtrend is now in doubt.</p></li>
+<li><p>Buyers enter again at C and show their force, but there is no
+improvement in their performance at D.</p></li>
+<li><p><strong>Second implicitly:</strong> sellers lose intensity.
+Buyers enter at E with a logical indication, shown in the circle around
+the closing of the bars. T is a character indication.</p></li>
+
+@@b600 p
+Because the selling force loses its intensity at E (the second
+implicitly), a buying force at F is implied. CD then forms a congruence,
+a high-performance mirror story, with EF.
+
+@@b601 p
+At the first implicitly at C, a buying force is also implied, which
+makes DE an inside move within BC.
+
+@@b602 p
+Implicitly works as a diagnostic tool to check the intensity of the
+trend. Several implicit signs are needed to make the message clear.
+
+@@b603 h4
+Intrinsic
+
+@@b604 p
+Intrinsic is a compound of Congruence and Implicitly. It is the most
+important type of structure indication. It appears naturally as part of
+a consequence of indications. The consequence cannot be separated from
+the indications.
+
+@@b606 p
+Figure: A 1-2-3 nested inside a larger 1-2-3, where A and B are
+congruent and C is implicit; price returns toward the TP of the larger
+(1). Real data: GBPSGD, daily, 17 June 2021 – 4 March 2022. (Same
+symbol, timeframe and dates as the original chart. The daily data file
+has no volume, so the volume panel is empty.)
+
+@@b607 p
+Every 1-2-3 sits inside a larger 1-2-3. This happens naturally in the
+market, and it cannot be separated. The market will follow this
+structure.
+
+@@b608 p
+Because it is intrinsic, it lets us predict: after a 1-2-3, watch for
+a return to the same level as the TP of the larger (1).
+
+@@b609 p
+Here A and B are congruent. C is implicit, and there the intrinsic
+structure shows the way. The price itself does not matter. Price will
+follow and move to the Goodman points: the bounces X, Y and Z.
+
+@@b610 blockquote
+<p>"The markets can only go up or down." — Charles B. Goodman</p>
+
+@@b611 h2
+How One Can
+Construct a Logical Combination (2021)
+
+@@b612 p
+I want to show how a trader can build a logical combination instead
+of relying on guesses, expectations or tips. A combination built on
+logic can set, and keep, a very good return. To get there, I first ask a
+simple question: what do we actually mean by trading?
+
+@@b613 p
+I develop the engineering-balance argument and the four extreme
+combinations fully in Overlay Combination (Rung 4).
+
+@@b615 p
+Figure: The trading balance as a process unit, with the three-month
+example worked through.
+
+@@b616 p
+My job is to qualify the Overlay. When the market is not in one of
+these cases, there is no signal. I trade only extremes, as a kind of
+nested Overlay, and I use MO and PO to support that nested Overlay.
+
+@@b617 h3
+Examples
+
+@@b618 p
+Here are four examples, with my observations.
+
+@@b619 h4
+Case
+1 of 4: a 6x6 on the daily structure (first traded on GBPUSD)
+
+@@b621 p
+Figure: A long rise to the MO, a sideways pause below it, then a
+small 6x6 climbing back to the MO line, marked as the extreme. Real
+data: AUDUSD, 4-hour, 14 February – 2 March 2022. (The original chart
+was GBPUSD, daily, July 2020 – May 2021; this one shows the same
+structure.)
+
+@@b622 p
+When there is a lot of propagation in the BMX, it suggests weakness.
+Why? The market cannot give me a fast wave. Think of a car that stops
+every ten minutes: stop, stop, stop. The same behavior is here. We also
+have the MO, which gives me some logical sense about the extreme.
+
+@@b623 p
+The market is now at an extreme on the daily chart, as in case 1. Let
+us open the 1-hour chart to find the extreme there. There is a PO
+Overlay.
+
+@@b625 p
+Figure: The PO Overlay: sellers make a lower low under the earlier
+low, and the weak pullback that follows is the sell point. Real data:
+EURUSD, 1-hour, 16–24 February 2022. (The original chart was GBPUSD,
+1-hour, May – June 2021; this one shows the same structure.)
+
+@@b626 p
+It is better to see a lower low, as the arrow shows. Yes, such a
+trade is hard to manage. But any skilled trader can get a good
+generation (return) by raising the stop order with each propagation of
+the 1-2-3, or by nesting with the daily chart STP.
+
+@@b628 p
+Figure: After the sell, the stop (STP) is moved down to each new
+lower high as the 1-2-3s propagate. Real data: EURUSD, 1-hour, 21
+February – 4 March 2022. (The original chart was GBPUSD, 1-hour, 25 May
+– 22 June 2021; this one shows the same structure.)
+
+@@b629 p
+A good TTL, isn't it?
+
+@@b630 h4
+Case
+2 of 4: a Goldilocks on the daily structure (first traded on
+USDMXN)
+
+@@b632 p
+Figure: A Goldilocks: from the peak, sellers propagate down in steps
+to the bounce level, then make one lower low. Real data: USDCAD, 4-hour,
+16 February – 4 March 2022. (The original chart was USDMXN, daily, June
+2020 – June 2021; this one shows the same structure.)
+
+@@b633 p
+The market gives me more than the propagation, with a very low EP for
+each Matrix. Then it reverses up in a bounce. This shows good
+strength.
+
+@@b635 p
+Figure: The propagation of the Matrix down to the bounce, where two
+lows rest on the same level before the final lower low. Real data:
+USDCAD, 1-hour, 22 February – 4 March 2022. (The original chart was
+USDMXN, daily, December 2020 – June 2021; this one shows the same
+structure.)
+
+@@b636 p
+On the last two bars, buyers seem to be trying to enter. Let us move
+to the 1-hour chart. It can be a very good opportunity to go long with
+very low risk. In trades like this, I enter in the Dagger.
+
+@@b638 p
+Figure: The Dagger: after the low, highs fall and lows rise; the
+close above the upper line is the buy, with the STP under the last low.
+Real data: AUDUSD, 1-hour, 23 February – 1 March 2022. (The original
+chart was USDMXN, 1-hour, 3–11 June 2021; this one shows the same
+structure.)
+
+@@b639 p
+Then I simply manage the trade with the STP order.
+
+@@b641 p
+Figure: The trade managed by raising the STP under each new higher
+low. Real data: AUDUSD, 1-hour, 25 February – 4 March 2022. (The
+original chart was USDMXN, 1-hour, 7–22 June 2021; this one shows the
+same structure.)
+
+@@b642 p
+This combination of Overlays is the best!
+
+@@b643 h4
+Case
+3 of 4: a PTS on the daily structure (first traded on USDCAD)
+
+@@b645 p
+Figure: A PTS: buyers drive A to B, and the correction comes back to
+the PO Overlay at 50% of AB. Real data: USDJPY, 4-hour, 17 February – 1
+March 2022. (The original chart was USDCAD, daily, September 2020 – July
+2021; this one shows the same structure.)
+
+@@b646 p
+There is a PO Overlay at 50%. Again, it is higher than the last SS of
+the 1-2-3 down, so it is stronger.
+
+@@b647 p
+The 1-hour chart:
+
+@@b649 p
+Figure: A double 6x6 resting on the same level, and the buy points at
+that level. Real data: USDCAD, 1-hour, 15–21 February 2022. (The
+original chart was USDCAD, 1-hour, 22 July – 5 August 2021; this one
+shows the same structure.)
+
+@@b650 p
+There is a double 6x6. Or one can buy at the next propagation. But
+the risk is high, so I recommend a micro Nest to minimize it.
+
+@@b652 p
+Figure: The Line traded with the stop raised under the low of each
+new 1-2-3. Real data: NZDUSD, 1-hour, 25 February – 4 March 2022. (The
+original chart was USDCAD, 1-hour, 26 July – 20 August 2021; this one
+shows the same structure.)
+
+@@b653 p
+Trade the Line and raise the stop loss with every 1-2-3 propagation,
+or simply nest with the daily chart.
+
+@@b654 h4
+Case
+4 of 4: a PTS on the daily structure (first traded on AUDCAD)
+
+@@b656 p
+Figure: A PTS: after the fall from the high, a 1-2-3 up carries price
+back into the 50% zone of the fall, the sell zone. Real data: AUDCAD,
+15-minute, 23–24 February 2022. (The original chart was AUDCAD, daily,
+May 2020 – April 2021; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b657 p
+It is better with a lower low. The market in the PO is at 50% with
+1-2-3 waves. It must have one component 1-2-3. Let us move to the 1-hour
+chart.
+
+@@b659 p
+Figure: Point A, the volume spike that breaks the market below it,
+and the sell at the Return Zone after the 1-2-3 back up. Real data:
+AUDCAD, 15-minute, 24–25 February 2022. (The original chart was AUDCAD,
+1-hour, 12–26 April 2021; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b660 p
+At A, the last SS turns to SPS at the top, and the next 1-2-3 is
+lower than the last EP-SS of the move up. That shows more weakness.
+Volume can help when it increases, and there is a Setup at the Return
+Zone.
+
+@@b662 p
+Figure: The sell managed down with the STP lowered above each new
+lower high. Real data: AUDCAD, 15-minute, 24 February 2022. (The
+original chart was AUDCAD, 1-hour, 19 April – 3 May 2021; this one shows
+the same structure on the same symbol, in the window the data
+covers.)
+
+@@b663 p
+Very easy to manage!
+

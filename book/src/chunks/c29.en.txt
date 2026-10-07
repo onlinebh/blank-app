@@ -1,0 +1,368 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: A Short Study in Overlay Combination and the Concept of Bounces (2022) -> Matrix Overlay with Volume (2021)
+
+@@b1898 h2
+A
+Short Study in Overlay Combination and the Concept of Bounces
+(2022)
+
+@@b1899 p
+In this short study I introduce the idea of bounces and show how
+balancing a combination of propagations can sharpen our view of what
+buyers and sellers are able to do at an Intersection.
+
+@@b1900 h3
+What is a bounce?
+
+@@b1901 p
+By studying charts for a long time, you realise that every movement
+in the market can be divided into bounces. A bounce is simply a price
+level that generates momentum, either down or up. Price can only go up
+or down.
+
+@@b1902 ul
+<li><p>A bounce that generates momentum up is a <strong>bull
+bounce</strong>.</p></li>
+<li><p>A bounce that generates momentum down is a <strong>bear
+bounce</strong>.</p></li>
+
+@@b1903 p
+This concept is very similar to the triple spread.
+
+@@b1905 p
+Figure: Bull bounces along a rising line, where each EP of
+propagation is higher than the last.
+
+@@b1906 p
+If a bounce generates a higher EP of propagation compared with the
+last EP, it means a bull propagation. Conversely, a lower EP means a
+bear propagation.
+
+@@b1907 h3
+Balancing a combination
+
+@@b1908 p
+The chart is a combination of different propagations: bear
+propagations, bull propagations, timehash or Knot.
+
+@@b1910 p
+Figure: When the second propagation makes a lower EP, it is only a
+reaction, and the next lower high reacts to it.
+
+@@b1911 p
+In cases like this the bounces are weak, both bull and bear. They are
+mostly in equilibrium: a tug of war where no one succeeds.
+
+@@b1912 p
+By balancing these propagations, their bounces and their EPs, we see
+whether the move is bull, bear or just a Knot. This enhances our vision
+of the ability of buyers and sellers. Will they generate a bull bounce
+that breaks the Intersection, or just move away from it?
+
+@@b1913 h3
+A visionary idea: the wood
+wall
+
+@@b1914 p
+Think of the Matrix Overlay, in outward analysis, as a wall of MDF
+wood.
+
+@@b1916 p
+Figure: Bull propagations pushing toward the Matrix Overlay wall,
+then turning into a bear propagation as buyers fail to hold the
+price.
+
+@@b1917 p
+Is this combination of propagations most likely to break the MDF
+wood? Or is the combination too weak to break it? The change from bull
+propagation to bear propagation shows weakness: buyers are simply unable
+to hold the price.
+
+@@b1918 h3
+Chart example
+
+@@b1919 p
+Will the Intersection of AA with BB produce more sellers, down to the
+EP of the Jumbo? Or will price just move away from the BB line?
+
+@@b1921 p
+Figure: The outward chart: after the fall and the Jumbo up, the
+falling line AA meets the horizontal line BB. Real data: GBPUSD,
+15-minute, 24–25 Feb 2022. (The original chart was probably EURNZD, 23
+Dec 2022; this one shows the same structure.)
+
+@@b1922 p
+Now watch the inward chart, reading the combination of propagations
+and their bounces.
+
+@@b1924 p
+Figure: The inward chart: the bear propagations fade as price reaches
+BB, with no bear propagation through it, and new orders at BB turn price
+up. Real data: GBPUSD, 5-minute, 25 Feb 2022. (The original chart was
+EURNZD 1-minute, 23 Dec 2022; this one shows the same structure.)
+
+@@b1925 p
+After the Jumbo came a series of bear propagations. Now the new
+orders at BB change the matter to the buying side, after a 6&amp;6.
+
+@@b1926 h2
+Matrix Overlay with Volume
+(2021)
+
+@@b1927 p
+In this paper I show how volume, read through Goodman theory, can
+confirm a Matrix Overlay. I treat volume as energy, divide the box into
+Goodman levels, and watch where energy is spent and whether price
+transits to the next level.
+
+@@b1928 h3
+The Matrix Overlay in brief
+
+@@b1929 p
+A Matrix Overlay is when buyers or sellers return to the original
+point after a substantial move. It is stronger when the return to the
+original point comes by 1-2-3 movements. When those 1-2-3 movements are
+cancelled by a 3-C, it gives more confidence to enter the trade. Of
+course, we trade in the direction of the Matrix Overlay.
+
+@@b1930 p
+The 3-C is evidence that the move against the MO trend has no energy.
+Volume can help confirm that the counter-trend move has no energy, or
+that the MO trend has more energy than the counter-trend. It is relative
+energy.
+
+@@b1931 p
+<strong>Caution:</strong> without a proper construction of the MO and
+the 1-2-3, volume will mislead you about the true energy.
+
+@@b1932 p
+Here are several examples. Each one explains an important
+concept.
+
+@@b1933 h3
+Example 1: EURUSD, 1-hour
+
+@@b1935 p
+Figure: Price returns to the origin point in the buyers' zone after a
+1-2-3 up; the last down move is cancelled by a 3-C. Real data: EURUSD,
+1-hour, 22 Feb – 1 Mar 2022. (The original chart was EURUSD 1-hour, 6–11
+October; this one shows the same structure.)
+
+@@b1936 p
+On EURUSD the price returns to the origin point, in the buyers' zone.
+This MO has two 1-2-3s and a cancel in the last 1-2-3. It looks exactly
+like a 6&amp;6 Setup. But here I want to quantify the MO. On its own,
+the volume shows nothing but columns with no specific meaning. That is
+why interpreting volume with Goodman theory is so important.
+
+@@b1938 p
+Figure: The same chart with the MO propagated into boxes. Real data:
+EURUSD, 1-hour, 22 Feb – 1 Mar 2022. (The original chart was EURUSD
+1-hour, 6–11 October; this one shows the same structure.)
+
+@@b1939 p
+Let us propagate within boxes and split the boxes into levels to
+track the energy. I divide each box into Goodman points as horizontal
+levels, then watch the volume in that frame. It looks hard, but it is
+only at the start, to show how volume works. Later we do not need the
+levels; they are just for visual purposes.
+
+@@b1940 p
+I draw a horizontal line for each Goodman point in the 1-2-3. Our
+focus is the first box.
+
+@@b1942 p
+Figure: The first box with a horizontal level drawn at each Goodman
+point and the energy (volume) at each. Real data: EURUSD, 1-hour, 22 Feb
+– 1 Mar 2022. (The original chart was EURUSD 1-hour, 6–11 October; this
+one shows the same structure.)
+
+@@b1943 h3
+Energy levels
+
+@@b1944 p
+The first box reminded me of energy levels in an atom.
+
+@@b1945 blockquote
+<p>"Atomic electron transition is a change (or jump) of an electron from
+one energy level to another within an atom or artificial atom. It
+appears discontinuous as the electron "jumps" from one energy level to
+another, typically in a few nanoseconds or less. It is also known as an
+electronic (de-)excitation or atomic transition or quantum jump."
+(Wikipedia)</p>
+
+@@b1947 p
+Figure: An electron absorbs energy to jump levels; price spends
+volume to transit between Goodman levels.
+
+@@b1949 p
+Figure: A close-up of the first box with its four levels and the
+volume beneath. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The
+original chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1950 p
+Energy can be measured by E = hv; on the chart, E = Volume.
+
+@@b1951 p
+<strong>Concept 1:</strong> what the volume shows is the quantity of
+energy spent (absorption) at every level.
+
+@@b1952 h3
+Calories: the closest
+example to volume
+
+@@b1953 p
+Let us discuss the behaviour of energy through its closest example to
+volume: calories.
+
+@@b1954 ul
+<li><p>The input for calories is food.</p></li>
+<li><p>The output for calories is body consumption, or activities
+(sports and so on).</p></li>
+
+@@b1955 p
+In the same way:
+
+@@b1956 ul
+<li><p>The input for volume is the transactions of buyers and sellers at
+a known moment.</p></li>
+<li><p>The output for volume is activity: the absorption forces that
+transit price to the next level.</p></li>
+
+@@b1957 p
+A Harvard study lists the calories burned in 30-minute
+activities.
+
+@@b1959 p
+Figure: Calories and volume compared as input and output of energy,
+with the Harvard figures for 30-minute activities.
+
+@@b1960 p
+Volume, like calories, is relative energy: the energy spent from one
+activity (absorption) level to the next. So let us study the energy at
+each activity level.
+
+@@b1961 h3
+Reading the first box
+level by level
+
+@@b1963 p
+Figure: The first box with four numbered levels and the volume at the
+first arrow. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1964 p
+We have 4 levels of activity, and the volume shows the energy spent
+at each one. At the first arrow, energy increased at level 1. This is
+the beginning of the MO, the BP. That energy shows sufficient buyers at
+level 1. To confirm it, buyers must make price absorb the next visual
+level, 2.
+
+@@b1966 p
+Figure: A successful transition to level 2 on less volume. Real data:
+EURUSD, 15-minute, 24–25 Feb 2022. (The original chart was EURUSD
+1-hour, 6–11 October; this one shows the same structure.)
+
+@@b1967 p
+The energy (volume) is less at level 2, but with a successful
+transition and absorption.
+
+@@b1969 p
+Figure: A small sideways box where volume rises but fails to reach
+level 3. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1970 p
+Then the market moves sideways in a small box. Energy and price are
+in some conflict, with no clear sign. Volume increased at the last arrow
+but failed to transit to the next level, 3.
+
+@@b1972 p
+Figure: Price leaves the small box as buyers raise the energy toward
+level 3. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1973 p
+At the last arrow, price moved out of the smaller box as buyers
+increased the energy to level 3.
+
+@@b1975 p
+Figure: The red arrow marks the buyers' failure to move above level
+3. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original chart was
+EURUSD 1-hour, 6–11 October; this one shows the same structure.)
+
+@@b1976 p
+The red arrow shows the buyers' failure to move to the next level,
+higher than 3. When that happens, look at the price and the arrow: this
+energy will return price to level 2. If the chart stopped here, the
+price action would suggest a Nest setup.
+
+@@b1977 h4
+The Nest
+
+@@b1979 p
+Figure: The Nest setup: a 1-2-3 down on rising energy (red) and a
+last rally on falling energy (yellow). Real data: EURUSD, 15-minute,
+24–25 Feb 2022. (The original chart was EURUSD 1-hour, 6–11 October;
+this one shows the same structure.)
+
+@@b1980 p
+Here the chart shows the Nest setup. First a 1-2-3 down with
+increased energy. At the yellow arrow, energy decreases. This behaviour
+suggests buyers are scrimpy. A 1-2-3 down on increased energy, and a
+last rally on decreased energy? The tendency is for sellers: lower low,
+lower high.
+
+@@b1981 p
+How is it a 1-2-3? Its SS has broken the BP of the FPS. The aim of
+any 1-2-3 is to show progress, the ability to move, when the smaller
+1-2-3 propagates into a larger 1-2-3. The larger 1-2-3 proves the
+smaller one. As the red SS shows, the downside propagates into a larger
+1-2-3.
+
+@@b1983 p
+Figure: Red, yellow and green arrows: rising, falling and rising
+energy that fails to push below level 2. Real data: EURUSD, 15-minute,
+24–25 Feb 2022. (The original chart was EURUSD 1-hour, 6–11 October;
+this one shows the same structure.)
+
+@@b1984 p
+After the increased volume at the red arrow, the yellow shows
+decreased energy, and the green arrow shows an increase to transit below
+level 2. Instead of moving lower, the chart gives a nested setup.
+
+@@b1986 p
+Figure: At the green arrow, volume rises but cannot transit to the
+lower level. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1987 p
+Just enter on the lower time frame, before the bar closes. The level
+by itself shows nothing. What matters is the new behaviour at the green
+arrow: volume increased but could not transit to the lower level.
+
+@@b1989 p
+Figure: Black arrows: energy lifts price above level 3, then hugs it
+as a Dagger forms toward level 4. Real data: EURUSD, 15-minute, 24–25
+Feb 2022. (The original chart was EURUSD 1-hour, 6–11 October; this one
+shows the same structure.)
+
+@@b1990 p
+At the first black arrow, energy increased and price transited above
+level 3. At the second black arrow, energy decreased but hugged level 3,
+and price moved into a Dagger and broke out close to level 4.
+
+@@b1992 p
+Figure: The full first box with all the energy arrows from level 1 to
+level 4. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1993 p
+From this it should be obvious that volume shows the energy behind
+these levels.
+
