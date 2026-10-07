@@ -1,0 +1,232 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Market Circulation (2021)
+
+@@b955 h3
+Cycles govern volume and
+price
+
+@@b956 p
+I find that the Crosspoint (Angle Propagation) and the Spread Triple
+give a clearer picture than volume. Cycles govern volume, and price too.
+You may not believe it yet, but the show is just beginning. The market
+can always teach us, and it can also shock us.
+
+@@b957 p
+The Earth's cycle governs the weather everywhere. It governs the
+temperature (its "price"), and it can govern the mass "volume" too.
+Rain, flooding, snow, fog and mist, hail storms, smoke from bush and
+forest fires, strong winds, extreme cold and heat: all of these can stop
+the traffic (the volume) on the road.
+
+@@b958 p
+So why does so much volume appear at 50%? Because of the station
+point, the Intersection. Price makes volume; cycles make price.
+
+@@b959 p
+When a setup fails, we are in bad weather in the market. Enjoy your
+stop order and be thankful, because losing capital is the worst idea.
+Some think, "I will miss that trade." Even if you do not miss it, you
+cannot trade 100 lots, so you miss plenty of profit anyway. Cry for the
+big banana you could make with 100 lots, little humble man!
+
+@@b960 h3
+Angle Propagation
+and the stretched spring
+
+@@b961 p
+Back to Angle Propagation. It is Propagation by time: time forces new
+buyers to recover old profits quickly. Old buyers feel better because
+they won the war. Their first target is to recover what they lost. No
+one gives up something without a fight, not even animals.
+
+@@b962 p
+When the market is in elastic energy, after the EP-SS it moves
+quickly away from the Dagger. Momentum increases, the angle steepens,
+and a new impression force takes position. A simple experiment shows
+this clearly: the response is like a spring that stretches.
+
+@@b963 p
+What I try to do is measure that stretch with the Crosspoint. The
+Crosspoint gives me the total result of all energy, volume plus Nash
+equilibrium, its maximum, and the next target. By following the
+Crosspoint in every 1-2-3, I can see when buyers are weak or strong. It
+is an overall indicator. In my opinion, it is the best indicator a
+trader can have.
+
+@@b964 h3
+Reading the Crosspoint
+
+@@b965 p
+Measure where the Crosspoint line crosses the SS:
+
+@@b966 blockquote
+<p>1. A bad response, less than 50% of the middle of the SS: the
+impression force is weak.</p>
+<p>2. A good response, more than 50% of the middle of the SS: the
+impression force is strong.</p>
+<p>3. The Crosspoint very near the EP-SS: the impression force is
+extremely weak.</p>
+<p>4. The Crosspoint very near the EP-FPS: the impression force is
+extremely strong.</p>
+
+@@b968 p
+Figure: Reading the Crosspoint: where the line from BP-FPS crosses
+the SS, from extremely strong (near EP-FPS) to extremely weak (near
+EP-SS).
+
+@@b969 h4
+Examples
+
+@@b971 p
+Figure: The Crosspoint passes the SS low, so the impression force of
+this down 1-2-3 is weak; price then rallies. Real data: GBPUSD,
+30-minute, 21–25 February 2022. (The original chart did not show its
+symbol or date; this one shows the same structure.)
+
+@@b973 p
+Figure: The Crosspoint passes right by the EP-FPS, so the impression
+force is extremely strong. Real data: USDJPY, 5-minute, 22 February
+2022. (The original chart did not show its symbol or date; this one
+shows the same structure.)
+
+@@b974 p
+We can also use it to qualify a Goodman setup.
+
+@@b976 p
+Figure: Qualifying a setup: the buyers' impression force is weak,
+while the sellers' is strong. Real data: NZDUSD, 30-minute, 21–24
+February 2022. (The original chart did not show its symbol or date; this
+one shows the same structure.)
+
+@@b977 h4
+Advanced: the corrupted cycle
+
+@@b978 p
+When Mr. Market does not give me a 1-2-3 at all, the Crosspoint shows
+that the force is extremely, extremely weak. A 6&amp;6 setup can confirm
+this.
+
+@@b980 p
+Figure: Sellers very, very extremely weak: the down move stalls at
+support, no down 1-2-3 completes, and the uptrend resumes. Real data:
+NZDUSD, 30-minute, 28 February – 4 March 2022. (The original chart did
+not show its symbol or date; this one shows the same structure.)
+
+@@b981 p
+When the sellers' SS stops near the BP-FPS, it shows no energy. It is
+the same concept. When it happens, there is no complete cycle, no 1-2-3.
+I call it a corrupted cycle.
+
+@@b982 p
+Think of pulmonary circulation. For any reason it can stop, and we
+know that when it stops it means big trouble. When Mr. Market cannot
+give me a down 1-2-3, there is no complete cycle, and that means big
+trouble for the sellers. I am happy; I will go with the buyers. No new
+lows, no downtrend. What is new?
+
+@@b983 p
+The Crosspoint measures how far the down cycle got before it stopped.
+It can be used for a second-chance 6&amp;6, when supply is extremely
+weak.
+
+@@b984 p
+<em>Note: this is only knowledge that helps us answer a question, so
+that we gain confidence.</em>
+
+@@b985 h3
+Spread Triples
+
+@@b986 p
+A Spread Triple connects three (or more) Return Points, the EPs of
+the SSs, in a Propagation. It is the chain between all the 1-2-3s. It
+shows the steps: watch the market in every 3 steps, 3 jumps.
+
+@@b988 p
+Figure: The Spread Triple: a line through the Return Points chains
+the 1-2-3s. Each jump recharges there; a jump that cannot clear the old
+high ends the uptrend.
+
+@@b989 p
+In each jump, where is its maximum point, where V = 0? We know that
+each EP-SS is a point of elastic potential energy. So it is a simple
+connection with the EP and the Crosspoint. Each time the market reaches
+an EP-SS, it recharges its energy and tries to jump higher than before,
+like a child on a trampoline.
+
+@@b990 p
+This shows the quality of the capacitor, the battery. As physics
+says: "Charging the capacitor by using potential energy source or
+voltage source through a frictional media such as the electrical
+resistor will cause losing the electrical energy into friction, since
+the current passing to charge the capacitor will meet friction in the
+resistance."
+
+@@b991 p
+When the market cannot jump higher than the old Propagation, the
+uptrend is over. It resumes only when it can jump over the old points.
+Each time the market recharges, it suggests some loss of energy.
+
+@@b992 h4
+What time really means
+
+@@b993 p
+Time is one of the dimensions in physics. Do we use time to
+understand what happened in the past? No. We use time to answer
+questions about the current moment, the critical point. Ninety percent
+of human memory exists because of time.
+
+@@b994 p
+When a capacitor loses energy over time, no trend can go on forever.
+The biggest gains in history came when no one expected a collapse, as in
+2008. In some way, that trend was already losing energy.
+
+@@b995 p
+We can build a real sequence of events from these forces. The
+sequence is like an action movie, always fighting. Our job is to
+understand the movie and know who the hero is, who can save the lady. So
+let us watch and decide with confidence who the hero is. Sometimes it is
+very hard, as in a mystery like <em>The Da Vinci Code</em>.
+
+@@b996 h4
+Examples with
+the Crosspoint and Spread Triple
+
+@@b998 p
+Figure: Jumps 1, 2 and 3 rise along one line, and the third jump is
+very slow before price breaks the line. Real data: GBPUSD, 15-minute, 28
+February – 1 March 2022. (The original chart did not show its symbol or
+date; this one shows the same structure.)
+
+@@b1000 p
+Figure: Each jump reaches less far: over time the market loses energy
+every time it jumps, then the line breaks. Real data: EURUSD, 15-minute,
+28 February – 1 March 2022. (The original chart did not show its symbol
+or date; this one shows the same structure.)
+
+@@b1001 p
+What happens here is exactly a loss of energy every time Mr. Market
+jumps, like a capacitor discharging over time.
+
+@@b1002 h3
+Mr. Market's house
+
+@@b1003 p
+The market can only go up or down. To give that a structure, we look
+at the 1-2-3. What creates the FPS, SS and SPS is potential energy.
+
+@@b1004 p
+Mr. Market's house has three rooms: FPS, SS and SPS. By watching the
+chart, we can see which room he is in. When he lives in the FPS, we know
+the next room is the SS, and that is all.
+
+@@b1005 p
+So what do I mean by circulation? It is how Mr. Market flows through
+the 1-2-3. We know his state from his old jump and from the Crosspoint:
+fast or weak, or extremely strong.
+
+@@b1007 p
+Figure: Reading circulation: a strong impression force, then weak
+jumps, an extremely strong force at A that marks a climax, a weak push
+at B, and an incomplete 1-2-3. Real data: GBPUSD, 1-hour, 14 February –
+4 March 2022. (The original chart was Silver (XAGUSD) daily, date not
+shown; this one shows the same structure.)
+

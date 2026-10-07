@@ -1,0 +1,246 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Market Anatomy (2021) -> Market Circulation (2021)
+
+@@b846 h3
+The King: a picture of
+harmonic culture
+
+@@b847 p
+To make this easier to see, imagine that this harmonic culture rules
+like a King. The King does not create price. He only manages it.
+
+@@b848 ul
+<li><p>When the price of goods is very low, sellers want to push it
+higher and higher. The King knows that buyers could pay more, but only
+by falling into poverty. So he stops the sellers' greed and sets the
+price as a floor.</p></li>
+<li><p>When the price is already very high, the King judges what his
+people can afford. If buyers can pay with abundance and without poverty,
+he allows sellers to raise the price further.</p></li>
+
+@@b849 p
+This explains two things that confuse many traders:
+
+@@b850 blockquote
+<p>1. Price can make a new high even with fewer buyers, because the King
+judges that buyers can still pay with abundance.</p>
+<p>2. Price can make a new low even with fewer sellers, because the King
+judges that paying a higher price would bring buyers into poverty, even
+if they could technically pay.</p>
+
+@@b851 h4
+How the King reverses a
+trend
+
+@@b852 ul
+<li><p>When the King judges that buyers can now pay a higher price with
+abundance, he changes his judgment. He allows sellers to sell to a new
+high. This is a reversal from down to up.</p></li>
+<li><p>When buyers show poverty at the current price and cannot pay with
+abundance, the King judges that sellers must move down. This is a
+reversal from up to down.</p></li>
+
+@@b853 h4
+The King judges by
+experiment
+
+@@b854 p
+The King learns his people's ability by experiment. First he tests
+how buyers react when they are in poverty; then his judgment refuses to
+change the price. A later experiment shows buyers who can pay with
+abundance; then his judgment agrees to raise the price, based on that
+last experiment.
+
+@@b855 p
+So there is a King who manages price. He only manages it.
+
+@@b856 p
+<em>Note: "King" is only a descriptive word for the harmonic culture
+belief, the power of culture belief.</em>
+
+@@b858 p
+Figure: The King judges by experiment: each test of buyers at a price
+leads to an inference and to the King's justice. Abundance allows a
+higher price; poverty forces it lower.
+
+@@b859 h3
+Experiments on the chart
+
+@@b860 p
+Here are some experiments from real charts.
+
+@@b862 p
+Figure: The raw chart on which the experiments are marked: an advance
+to a top, then a decline with lower highs. Real data: USDCAD, 2-hour, 15
+February to 4 March 2022. (The original chart was EURUSD daily, March
+2020 to October 2021; this one shows the same structure.)
+
+@@b863 p
+Let us make the Propagation larger.
+
+@@b865 p
+Figure: In the uptrend each red arrow tries to push price down, and
+after several bars the green arrow resumes the move; the opposite
+happens in the down leg (SS). Real data: USDCAD, 2-hour, 15 February to
+4 March 2022. (The original chart was EURUSD daily, March 2020 to
+October 2021; this one shows the same structure.)
+
+@@b866 p
+Whenever the red arrow tries to move price down, the green arrow
+resumes the movement after several bars. The opposite happens with the
+SS. The red arrow was an experiment for the general uptrend, a test of
+abundance.
+
+@@b868 p
+Figure: Each small EP-SS is labelled "experiment", and the move after
+it is labelled "justice" (SPS or FPS). Real data: USDCAD, 2-hour, 15
+February to 4 March 2022. (The original chart was EURUSD daily, March
+2020 to October 2021; this one shows the same structure.)
+
+@@b869 p
+For every experiment there is an inference. From that inference comes
+the King's justice: will the move complete the SPS or not?
+
+@@b871 p
+Figure: The same chart with each justice marked as SPS, supporting
+the larger move in both the up leg and the down leg. Real data: USDCAD,
+2-hour, 15 February to 4 March 2022. (The original chart was EURUSD
+daily, March 2020 to October 2021; this one shows the same
+structure.)
+
+@@b872 h3
+Smaller 1-2-3s
+are the blood of the larger 1-2-3
+
+@@b873 p
+Every justice that comes from an experiment supports one of two
+things: the larger FPS or SPS, or the larger SS. It is always a 1-2-3
+inside a larger 1-2-3.
+
+@@b874 ul
+<li><p>A smaller 1-2-3 either supports the larger one or stops
+supporting it. When the smaller 1-2-3 stops supporting the larger, the
+next move is the SS.</p></li>
+<li><p>A larger 1-2-3 without support from smaller 1-2-3s will move in
+the opposite direction.</p></li>
+<li><p>The smaller 1-2-3 plays as blood to the larger 1-2-3.</p></li>
+
+@@b875 p
+When justice works to support a larger 1-2-3 (a larger timeframe, in
+real time), it means fresh blood is flowing in a new direction.
+
+@@b877 p
+Figure: Smaller 1-2-3s are the blood of the larger 1-2-3: while they
+support it, the FPS or SPS continues; when they stop, the SS comes.
+
+@@b878 h3
+Energy boxes and the
+chain energy line
+
+@@b879 p
+The energy of every larger 1-2-3 is simply divided among its smaller
+1-2-3s.
+
+@@b881 p
+Figure: The advance divided into three green energy boxes joined by a
+chain energy line, first between two boxes, then between three. Real
+data: USDCAD, 2-hour, 15 February to 4 March 2022. (The original chart
+was EURUSD daily, March 2020 to October 2021; this one shows the same
+structure.)
+
+@@b882 p
+So every larger 1-2-3 can be divided into energy boxes linked by a
+chain energy line. The boxes give us a clearer view of each experiment
+and its justice.
+
+@@b884 p
+Figure: Inside each box an experiment is followed by justice, and
+each box passes its blood (Propagation) to the larger box to support the
+larger FPS. Real data: USDCAD, 1-hour, 16 to 24 February 2022. (The
+original chart was EURUSD daily, March to December 2020; this one shows
+the same structure.)
+
+@@b885 p
+Each box shows how blood, the Propagation, flows to the larger box to
+support the larger FPS. Watching the chain energy develop from two boxes
+to three boxes is very helpful when you build a Propagation template
+with boxes.
+
+@@b886 h2
+Market Circulation (2021)
+
+@@b887 p
+Every day has 24 hours. A week has 7 days, a month about 4 weeks, a
+year 12 months and 4 seasons. Life moves in cycles, and so does the
+market. In this study I want to show how much a trader can gain by
+reading the cycle in the market. I define that cycle simply: a swing
+from extreme happiness to extreme sadness, and back again.
+
+@@b888 h3
+Part 1: Cycles, energy
+and the Crosspoint
+
+@@b889 h3
+Projectiles and potential
+energy
+
+@@b890 p
+In physics we study projectile motion. The greater the velocity, the
+further the projectile travels, just like directional movement in price.
+Each projectile has a different velocity.
+
+@@b891 p
+Here is an example from the market.
+
+@@b893 p
+Figure: Each leg is a projectile with its own angle, and the circled
+lows are where the market stored energy before the next launch. Real
+data: EURGBP, 1-hour, 14–28 February 2022. (The original chart was
+EURGBP daily, March to October 2019; this one shows the same structure
+on the same symbol, in the window the data covers.)
+
+@@b894 p
+Each projectile, or vector, has a different angle, and the angle
+shows its strength. The market can only go up or down. Everything else
+is the market in a "hash", charging its battery. In physics this is
+potential energy.
+
+@@b895 p
+When the market sits in a time hash, it is only building potential
+energy for the next move, down or up. That proves what Goodman says.
+When we deal only with down and up, the market looks very simple, and it
+really is simple.
+
+@@b896 h4
+Where to board the bus
+
+@@b897 p
+I have spent a lot of time thinking deeply about all the Goodman
+setups. Where is the safest point to board the bus? It is easy: where
+the bus is in potential energy, at the top of the hill before it rolls.
+That is how the 6&amp;6 and the Goldilocks work. Each of these
+potential-energy states leads either up or down.
+
+@@b899 p
+Figure: A down leg, then a box of potential energy where a 6&amp;6
+forms, then the up leg that releases it. Real data: EURGBP, 1-hour,
+16–25 February 2022. (The original chart was EURGBP daily, February 2014
+to May 2015; this one shows the same structure on the same symbol, in
+the window the data covers.)
+
+@@b900 p
+In Goodman we call this a station point: the place where a down trend
+or an up trend reduces its speed until its velocity reaches zero and it
+stops, like a car at a police checkpoint.
+
+@@b901 p
+In brief, we use the Overlay to find a station point that can turn
+the current trend, shown by a 6&amp;6 or a Goldilocks. From this we know
+what we want to see. That is the most important question:
+
+@@b902 blockquote
+<p>What do I want to see next?</p>
+
+@@b903 p
+Without it, we trade without seeing anything. There is no real
+purpose; it is random.
+

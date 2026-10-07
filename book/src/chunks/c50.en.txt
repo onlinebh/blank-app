@@ -1,0 +1,291 @@
+##CTX Part: Rung 9 · Learning: Who Carries It On? | Section: Market Adventure (2021) -> The GBPUSD Studies (2021–2022)
+
+@@b3141 h3
+The Four Pillars
+
+@@b3142 p
+So we have:
+
+@@b3143 blockquote
+<p>1. <strong>Time estimation:</strong> the laydown.</p>
+<p>2. <strong>Price projection:</strong> the 3-C and the
+intersection.</p>
+<p>3. <strong>Market following:</strong> correlation and the leader.</p>
+<p>4. <strong>Setup confirmation:</strong> correlation, Nested Overlay
+and Overlay.</p>
+
+@@b3144 p
+Next I will build this for each market pair, to make a general market
+laydown. I think in this study I have put the main concepts together in
+a very simple way.
+
+@@b3145 p
+Thank you.
+
+@@b3146 h2
+ETCUSD Study (2021)
+
+@@b3147 p
+This short study reads the volume at the top of an ETCUSD rally. I
+want to show how a few bars, read together with their volume, tell us
+that the buyers' energy is ending.
+
+@@b3149 p
+Figure: At the top of the rally, the bars A, B and D with their
+volume marked below. Real data: NZDUSD, 2-hour, 17–25 February 2022.
+(The original chart was ETCUSD, timeframe and dates not known; this one
+shows the same structure.)
+
+@@b3150 h3
+Reading the Bars
+
+@@b3151 ul
+<li><p><strong>At A:</strong> this volume can stop all the buyers'
+energy. I consider it a very definitive sign of reversal.</p></li>
+<li><p><strong>At B:</strong> it confirms the sign at A. Volume is
+decreasing, and buyers are losing energy.</p></li>
+<li><p><strong>At D:</strong> for the first time, sellers increased the
+size of the bar. This added to the sellers' energy.</p></li>
+<li><p><strong>The last bar:</strong> a lower low and a lower high. It
+does not reveal any danger to the sellers' energy.</p></li>
+
+@@b3152 h3
+Conclusion
+
+@@b3153 p
+The buyers are losing their energy, and they should not be able to
+pass the top at A.
+
+@@b3154 h2
+EURCAD Chart
+Study: The Profit-Taking Process (2023)
+
+@@b3155 p
+This study follows the profit-taking process on EURCAD. The story
+starts on the weekly chart and zooms in to the daily and the 1-hour
+charts, to show how professionals sell into a rally while amateurs
+buy.
+
+@@b3156 h3
+The Weekly Chart: The
+Jumbo's Tipping Point
+
+@@b3157 p
+The story starts with the weekly chart (redrawn here on 2-hour data),
+where buyers meet the Tipping Point (TP) of the Jumbo, a station point.
+The EP of the Jumbo came with high volume.
+
+@@b3159 p
+Figure: A long Jumbo down, its high-volume EP, and the rally back up
+to the TP of the fall. Real data: USDJPY, 2-hour, 15–25 February 2022.
+(The original chart was EURCAD weekly, March 2020 – December 2022; this
+one shows the same structure.)
+
+@@b3160 h3
+The Daily
+Chart: Propagation into the 3-C and the TP
+
+@@b3161 p
+Zooming in gives specific detail about the current conditions at the
+TP.
+
+@@b3162 p
+On my original EURCAD chart, buyers propagated successfully from 24
+August 2022, until price met the 3-C count and the weekly TP. Then price
+moved into a narrow range between Bounce A and Bounce B. This reflects
+the Bullish Consensus readings of 85/91 on 11 December and 88/93 on 18
+December.
+
+@@b3164 p
+Figure: The propagation up to the top, then the narrow range between
+Bounce A and Bounce B. Real data: AUDUSD, 2-hour, 24 Feb – 4 Mar 2022.
+(The original chart was EURCAD daily, June–December 2022, with the 85/91
+and 88/93 readings, which are not redrawn here; this one shows the same
+structure.)
+
+@@b3165 h3
+The 1-Hour
+Chart: Professionals Sell, Amateurs Buy
+
+@@b3166 p
+Important selling appears in the volume as the profit-taking process
+starts on 11 December (85/91), on the rally.
+
+@@b3167 p
+Then comes the phenomenon of the vertical up bar at X. It makes
+amateur traders excited to buy, exactly where the professionals sell
+more, in the week of 18 December (88/93). Volume increased on the
+propagation (the left red arrow).
+
+@@b3168 p
+Buyers then appear at Bounce B, with the power to propagate under
+Knot conditions.
+
+@@b3170 p
+Figure: The vertical bar at X, important selling at Bounce A, the
+fall to Bounce B and the new buying there. Real data: USDCAD, 30-minute,
+24–28 February 2022. (The original chart was EURCAD 1-hour, 13–30
+December 2022, with the 88/93 and 85/91 readings, which are not redrawn
+here; this one shows the same structure.)
+
+@@b3171 h2
+The GBPUSD Studies (2021–2022)
+
+@@b3172 p
+Between October 2021 and January 2022 I ran a running study of one
+market, GBPUSD, and sent each part to Michael as I wrote it. Most weeks
+there was a new number. Some studies are long; some are only a chart and
+a few lines written while the market was still moving.
+
+@@b3173 p
+The purpose was never to forecast. It was to practice reading, in
+public, the struggle between buyers and sellers through the lens of
+Goodman: every 1-2-3, every Propagation, every bar of volume. I kept the
+studies in order so that you can see the market change its mind, and see
+me change mine with it. For this book each chart is redrawn on real 2022
+data with the same structure, often on a shorter time frame; when I name
+the daily or the 4-hour, or give a date, I mean my original chart.
+
+@@b3174 h3
+Study 1 (late October 2021)
+
+@@b3175 p
+GBPUSD was moving sideways between an Excess line above and a Test
+line below. My question was simple: who is losing energy inside this
+range?
+
+@@b3177 p
+Figure: Buyers drive the price up, then it swings A–E between the
+Excess line and the Test line. Real data: GBPUSD, 1-hour, 15–21 February
+2022. (The original chart was GBPUSD, 4-hour, 12–26 October 2021; this
+one shows the same structure.)
+
+@@b3178 ul
+<li><p><strong>At A</strong>, sellers stopped on increasing volume. They
+lost their energy before they could move lower than A, and the Test line
+held their attack.</p></li>
+<li><p><strong>At C</strong>, sellers' energy was very low, as the
+shrinking volume shows.</p></li>
+<li><p><strong>At D</strong>, there was a small Propagation, but buyers
+stopped below the Excess line. They lost their chance to move higher
+than last time.</p></li>
+<li><p><strong>At E</strong>, sellers came again on low volume, and they
+held higher than C.</p></li>
+
+@@b3179 p
+In summary, sellers failed to pass the Test line, and buyers could
+not yet jump the Excess line. E may be the last test where sellers could
+break the Test line. Yet their intention was fading, as the volume at A,
+B, C and E shows. So, relatively, buyers were stronger than sellers at
+these levels.
+
+@@b3180 p
+On the 15-minute chart there was a potential Return Zone setup.
+
+@@b3182 p
+Figure: After a fall, A, the Excess line and the test of A at B form
+a small range. Real data: GBPUSD, 5-minute, 4 March 2022. (The original
+chart was GBPUSD, 15-minute; this one shows the same structure.)
+
+@@b3183 p
+At A we had a Jumbo. At B, the angle of the sellers' leg, compared
+with A, showed that sellers emotionally did not want to push lower, and
+the volume at B confirmed it. At that moment I could easily say buyers
+had more power than sellers. Their first job was to jump over the Excess
+line on the 4-hour chart.
+
+@@b3184 h3
+Study 2 (late October 2021)
+
+@@b3185 p
+This study starts on the daily chart, read box by box.
+
+@@b3187 p
+Figure: Two pushes (A, C) and their corrections (B, D), each boxed.
+Real data: GBPUSD, 1-hour, 28 February – 1 March 2022. (The original
+chart was GBPUSD, daily; this one shows the same structure.)
+
+@@b3188 ul
+<li><p><strong>Box A:</strong> buyers engaged with the trend, increasing
+their intensity to pull the price up.</p></li>
+<li><p><strong>Box B:</strong> sellers' intensity was less than buyers'.
+They could not attract more sellers to take over the trend.</p></li>
+<li><p><strong>Box C:</strong> the intensity of volume decreased, but
+progress was good. Buyers still had the power to dominate the
+price.</p></li>
+<li><p><strong>Box D:</strong> sellers' intensity increased, and their
+progress was better than in B. This puts us on alert.</p></li>
+
+@@b3189 p
+So the NetForce showed that buyers had a greater chance to move up
+than sellers. If the next SPS cannot move higher than Box C, that would
+suggest buyers are losing energy in the struggle. Buyers did show more
+intensity in volume at A than in the last D, and the uptrend was still
+valid, confirmed by a series of higher highs and higher supports.
+
+@@b3190 p
+To check whether the SS at D was at its end point, I zoomed into the
+4-hour chart.
+
+@@b3192 p
+Figure: After swings inside Excess and Test, a small high at A and
+the break of the Test line at B. Real data: GBPUSD, 1-hour, 21–24
+February 2022. (The original chart was GBPUSD, 4-hour, 19–27 October
+2021; this one shows the same structure.)
+
+@@b3193 p
+Here we had a 6&amp;6 story. At A, buyers' intensity was very low,
+and they withdrew quickly. At B, a reversal on increased volume, buyers
+could absorb the sellers' force and dominate the trend.
+
+@@b3194 p
+If buyers can propagate from this trickery and break the Excess line,
+I can consider the EP of the SS on the daily chart confirmed.
+
+@@b3195 h3
+Study 3 (late October 2021)
+
+@@b3196 p
+The 4-hour chart showed progress for buyers.
+
+@@b3198 p
+Figure: Goldilocks: a false break below the Test line to A, then the
+return through 50% to B. Real data: GBPUSD, 1-hour, 14–16 February 2022.
+(The original chart was GBPUSD, 4-hour, 19–28 October 2021; this one
+shows the same structure.)
+
+@@b3199 p
+At A, sellers decreased their energy to move the price down. In
+psychological terms, sellers felt insecure about struggling with buyers,
+as the volume at A shows. At B, buyers progressed by a 1-2-3 and met the
+sellers' force, as the volume at B shows. Then the market moved between
+the Excess and Test lines into the last bar.
+
+@@b3200 p
+Look at the volume Propagation principle between the Intersections A
+and B:
+
+@@b3201 ul
+<li><p>At A, sellers were afraid to engage. Their energy was very
+low.</p></li>
+<li><p>At B, sellers increased their energy and propagated to struggle
+with buyers, right where the 50% occurs.</p></li>
+
+@@b3202 p
+Still, I believed sellers' energy was too weak to dominate the trend.
+The market was in a bullish condition, and this behaviour by sellers was
+only temporary. The 15-minute chart could confirm it, and it told a
+wonderful story.
+
+@@b3204 p
+Figure: Two tops above the rising line, then the break to A on the
+largest volume. Real data: GBPUSD, 30-minute, 22–24 February 2022. (The
+original chart was GBPUSD, 15-minute; this one shows the same
+structure.)
+
+@@b3205 p
+It was a bullish Goldilocks, with rising volume at A. That volume
+could propagate up to the 4-hour chart and break the smaller Excess line
+above 50%. It showed the ability and quality of buyers to absorb all
+offers at the 50% level.
+

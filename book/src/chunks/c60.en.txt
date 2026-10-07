@@ -1,0 +1,226 @@
+##CTX Part: Interlude: The Archer Stories | Section: Interlude: The Archer Stories -> Rung 10 · The System: How Does It All Move Together?
+
+@@b3603 h3
+The Screenshot Track
+Record (2025-06-17)
+
+@@b3604 p
+Some years ago a wealthy man who wanted to start an FX fund asked
+Michael for advice. One day he announced that he had found a great AI
+system. Michael asked for the developer's track record so he could
+analyze it. "All I get is screenshot of pretty MT4 chart, lots and lots
+of colors, numbers, line... I tell man doesn't make sense - MQL4 not
+strong enough script to make real AI." The man invested anyway and lost
+nearly all of it in two days.
+
+@@b3605 p
+<em>The lesson:</em> a screenshot is not a track record. Ask for the
+statement, the trade list and the drawdown; if all you get is pretty
+colors, you already have your answer.
+
+@@b3606 h3
+The Bargain Chess Books
+(2024-11-04)
+
+@@b3607 p
+Michael once ordered three very large boxes of chess books from a
+dealer in the Czech Republic, mostly foreign-language editions. The
+books cost about $200 and the postage almost as much, "but still good
+deal." Then customs called: they wanted $1,100 to release the boxes. He
+found a customs agent who negotiated it down to $300, but her own fee
+was another $300. "Think I get great bargain on books, cost me
+$1000!!!"
+
+@@b3608 p
+<em>The lesson:</em> count every cost before you call it a bargain.
+Commissions, spreads and swaps do to a "cheap" trade what customs did to
+the cheap books.
+
+@@b3609 h3
+The Saxophone (2023-06-26,
+2023-06-29)
+
+@@b3610 p
+In college a friend from the music department begged Michael to
+switch his major to music theory and composition; he said Michael had
+perfect pitch and a gift for melody. Michael stayed with philosophy, and
+with the drum. Fifty-five years later, in June 2023, he bought an alto
+saxophone. "First time spend money on myself in long time!!" And true to
+his own method: "Maybe I take a few private lessons to get good start,
+like chess, ahaa!"
+
+@@b3611 p
+<em>The lesson:</em> it is never too late to begin, but it is always
+too late to unlearn a bad start. At seventy-three Michael still took his
+own advice: get a teacher first, play later.
+
+@@b3612 h3
+The Glass Ball at
+Heidelberg (2021-10-16)
+
+@@b3613 p
+Not every Archer story is about Archer. Some are stories he collected
+and passed on because of what they teach. This one, he said, "actually
+happened at the University of Heidelberg, sometime in the early
+1960s."
+
+@@b3614 p
+A physics professor leaned on a large decorative glass ball outside
+the physics building and burned his arm. Strangely, the shady side was
+hot and the sunny side was cool. He spent hours at his blackboard and at
+last produced a page of equations proving why the shady side should be
+the hot one. The next day he proudly showed his graduate student. They
+walked outside together, just in time to see two workmen in asbestos
+gloves turning the ball 180 degrees. "At this time of day the way the
+sun shine makes one-half of the ball extremely hot; people have burnt
+themselves. So we always rotate the ball."
+
+@@b3615 p
+<em>The lesson:</em> before you explain the chart, check what
+actually happened on it. A beautiful theory can prove anything, even the
+opposite of the truth. Charlie said the same thing in his own way: look
+at the market first.
+
+@@b3616 p
+When I read these stories together, I hear the same voice Michael
+heard from Charlie in that car on the mountain pass: a teacher who
+prefers an example to a lecture. He gave me the stories; I am giving
+them to my students, as he hoped I would.
+
+@@b3617 h1
+Rung 10 · The
+System: How Does It All Move Together?
+
+@@b3618 p
+Nine rungs took the trader apart. Being asked who stands behind the
+chart. Knowing asked how truth is learned. Seeing asked what a market
+is. Deciding asked whether this is a Setup. Acting asked how to manage
+the trade. Measuring asked how much to risk. Doing Right, Feeling and
+Learning asked how we treat others, where we trade from, and who carries
+the method on.
+
+@@b3619 p
+This last rung puts the pieces back together. A trader is not a list
+of skills. He is a system: every part pushes on every other part, and
+the pushes come back. In August 2026 I wrote to Michael that I was
+"thinking on system dynamic with A Philosophical Look at System
+Dynamics." This chapter is what that thinking became.
+
+@@b3620 h3
+The parts that move
+
+@@b3621 p
+A system is a set of parts with arrows between them. In my trading
+the parts are the rungs. What I see (Seeing) feeds what I decide
+(Deciding). What I decide becomes an order (Acting). The order becomes a
+number in my journal (Measuring). The number touches my feelings
+(Feeling). My feelings either wait for the next good setup or chase the
+market. Then the review (Learning) changes how I will see the next
+chart. The loop closes.
+
+@@b3622 p
+I saw this loop early, before I had a name for it. On 2021-05-10 I
+wrote after one of Michael's lessons:
+
+@@b3623 blockquote
+<p>"Qualify the trades, Proactive, FeedBack Loop. Three simple secrets.
+to investigate before investing and after."</p>
+
+@@b3624 p
+On 2022-12-09, writing about chess, I tried to say it again:
+
+@@b3625 blockquote
+<p>"I think its means the loop between visualize and tactics as a
+learning process. In every win or lose. This loop function must
+work."</p>
+
+@@b3626 p
+And on 2022-11-09:
+
+@@b3627 blockquote
+<p>"Trading success is based on the compound factor. Loops."</p>
+
+@@b3628 p
+A loop can work for you or against you. System dynamics gives the two
+kinds names: reinforcing and balancing.
+
+@@b3629 h3
+The reinforcing loop
+
+@@b3630 p
+A reinforcing loop feeds itself. In the plate below every arrow on
+the left carries a plus sign: more of one thing gives more of the next.
+A run of wins brings confidence. Confidence turns to overconfidence.
+Overconfidence makes the lot bigger and the rules looser. A bigger lot
+gives bigger wins for a while, and bigger wins bring more
+confidence.
+
+@@b3631 p
+Nothing inside this loop says stop. That is its danger. It grows
+until something outside it breaks it, and in trading that something is
+one large loss.
+
+@@b3632 p
+Navid's story in Rung 9 is this loop exactly. He did FANTASTIC on the
+first thirty trades with a small lot and only the Under. Then he doubled
+the lot for the second thirty; Michael sensed he was in a hurry to make
+real money. After about ten trades he said, "I'm going for it!" The loop
+had no brake. When Michael and I discussed the story on 2023-05-18, I
+wrote that traders who lose their edge "enter into the psychological
+cycle. Between extremely optimistic to extremely pessimistic." The same
+loop, at the scale of a whole market, made my real-estate example in
+that letter: land nobody wanted in the 1970s, and everyone still buying
+in 2023 at the extreme of optimism.
+
+@@b3634 p
+Figure: The trader as a dynamic system. Left: the reinforcing loop
+(R), every link positive. Right: the balancing loop (B), one negative
+link that turns it back. Below: the tipping point where one loop gives
+way to the other.
+
+@@b3635 h3
+The balancing loop
+
+@@b3636 p
+A balancing loop corrects itself. It has one link that points the
+other way, a minus sign, so the loop pulls the system back toward a goal
+instead of running away.
+
+@@b3637 p
+My balancing loop is built from the rules of Rung 6. Losing trades
+bring drawdown. Drawdown makes me cut the lot, because the lot is never
+free: I decide my maximum drawdown first and divide it into thirty
+trades. On 2025-03-05 I put it this way:
+
+@@b3638 blockquote
+<p>"Keep in mind we are trading the money not the market... you do not
+have many souls in the market, have only 30 souls!"</p>
+
+@@b3639 p
+A smaller lot means I survive and get back to breakeven, which was
+Charlie's first goal for every trader. Survival gives me time to learn:
+I label every trade, I watch the Golden Ratio every ten trades, I do the
+bathtub review. Learning lowers the next drawdown. That is the minus
+sign that closes the loop.
+
+@@b3640 p
+On 2023-11-24 I wrote the rule in one line:
+
+@@b3641 blockquote
+<p>"If not happy with that dropdown , i just lower the risk per trade .
+Self-control very important in these drop down."</p>
+
+@@b3642 p
+And on 2022-02-11 I wrote what happens when the loop is missing:
+
+@@b3643 blockquote
+<p>"the first alarm after 30 trades one losing ... when the door it's
+closed by now beliefs after 30 trades of losing. the other door will
+open by the feedback process."</p>
+
+@@b3644 p
+The balancing loop does not stop losses. Nothing does. On 2025-01-04
+I wrote, "So its kind of balance rather than trying to eliminate risk
+from the equation." The loop only keeps a loss from becoming a
+catastrophe.
+

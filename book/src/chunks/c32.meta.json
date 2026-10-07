@@ -1,0 +1,55 @@
+{
+ "chunk": "c32",
+ "highlights": [
+  {"b": "b2099", "en": "Price makes volume.", "level": 2},
+  {"b": "b2100", "en": "because the previous sellers withdraw from the market", "level": 1},
+  {"b": "b2102", "en": "Watch for significant", "level": 1},
+  {"b": "b2112", "en": "volume decreases while price makes a higher low, it means a lack of", "level": 1},
+  {"b": "b2121", "en": "Volume unchanged. When volume and price both tend to stay", "level": 1},
+  {"b": "b2123", "en": "increase in volume, no lower low, no further downswing.", "level": 2},
+  {"b": "b2125", "en": "When almost everyone agrees, the move is finished.", "level": 2},
+  {"b": "b2125", "en": "If everyone is selling, it means buy.", "level": 1},
+  {"b": "b2129", "en": "A volume extreme means the same thing, measured in ticks", "level": 1},
+  {"b": "b2134", "en": "the crowd agrees, acts all at once, and then has", "level": 1},
+  {"b": "b2138", "en": "First, one bar of volume means little;", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b2098", "en": "Price Makes Volume", "ar": "السعر يصنع الـ Volume",
+   "note_en": "The market is a voting machine: new buyers come as price rises, new sellers as it declines.", "note_ar": "السوق آلة تصويت: يأتي مشترون جدد مع الصعود وبائعون جدد مع الهبوط.", "imp": 3,
+   "children": [
+    {"b": "b2100", "en": "Rise above last top", "ar": "الصعود فوق القمة الأخيرة", "note_en": "Volume may increase as new buyers join; previous sellers withdraw and become interested in the new move.", "note_ar": "قد يزداد الـ volume مع انضمام مشترين جدد، وينسحب البائعون السابقون.", "imp": 2}
+   ]},
+  {"b": "b2101", "en": "Three Steps to Qualify a Trade", "ar": "ثلاث خطوات لتأهيل الصفقة",
+   "note_en": "3-C cancel as reference, Matrix Overlay at the same point, then Inward analysis of volume changes.", "note_ar": "الـ 3-C cancel مرجعًا، ثم Matrix Overlay عند النقطة نفسها، ثم تحليل Inward لتغيّرات الـ volume.", "imp": 3,
+   "children": [
+    {"b": "b2102", "en": "Step 1: 3-C cancel", "ar": "الخطوة 1: 3-C cancel", "note_en": "The reference point for studying volume.", "note_ar": "النقطة المرجعية لدراسة الـ volume.", "imp": 2},
+    {"b": "b2102", "en": "Step 2: Matrix Overlay", "ar": "الخطوة 2: Matrix Overlay", "note_en": "Look for an Overlay at the same point.", "note_ar": "ابحث عن Overlay عند النقطة نفسها.", "imp": 2},
+    {"b": "b2102", "en": "Step 3: Inward analysis", "ar": "الخطوة 3: تحليل Inward", "note_en": "Volume up on upswing and down on the downswing that makes a higher low.", "note_ar": "volume يزداد في الـ upswing ويتناقص في الـ downswing الذي يصنع higher low.", "imp": 2},
+    {"b": "b2106", "en": "Example 1: GBPUSD", "ar": "المثال 1: GBPUSD", "note_en": "Sharp fall, level at the low, price returns; new buying at the level and lack of selling at the higher low.", "note_ar": "هبوط حاد، ومستوى عند القاع، وعودة السعر؛ شراء جديد عند المستوى ونقص بيع عند الـ higher low.", "imp": 1,
+     "children": [
+      {"b": "b2112", "en": "Lack of sellers", "ar": "نقص البائعين", "note_en": "Falling volume on a higher low means price fails to attract sellers at the 3-C cancel and the BP.", "note_ar": "تناقص الـ volume عند higher low يعني فشل السعر في جذب البائعين عند الـ 3-C cancel والـ BP.", "imp": 2}
+     ]},
+    {"b": "b2113", "en": "Example 2: the opposite picture", "ar": "المثال 2: الصورة المعاكسة", "note_en": "Volume rises on the downswing and falls on the upswing: new selling and lack of buying.", "note_ar": "يزداد الـ volume في الهبوط ويقل في الصعود: بيع جديد ونقص شراء.", "imp": 1}
+   ]},
+  {"b": "b2117", "en": "Reading Volume Bar by Bar", "ar": "قراءة Volume bar بعد bar",
+   "note_en": "A 24-swing walkthrough of a fall, comparing volume increases and decreases and what each confirms.", "note_ar": "استعراض 24 swing في هبوط ومقارنة ارتفاعات الـ volume وانخفاضاته وما يؤكده كل منها.", "imp": 2,
+   "children": [
+    {"b": "b2121", "en": "Climaxes and dry-ups", "ar": "الـ climax والجفاف", "note_en": "Volume up shows orders coming in; volume down shows a side drying up; each step confirms the earlier one.", "note_ar": "زيادة الـ volume تعني دخول أوامر، ونقصه يعني جفاف جانب؛ وكل خطوة تؤكد سابقتها.", "imp": 2},
+    {"b": "b2121", "en": "Dullness", "ar": "الركود", "note_en": "Volume and price both unchanged describe dullness in the market.", "note_ar": "ثبات الـ volume والسعر معًا يصف ركودًا.", "imp": 1},
+    {"b": "b2122", "en": "The key: Dagger line", "ar": "المفتاح: خط Dagger", "note_en": "At 24 sellers did not increase their flow to protect the line; no increase in volume, no lower low.", "note_ar": "عند 24 لم يزد البائعون تدفقهم لحماية الخط؛ لا زيادة volume فلا lower low.", "imp": 3}
+   ]},
+  {"b": "b2124", "en": "Volume Today: When Everyone Agrees", "ar": "الـ Volume اليوم: حين يتفق الجميع",
+   "note_en": "The question moves from confirmation to consensus: how many people agree now. Consensus is exhaustion.", "note_ar": "السؤال ينتقل من التأكيد إلى الإجماع: كم شخصًا يتفق الآن. الإجماع هو الإنهاك.", "imp": 3,
+   "children": [
+    {"b": "b2126", "en": "From confirmation to consensus", "ar": "من التأكيد إلى الإجماع", "note_en": "Back testing ranks Bullish consensus, then OI, then Volume; volume alone gives false signals unless confirmed with BC.", "note_ar": "الاختبار يرتّب Bullish consensus ثم OI ثم Volume؛ والـ volume وحده يعطي إشارات كاذبة دون BC.", "imp": 2,
+     "children": [
+      {"b": "b2131", "en": "Open interest", "ar": "Open interest", "note_en": "Price at 100 with OI up means new buying; OI down means buying leaving the market.", "note_ar": "سعر 100 مع OI صاعد يعني شراء جديدًا؛ و OI هابط يعني خروج الشراء.", "imp": 1},
+      {"b": "b2133", "en": "Silver: aggressive selling to lack of selling", "ar": "الفضة: من بيع عدواني إلى نقص بيع", "note_en": "The shape of a consensus extreme: the crowd acts at once, then has nothing left.", "note_ar": "شكل تطرف الإجماع: يتحرك الجمهور دفعة واحدة ثم لا يبقى لديه شيء.", "imp": 2}
+     ]},
+    {"b": "b2135", "en": "Why raw forex volume can't be trusted", "ar": "لماذا لا يوثق بالـ volume الخام", "note_en": "Forex has no central exchange; tick volume counts price changes on one broker's feed. Cumulative volume along a move is better than volume by the clock.", "note_ar": "الفوركس بلا بورصة مركزية؛ والـ tick volume يعدّ تغيّرات السعر لدى وسيط واحد. والـ volume التراكمي على امتداد الحركة أفضل من الـ volume بالساعة.", "imp": 2,
+     "children": [
+      {"b": "b2139", "en": "Descartes Index and Descartes ratio", "ar": "Descartes Index ونسبة ديكارت", "note_en": "Tick volume mixed with ATR adapts a futures tool to forex, which lacks open interest and true volume.", "note_ar": "مزج tick volume مع ATR يكيّف أداة العقود الآجلة للفوركس الذي لا يملك open interest ولا volume حقيقيًا.", "imp": 1}
+     ]}
+   ]}
+ ]
+}

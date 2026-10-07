@@ -1,0 +1,57 @@
+{
+ "chunk": "c37",
+ "highlights": [
+  {"b": "b2371", "en": "Everything is a 1-2-3", "level": 2},
+  {"b": "b2384", "en": "Watch for a time rhythm with no new low or new high.", "level": 1},
+  {"b": "b2392", "en": "Build a new count for the counter Propagation.", "level": 1},
+  {"b": "b2395", "en": "The new count is like the foundation of a building.", "level": 1},
+  {"b": "b2399", "en": "Wait for a Dagger, where both buyers and sellers lose their", "level": 1},
+  {"b": "b2403", "en": "Follow the direction of the larger Nest until the larger Nest Setup", "level": 1},
+  {"b": "b2413", "en": "To make an intelligent decision, we must interpret that history", "level": 1},
+  {"b": "b2414", "en": "the core of all price action is", "level": 1},
+  {"b": "b2428", "en": "The odds of this being the EP of the SPS", "level": 1},
+  {"b": "b2432", "en": "sellers are unable to make a new low", "level": 1},
+  {"b": "b2443", "en": "Simply watch the up Propagation inside the down movement.", "level": 2},
+  {"b": "b2452", "en": "Goodman points are very critical", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b2370", "en": "Counter Propagation", "ar": "Counter Propagation", "note_en": "Read the chart through Propagation to spot a counter move before it ruins a Setup.", "note_ar": "اقرأ الرسم عبر الـ Propagation لتكتشف الحركة المضادة قبل أن تُفسد الـ Setup.", "imp": 3,
+   "children": [
+    {"b": "b2372", "en": "Two examples", "ar": "مثالان", "note_en": "Buyers fail to build a 1-2-3: the second top stays below the first; later up moves return to the Return level.", "note_ar": "المشترون يفشلون في بناء 1-2-3: القمة الثانية دون الأولى، وتعود الحركات الصاعدة لمستوى الـ Return.", "imp": 2,
+     "children": [
+      {"b": "b2375", "en": "Lower top", "ar": "قمة أدنى", "note_en": "EP of the SPS stays below the EP of the FPS, then the counter Propagation starts.", "note_ar": "الـ EP للـ SPS يبقى دون الـ EP للـ FPS ثم يبدأ الـ counter Propagation.", "imp": 2, "children": []},
+      {"b": "b2378", "en": "Return level / Return Zone", "ar": "مستوى الـ Return", "note_en": "After the TP, price walks back to the Return level.", "note_ar": "بعد الـ TP يعود السعر إلى مستوى الـ Return.", "imp": 2, "children": []}
+     ]}
+   ]},
+  {"b": "b2381", "en": "Four hints for spotting it", "ar": "أربع إشارات للاكتشاف", "note_en": "A counter Propagation is a nightmare for a Setup; four hints help identify it.", "note_ar": "الـ counter Propagation كابوس للـ Setup؛ وأربع إشارات تساعد على كشفه.", "imp": 3,
+   "children": [
+    {"b": "b2383", "en": "1. Change in time rhythm", "ar": "تغيّر الإيقاع الزمني", "note_en": "No new low or high; rhythm becomes extremely slow or extremely fast.", "note_ar": "لا low ولا high جديد؛ والإيقاع يصبح بطيئاً جداً أو سريعاً جداً.", "imp": 2,
+     "children": [
+      {"b": "b2386", "en": "Extremely fast", "ar": "سريع جداً", "note_en": "A very fast counter Propagation.", "note_ar": "counter Propagation سريع جداً.", "imp": 1, "children": []},
+      {"b": "b2388", "en": "Extremely slow", "ar": "بطيء جداً", "note_en": "A slow attempt to re-propagate in a flat range.", "note_ar": "محاولة بطيئة لإعادة الـ Propagation في نطاق مسطّح.", "imp": 1, "children": []}
+     ]},
+    {"b": "b2391", "en": "2. A new count", "ar": "count جديد", "note_en": "The new count is the foundation; a counter Propagation cannot go far without one.", "note_ar": "الـ count الجديد هو الأساس؛ ولا يتقدّم الـ counter Propagation بدونه.", "imp": 2, "children": []},
+    {"b": "b2398", "en": "3. Wait for a Dagger", "ar": "انتظر Dagger", "note_en": "Both buyers and sellers lose energy at the converging lines.", "note_ar": "يفقد الطرفان طاقتهما عند الخطوط المتقاربة.", "imp": 2, "children": []},
+    {"b": "b2402", "en": "4. Follow the larger Nest", "ar": "اتبع الـ Nest الأكبر", "note_en": "Follow its direction until its Setup fails; sell signals at the key level, retest and lower top.", "note_ar": "اتبع اتجاهه حتى يفشل Setup؛ إشارات بيع عند المستوى الرئيسي وإعادة الاختبار والقمة الأدنى.", "imp": 2, "children": []}
+   ]},
+  {"b": "b2410", "en": "Following the Propagation", "ar": "متابعة الـ Propagation", "note_en": "Follow the Propagation on a lower time frame to judge a higher-time-frame Setup.", "note_ar": "تابع الـ Propagation على time frame أدنى لتحكم على Setup في time frame أعلى.", "imp": 3,
+   "children": [
+    {"b": "b2412", "en": "Reading a dead chart", "ar": "قراءة رسم ميّت", "note_en": "History is dead motion; we must interpret it factually to reach an intelligent decision. The core of price action is the 1-2-3.", "note_ar": "التاريخ حركة ميتة؛ نفسّره بوقائع لنصل لقرار ذكي. وجوهر حركة السعر هو الـ 1-2-3.", "imp": 2, "children": []},
+    {"b": "b2416", "en": "Six examples (5M inside 1H SPS)", "ar": "ستة أمثلة", "note_en": "Does the 5M action imply that this is the EP of the SPS on the 1H?", "note_ar": "هل تدل حركة الـ 5M على أن هذا هو الـ EP للـ SPS على الـ 1H؟", "imp": 2,
+     "children": [
+      {"b": "b2417", "en": "Ex 1: choppy, no fresh lows", "ar": "متذبذب بلا lows جديدة", "note_en": "Most likely the EP of the SPS.", "note_ar": "الأرجح أنه الـ EP للـ SPS.", "imp": 1, "children": []},
+      {"b": "b2421", "en": "Ex 2: new lows, selling tiring", "ar": "lows جديدة والبيع يتعب", "note_en": "More bearish; only the last swing hints at tiring.", "note_ar": "هبوطي أكثر؛ وآخر swing فقط يوحي بالتعب.", "imp": 1, "children": []},
+      {"b": "b2425", "en": "Ex 3: clean down Propagation", "ar": "Propagation هابط نظيف", "note_en": "Most bearish; treat as a Jumbo and wait.", "note_ar": "الأكثر هبوطاً؛ يُعامل كـ Jumbo وننتظر.", "imp": 2, "children": []},
+      {"b": "b2429", "en": "Ex 4: breakaway, no new low", "ar": "breakaway بلا low جديد", "note_en": "Sellers cannot make a new low; lack of sell orders.", "note_ar": "البائعون عاجزون عن low جديد؛ نقص في أوامر البيع.", "imp": 2, "children": []},
+      {"b": "b2433", "en": "Ex 5: weak sister", "ar": "weak sister", "note_en": "Sellers re-propagate lower; no 3-C cancel or bad Overlay.", "note_ar": "يعيد البائعون الـ Propagation؛ لا 3-C cancel أو Overlay سيئ.", "imp": 1, "children": []},
+      {"b": "b2437", "en": "Ex 6: balancing Knot", "ar": "Knot متوازن", "note_en": "Buyers and sellers struggle to dominate the Matrix.", "note_ar": "يتصارع الطرفان للسيطرة على الـ Matrix.", "imp": 1, "children": []}
+     ]},
+    {"b": "b2441", "en": "Lesson of the examples", "ar": "درس الأمثلة", "note_en": "Watch the up Propagation inside the down movement and measure how buyers and sellers react.", "note_ar": "راقب الـ Propagation الصاعد داخل الحركة الهابطة وقِس تفاعل الطرفين.", "imp": 3, "children": []}
+   ]},
+  {"b": "b2444", "en": "A real chart (AUDCHF)", "ar": "رسم حقيقي (AUDCHF)", "note_en": "Steady downtrend; on the lower time frame buyers propagate against it for the first time, and the author entered at the Dagger.", "note_ar": "اتجاه هابط ثابت؛ وعلى الإطار الأدنى يعمل المشترون Propagation ضده لأول مرة، ودخل الكاتب عند الـ Dagger.", "imp": 2,
+   "children": [
+    {"b": "b2450", "en": "Basic Goodman Setup", "ar": "Goodman Setup الأساسي", "note_en": "Buyers propagate against the downtrend; entry at the Dagger when price returns to the zone.", "note_ar": "المشترون يعملون Propagation ضد الهبوط؛ والدخول عند الـ Dagger عند العودة للمنطقة.", "imp": 2, "children": []},
+    {"b": "b2452", "en": "Goodman points", "ar": "نقاط Goodman", "note_en": "'Something may happen'; intersecting a Propagation they guide direction and likely explode.", "note_ar": "'something may happen'؛ وعند تقاطعها مع Propagation توجّه الاتجاه وغالباً تنفجر.", "imp": 3, "children": []}
+   ]}
+ ]
+}

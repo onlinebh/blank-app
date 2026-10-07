@@ -1,0 +1,431 @@
+##CTX Part: Dedication | Section: Dedication -> My Trading Explained (2023)
+
+@@b1 h1
+Dedication
+
+@@b2 p
+<em>To Michael, my friend, my brother, my father in this
+craft.</em>
+
+@@b3 p
+You carried Charlie across fifty years and placed him in my hands,
+one story at a time. Without you he would have stayed a name on a book
+cover. Because of you, I can hear his laugh.
+
+@@b4 p
+This book is yours. I only kept what you gave me.
+
+@@b5 p
+<em>Your friend, brother and son,</em>
+
+@@b6 p
+<em>Mohamed Ahmed</em>
+
+@@b7 h1
+Foreword: Six years of
+letters
+
+@@b8 p
+In September 2020 I wrote to Michael Archer to thank him for The
+Goodman CODEX. I had searched for it everywhere, and I told him it had
+saved my world. He answered. Six years and thousands of messages later,
+I know it was the best reply I ever received.
+
+@@b9 p
+I never met Charles B. Goodman. Michael did, for eleven years, from a
+July morning in 1973 at the Peavey office in Denver. Everything I know
+of the man, his laugh, his silences, the way he called Michael "Dad", I
+know because Michael wrote it down for me and kept writing, one email at
+a time.
+
+@@b10 p
+This book gathers those emails. It also gathers my side of the
+conversation: my questions, my doubts, the books I read, the arguments
+we had and the research I sent back. A teacher gives, and a student
+answers. Both belong here.
+
+@@b11 p
+<strong>How to read it.</strong> Every chapter is short and has one
+idea. Each opens with a line that names the idea, tells the story in
+Michael's words, says what Charlie meant, and ends with something you
+can try on your next chart. Read one chapter a day or read the whole
+book on a flight. The order is built so that each chapter prepares the
+next.
+
+@@b12 p
+Michael once wrote to me, "If it wasn't for you all the stories of
+Charlie would surely be lost." It is the kindest thing anyone has said
+to me. It is also not true: it was Michael's memory that kept them alive
+for fifty years. I only held the page.
+
+@@b13 h1
+The Ladder
+
+@@b14 p
+This book climbs a ladder that Charlie himself described:
+
+@@b15 blockquote
+<p>"Information is so plentiful as to be nearly worthless. Knowledge is
+when you combine information for something useful, practical. Wisdom is
+rarest. It is when knowledge is combined to achieve truth."</p>
+
+@@b16 p
+Each rung asks one question. Each opens with Charlie's stories as
+Michael told them, then gives my side: my letters, my research and my
+mistakes, with their dates, because my answers changed over six years
+and the change is part of the lesson.
+
+@@b17 table
+<thead>
+<tr>
+<th><strong>Rung</strong></th>
+<th><strong>Question</strong></th>
+<th><strong>What you will find</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 · Being</td>
+<td>Who was Charlie?</td>
+<td>The man behind the method</td>
+</tr>
+<tr>
+<td>2 · Knowing</td>
+<td>How is truth learned?</td>
+<td>Examples over explanations; induction, deduction, abduction</td>
+</tr>
+<tr>
+<td>3 · Seeing</td>
+<td>What is a market?</td>
+<td>People before prices; my market studies</td>
+</tr>
+<tr>
+<td>4 · Deciding</td>
+<td>Is it a Setup?</td>
+<td>Goodman's tools: boxes, overlays, volume, propagation, 3-C</td>
+</tr>
+<tr>
+<td>5 · Acting</td>
+<td>How do I manage the trade?</td>
+<td>Dagger, Nest, breakeven, Under, Over and the Line</td>
+</tr>
+<tr>
+<td>6 · Measuring</td>
+<td>How much do I risk?</td>
+<td>Thirty souls, the Golden Ratio, risk of ruin</td>
+</tr>
+<tr>
+<td>7 · Doing Right</td>
+<td>How do we treat each other?</td>
+<td>The oboe, the gift, the $50 investment</td>
+</tr>
+<tr>
+<td>8 · Feeling</td>
+<td>Where do we trade from?</td>
+<td>Relaxed and excited at once</td>
+</tr>
+<tr>
+<td>9 · Learning</td>
+<td>Who carries it on?</td>
+<td>Students, studies, the feedback loop</td>
+</tr>
+<tr>
+<td>10 · The System</td>
+<td>How does it all move together?</td>
+<td>The trader as a dynamic system</td>
+</tr>
+</tbody>
+
+@@b18 p
+The last rung shows the ladder was a circle all along. Every ending
+starts a new move. Everything is a 1-2-3.
+
+@@b19 h2
+My Trading Explained (2023)
+
+@@b20 p
+<em>I wrote this walk-through for Michael in 2023: two real trades,
+on GBPCHF and NZDJPY, chart by chart, as I saw them. For this book every
+chart has been redrawn from real market data with the same structure;
+each caption names the data used.</em>
+
+@@b21 p
+In these few pages I explain how I trade every day, long or short.
+First of all, I trade with defined risk, suited to my equity. My
+psychology must be ready: a quiet place and a mind clear of everything
+else, so I can be proactive with the market. I listen to music until the
+wanted moment jumps in front of me. It usually takes ten to thirty
+minutes to sync with the market; matcha or chamomile tea helps.
+
+@@b22 p
+These are the pairs I use for short-term trading. Every week I plan
+on the daily chart, then zoom in to find a low-risk trade. A trade that
+does not fit the daily chart, I filter out: most of the time it is
+unable to propagate.
+
+@@b23 ul
+<li><p><strong>USD majors:</strong> GBPUSD, EURUSD, AUDUSD, NZDUSD,
+USDCHF, USDJPY, USDCAD</p></li>
+<li><p><strong>CHF crosses:</strong> NZDCHF, GBPCHF, CADCHF, AUDCHF,
+EURCHF</p></li>
+<li><p><strong>JPY crosses:</strong> CADJPY, AUDJPY, GBPJPY, NZDJPY,
+EURJPY, CHFJPY</p></li>
+<li><p><strong>EUR, GBP and AUD crosses:</strong> EURGBP, EURAUD,
+GBPAUD, EURNZD, GBPNZD, AUDNZD</p></li>
+<li><p><strong>CAD crosses:</strong> EURCAD, GBPCAD, AUDCAD,
+NZDCAD</p></li>
+
+@@b24 h3
+Example 1
+
+@@b26 p
+Figure: The 5-minute: a Jumbo sell-off, a rebound 1-2-3 and the
+Return; selling should not repeat after a Jumbo at a critical point
+(here the Return dips only 12 pips under the Jumbo low). Real data:
+GBPCHF, 5-minute, 1–2 March 2022. (The original chart was GBPCHF,
+5-minute, 3–6 March 2023; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b27 p
+This is the 5-minute chart (GBPCHF in my original trade), as I watch
+for significant changes.
+
+@@b29 p
+Figure: The 1-hour: a large Outward up leg (A to B), then sellers in
+control from B with no cancel count. Real data: GBPCHF, 1-hour, 21
+February – 2 March 2022. (The original chart was GBPCHF, 1-hour, 3–6
+March 2023; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b30 p
+On the 1-hour chart, Outward, there is no cancel count. I link the
+significant change to the big picture: is there any demand from 1-hour
+traders? Is it promising demand? Let's look at the daily chart (redrawn
+here on the 4-hour). It doesn't fit: day traders are selling.
+
+@@b32 p
+Figure: The longer frame does not fit: the latest bars are bear bars.
+Real data: GBPCHF, 4-hour (in place of the daily), 14 February – 2 March
+2022. (The original chart was GBPCHF, daily, 3–6 March 2023; this one
+shows the same structure on the same symbol, in the window the data
+covers.)
+
+@@b33 p
+On the 2-minute chart I look for the Dagger, the spark where buyers
+must start their propagation.
+
+@@b34 p
+This is how a bad trade looks: buyers and sellers are not in
+consensus. The 1-hour is still selling; the 5-minute shows temporary
+buying from profit-taking; the 2-minute is unable to break the upper
+line of the Dagger, the line where sellers renew their selling to
+protect the downtrend. Trades like this can break an inexperienced
+trader's account. Goodman theory is based on PROPAGATION!
+
+@@b36 p
+Figure: The 2-minute Dagger fails: a poke above the upper line, then
+sellers renew and break the lower line, so the bad trade is avoided.
+Real data: GBPCHF, 2-minute, 1–2 March 2022. (The original chart was
+GBPCHF, 2-minute, 3–6 March 2023; this one shows the same structure on
+the same symbol, in the window the data covers.)
+
+@@b37 h3
+Example 2
+
+@@b38 p
+A flat Jumbo? Can it propagate? And the 6&amp;6 is very small, with
+volume too; it suggests something is cooking. The 1-hour chart is a
+message for combination.
+
+@@b40 p
+Figure: Example 2 on the 5-minute: a steady decline, the Jumbo, and a
+small 6&amp;6 box at the bottom with volume. Real data: GBPJPY,
+5-minute, 28 February – 1 March 2022. (The original chart was NZDJPY,
+5-minute, 3–7 March 2023; this one shows the same structure.)
+
+@@b41 p
+The 1-hour chart is near the Return Zone. Here we must think whether
+buying will come in to propagate, but we should not expect it to follow
+through to the Line, because the daily does not fit properly. Still,
+demand coming from the Return Zone on the 1-hour is worth a try. The
+daily chart (redrawn here on the 4-hour):
+
+@@b43 p
+Figure: The 1-hour: a 1-2-3 up, then a decline back into the Return
+Zone where the count began. Real data: GBPJPY, 1-hour, 21 February – 1
+March 2022. (The original chart was NZDJPY, 1-hour, 3–7 March 2023; this
+one shows the same structure.)
+
+@@b45 p
+Figure: The longer frame shows bear bars, so it does not fit
+properly. Real data: GBPJPY, 4-hour (in place of the daily), 14 February
+– 1 March 2022. (The original chart was NZDJPY, daily, 3–7 March 2023;
+this one shows the same structure.)
+
+@@b46 p
+The 2-minute chart: a nested 6&amp;6.
+
+@@b48 p
+Figure: The 2-minute after the Jumbo: a first low, a bounce and a
+lower low. Real data: GBPJPY, 2-minute, 1 March 2022. (The original
+chart was NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b49 p
+Stop loss on the 2-minute chart. Buy, and watch how buyers propagate
+on the 2-minute. There are different ways to buy; some buy at the break
+of the trendline, but with the spread on a 2-minute chart there is not
+much difference. Just buy anywhere near the bottom, and watch how the
+buying comes in.
+
+@@b51 p
+Figure: The nested 6&amp;6: the upper and lower lines close in after
+the Jumbo. Real data: GBPJPY, 2-minute, 1 March 2022. (The original
+chart was NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b52 p
+Watch my entry, where buyers appear and start to propagate; their
+first step is to break the line, as they did correctly. We need to set a
+target where we judge whether buyers will continue or end their
+momentum: 3-C. We need an idea of when to sell what we just bought. Then
+follow the buyers' steps. If something goes wrong before they reach the
+target, be ready to move to breakeven, or just run! They don't want to
+propagate, and I must protect myself if they don't propagate
+properly.
+
+@@b54 p
+Figure: Buy near the bottom at the break of the upper line, with the
+stop below the low on the 2-minute. Real data: GBPJPY, 2-minute, 1 March
+One vote is a hint. Two v2022. (The original chart was NZDJPY, 2-minute,
+3–7 March 2023; this one shows the same structure.)
+
+@@b56 p
+Figure: The entry: the Jumbo bar (dotted), the box, and the target
+set by the 3-C count. Real data: GBPJPY, 2-minute, 1 March 2022. (The
+original chart was NZDJPY, 2-minute, 3–7 March 2023; this one shows the
+same structure.)
+
+@@b57 p
+A small-time hash, and the reaction. A second-chance (SS) propagation
+of the 1 is possible.
+
+@@b59 p
+Figure: After the break buyers hold above the TP of the fall. Real
+data: GBPJPY, 2-minute, 1 March 2022. (The original chart was NZDJPY,
+2-minute, 3–7 March 2023; this one shows the same structure.)
+
+@@b60 p
+This behavior happens many, many times: after a 6&amp;6 it propagates
+into a second chance, as a PTS setup.
+
+@@b62 p
+Figure: Propagation 1 completes and the reaction (SS) gives a second
+chance. Real data: GBPJPY, 2-minute, 1–2 March 2022. (The original chart
+was NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b63 p
+A knot: who is dominant? The buying matrix!
+
+@@b65 p
+Figure: The count is projected again from point 2: a multiple 3-C
+count. Real data: GBPJPY, 2-minute, 1–2 March 2022. (The original chart
+was NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b66 p
+Buyers buy aggressively and re-enter the market with fresh orders as
+volume develops.
+
+@@b68 p
+Figure: A knot above the TP: who is dominant? The buying matrix. Real
+data: GBPJPY, 2-minute, 1–2 March 2022. (The original chart was NZDJPY,
+2-minute, 3–7 March 2023; this one shows the same structure.)
+
+@@b69 p
+Now buyers are aggressive enough to take all the offers that come in
+at the TP. That is evidence of a healthy propagation. One way to predict
+the near future is Complex–Flat: where the FPS is complex, expect
+flat.
+
+@@b71 p
+Figure: Buyers re-enter with fresh orders as volume develops. Real
+data: GBPJPY, 2-minute, 1–2 March 2022. (The original chart was NZDJPY,
+2-minute, 3–7 March 2023; this one shows the same structure.)
+
+@@b72 p
+It is amazing to watch the market through a propagation lens: 1-2-3 →
+LARGER 1-2-3.
+
+@@b74 p
+Figure: Complex, then flat: where the first count is complex, expect
+the next part to be flat. Real data: GBPJPY, 2-minute, 1–2 March 2022.
+(The original chart was NZDJPY, 2-minute, 3–7 March 2023; this one shows
+the same structure.)
+
+@@b75 p
+Here one can book some profit from the propagation. It is an
+intersection with the TP: sellers who believe the market will fall
+further sell into this rally, which produces an abnormal reaction (SS).
+The selling erases most of the buying gains, and the sellers'
+intersection with the return point shows why it is important to take
+some profit at the Under, as we did. Sellers who entered at the last
+price now feel wrong, because the market no longer acts as before.
+Sellers are slow now, and that adds to the buyers' propagation
+power.
+
+@@b77 p
+Figure: The larger picture: the TP of the leg from the Jumbo top to
+the low is reached, as the 1-2-3 grows into a larger 1-2-3. Real data:
+GBPJPY, 2-minute, 1–2 March 2022. (The original chart was NZDJPY,
+2-minute, 3–7 March 2023; this one shows the same structure.)
+
+@@b78 p
+This is the sellers' last chance to add to their orders; otherwise
+the bulls are in control, with a small double 6&amp;6 nested in the box.
+A buying sign, and buyers re-enter. It is a difficult trade to manage: I
+take some profit, but I play for a larger one. Our stop has still not
+been hit. Remember, this is a 2-minute development; traders usually go
+Inward only for timing, but it is a chance to watch how Goodman theory
+works at two minutes. Let's look at the 5-minute.
+
+@@b80 p
+Figure: The larger 1-2-3 completes; price returns toward the zone
+above the box line while the stop holds. Real data: GBPJPY, 2-minute,
+1–2 March 2022. (The original chart was NZDJPY, 2-minute, 3–7 March
+2023; this one shows the same structure.)
+
+@@b81 p
+Back to the 2-minute.
+
+@@b83 p
+Figure: The 5-minute view of the Jumbo, the base and the first rally.
+Real data: GBPJPY, 5-minute, 1–2 March 2022. (The original chart was
+NZDJPY, 5-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b84 p
+Buyers enter with much more volume and much faster; the sellers are
+tested and fail to push lower.
+
+@@b86 p
+Figure: Back to the 2-minute: sellers test and fail to push lower.
+Real data: GBPJPY, 2-minute, 1–2 March 2022. (The original chart was
+NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b87 p
+The buying runs fast. That suggests sellers are few; otherwise buying
+would be much slower than before!
+
+@@b89 p
+Figure: Slow down, fast up: the latest buying runs much faster than
+the fall. Real data: GBPJPY, 2-minute, 1–2 March 2022. (The original
+chart was NZDJPY, 2-minute, 3–7 March 2023; this one shows the same
+structure.)
+
+@@b90 p
+What is going on: buyers are trying to break the Dagger line to
+complete the 1-2-3, on the 5-minute chart.
+

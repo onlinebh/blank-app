@@ -1,0 +1,257 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Matrix Overlay with Volume (2021) -> Volume (2021)
+
+@@b1994 h3
+Guidelines
+
+@@b1995 p
+To summarise into guidelines:
+
+@@b1997 p
+Figure: Points A, B and C, where rising volume produced the FPS, the
+SS and the SPS. Real data: EURUSD, 15-minute, 24–25 Feb 2022. (The
+original chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b1998 ul
+<li><p><strong>At A:</strong> energy increased relatively, which
+produced an FPS.</p></li>
+<li><p><strong>At B:</strong> increased volume, as the setup shows,
+produced an SS.</p></li>
+<li><p><strong>At C:</strong> volume increased to produce an
+SPS.</p></li>
+
+@@b1999 p
+To use this in real time, read the behaviour of energy within the
+FPS, SS and SPS. Then watch where volume increases but, instead of
+moving in the same direction, price shows a tendency to move the
+opposite way.
+
+@@b2000 p
+<strong>Caution:</strong> do not look for divergence between price
+and volume; it is a misleading way to deal with volume. Focus on
+decreasing and increasing energy together with the momentum of price.
+Whenever there is no momentum, be on alert.
+
+@@b2002 p
+Figure: Coloured bands mark how volume collected and spent energy at
+A, B, C and the last new high. Real data: EURUSD, 15-minute, 24–25 Feb
+2022. (The original chart was EURUSD 1-hour, 6–11 October; this one
+shows the same structure.)
+
+@@b2003 ul
+<li><p><strong>At A:</strong> energy increased, and price action shows
+sufficient buyers to move it higher. The purple line shows price
+collecting energy.</p></li>
+<li><p><strong>At B:</strong> energy increased, but with a tendency to
+move lower, as the 1-2-3 shows. The blue line shows the market in the
+correction phase of the FPS move.</p></li>
+<li><p><strong>At C:</strong> energy increased, but the tendency was to
+move higher rather than lower, as the nested 1-2-3 setup shows.</p></li>
+<li><p><strong>The last yellow line:</strong> an abnormal increase on a
+new higher high, then a move to equilibrium on low volume at the last
+line.</p></li>
+
+@@b2004 p
+Volume can help detect tipping levels when we watch the relative
+increase. At B, the energy at level 3 shows buyers unable to move
+higher. At C, the energy at level 2 shows sellers unable to move lower.
+Both show no momentum to transit to the next level.
+
+@@b2005 h3
+Two more examples
+
+@@b2007 p
+Figure: Volume points 1, 2 and 3 around the creation of the MO origin
+point. Real data: EURUSD, 1-hour, 22 Feb – 1 Mar 2022. (The original
+chart was EURUSD 1-hour, 6–11 October; this one shows the same
+structure.)
+
+@@b2008 p
+At 1, the down move comes on decreased energy. At 2, energy increases
+with a tendency to move higher; this creates the MO origin point. At 3
+there is energy, but price moves sideways instead of falling fast as at
+1. In the last few bars (blue line) the market moves by its own weight,
+on small energy. Whichever energy wins in the sideways move can control
+the market.
+
+@@b2010 p
+Figure: At X, energy rises and price transits to the next level with
+good momentum. Real data: EURUSD, 5-minute, 2 Mar 2022. (The original
+chart was EURUSD 5-minute; this one shows the same structure.)
+
+@@b2011 p
+Look at X: energy increased and price transited to the next level
+with good momentum. Does this behaviour show a tendency to move down, or
+up? There is no question: the tendency is up, the SPS.
+
+@@b2012 p
+Thank you.
+
+@@b2013 h2
+Volume (2021)
+
+@@b2014 p
+In this paper I tell the story of my long struggle with one word:
+volume. I want to show how I moved from confusion to a simple, logical
+definition I can trade with. At the end I show how I read volume inside
+the 1-2-3, with a real EURUSD example.
+
+@@b2015 h3
+What I Thought Volume Was
+
+@@b2016 p
+I still remember the first time I heard the word in trading. I was
+surprised. To me, volume meant sound. I used to work with sound editors
+such as Adobe Audition.
+
+@@b2018 p
+Figure: A sound wave in an audio editor — the louder the sound, the
+wider the wave.
+
+@@b2019 p
+Anyone can read such waves easily. When the sound increases, the wave
+expands its range. When the sound is very low, the wave narrows. It is
+very easy to understand.
+
+@@b2020 p
+I am also not a native English speaker. When I played sound on my
+computer, my brother would shout at me: "Could you turn the volume down?
+I'm trying to sleep." So I set the volume to 20%.
+
+@@b2022 p
+Figure: The volume I knew before trading — a slider set to 20.
+
+@@b2023 p
+That was everything I knew about "volume".
+
+@@b2024 h3
+Meeting Volume in the Market
+
+@@b2025 p
+When I came to the market, I felt something bad inside myself:
+misunderstanding.
+
+@@b2027 p
+Figure: A row of market volume bars — at first it meant nothing to
+me. Real data: EURUSD, 1-hour volume, 21–25 February 2022. (The original
+was a volume strip cut from another chart; this one is drawn from real
+volume.)
+
+@@b2028 p
+What on earth was that? The technical books I read made this unknown
+thing a top priority. Did anyone tell the truth about volume? I was
+greedy. I wanted to know the next direction. I wanted a nice car. Was
+the truth hidden somewhere here?
+
+@@b2029 p
+But I could not see any of that dream truth. What could I learn from
+columns that all looked the same? My aim was to find the next direction,
+and my mind kept showing an error. Was this important at all? Perhaps it
+was more logical to forget volume and look somewhere else.
+
+@@b2030 h4
+Stories without evidence
+
+@@b2031 p
+In the following weeks, I found books that spoke about manipulators
+hiding in the volume. Wow. But I do not believe anything without
+evidence. I am not in court; anyone can make a claim. Without evidence,
+I cannot accept it. Even if such a story sank into my unconscious mind,
+how could I profit from it?
+
+@@b2032 p
+Other books built equations to analyze volume. My answer was: first
+tell me what volume is, then play with all the magical equations. They
+showed lucky charts with divergence — buy here, sell there. Even if that
+game paid me a million, I would not allow myself to play it.
+
+@@b2033 p
+Very experienced people created other indicators: the Force Index, On
+Balance Volume, and more — delta, gamma and so on. To me these are only
+a second translator of volume.
+
+@@b2034 h4
+Finding my own path
+
+@@b2035 p
+So I tried to find my own path. I do not care about pool traders who
+control the market; I am happy for them. You can detect them easily in
+very small stocks. It is probably easier to make a deal with them than
+to recognize them from volume. But what about Forex, or futures in the
+past? There is no central volume. Is there a big ghost controlling the
+market? Maybe the big banks.
+
+@@b2036 p
+When I found myself in no man's land, that confusion itself told me
+something. I needed a path that was more logical and easier — one I
+could at least be confident with. So I went back to simple logic:
+
+@@b2037 ul
+<li><p>Behind one door, when it opens, there is a lion.</p></li>
+<li><p>Behind the other door there is at least a safe path that suits my
+ability.</p></li>
+
+@@b2038 p
+I am happy for those who can play with indicators and fight the lion.
+I will not choose that path. In the end, success in the market means
+trading with confidence, and confidence depends on each person's
+character — "to each his own".
+
+@@b2039 h3
+Expectation Versus Reality
+
+@@b2040 p
+Finding your own path takes patience. One of the hardest questions
+is: what do you want? The second is: what is the aim behind it? I love
+the work of Socrates.
+
+@@b2041 p
+At this point I stood between two paths: comfort and reality. The
+comfortable path may simply not exist. Sometimes we are happy with a
+beautiful but false image, while reality is very far from our
+expectation.
+
+@@b2042 p
+My first expectations about volume were like my dream car:
+
+@@b2043 blockquote
+<p>1. If I understood volume, I could anticipate the next direction.</p>
+<p>2. If I knew nothing about volume, I could not trade, because the
+truth lives in the volume.</p>
+<p>3. My greed could cover my eyes, so I would not believe what the
+market says about itself.</p>
+
+@@b2044 p
+In this state it is easy to fall and give up. But I could do it.
+Anyone who begins to see the facts from outside starts to learn deeply.
+Why? Because he finds that what is inside him is unreal. Thank God, our
+minds can change as easily as our hands can move, with a little
+practice. Otherwise I would stay ignorant forever.
+
+@@b2045 blockquote
+<p>"A man should look for what is, and not for what he thinks should
+be." — Einstein</p>
+
+@@b2046 h3
+The Rule of Signs
+
+@@b2047 p
+In simple logic, is there any sign that a path exists? There is a
+strong rule: anything that exists has a sign that correlates with it.
+Anyone can say he owns a car, but the car must show up somewhere. If the
+car is nowhere and there is no sign, it does not exist.
+
+@@b2048 p
+For a joke: one student in my school was a big liar. Every day he
+claimed he came to school by helicopter. There was never any sign. That
+is the mark of a liar — claiming something that does not exist.
+
+@@b2049 p
+So I follow this logic: wherever there is a sign, one sign is enough
+for me. Let us start the journey to discover a simple path.
+
+@@b2050 blockquote
+<p>"It's not that I'm so smart, it's just that I stay with problems
+longer." — Albert Einstein</p>
+<p>"A thousand roads lead a man forever toward Rome."</p>
+

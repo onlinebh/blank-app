@@ -1,0 +1,44 @@
+{
+ "chunk": "c50",
+ "highlights": [
+  {"b": "b3144", "en": "Next I will build this for each market pair, to make a general market", "level": 1},
+  {"b": "b3153", "en": "The buyers are losing their energy, and they should not be able to", "level": 1},
+  {"b": "b3167", "en": "It makes\namateur traders excited to buy, exactly where the professionals sell\nmore", "level": 1},
+  {"b": "b3173", "en": "The purpose was never to forecast.", "level": 2},
+  {"b": "b3173", "en": "It was to practice reading, in\npublic, the struggle between buyers and sellers through the lens of\nGoodman", "level": 1},
+  {"b": "b3179", "en": "In summary, sellers failed to pass the Test line, and buyers could\nnot yet jump the Excess line.", "level": 1},
+  {"b": "b3189", "en": "If the next SPS cannot move higher than Box C, that would\nsuggest buyers are losing energy in the struggle.", "level": 1},
+  {"b": "b3194", "en": "If buyers can propagate from this trickery and break the Excess line,\nI can consider the EP of the SS on the daily chart confirmed.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b3141", "en": "The Four Pillars", "ar": "الركائز الأربع", "note_en": "The framework of the whole study: time, price, following the market, and confirming the Setup.", "note_ar": "إطار الدراسة كلها: الزمن والسعر واتّباع السوق وتأكيد الـ Setup.", "imp": 3,
+   "children": [
+    {"b": "b3143", "en": "Time estimation: laydown", "ar": "تقدير الزمن: laydown", "note_en": "The laydown estimates when the market will move.", "note_ar": "يقدّر الـ laydown متى سيتحرك السوق.", "imp": 2, "children": []},
+    {"b": "b3143", "en": "Price projection: 3-C and intersection", "ar": "إسقاط السعر: 3-C والتقاطع", "note_en": "The 3-C and the intersection project where price may go.", "note_ar": "يحدّد الـ 3-C والتقاطع أين قد يذهب السعر.", "imp": 2, "children": []},
+    {"b": "b3143", "en": "Market following and Setup confirmation", "ar": "اتّباع السوق وتأكيد الـ Setup", "note_en": "Correlation and the leader guide us; Nested Overlay and Overlay confirm the Setup.", "note_ar": "يرشدنا الارتباط والقائد؛ ويؤكد الـ Nested Overlay والـ Overlay الـ Setup.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3146", "en": "ETCUSD Study (2021)", "ar": "دراسة ETCUSD (2021)", "note_en": "A few bars read with their volume at the top of a rally show the buyers' energy ending.", "note_ar": "بضع bars تُقرأ مع حجم تداولها عند قمة الصعود تُظهر انتهاء طاقة المشترين.", "imp": 2,
+   "children": [
+    {"b": "b3151", "en": "Reading bars A, B, D", "ar": "قراءة الـ bars A وB وD", "note_en": "A is a definitive reversal sign, B confirms with falling volume, D shows sellers growing.", "note_ar": "A علامة انعكاس حاسمة، وB يؤكد بـ volume متناقص، وD يُظهر نمو البائعين.", "imp": 2, "children": []},
+    {"b": "b3152", "en": "Lesson: buyers cannot pass A", "ar": "الدرس: المشترون لا يتجاوزون A", "note_en": "Buyers are losing energy and should not pass the top at A.", "note_ar": "المشترون يفقدون طاقتهم ولا ينبغي أن يتجاوزوا القمة عند A.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3154", "en": "EURCAD: Profit-Taking Process (2023)", "ar": "EURCAD: عملية جني الأرباح (2023)", "note_en": "Zooming from weekly to daily to 1-hour to see professionals sell into a rally while amateurs buy.", "note_ar": "الاقتراب من الأسبوعي إلى اليومي إلى الساعة لنرى المحترفين يبيعون في الصعود والهواة يشترون.", "imp": 2,
+   "children": [
+    {"b": "b3156", "en": "Weekly: Tipping Point of the Jumbo", "ar": "الأسبوعي: Tipping Point للـ Jumbo", "note_en": "Buyers meet the TP of the Jumbo, a station point whose EP came with high volume.", "note_ar": "يلتقي المشترون بالـ TP للـ Jumbo، نقطة محطة جاء الـ EP لها بـ volume مرتفع.", "imp": 2, "children": []},
+    {"b": "b3160", "en": "Daily: propagation into 3-C and TP", "ar": "اليومي: propagation نحو 3-C وTP", "note_en": "Buyers propagated from 24 August 2022 to the 3-C and weekly TP, then a narrow range between Bounce A and B; Bullish Consensus 85/91 and 88/93.", "note_ar": "عمل المشترون propagation من 24 أغسطس 2022 حتى الـ 3-C والـ TP الأسبوعي، ثم نطاق ضيق بين Bounce A وB؛ وBullish Consensus عند 85/91 و88/93.", "imp": 2, "children": []},
+    {"b": "b3165", "en": "1-hour: professionals sell, amateurs buy", "ar": "الساعة: المحترفون يبيعون والهواة يشترون", "note_en": "Selling appears in volume from 11 December; the vertical bar at X excites amateurs exactly where professionals sell more.", "note_ar": "يظهر البيع في الـ volume من 11 ديسمبر؛ والـ bar العمودية عند X تثير الهواة تمامًا حيث يبيع المحترفون أكثر.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3171", "en": "GBPUSD Studies (2021-2022)", "ar": "دراسات GBPUSD (2021-2022)", "note_en": "A running study sent to Michael, meant to practice reading the buyers-sellers struggle, not to forecast.", "note_ar": "دراسة متواصلة أُرسلت إلى Michael، غرضها ممارسة قراءة صراع المشترين والبائعين لا التنبؤ.", "imp": 3,
+   "children": [
+    {"b": "b3174", "en": "Study 1: who is losing energy", "ar": "الدراسة 1: من يفقد الطاقة", "note_en": "Sideways between Excess and Test lines: sellers failed to pass Test, buyers not yet over Excess; volume at A, B, C, E shows fading sellers.", "note_ar": "حركة جانبية بين خطَّي Excess وTest: فشل البائعون في تجاوز Test ولم يتجاوز المشترون Excess بعد؛ وvolume عند A وB وC وE يُظهر تلاشي البائعين.", "imp": 2,
+     "children": [
+      {"b": "b3183", "en": "Return Zone setup on 15-minute", "ar": "Setup من نوع Return Zone على 15 دقيقة", "note_en": "A Jumbo at A; at B the sellers' leg angle and volume show they did not want to push lower, so buyers were stronger.", "note_ar": "Jumbo عند A؛ وعند B تُظهر زاوية ساق البائعين والـ volume أنهم لا يريدون الدفع أدنى، فالمشترون أقوى.", "imp": 2, "children": []}
+     ]},
+    {"b": "b3184", "en": "Study 2: daily boxes A to D", "ar": "الدراسة 2: صناديق اليومي من A إلى D", "note_en": "NetForce favored buyers; if the next SPS cannot pass Box C, buyers are losing energy.", "note_ar": "رجّح الـ NetForce كفة المشترين؛ وإن لم يتجاوز الـ SPS التالي Box C فالمشترون يفقدون طاقتهم.", "imp": 2,
+     "children": [
+      {"b": "b3193", "en": "6&6 story on 4-hour", "ar": "قصة 6&6 على 4-hour", "note_en": "Weak buyers at A withdrew; at B a reversal on rising volume absorbed sellers. Breaking Excess would confirm the SS EP on the daily.", "note_ar": "انسحب المشترون الضعفاء عند A؛ وعند B انعكاس على volume متزايد امتص البائعين. وكسر Excess يؤكد الـ EP للـ SS على اليومي.", "imp": 2, "children": []}
+     ]},
+    {"b": "b3195", "en": "Study 3: bullish Goldilocks", "ar": "الدراسة 3: Goldilocks صعودي", "note_en": "Sellers were insecure at A and only temporarily stronger at B near 50%; a 15-minute bullish Goldilocks with rising volume showed buyers absorbing all offers at 50%.", "note_ar": "كان البائعون غير واثقين عند A وأقوى مؤقتًا عند B قرب 50%؛ وGoldilocks صعودي على 15 دقيقة مع volume متصاعد أظهر المشترين يمتصون كل العروض عند 50%.", "imp": 2, "children": []}
+   ]}
+ ]
+}

@@ -1,0 +1,315 @@
+##CTX Part: Rung 5 · Acting: How Do I Manage the Trade? | Section: Trading the Line (2021)
+
+@@b2517 h3
+There Is No Future, Only Now
+
+@@b2518 p
+Every chart has a past and a current price. Time never stops, so the
+current price soon becomes the past. Even the happiest moment on a chart
+becomes past.
+
+@@b2519 p
+What about the future? There is no future. The future is only a
+sequence that starts from the current moment. What is important is NOW,
+the current moment.
+
+@@b2520 blockquote
+<p>Run fast or do not run at all.</p>
+
+@@b2521 p
+I write it like this:
+
+@@b2522 p
+<strong>Future = Current Moment + Current Moment + … + Current
+Moment</strong>
+
+@@b2523 p
+Our ability is limited to the current moment. No one owns his past;
+it is already gone. No one owns his future; it is only a sum. One owns
+only his current moment.
+
+@@b2524 p
+When I let the current moment slip out of my control, I blame the
+future. But there is no future, only the sum. The future is just a
+compound of many past current moments. That is why a grandfather or a
+father can anticipate his child so easily. Most of the time he is
+right.
+
+@@b2526 p
+Figure: Only the current moment: the past is gone, and the future is
+only the sum of the moments you manage.
+
+@@b2527 h3
+A Protected Plan
+
+@@b2528 p
+That is why we need a protected plan, a kind of economic plan. Think
+of the film <em>Cast Away</em> with Tom Hanks. He could eat everything
+in one day, but he knows there is no guaranteed future. So he splits
+things: enough for today, the rest for the next day.
+
+@@b2529 blockquote
+<p>"Don't put all your eggs in one basket."</p>
+
+@@b2530 p
+This is a logical way to manage the current moment.
+
+@@b2531 p
+Every market moment is unique. We never get a duplicate current
+moment. It is like a passport number: it cannot be duplicated, it must
+be a unique ID.
+
+@@b2532 p
+We do not need to know the future of a chart to make a profit. We
+only need to know the current movement and manage it.
+
+@@b2533 h3
+Driving on a Foggy Day
+
+@@b2534 p
+The market is exactly like driving on a very foggy day. We can see
+only about 100 metres ahead. That is how markets look.
+
+@@b2535 p
+Anyone who drives in such conditions must be very careful and
+cautious. Accidents can happen at any time. Trading the Line is like
+driving carefully on a foggy day. It is risky, but with good management
+one can reach the goal.
+
+@@b2536 p
+We manage the Line by concentrating and staying alert to anything
+that happens to it. When we drive a Line, we do not want an accident
+that causes damage. There is no right or wrong in such conditions; it is
+a dangerous case, and we must protect ourselves.
+
+@@b2537 p
+Our goal is to avoid damage. When we cannot, we make the damage as
+small as possible: a very soft accident.
+
+@@b2538 p
+Mr. Goodman does not accept any huge accident. Trading without a
+stop-loss can lead to a large loss. Cut it quickly. Run fast.
+
+@@b2539 blockquote
+<p>"If you break even, you live to see another day." – Michael Archer,
+my mentor</p>
+
+@@b2540 p
+More control on a foggy day is better than arriving quickly with huge
+damage.
+
+@@b2541 p
+Anyone who wants to support a family by treating trading as a
+business should not care about the destination. Care about the moment,
+and drive slowly.
+
+@@b2542 h3
+The Tool That Keeps Me
+Focused
+
+@@b2543 p
+One tool keeps me very concentrated when I trade TTL: watching the
+Line.
+
+@@b2544 blockquote
+<p>"Follow the Lines and the Tests/Exceeds."</p>
+
+@@b2545 p
+It simply follows the BP and EP of each leg. When I operate TTL, my
+goal is to save my position as much as I can, or at least to exit with
+small damage. I do not like accidents. I take advantage of stop orders
+to manage the trade.
+
+@@b2546 p
+The Goodman rule is clear: each time the market makes a new 1-2-3 in
+the direction of the trade, and assuming you have not been stopped out,
+bring your stop-loss to the most current SS EP. In short: with every new
+propagation, raise the stop.
+
+@@b2548 p
+Figure: The Propagation Jumbo: each new propagation is larger, and
+the stop (STP) is raised under each one.
+
+@@b2550 p
+Figure: The TTL stop routine: with each new 1-2-3 in the direction of
+the trade, move the stop to the latest SS EP.
+
+@@b2551 h3
+Real Driving: One Trade,
+Step by Step
+
+@@b2552 h4
+1. The breakaway
+
+@@b2553 p
+Here the market breaks away with increasing volume, and the Line
+starts. The operation begins after a Dagger, at the first
+propagation.
+
+@@b2555 p
+Figure: The Dagger bar at the low, the breakaway bar on rising
+volume, and the first propagation (1-2-3) where the operation starts.
+Real data: AUDUSD, 1-hour, 14–18 February 2022. (The original chart was
+EURUSD 4-hour, March–April 2021; this one shows the same structure.)
+
+@@b2556 h4
+2. The first stop raise
+
+@@b2557 p
+When the market breaks the EP of the first propagation, I raise the
+stop to the same level as the buy order. We are not yet at break-even,
+but at least we are protected.
+
+@@b2559 p
+Figure: The buy triggers above 1 of the first propagation, and the
+stop (STP) moves up to its point 2. Real data: AUDUSD, 1-hour, 14–18
+February 2022. (The original chart was EURUSD 4-hour, 2021; this one
+shows the same structure.)
+
+@@b2560 h4
+3. Watching the next 1-2-3
+
+@@b2561 p
+The next step is to watch the next 1-2-3, using Lines with their Test
+and Exceed levels. Here there are two Lines, green and dark purple. When
+the small dark-purple propagation finishes, I move my stop-loss.
+
+@@b2563 p
+Figure: Two Lines, the first (green) and the second (purple), with
+the Exceed level of the first propagation marked. Real data: AUDUSD,
+1-hour, 14–21 February 2022. (The original chart was EURUSD 4-hour,
+2021; this one shows the same structure.)
+
+@@b2564 h4
+4. The time-hash
+
+@@b2565 p
+Through the time-hash our trade still makes good profit, so we
+continue the drive. The green propagation grows larger.
+
+@@b2567 p
+Figure: The time hash: price works sideways between the Exceed and
+Test lines, and the stop is raised beneath it. Real data: AUDUSD,
+1-hour, 14–22 February 2022. (The original chart was EURUSD 4-hour,
+2021; this one shows the same structure.)
+
+@@b2568 h4
+5. A new count for each
+propagation
+
+@@b2569 p
+I suggest making a new count for every new propagation. It helps
+measure the energy behind every PTS and makes us more conservative about
+the next target. When the market breaks away for the PTS 2 target, it
+moves sideways.
+
+@@b2571 p
+Figure: PTS1 and PTS2 counts; a new count for each propagation helps
+find the next Line target. Real data: AUDUSD, 1-hour, 14–22 February
+2022. (The original chart was EURUSD 4-hour, 2021; this one shows the
+same structure.)
+
+@@b2572 h4
+6. Propagating the bold green
+Line
+
+@@b2573 p
+Here the bold green Line propagates with the smaller one inside it,
+and I raise the stop-loss again.
+
+@@b2575 p
+Figure: The bold Line propagating with a smaller Line inside it,
+which sets new Exceed and Test levels. Real data: AUDUSD, 1-hour, 14–23
+February 2022. (The original chart was EURUSD 4-hour, 2021; this one
+shows the same structure.)
+
+@@b2576 h4
+7. Above the Under
+
+@@b2577 p
+When the market moves above the Under, I take the breakaway count
+again for PTS 2. The market has propagated three times.
+
+@@b2579 p
+Figure: The market propagates three times, and each propagation
+raises the stop to its own point 2. Real data: AUDUSD, 1-hour, 14–23
+February 2022. (The original chart was EURUSD 4-hour, 2021; this one
+shows the same structure.)
+
+@@b2580 h4
+8. Booked profit
+
+@@b2581 p
+Up to here the trade shows a solid open profit: 127 pips at the
+high.
+
+@@b2583 p
+Figure: The trade in solid profit: the larger Line clears its Exceed
+and holds above its Test (127 pips open profit at the high). Real data:
+AUDUSD, 1-hour, 14–23 February 2022. (The original chart was EURUSD
+4-hour, 2021; this one shows the same structure.)
+
+@@b2584 h4
+9. The PTS target reached
+
+@@b2585 p
+The market propagates into a larger structure and arrives exactly at
+the PTS target. The 3-C is an amazing tool. We can keep playing, because
+the stop has still not been caught.
+
+@@b2587 p
+Figure: Price clears the Exceed of the inner Line and runs to the
+target area at the high of the move. Real data: AUDUSD, 30-minute, 21–23
+February 2022. (The original chart was EURUSD 4-hour, 2021; this one
+shows the same structure.)
+
+@@b2588 h4
+10. New propagation, new stop
+
+@@b2589 p
+Let's play with the new propagating 1-2-3 and raise the stop.
+
+@@b2591 p
+Figure: A new propagating 1-2-3, with the stop moved up under its
+point 2. Real data: AUDUSD, 1-hour, 18–23 February 2022. (The original
+chart was EURUSD 4-hour, 2021; this one shows the same structure.)
+
+@@b2592 h4
+11. The blue 1-2-3
+
+@@b2593 p
+I raise the stop-loss again; the blue (powder) Line gives me a
+1-2-3.
+
+@@b2595 p
+Figure: A smaller Line forms a 1-2-3 and the stop is raised beneath
+it. Real data: AUDUSD, 15-minute, 22–23 February 2022. (The original
+chart was EURUSD 4-hour, 2021; this one shows the same structure.)
+
+@@b2596 h4
+12. The end of the move
+
+@@b2597 p
+We play the last propagation, but the market's move is over. Price
+falls through the last stop, and the stop locks in what is left of the
+uptrend profit.
+
+@@b2599 p
+Figure: The propagation completes; after the top, price falls through
+the last stop, which is caught and locks in the uptrend profit. Real
+data: AUDUSD, 1-hour, 14–24 February 2022. (The original chart was
+EURUSD 4-hour, 2021; this one shows the same structure.)
+
+@@b2600 h4
+13. Looking for a Setup in
+the downturn
+
+@@b2601 p
+Now let's find a Setup in the downturn.
+
+@@b2603 p
+Figure: After the top, the market turns down through the last stop,
+and a new search for a sell Setup begins. Real data: AUDUSD, 1-hour,
+22–25 February 2022. (The original chart was EURUSD 4-hour, 2021; this
+one shows the same structure.)
+

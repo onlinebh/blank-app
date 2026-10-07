@@ -1,0 +1,286 @@
+{
+ "chunk": "c08",
+ "highlights": [
+  {
+   "b": "b490",
+   "en": "The urgency to learn comes from one fact:",
+   "level": 1
+  },
+  {
+   "b": "b493",
+   "en": "Logic is our primary tool for becoming aware of this nature",
+   "level": 1
+  },
+  {
+   "b": "b495",
+   "en": "There is\nno certainty.",
+   "level": 1
+  },
+  {
+   "b": "b496",
+   "en": "So we must move from the known to the unknown.",
+   "level": 2
+  },
+  {
+   "b": "b505",
+   "en": "So the logic of Goodman is a set of research on how to construct an",
+   "level": 1
+  },
+  {
+   "b": "b511",
+   "en": "Logic aims to use at least these four data points to understand the",
+   "level": 1
+  },
+  {
+   "b": "b514",
+   "en": "\"The existence of any bar*, exist a meaning about",
+   "level": 1
+  },
+  {
+   "b": "b519",
+   "en": "So an indication works like this. We know that something exists, a",
+   "level": 1
+  },
+  {
+   "b": "b524",
+   "en": "A significant indication works as evidence of the future trend.",
+   "level": 1
+  },
+  {
+   "b": "b531",
+   "en": "A logical indication is one that has an inherence in existence that",
+   "level": 1
+  },
+  {
+   "b": "b551",
+   "en": "A character indication is one whose inherence comes from the nature",
+   "level": 1
+  },
+  {
+   "b": "b557",
+   "en": "They carry\nfull responsibility for those choices.",
+   "level": 1
+  },
+  {
+   "b": "b558",
+   "en": "In the end, our control is limited to the choice.",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b489",
+   "en": "Logic of Goodman: deciding",
+   "ar": "منطق Goodman: اتخاذ القرار",
+   "note_en": "Logic lets us stand between probability and delusion, since we cannot control the market.",
+   "note_ar": "المنطق يضعنا بين الاحتمال والوهم لأننا لا نتحكم بالسوق.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b490",
+     "en": "We cannot control the market",
+     "ar": "لا نتحكم بالسوق",
+     "note_en": "The market exists regardless of us; price does not follow our bias.",
+     "note_ar": "السوق موجود بمعزل عنا والسعر لا يتبع انحيازنا.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b492",
+       "en": "Market keeps moving",
+       "ar": "السوق يواصل مسيره",
+       "note_en": "It continues even if we freeze or panic in a losing position.",
+       "note_ar": "يمضي حتى لو شُللنا أو ذُعرنا في صفقة خاسرة.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b493",
+     "en": "Logic gives self-awareness",
+     "ar": "المنطق يمنح الوعي",
+     "note_en": "Logic makes us aware of the market and of our own limits; so we must be picky.",
+     "note_ar": "يجعلنا نعي السوق وحدودنا، لذلك نكون انتقائيين.",
+     "imp": 2
+    },
+    {
+     "b": "b496",
+     "en": "Known to unknown",
+     "ar": "من المعلوم إلى المجهول",
+     "note_en": "Axioms like 'everything is a 1-2-3' are used, like algebra, to find X.",
+     "note_ar": "نستخدم البدهيات كـ«كل شيء 1-2-3» لإيجاد X كما في الجبر.",
+     "imp": 3,
+     "children": [
+      {
+       "b": "b497",
+       "en": "SS or SPS?",
+       "ar": "SS أم SPS؟",
+       "note_en": "The trader asks whether price goes to SS or SPS and whether it will propagate.",
+       "note_ar": "يسأل المتداول: هل يتجه السعر إلى SS أم SPS وهل سيحدث Propagation.",
+       "imp": 1
+      },
+      {
+       "b": "b498",
+       "en": "Outward or Inward",
+       "ar": "Outward أو Inward",
+       "note_en": "He organizes knowledge, moves Outward or Inward and reaches a logical reason.",
+       "note_ar": "ينظّم معرفته ويتحرك Outward أو Inward ليصل إلى سبب منطقي.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b499",
+     "en": "The five steps",
+     "ar": "الخطوات الخمس",
+     "note_en": "Know the problem, know its type, choose the tool (Overlay), build the evidence, meet the conclusion.",
+     "note_ar": "اعرف المشكلة، ونوعها، واختر الأداة (Overlay)، وابنِ الدليل، والتقِ بالنتيجة.",
+     "imp": 3,
+     "children": [
+      {
+       "b": "b504",
+       "en": "Experts start at step 3",
+       "ar": "الخبراء يبدؤون من 3",
+       "note_en": "Experienced traders carry steps 1 and 2 as an axiom.",
+       "note_ar": "الخبراء يحملون الخطوتين 1 و2 كبدهية.",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b506",
+   "en": "Language of the bar chart",
+   "ar": "لغة الـ bar chart",
+   "note_en": "The chart is a language whose mediator is the bar; each bar carries a meaning about buyers and sellers.",
+   "note_ar": "الرسم لغة وسيطها الـ bar، وكل bar يحمل معنى عن المشترين والبائعين.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b508",
+     "en": "OPEN, CLOSE, HIGH, LOW",
+     "ar": "OPEN وCLOSE وHIGH وLOW",
+     "note_en": "Four data points record buyer and seller activity in a given time.",
+     "note_ar": "أربع بيانات تسجّل نشاط المشترين والبائعين في زمن محدد.",
+     "imp": 2
+    },
+    {
+     "b": "b512",
+     "en": "The chart sees what we cannot",
+     "ar": "الرسم يرى ما لا نراه",
+     "note_en": "We cannot watch every buyer and seller, so we use what the chart gives.",
+     "note_ar": "لا نستطيع مراقبة كل مشترٍ وبائع فنعتمد على ما يعطيه الرسم.",
+     "imp": 2
+    },
+    {
+     "b": "b517",
+     "en": "What is an indication?",
+     "ar": "ما المؤشر؟",
+     "note_en": "Like a knock on the door: something known indicates something else exists.",
+     "note_ar": "كطرق الباب: شيء معلوم يدل على وجود شيء آخر.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b520",
+       "en": "Significant indication",
+       "ar": "المؤشر ذو الدلالة",
+       "note_en": "Buyers with new energy for the first time; it is evidence of the future trend.",
+       "note_ar": "مشترون بطاقة جديدة لأول مرة؛ دليل على الاتجاه القادم.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b525",
+   "en": "Three types of indication",
+   "ar": "ثلاثة أنواع من المؤشرات",
+   "note_en": "Logical, Character and Structure indication; each may be significant or not.",
+   "note_ar": "منطقي وطبع وبنية؛ وكل منها قد يكون ذا دلالة أو لا.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b530",
+     "en": "Logical indication",
+     "ar": "المؤشر المنطقي",
+     "note_en": "Has an inherence in existence that comes from buyers and sellers.",
+     "note_ar": "له تلازم في الوجود يأتي من المشترين والبائعين.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b535",
+       "en": "Six types of inherence",
+       "ar": "ستة أنواع من التلازم",
+       "note_en": "Entering, Leaving, Increasing, Decreasing, Deciding when, Deciding why.",
+       "note_ar": "الدخول، الخروج، الزيادة، النقصان، تحديد متى، تحديد لماذا.",
+       "imp": 3,
+       "children": [
+        {
+         "b": "b546",
+         "en": "1-4 Character, 5-6 Structure",
+         "ar": "1-4 طبع و5-6 بنية",
+         "note_en": "Inherences 1-4 belong to Character, 5 and 6 to Structure; often together.",
+         "note_ar": "التلازمات 1-4 للطبع و5-6 للبنية، وغالبًا تعمل معًا.",
+         "imp": 2
+        },
+        {
+         "b": "b549",
+         "en": "Greed then fear",
+         "ar": "الطمع ثم الخوف",
+         "note_en": "Buyers increase from greed, sellers increase and cause fear in buyers: a significant indication.",
+         "note_ar": "زاد المشترون طمعًا ثم زاد البائعون فأثاروا خوفهم: مؤشر ذو دلالة.",
+         "imp": 1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "b": "b550",
+     "en": "Character indication",
+     "ar": "مؤشر الطبع",
+     "note_en": "Inherence from the nature of buyers and sellers: greed and fear.",
+     "note_ar": "تلازمه من طبيعة المشترين والبائعين: الطمع والخوف.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b552",
+       "en": "Jesse Livermore quote",
+       "ar": "مقولة Jesse Livermore",
+       "note_en": "People act the same way through greed, fear, ignorance and hope, so patterns recur.",
+       "note_ar": "الناس يتصرفون بالطريقة نفسها بدافع الطمع والخوف والجهل والأمل، فتتكرر الأنماط.",
+       "imp": 2
+      },
+      {
+       "b": "b554",
+       "en": "Entering and exiting",
+       "ar": "الدخول والخروج",
+       "note_en": "Traders choose to enter or exit and carry full responsibility for choices.",
+       "note_ar": "للمتداولين خيار الدخول أو الخروج ويتحملون مسؤوليته.",
+       "imp": 2,
+       "children": [
+        {
+         "b": "b558",
+         "en": "Control is only the choice",
+         "ar": "السيطرة في الاختيار فقط",
+         "note_en": "Our control is limited to the choice; humans act non-rationally through beliefs.",
+         "note_ar": "سيطرتنا محصورة في الاختيار، والإنسان يتصرف عبر معتقداته.",
+         "imp": 3
+        }
+       ]
+      },
+      {
+       "b": "b562",
+       "en": "Increasing and decreasing",
+       "ar": "الزيادة والنقصان",
+       "note_en": "Hope increases orders against the trend; anxiety then decreases them.",
+       "note_ar": "الأمل يزيد الأوامر عكس الاتجاه ثم يجعلها القلق تنقص.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

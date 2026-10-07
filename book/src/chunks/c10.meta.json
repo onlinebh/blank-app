@@ -1,0 +1,68 @@
+{
+ "chunk": "c10",
+ "highlights": [
+  {"b": "b665", "en": "Just buy and sell at extremes.", "level": 2},
+  {"b": "b669", "en": "every natural\nphenomenon has a cause", "level": 1},
+  {"b": "b670", "en": "a cause does\nnot necessarily produce its effect", "level": 1},
+  {"b": "b674", "en": "we must prove that the cause will keep\nworking in the future.", "level": 1},
+  {"b": "b680", "en": "Every time one makes an imperfect induction, one will face these\nproblems.", "level": 1},
+  {"b": "b688", "en": "It\nsuggests that the new external force from the X-propagation may change\nthe velocity (speed and direction).", "level": 1},
+  {"b": "b694", "en": "Watch how the selling force contracts against the external force, the\npropagation of the buying force.", "level": 1},
+  {"b": "b698", "en": "which shows buyers are present", "level": 1},
+  {"b": "b703", "en": "one can make an\ninductive inference that a reversal will follow.", "level": 1},
+  {"b": "b704", "en": "It will continue,\nas in Newton's first law, until an external force sets in at a\nprobability cause point, the 3C. Then price changes direction.", "level": 1},
+  {"b": "b713", "en": "One must be flexible and ready for more complex\nsituations, when the chart shows a probability negative cause and a\npositive cause at the same time.", "level": 1},
+  {"b": "b715", "en": "everything is made of 1-2-3.", "level": 2},
+  {"b": "b717", "en": "A Setup is a propagation with a breakaway to the larger Matrix (the\nJumbo swing).", "level": 1},
+  {"b": "b726", "en": "Everything is made from 1-2-3; propagation and\nNest are also made from 1-2-3.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b664", "en": "Conclusion: Buy at Extremes", "ar": "الخلاصة: الشراء عند الأطراف",
+   "note_en": "Logically constructed Overlay combinations help you reach your trading goals.", "note_ar": "تركيبات Overlay المبنية منطقيًا تساعدك على بلوغ أهدافك في التداول.", "imp": 2,
+   "children": [
+    {"b": "b665", "en": "Buy and sell at extremes", "ar": "اشترِ وبِع عند الأطراف", "note_en": "The practical rule that closes the Overlay paper.", "note_ar": "القاعدة العملية التي تختم ورقة الـ Overlay.", "imp": 2, "children": []}
+   ]},
+  {"b": "b666", "en": "Imperfect Induction", "ar": "الاستقراء الناقص (Imperfect induction)",
+   "note_en": "The everyday reasoning on the chart: a cause worked a few times, so we expect it to work again. It has two gaps.", "note_ar": "التفكير اليومي أمام الرسم: سبب نجح مرات قليلة فنتوقع نجاحه ثانية. وفيه ثغرتان.", "imp": 3,
+   "children": [
+    {"b": "b668", "en": "Problem 1: no definite cause", "ar": "المشكلة 1: لا سبب محدد", "note_en": "Without proof of a definite cause, another cause may be at work, or none.", "note_ar": "دون إثبات سبب محدد قد يعمل سبب آخر، أو لا سبب إطلاقًا.", "imp": 2,
+     "children": [
+      {"b": "b670", "en": "A cause does not necessarily produce its effect", "ar": "السبب لا يُنتج أثره بالضرورة", "note_en": "Old highs looked like a cause to stop the rise, yet each failed (AUDJPY, 1-hour).", "note_ar": "قمم قديمة بدت سببًا لوقف الصعود لكنها فشلت (AUDJPY، 1-hour).", "imp": 2, "children": []}
+     ]},
+    {"b": "b673", "en": "Problem 2: the future", "ar": "المشكلة 2: المستقبل", "note_en": "We must prove the cause will keep working in the future; a past observation promises nothing.", "note_ar": "يجب إثبات أن السبب سيستمر في المستقبل؛ فالملاحظة الماضية لا تعد بشيء.", "imp": 2, "children": []},
+    {"b": "b679", "en": "Lesson for the trader", "ar": "الدرس للمتداول", "note_en": "Be aware of these two gaps, above all when something important rests on the induction.", "note_ar": "انتبه إلى هاتين الثغرتين، خصوصًا حين يقوم عليهما أمر مهم.", "imp": 2, "children": []}
+   ]},
+  {"b": "b681", "en": "Propagation and Probability (AUDCAD)", "ar": "الـ Propagation والاحتمال (AUDCAD)",
+   "note_en": "Using the Propagation lens and adding probability causes one by one to reach an inductive inference about a reversal.", "note_ar": "استخدام عدسة الـ Propagation وإضافة أسباب الاحتمال واحدًا واحدًا للوصول إلى استدلال استقرائي على انعكاس.", "imp": 3,
+   "children": [
+    {"b": "b683", "en": "Jumbo and cause #1", "ar": "الـ Jumbo والسبب #1", "note_en": "The Jumbo is a flat decline and a concentration of selling. An external buying force enters at EP-Jumbo and X-propagates the swings.", "note_ar": "الـ Jumbo هبوط مسطح وتركّز للبيع. وتدخل قوة شراء خارجية عند EP-Jumbo وتعمل X-propagation للـ swings.", "imp": 2,
+     "children": [
+      {"b": "b688", "en": "Positive cause #1", "ar": "السبب الإيجابي #1", "note_en": "The new external force may change the velocity; the next selling swing with contraction confirms it.", "note_ar": "القوة الخارجية قد تغيّر الـ velocity، ويؤكده swing البيع التالي مع contraction.", "imp": 2, "children": []},
+      {"b": "b689", "en": "LS Propagation contracts", "ar": "الـ LS Propagation ينكمش", "note_en": "The last downswing comes with contraction, not expansion.", "note_ar": "آخر هبوط يأتي مع انكماش لا توسع.", "imp": 1, "children": []}
+     ]},
+    {"b": "b690", "en": "Triple Spread, Boxes, cause #2", "ar": "Triple Spread والـ Boxes والسبب #2", "note_en": "Advanced tools make the forces clearer: the selling force shrinks across three Boxes.", "note_ar": "الأدوات المتقدمة توضح القوى: تتقلص قوة البيع عبر ثلاثة Boxes.", "imp": 2,
+     "children": [
+      {"b": "b695", "en": "Box 1, 2, 3", "ar": "Box 1 و2 و3", "note_en": "Box 1 is the Jumbo; Box 2 is smaller in distance and time; in Box 3 sellers cannot concentrate or propagate.", "note_ar": "Box 1 هو الـ Jumbo؛ Box 2 أصغر مسافة وزمنًا؛ وفي Box 3 لا يستطيع البائعون التركّز ولا الـ propagation.", "imp": 2, "children": []},
+      {"b": "b696", "en": "Positive cause #2", "ar": "السبب الإيجابي #2", "note_en": "Contracting selling force against the external buying propagation.", "note_ar": "انكماش قوة البيع أمام propagation الشراء الخارجي.", "imp": 2, "children": []}
+     ]},
+    {"b": "b697", "en": "Volume and cause #3", "ar": "الـ Volume والسبب #3", "note_en": "At EP-Jumbo, buying appears at A and volume reaches a new level; a bar closes near its high, a reversal bar.", "note_ar": "عند EP-Jumbo يظهر الشراء عند A ويصل الـ volume إلى مستوى جديد؛ ويغلق bar قرب أعلاه، وهو reversal bar.", "imp": 2, "children": []},
+    {"b": "b700", "en": "The inductive inference", "ar": "الاستدلال الاستقرائي", "note_en": "Causes #1, #2, #3 together imply a reversal, or at least a change in speed and direction.", "note_ar": "الأسباب #1 و#2 و#3 معًا تدل على انعكاس، أو على الأقل تغيّر في السرعة والاتجاه.", "imp": 3,
+     "children": [
+      {"b": "b704", "en": "Newton's first law", "ar": "قانون نيوتن الأول", "note_en": "The trend is with the buyers and continues until an external force acts at a probability cause point, the 3C.", "note_ar": "الـ trend بيد المشترين ويستمر حتى تدخل قوة خارجية عند نقطة سبب احتمالي، وهي الـ 3C.", "imp": 3, "children": []},
+      {"b": "b707", "en": "Nested Overlay in Box 2", "ar": "Overlay متداخل في Box 2", "note_en": "Zoom into Box 2 to see the same behavior and practice the theory.", "note_ar": "قرّب على Box 2 لترى السلوك نفسه وتتدرب على النظرية.", "imp": 1, "children": []}
+     ]},
+    {"b": "b708", "en": "The gap and the XX bar", "ar": "الفجوة وبار XX", "note_en": "The gap and price reversal add to causes #1-#3; the XX bar is a concentration of buying force from a different level.", "note_ar": "الفجوة وانعكاس السعر تضاف إلى الأسباب #1-#3؛ وبار XX تركّز لقوة الشراء من مستوى مختلف.", "imp": 2, "children": []},
+    {"b": "b712", "en": "A word of caution", "ar": "كلمة تحذير", "note_en": "A reversal is likely but not certain; be flexible when negative and positive causes appear together.", "note_ar": "الانعكاس محتمل لا مؤكد؛ كن مرنًا حين يجتمع سبب سلبي وآخر إيجابي.", "imp": 2, "children": []}
+   ]},
+  {"b": "b714", "en": "Notes on Goodman's Words", "ar": "ملاحظات حول كلمات Goodman",
+   "note_en": "Short notes on one simple idea: everything is made of 1-2-3.", "note_ar": "ملاحظات قصيرة عن فكرة بسيطة: كل شيء مصنوع من 1-2-3.", "imp": 3,
+   "children": [
+    {"b": "b716", "en": "What a Setup is", "ar": "ما هو الـ Setup", "note_en": "A propagation with a breakaway to the larger Matrix; the 1-2 is a Setup, the full 1-2-3 is a trade.", "note_ar": "propagation مع breakaway نحو الـ Matrix الأكبر؛ الـ 1-2 هو Setup والـ 1-2-3 الكامل هو trade.", "imp": 3,
+     "children": [
+      {"b": "b720", "en": "Cancel at the EP of the Matrix", "ar": "الـ cancel عند EP الـ Matrix", "note_en": "The fall AB repeated from C projects the EP; the cancel is the point of equilibrium where the return starts.", "note_ar": "الهبوط AB مكرّرًا من C يُسقط الـ EP؛ والـ cancel نقطة التوازن التي يبدأ منها الـ return.", "imp": 2, "children": []},
+      {"b": "b724", "en": "SPS EP", "ar": "الـ SPS EP", "note_en": "The location at the EP of the Matrix after the cancel, targeting the return.", "note_ar": "الموقع عند EP الـ Matrix بعد الـ cancel، بهدف الـ return.", "imp": 1, "children": []}
+     ]},
+    {"b": "b725", "en": "The maker of every maker", "ar": "صانع كل صانع", "note_en": "Everything, including propagation and Nest, is made from 1-2-3; it depends on looking in or out. Digging deeper means fewer possibilities.", "note_ar": "كل شيء، حتى الـ propagation والـ Nest، مصنوع من 1-2-3؛ والأمر يتوقف على النظر إلى الداخل أو الخارج. وكلما تعمقت قلّت الاحتمالات.", "imp": 3, "children": []}
+   ]}
+ ]
+}

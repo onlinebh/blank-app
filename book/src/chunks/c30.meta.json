@@ -1,0 +1,60 @@
+{
+ "chunk": "c30",
+ "highlights": [
+  {"b": "b1999", "en": "read the behaviour of energy within the", "level": 1},
+  {"b": "b2000", "en": "do not look for divergence between price", "level": 1},
+  {"b": "b2004", "en": "Volume can help detect tipping levels when we watch the relative", "level": 1},
+  {"b": "b2008", "en": "Whichever energy wins in the sideways move can control", "level": 1},
+  {"b": "b2031", "en": "But I do not believe anything without", "level": 1},
+  {"b": "b2032", "en": "tell me what volume is, then play with all the magical equations.", "level": 1},
+  {"b": "b2038", "en": "In the end, success in the market means", "level": 1},
+  {"b": "b2047", "en": "anything that exists has a sign that correlates with it.", "level": 2},
+  {"b": "b2049", "en": "wherever there is a sign, one sign is enough", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b1994", "en": "Guidelines for reading volume", "ar": "إرشادات لقراءة الـ volume",
+   "note_en": "Volume is read as relative energy within the FPS, SS and SPS, together with the momentum of price, never as divergence.",
+   "note_ar": "يُقرأ الـ volume بوصفه طاقة نسبية داخل FPS وSS وSPS مع زخم السعر، لا بوصفه divergence.",
+   "imp": 3,
+   "children": [
+    {"b": "b1998", "en": "A, B and C", "ar": "A وB وC", "note_en": "At A energy produced an FPS, at B an SS, at C an SPS.", "note_ar": "عند A أنتجت الطاقة FPS، وعند B أنتجت SS، وعند C أنتجت SPS.", "imp": 2, "children": []},
+    {"b": "b1999", "en": "Use it in real time", "ar": "الاستخدام في الوقت الحقيقي", "note_en": "Read the behaviour of energy within the FPS, SS and SPS, and watch where volume rises but price tends to move the opposite way.", "note_ar": "اقرأ سلوك الطاقة داخل FPS وSS وSPS، وراقب حيث يرتفع الـ volume لكن السعر يميل إلى الاتجاه المعاكس.", "imp": 2, "children": []},
+    {"b": "b2000", "en": "Caution: no divergence", "ar": "تحذير: لا divergence", "note_en": "Do not look for divergence between price and volume; focus on rising and falling energy with momentum, and be alert when momentum is absent.", "note_ar": "لا تبحث عن divergence بين السعر والـ volume؛ ركّز على صعود الطاقة وهبوطها مع الزخم، وتنبّه عند غياب الزخم.", "imp": 3, "children": []},
+    {"b": "b2003", "en": "Energy at each point", "ar": "الطاقة عند كل نقطة", "note_en": "A: sufficient buyers; B: energy with a tendency lower in the correction of the FPS; C: energy with a tendency higher in the nested 1-2-3; last line: abnormal increase at a new high, then equilibrium on low volume.", "note_ar": "A: مشترون كافون؛ B: طاقة مع ميل هابط في تصحيح FPS؛ C: طاقة مع ميل صاعد في الـ 1-2-3 المتداخل؛ الخط الأخير: زيادة غير طبيعية عند قمة جديدة ثم توازن على volume منخفض.", "imp": 1, "children": []},
+    {"b": "b2004", "en": "Tipping levels", "ar": "مستويات التحول", "note_en": "Relative increases in volume reveal tipping levels: buyers unable to go higher at B, sellers unable to go lower at C; neither has momentum to transit.", "note_ar": "الزيادات النسبية في الـ volume تكشف مستويات التحول: المشترون عاجزون عن الصعود عند B، والبائعون عاجزون عن الهبوط عند C؛ ولا زخم لأيٍّ منهما للانتقال.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b2005", "en": "Two more examples", "ar": "مثالان آخران",
+   "note_en": "Two more EURUSD examples reading energy around the MO origin point and at an SPS.",
+   "note_ar": "مثالان إضافيان على EURUSD لقراءة الطاقة حول نقطة أصل الـ MO وعند SPS.",
+   "imp": 2,
+   "children": [
+    {"b": "b2008", "en": "Points 1, 2, 3 around the MO", "ar": "النقاط 1 و2 و3 حول MO", "note_en": "Decreased energy on the fall at 1, rising energy at 2 creates the MO origin, sideways at 3. Whichever energy wins in the sideways move can control the market.", "note_ar": "طاقة متناقصة في الهبوط عند 1، وطاقة متزايدة عند 2 تنشئ أصل الـ MO، وحركة جانبية عند 3. والطاقة التي تفوز في الحركة الجانبية يمكنها التحكم في السوق.", "imp": 2, "children": []},
+    {"b": "b2011", "en": "Point X: tendency up", "ar": "النقطة X: الميل صاعد", "note_en": "Energy increased and price transited with good momentum, so the tendency is up: the SPS.", "note_ar": "ازدادت الطاقة وانتقل السعر بزخم جيد، فالميل صاعد: الـ SPS.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b2013", "en": "Volume (2021): my struggle", "ar": "Volume (2021): صراعي",
+   "note_en": "The author's story of moving from confusion about volume to a simple, logical definition he can trade with.",
+   "note_ar": "قصة المؤلف في الانتقال من الحيرة بشأن الـ volume إلى تعريف بسيط ومنطقي يستطيع التداول به.",
+   "imp": 3,
+   "children": [
+    {"b": "b2015", "en": "What I thought volume was", "ar": "ما ظننته عن الـ volume", "note_en": "He first knew volume only as sound, from audio editors and his brother's complaint, set at 20%.", "note_ar": "لم يعرف الـ volume أول الأمر إلا بوصفه صوتًا، من محرّرات الصوت وشكوى أخيه، مضبوطًا على 20%.", "imp": 1, "children": []},
+    {"b": "b2024", "en": "Meeting volume in the market", "ar": "لقاء الـ volume في السوق", "note_en": "Columns that all looked the same meant nothing, while books made it a top priority and he wanted the next direction.", "note_ar": "أعمدة متشابهة لم تعنِ شيئًا، بينما جعلتها الكتب أولوية قصوى وهو يريد الاتجاه التالي.", "imp": 1, "children": []},
+    {"b": "b2030", "en": "Stories without evidence", "ar": "قصص بلا دليل", "note_en": "He rejects manipulator stories, equations and divergence charts with no definition of volume, and sees indicators as a second translator.", "note_ar": "يرفض قصص المتلاعبين والمعادلات ورسوم divergence من دون تعريف للـ volume، ويرى المؤشرات مترجمًا ثانيًا.", "imp": 2,
+     "children": [
+      {"b": "b2031", "en": "No belief without evidence", "ar": "لا تصديق بلا دليل", "note_en": "Anyone can make a claim; without evidence he cannot accept it or profit from it.", "note_ar": "يستطيع أي أحد أن يدّعي؛ ومن دون دليل لا يقبل ولا يربح.", "imp": 2, "children": []},
+      {"b": "b2032", "en": "First define volume", "ar": "عرّف الـ volume أولًا", "note_en": "Tell me what volume is, then play with the equations.", "note_ar": "أخبروني ما هو الـ volume، ثم العبوا بالمعادلات.", "imp": 2, "children": []}
+     ]},
+    {"b": "b2034", "en": "Finding my own path", "ar": "العثور على طريقي", "note_en": "With no central volume in Forex, he chose a logical, safer path over fighting the lion; success means trading with confidence, and confidence depends on character.", "note_ar": "مع غياب volume مركزي في Forex، اختار طريقًا منطقيًّا أكثر أمانًا بدل مصارعة الأسد؛ والنجاح تداول بثقة، والثقة تعتمد على الشخصية.", "imp": 2, "children": []},
+    {"b": "b2039", "en": "Expectation versus reality", "ar": "التوقع في مقابل الواقع", "note_en": "His dream-car expectations about volume were greed; minds can change, and one should look for what is, not what he thinks should be (Einstein).", "note_ar": "كانت توقعاته عن الـ volume طمعًا؛ والعقول تتغير، وعلى المرء أن يبحث عمّا هو كائن لا عمّا يظن أنه ينبغي أن يكون (Einstein).", "imp": 2, "children": []},
+    {"b": "b2046", "en": "The Rule of Signs", "ar": "قاعدة العلامات", "note_en": "Anything that exists has a sign that correlates with it, as with the schoolmate who claimed to arrive by helicopter. One sign is enough to start the journey.", "note_ar": "كل ما هو موجود له علامة ترتبط به، كزميل المدرسة الذي ادّعى أنه يأتي بطائرة مروحية. وتكفي علامة واحدة لنبدأ الرحلة.", "imp": 3,
+     "children": [
+      {"b": "b2049", "en": "Lesson: follow the sign", "ar": "الدرس: اتبع العلامة", "note_en": "Wherever there is a sign, one sign is enough to start a simple path.", "note_ar": "حيثما توجد علامة، تكفي واحدة لبدء طريق بسيط.", "imp": 3, "children": []}
+     ]}
+   ]
+  }
+ ]
+}

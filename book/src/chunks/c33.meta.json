@@ -1,0 +1,53 @@
+{
+ "chunk": "c33",
+ "highlights": [
+  {"b": "b2145", "en": "follow each other, their volume is added into one buyer column.", "level": 1},
+  {"b": "b2146", "en": "is the fold point: maximum one-sided commitment, immediately before the", "level": 1},
+  {"b": "b2154", "en": "say \"sell\". It says the sellers have all sold.", "level": 1},
+  {"b": "b2158", "en": "real extreme shows on every feed at once,", "level": 1},
+  {"b": "b2160", "en": "I am measuring agreement.", "level": 1},
+  {"b": "b2167", "en": "at the same time, that is an excellent signal.", "level": 1},
+  {"b": "b2172", "en": "Consensus is when I have two contradictory forces, both at their", "level": 1},
+  {"b": "b2174", "en": "climax is exhaustion. When everyone is buying the dollar, it means sell", "level": 2},
+  {"b": "b2179", "en": "A wave is a record when its volume is above the", "level": 1},
+  {"b": "b2179", "en": "me up or down. Direction belongs to the method.", "level": 1},
+  {"b": "b2183", "en": "wait for the waves to end.", "level": 1},
+  {"b": "b2184", "en": "One extreme is a hint. Two contradictory climaxes is the signal.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b2142", "en": "Indicator: Continuity + Consensus Extreme", "ar": "المؤشر: Continuity + Consensus Extreme",
+   "note_en": "The author's TradingView indicator (ContExtT) classifies bars by structure, counts continuity volume and marks consensus extremes.", "note_ar": "مؤشر المؤلف على TradingView (ContExtT) يصنّف الـ bars بالبنية، ويعدّ continuity volume، ويضع علامة على consensus extremes.", "imp": 3,
+   "children": [
+    {"b": "b2144", "en": "1. Classify bars by structure", "ar": "1. تصنيف الـ bars بالبنية", "note_en": "Bull bar = higher high and higher low; bear bar = lower high and lower low; inside/outside bars are undecided.", "note_ar": "bull bar له higher high وhigher low؛ وbear bar عكسه؛ والـ inside/outside غير محسومة.", "imp": 1},
+    {"b": "b2145", "en": "2. Continuity volume", "ar": "2. Continuity volume", "note_en": "Volume of same-direction bars is added into one column; inside/outside volume waits in a pending pool. The move, not the clock, defines the count.", "note_ar": "يُجمع volume الـ bars المتتابعة في عمود واحد، وحجم الـ inside/outside ينتظر في مخزن معلّق. الحركة لا الساعة تحدد العدّ.", "imp": 2},
+    {"b": "b2146", "en": "3. Consensus extreme", "ar": "3. Consensus extreme", "note_en": "A streak with a record total in the lookback (50 bars) gets a gold dot: the fold point just before reversal.", "note_ar": "سلسلة بمجموع قياسي ضمن نافذة النظر (50 bar) تنال نقطة ذهبية: نقطة الانطواء قبل الانعكاس.", "imp": 3,
+     "children": [
+      {"b": "b2154", "en": "Contrarian by design", "ar": "معاكس عن قصد", "note_en": "A record seller streak does not say sell; it says the sellers have all sold.", "note_ar": "سلسلة بائعين قياسية لا تعني بِع؛ بل أن البائعين باعوا جميعًا.", "imp": 3},
+      {"b": "b2156", "en": "AUDUSD example", "ar": "مثال AUDUSD", "note_en": "Record seller streak ends 24 Feb; low 0.70942 and a rise of about 195 pips; a record buyer streak marks exhaustion.", "note_ar": "سلسلة بائعين قياسية تنتهي في 24 Feb؛ قاع 0.70942 وصعود نحو 195 pips؛ وسلسلة مشترين قياسية تشير للإنهاك.", "imp": 1}
+     ]}
+   ]},
+  {"b": "b2157", "en": "Many Feeds, One Vote: Composite Volume", "ar": "مصادر كثيرة، صوت واحد",
+   "note_en": "Combining several brokers' tick volume works better than one feed because a real extreme shows on all feeds.", "note_ar": "جمع tick volume من عدة وسطاء أفضل من مصدر واحد لأن الـ extreme الحقيقي يظهر على كل المصادر.", "imp": 2,
+   "children": [
+    {"b": "b2159", "en": "Mean vs median", "ar": "Mean مقابل median", "note_en": "The mean lets one feed pull the composite; the median follows most feeds and ignores the outlier.", "note_ar": "الـ mean يسمح لمصدر واحد بسحب الـ composite؛ والـ median يتبع الأغلبية.", "imp": 2},
+    {"b": "b2160", "en": "Measuring agreement, not the world", "ar": "قياس الاتفاق لا العالم", "note_en": "Feeds overlap, so the goal is agreement (about 70% of ticks agree between brokers), not true market volume.", "note_ar": "المصادر متداخلة، والهدف قياس الاتفاق (نحو 70% من الـ ticks تتفق بين الوسطاء) لا الـ volume الحقيقي.", "imp": 2},
+    {"b": "b2161", "en": "Cross-pair illustration", "ar": "توضيح عبر الأزواج", "note_en": "EURUSD, GBPUSD, AUDUSD each divided by own five-day median; composite peaks 24 Feb 18:00 (median 3.76 vs mean 3.30), EURUSD then rises 168 pips.", "note_ar": "كل زوج مقسوم على median خمسة أيام؛ ذروة الـ composite في 24 Feb عند 18:00 (median 3.76 مقابل mean 3.30)، ثم يرتفع EURUSD 168 pips.", "imp": 1}
+   ]},
+  {"b": "b2165", "en": "Two Currencies, Two Votes", "ar": "عملتان، صوتان",
+   "note_en": "A pair has two currencies with opposite volume; the strongest signal is a double climax in both.", "note_ar": "للزوج عملتان بـ volume متعاكس؛ وأقوى إشارة هي الـ double climax في كليهما.", "imp": 3,
+   "children": [
+    {"b": "b2168", "en": "Three ways EURUSD rises", "ar": "ثلاث طرق لارتفاع EURUSD", "note_en": "Euro bought more than dollar; euro bought, dollar unchanged; euro unchanged, dollar sold.", "note_ar": "اليورو مشترى أكثر من الدولار؛ يورو مشترى والدولار ثابت؛ يورو ثابت والدولار مبيع.", "imp": 1},
+    {"b": "b2172", "en": "Consensus: two climaxes", "ar": "الإجماع: climaxان", "note_en": "Dollar buying climax plus euro selling climax: two exhausted crowds push EURUSD up.", "note_ar": "buying climax في الدولار وselling climax في اليورو: جمهوران منهكان يدفعان EURUSD للأعلى.", "imp": 3,
+     "children": [
+      {"b": "b2174", "en": "Rule: climax is exhaustion", "ar": "القاعدة: الـ climax إنهاك", "note_en": "When everyone buys the dollar, sell the dollar; when everyone sells the euro, buy the euro.", "note_ar": "حين يشتري الجميع الدولار فبعه؛ وحين يبيع الجميع اليورو فاشتره.", "imp": 3}
+     ]},
+    {"b": "b2177", "en": "Problem with DXY", "ar": "مشكلة DXY", "note_en": "DXY is weighted and over half euro, so it is mostly the euro upside down and gives no fair second opinion.", "note_ar": "DXY موزون واليورو أكثر من نصفه، فهو اليورو مقلوبًا ولا يعطي رأيًا ثانيًا عادلًا.", "imp": 2},
+    {"b": "b2178", "en": "Own equal-weight index", "ar": "مؤشر بأوزان متساوية", "note_en": "Seven pairs per currency, each divided by its own average, combined by median; quote-side pairs read upside down.", "note_ar": "سبعة أزواج لكل عملة، كل منها مقسوم على متوسطه، تُجمع بالـ median؛ وأزواج الـ quote تُقرأ مقلوبة.", "imp": 2},
+    {"b": "b2179", "en": "NetGate tool (2026)", "ar": "أداة NetGate (2026)", "note_en": "Swings end after a 25% correction; record wave volume on at least 3 of 7 pairs for both currencies; waves must have ended; never gives direction.", "note_ar": "تنتهي الـ swings بتصحيح 25%؛ موجة قياسية في 3 من 7 أزواج للعملتين؛ يجب أن تنتهي الموجات؛ ولا يعطي اتجاهًا.", "imp": 2},
+    {"b": "b2183", "en": "Real example: 24 Feb EURUSD", "ar": "مثال حقيقي: EURUSD في 24 Feb", "note_en": "EUR index sold in a 54.3x wave, USD index bought in a 44.5x wave; wait for waves to end (12:00, 17:00); low 1.11062 then 1.12739, 168 pips up.", "note_ar": "مؤشر EUR مبيع في موجة 54.3x ومؤشر USD مشترى في موجة 44.5x؛ انتظر انتهاء الموجات؛ قاع 1.11062 ثم 1.12739 بصعود 168 pips.", "imp": 2,
+     "children": [
+      {"b": "b2184", "en": "Lesson: two climaxes are the signal", "ar": "الدرس: climaxان هما الإشارة", "note_en": "One extreme is a hint; two contradictory climaxes is the signal.", "note_ar": "extreme واحد تلميح؛ وclimaxان متناقضان هما الإشارة.", "imp": 3}
+     ]}
+   ]}
+ ]
+}

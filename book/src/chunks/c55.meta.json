@@ -1,0 +1,207 @@
+{
+ "chunk": "c55",
+ "highlights": [
+  {
+   "b": "b3429",
+   "en": "Standing alone, the raw figures offer all but the\nshortest-term traders a meaningful edge.",
+   "level": 1
+  },
+  {
+   "b": "b3432",
+   "en": "a divergence: prices fail to\nexceed a recent high, but the bullish consensus rises.",
+   "level": 1
+  },
+  {
+   "b": "b3454",
+   "en": "the Playbook proved the division of labour worked.",
+   "level": 1
+  },
+  {
+   "b": "b3458",
+   "en": "the CODEX became the reference shelf behind everything\nelse.",
+   "level": 1
+  },
+  {
+   "b": "b3461",
+   "en": "You work down from the large\ndegree to the trade.",
+   "level": 1
+  },
+  {
+   "b": "b3464",
+   "en": "this was the paper that taught me how to read a Line",
+   "level": 1
+  }
+ ],
+ "mindmap": [
+  {
+   "b": "b3429",
+   "en": "The consensus data has an edge",
+   "ar": "للـ consensus أفضلية",
+   "note_en": "Even between the extremes (90% / 20%) the raw FBCR figures give useful predictive insight, and the FBCR built several indicators from them.",
+   "note_ar": "حتى بين الطرفين (90% و20%) تعطي أرقام الـ FBCR الخام بصيرة تنبؤية مفيدة، وقد بنى الـ FBCR عدة مؤشرات منها.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3431",
+     "en": "Indicators built from the data",
+     "ar": "مؤشرات مبنية على البيانات",
+     "note_en": "Triad, week-to-week change, recurring patterns, professional vs amateur comparison, divergence with prices and indicators.",
+     "note_ar": "الـ Triad والتغير الأسبوعي والأنماط المتكررة ومقارنة المحترفين بالهواة والـ divergence.",
+     "imp": 1
+    },
+    {
+     "b": "b3432",
+     "en": "Divergence pattern",
+     "ar": "نمط الـ divergence",
+     "note_en": "Prices fail to exceed a recent high while the bullish consensus rises.",
+     "note_ar": "يعجز السعر عن تجاوز قمة حديثة بينما يرتفع الـ bullish consensus.",
+     "imp": 2
+    }
+   ]
+  },
+  {
+   "b": "b3433",
+   "en": "Michael's background",
+   "ar": "خلفية Michael",
+   "note_en": "The trader pool rests on his long career: first trade in 1973, CTA and Investment Advisor, brokerage in Honolulu.",
+   "note_ar": "تقوم مجموعة المتداولين على مسيرته الطويلة: أول صفقة في 1973، وCTA وInvestment Advisor، ووساطة في Honolulu.",
+   "imp": 1,
+   "children": [
+    {
+     "b": "b3434",
+     "en": "Career and research",
+     "ar": "المسيرة والأبحاث",
+     "note_en": "Technical analysis research since 1968–1972 on a Data General Nova; CFTC and SEC registrations.",
+     "note_ar": "أبحاث في التحليل الفني منذ 1968–1972 على Data General Nova، وتسجيلات لدى CFTC وSEC.",
+     "imp": 1
+    },
+    {
+     "b": "b3435",
+     "en": "AI program and books",
+     "ar": "برنامج AI والكتب",
+     "note_en": "Automated program averaging 48% per annum; Getting Started in Currency Trading; mentored 200+ traders.",
+     "note_ar": "برنامج آلي بمتوسط 48% سنويًا؛ كتاب Getting Started in Currency Trading؛ وإرشاد أكثر من 200 متداول.",
+     "imp": 1
+    }
+   ]
+  },
+  {
+   "b": "b3436",
+   "en": "What the weekly reports recorded",
+   "ar": "ما سجّلته التقارير الأسبوعية",
+   "note_en": "Workbooks with a HOME sheet and one sheet per pair, covering 44 weekly polls from September 2022 to July 2023.",
+   "note_ar": "ملفات workbook فيها ورقة HOME وورقة لكل زوج، تغطي 44 استطلاعًا أسبوعيًا من September 2022 إلى July 2023.",
+   "imp": 2,
+   "children": [
+    {
+     "b": "b3438",
+     "en": "Pairs covered",
+     "ar": "الأزواج المشمولة",
+     "note_en": "Eighteen pairs, later also CL, AU, SPX, BTCUSD and TY10.",
+     "note_ar": "ثمانية عشر زوجًا، ثم CL وAU وSPX وBTCUSD وTY10.",
+     "imp": 1
+    },
+    {
+     "b": "b3443",
+     "en": "Findings on professional readings",
+     "ar": "ما تُظهره قراءات المحترفين",
+     "note_en": "Extremes were rare; EURUSD and GBPUSD swung hard; USDJPY crossed from extreme to extreme; Yen crosses dominated the highs.",
+     "note_ar": "القراءات المتطرفة نادرة؛ تأرجح EURUSD وGBPUSD؛ عبر USDJPY من طرف إلى طرف؛ وهيمنت أزواج الين على القراءات المرتفعة.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3444",
+       "en": "Final report, 8 July 2023",
+       "ar": "التقرير الأخير 8 July 2023",
+       "note_en": "Readings at or above 90%: EURCAD 91, GBPJPY 90, GBPUSD 91, USDJPY 92.",
+       "note_ar": "القراءات عند 90% فأعلى: EURCAD 91، GBPJPY 90، GBPUSD 91، USDJPY 92.",
+       "imp": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "b": "b3445",
+   "en": "What We Built Together (2024–2026)",
+   "ar": "ما بنيناه معًا (2024–2026)",
+   "note_en": "Michael wrote and I drew; I also took on layout, covers, website and courses.",
+   "note_ar": "كتب Michael وأنا رسمت، وتولّيت أيضًا التصميم والأغلفة والموقع والدورات.",
+   "imp": 3,
+   "children": [
+    {
+     "b": "b3450",
+     "en": "Goodman Trader's Playbook (Molokai)",
+     "ar": "Playbook وMolokai",
+     "note_en": "Michael wrote the text, I drew 52 diagrams and designed the cover; named Molokai after his honeymoon island.",
+     "note_ar": "كتب Michael النص ورسمتُ 52 diagram وصمّمتُ الغلاف؛ وسُمّي Molokai على جزيرة شهر العسل.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3454",
+       "en": "Lesson: division of labour",
+       "ar": "الدرس: تقسيم العمل",
+       "note_en": "The Playbook proved the division of labour worked.",
+       "note_ar": "أثبت الـ Playbook أن تقسيم العمل ينجح.",
+       "imp": 2
+      }
+     ]
+    },
+    {
+     "b": "b3455",
+     "en": "Goodman CODEX 2026",
+     "ar": "Goodman CODEX 2026",
+     "note_en": "Rebuilt in December 2025 with 15–20 added articles and split into two parts.",
+     "note_ar": "أُعيد بناؤه في December 2025 بإضافة 15–20 مقالة وقُسم إلى جزأين.",
+     "imp": 2,
+     "children": [
+      {
+       "b": "b3458",
+       "en": "Lesson: the reference shelf",
+       "ar": "الدرس: رفّ المراجع",
+       "note_en": "Every later book points back to the CODEX.",
+       "note_ar": "كل كتاب لاحق يعود إلى الـ CODEX.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3459",
+     "en": "Goodman for Grasshoppers",
+     "ar": "Goodman for Grasshoppers",
+     "note_en": "Introductory book; my part was the cover built on the Goodman Smoothie.",
+     "note_ar": "كتاب تمهيدي؛ ونصيبي الغلاف المبني على Goodman Smoothie.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3461",
+       "en": "Lesson: large degree to the trade",
+       "ar": "الدرس: من الـ degree الكبيرة إلى الصفقة",
+       "note_en": "The Smoothie shows a new student how to work down to the trade.",
+       "note_ar": "تُري الـ Smoothie الطالب الجديد كيف ينزل إلى الصفقة.",
+       "imp": 1
+      }
+     ]
+    },
+    {
+     "b": "b3462",
+     "en": "Over the Over",
+     "ar": "Over the Over",
+     "note_en": "Michael's study of the Line; I made its cover and it fed the second GWT course.",
+     "note_ar": "دراسة Michael عن الـ Line؛ صنعتُ غلافها وغذّت دورة GWT الثانية.",
+     "imp": 1,
+     "children": [
+      {
+       "b": "b3464",
+       "en": "Lesson: how to read a Line",
+       "ar": "الدرس: كيف تقرأ الـ Line",
+       "note_en": "The paper taught me to read a Line.",
+       "note_ar": "علّمتني هذه الورقة كيف أقرأ الـ Line.",
+       "imp": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

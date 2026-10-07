@@ -1,0 +1,311 @@
+##CTX Part: Rung 1 · Being: Who Was Charlie? | Section: Introduction to Goodman: Method, Probability and the Will of the Market (2022)
+
+@@b236 h3
+1.3 Chances and the
+Structure of the Matrix
+
+@@b238 p
+Figure: Three Matrices with the same FPS and SS but different SPS —
+the b-matrix covers the most boxes in the least time, so it has the
+highest velocity.
+
+@@b239 p
+In this figure the FPS and SS are the same in all three, but the SPS
+has a different outcome in each. The difference between the a-, b- and
+c-matrix lies in the number of boxes and, assuming some number of bars
+for each SPS, in time:
+
+@@b240 table
+<thead>
+<tr>
+<th><strong>a-matrix</strong></th>
+<th><strong>b-matrix</strong></th>
+<th><strong>c-matrix</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 boxes, 8 bars</td>
+<td>3 boxes, 5 bars</td>
+<td>1.5 boxes, 12 bars</td>
+</tr>
+<tr>
+<td>V = 2/8 = 0.25</td>
+<td>V = 3/5 = 0.6</td>
+<td>V = 1.5/12 = 0.125</td>
+</tr>
+</tbody>
+
+@@b241 p
+What makes the b-matrix gain the most while the others gain less? Any
+movement, even in price, can be interpreted with Newton's first law of
+motion: there must be a cause (a net external force) for any change in
+velocity, either in magnitude or in direction.
+
+@@b242 p
+Velocity is V = Δx / Δt, where x is boxes and t is time. In words:
+more boxes in less time means more velocity.
+
+@@b243 p
+The greatest buying velocity is in the b-matrix. But what made the
+buyers so aggressive there, compared with the other Matrices? There are
+two possible answers, and they are mutually exclusive events: {chance, a
+definite cause}.
+
+@@b244 h4
+Two Kinds of Chance
+
+@@b245 p
+Let us discuss chance. There are two types:
+
+@@b246 ul
+<li><p><strong>Absolute chance</strong>: an effect without any cause.
+Most philosophers do not accept this type. An example: someone throws a
+coin and, as an effect, gains $1,000,000.</p></li>
+<li><p><strong>Relative chance</strong>: an effect with a cause, but
+without repetition. A coin flip has only two possibilities, {Tails,
+Heads}. If someone keeps flipping, it cannot be that only Tails appear
+in every 100 throws. No cause makes the coin show only Tails. Sometimes
+Tails, sometimes Heads.</p></li>
+
+@@b247 p
+Another example: someone opens his door and suddenly finds his friend
+in front of it. That is a chance with a cause, because his friend came
+for some reason. But an event without repetition cannot become a rule.
+We cannot say that every time he opens the door he will find his friend
+there. It is a relative chance.
+
+@@b248 h4
+Relative Chance and the 3-C
+
+@@b250 p
+Figure: In case A the SPS achieves the 3-C count; in case B it
+suddenly stops short — a relative chance that we must observe.
+
+@@b251 p
+At A the SPS achieves the 3-C count. At B, suddenly, the sellers
+change their will or the buyers lose theirs. It is a relative chance.
+Still, it is important to observe it when the SPS cannot achieve the
+count, or when the SPS passes the over-count.
+
+@@b252 p
+So what is the probability that buying passes the over-count?
+
+@@b253 p
+Group = {buyers strong, buyers regular, buyers weak} = 3
+possibilities. The probability = 1/3 = 33.3%.
+
+@@b254 p
+If there is no absolute chance in the world, and none in the market,
+can we build a Matrix combination that removes "buyers weak" from the
+group? Then the group is {buyers strong, buyers regular}, and the
+probability = 1/2 = 50%.
+
+@@b255 p
+Everything — Propagation, Intersection, 3-C and the other advanced
+Overlays — is an experiment that removes "buyers weak" from the group of
+probabilities when we buy. Every Overlay is part of the whole; every
+principle is part of the whole.
+
+@@b256 p
+Our job is to find the path where the opposite will is weakest, as in
+the b-matrix. That lets us gain more profit.
+
+@@b257 p
+Remember: Goodman's theory is a holistic approach. Every concept is
+part of the whole.
+
+@@b258 h4
+Balancing the Concepts
+
+@@b259 p
+Balance aims to bring all the concepts into one system of measures
+that can eliminate the unwanted probability events. It does this through
+either a joint or a disjoint relationship, which I explain below. We can
+induce that balance from our own experiments:
+
+@@b260 p
+Probability of buying strong = (number of experiments showing strong
+buying) / (total number of experiments, buying weak or strong).
+
+@@b261 h3
+Anticipating the Future
+
+@@b262 p
+After explaining how to interpret the market, let us discuss how to
+anticipate the future.
+
+@@b263 p
+The future is something coming to us. It is the probability of a set
+of relative chances. What future comes from flipping a coin? {T, H}. And
+what future comes from trading Goodman?
+
+@@b264 ul
+<li><p><strong>Buying strong</strong> — the effect is a winning
+trade.</p></li>
+<li><p><strong>Buying regular</strong> — the effect is at least
+breakeven.</p></li>
+<li><p><strong>Buyers weak</strong> — the effect is a losing
+trade.</p></li>
+
+@@b265 h4
+The Basic Goodman Setup
+
+@@b267 p
+Figure: The basic Goodman Setup — buyers must show their ability with
+at least one Propagation before you trade the Return.
+
+@@b268 p
+It must be clear to the reader how important at least one Propagation
+is. Buyers must show their ability first, before you trade!
+
+@@b269 p
+One of my favorite things Charlie says:
+
+@@b270 blockquote
+<p>"Dad, all that information is passing by and none of those people has
+any idea how to use it. They are just sitting there staring when they
+could be ghost trading, making tentative predictions and getting in tune
+with the markets. If you are not proactive you can't learn a thing! If
+you don't ask a question, you will never find the answer. If you don't
+look for something, you will never find it. Would you get on a horse and
+just let the horse take you wherever it decides to go – and not knowing
+how to make it speed up, slow down, turn right or turn left? Well,
+that's what they are doing." — Goodman</p>
+<p>"Attempting to divorce the technique from the other components will
+result in the loss of a great deal of possible synergy the methodology
+offers to traders." — Archer</p>
+
+@@b271 p
+When we interpret the different types of Matrix, whether buying is
+strong or sellers are weak, we must study each Matrix as part of the
+whole. Every Matrix is one scene of the movie. The other Matrices reveal
+one picture; the Outward Matrix reveals another.
+
+@@b272 blockquote
+<p>"Well that men search for knowledge in lesser worlds, and not in the
+greater or common world." — Heraclitus</p>
+
+@@b273 h3
+1.3a Matrix Combination
+
+@@b274 p
+Every Matrix describes a concept, and there are two types of
+concept:
+
+@@b275 ul
+<li><p><strong>General concept</strong>: understanding the facts as an
+abstraction that applies to many objects. Example: the buyers in the SPS
+meet the EP of the FPS.</p></li>
+<li><p><strong>Partial concept</strong>: understanding a fact that
+applies only to one definite object. Example: the SPS struggles as it
+meets the EP of the FPS — it is a Knot.</p></li>
+
+@@b277 p
+Figure: The general concept (the SPS meeting EP-FPS, where buyers
+stand among the Goodman points) and the partial concept on a lower time
+frame (buyers and sellers moving into a Knot).
+
+@@b278 p
+Combined, these concepts reveal the condition of buyers and sellers:
+strong or weak, even in a sideways market. The partial concept is always
+part of the general concept. Between them there is a relationship:
+
+@@b279 blockquote
+<p>1. <strong>Joint</strong>: the Knot develops into a Propagation that
+continues the SPS of the general concept. Here the combination reveals a
+strong buying picture.</p>
+
+@@b281 p
+Figure: Joint relationship — the lower-time-frame Knot resolves
+upward and continues the SPS.
+
+@@b282 blockquote
+<p>1. <strong>Disjoint</strong>: the lower time frames reveal that
+sellers are strong.</p>
+
+@@b284 p
+Figure: Disjoint relationship — the lower time frame breaks down at
+the 50% level and shows sellers in control.
+
+@@b285 p
+The relationship can also change, from joint to disjoint or from
+disjoint to joint.
+
+@@b287 p
+Figure: Joint-disjoint relationship — the lower time frame first
+breaks down, then turns and rejoins the larger move.
+
+@@b288 blockquote
+<p>"Art is never finished, only abandoned." — Leonardo da Vinci</p>
+
+@@b289 h3
+1.3b The Cause Behind Each
+Swing
+
+@@b290 p
+The market is a game of chances. The best way to show how price moves
+is to imagine two players. One plays for the group on the buying side,
+the other for the group on the selling side.
+
+@@b291 p
+Each has limited capital, but neither knows the other's capital. This
+is the unknown factor. On each turn, each player decides only the lot
+size. Lot = expectation, and both have free will to choose it. The
+remainder is the amount left over after each turn.
+
+@@b292 ul
+<li><p><strong>Win rule</strong>: whoever puts in the larger lot
+(expectation) wins after the remainder.</p></li>
+<li><p><strong>Loss rule</strong>: whoever puts in the smaller lot
+(expectation) loses after the remainder.</p></li>
+<li><p><strong>Equal</strong>: equal lots leave no remainder, so no one
+wins or loses.</p></li>
+
+@@b293 table
+<thead>
+<tr>
+<th><strong>Turn</strong></th>
+<th><strong>Price</strong></th>
+<th><strong>What happens</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sideways</td>
+<td>No remainder.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Declines</td>
+<td>Sellers win by increasing their expectation from 100 to 500.
+Important selling: sellers strong, buyers weak.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Declines</td>
+<td>Sellers' expectation rises from 100 to 500 to 1,000, while buyers
+are controlled by fear. To win, buyers must absorb the remaining 1,000
+shares. Buyers weak, sellers strong.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Advances</td>
+<td>For unknown reasons, the buyers' expectation jumps from 200 to
+10,000. Important buying: they become greedy. Buyers strong, sellers
+weak.</td>
+</tr>
+</tbody>
+
+@@b294 p
+The basic rule of the trend is to follow the remainder of the orders
+coming from buyers and sellers. Watch for an unusual order, such as the
+10,000 from the buying side. It shows that buyers have changed their
+opinion by being willing to pay for large lots. It reveals their
+expectation.
+
+@@b295 p
+In brief: lots = volume = expectation. The greater the variance in
+expectation, the more it points to important buying or selling.
+

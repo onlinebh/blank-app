@@ -1,0 +1,59 @@
+{
+ "chunk": "c47",
+ "highlights": [
+  {"b":"b2976","en":"\"Focus on Repetition instead of emotions. Let emotions distil in the\nsea of Repetition.\"","level":2},
+  {"b":"b2980","en":"refusing to spend one of my\nthirty souls on a trade I do not want","level":1},
+  {"b":"b2982","en":"\"Don't draw big conclusions\nfrom little data,\"","level":1},
+  {"b":"b2983","en":"If I learn only from outcomes, I learn the wrong lessons.","level":1},
+  {"b":"b2986","en":"the crowd keeps you looking at the wrong things.","level":1},
+  {"b":"b2990","en":"Greed feels like wanting more. In practice it is the fastest way to\nhave less.","level":1},
+  {"b":"b2993","en":"I do not argue with the drawdown. I do not try to win it back fast. I\nmake the next steps smaller until I am calm again.","level":1},
+  {"b":"b2995","en":"\"Mistakes =\nany controllable action in wrong time.\"","level":1},
+  {"b":"b2999","en":"If I respect myself, I keep my promises to myself.","level":1},
+  {"b":"b3001","en":"never change the core .\"","level":1},
+  {"b":"b3005","en":"This is where I trade from.","level":1},
+  {"b":"b3016","en":"Raise lot size slowly.","level":1},
+  {"b":"b3016","en":"Always add after a down cycle in equity.","level":1},
+  {"b":"b3017","en":"The method held. The trader was\nrushed. Size is where an honest trader gets hurt.","level":1},
+  {"b":"b3025","en":"Some lessons only arrive when the\nstudent is ready, and no explanation will hurry them.","level":1}
+ ],
+ "mindmap": [
+  {"b":"b2974","en":"Where I Trade From (continued)","ar":"من أين أتداول (تتمة)","note_en":"Mohamed's inner-game map built over 2021-2026: repetition, waiting, process, avoiding the crowd, taming greed, and self-respect.","note_ar":"خريطة Mohamed للعبة الداخلية بين 2021 و2026: التكرار، الانتظار، العملية، تجنب الحشد، ترويض الجشع، واحترام الذات.","imp":3,
+   "children":[
+    {"b":"b2974","en":"Repetition instead of emotion","ar":"التكرار بدل العاطفة","note_en":"Habit comes from repeating action; consistent repetition with low standard deviation lets emotions settle and stop steering.","note_ar":"العادة تأتي من تكرار الفعل؛ والتكرار الثابت يُترسّب المشاعر فتكفّ عن القيادة.","imp":3,
+     "children":[
+      {"b":"b2976","en":"Let emotions distil","ar":"دع المشاعر تتقطّر","note_en":"October 2, 2024: focus on Repetition, not emotions.","note_ar":"2 أكتوبر 2024: ركّز على التكرار لا المشاعر.","imp":2,"children":[]}
+     ]},
+    {"b":"b2978","en":"Waiting","ar":"الانتظار","note_en":"Charlie's sitting ducks; waiting is the key and means refusing to spend one of thirty souls on an unwanted trade.","note_ar":"الـ sitting ducks عند Charlie؛ الانتظار مفتاح، ويعني رفض إنفاق إحدى الأرواح الثلاثين على صفقة غير مرغوبة.","imp":2,"children":[]},
+    {"b":"b2981","en":"Process, not one result","ar":"العملية لا النتيجة","note_en":"A good decision can lose and a bad one win (AUDCAD). Learning only from outcomes teaches wrong lessons.","note_ar":"قد يخسر القرار الجيد ويربح السيئ (AUDCAD). والتعلم من النتائج وحدها يعلّم دروسًا خاطئة.","imp":2,
+     "children":[
+      {"b":"b2982","en":"Don't draw big conclusions from little data","ar":"لا تستنتج الكثير من بيانات قليلة","note_en":"A Goodmanism applied to results.","note_ar":"Goodmanism مطبّقة على النتائج.","imp":2,"children":[]}
+     ]},
+    {"b":"b2984","en":"The crowd","ar":"الحشد","note_en":"Winning 21 of 25 alone, then losing 10 in a row with others: trading to be right instead of for my needs.","note_ar":"ربح 21 من 25 وحيدًا، ثم خسارة 10 متتالية مع آخرين: التداول لإثبات الصواب لا لحاجاتي.","imp":2,
+     "children":[
+      {"b":"b2986","en":"Be alone with the chart","ar":"ابقَ وحدك مع الـ chart","note_en":"Charlie kept others' opinions away from his facts.","note_ar":"أبعد Charlie آراء الآخرين عن حقائقه.","imp":2,"children":[]}
+     ]},
+    {"b":"b2987","en":"Greed is a road to poverty","ar":"الجشع طريق إلى الفقر","note_en":"Take a little each time, keep the equity curve smooth; Profit Exceeds Expense. Greed is the y = k/x of emotions.","note_ar":"خذ القليل في كل مرة واجعل منحنى الـ equity ناعمًا؛ Profit Exceeds Expense. الجشع هو y = k/x للمشاعر.","imp":2,"children":[]},
+    {"b":"b2991","en":"Self-control in drawdowns","ar":"ضبط النفس في الـ drawdowns","note_en":"Lower risk per trade; do not try to win it back fast.","note_ar":"اخفض الـ risk لكل صفقة؛ ولا تحاول التعويض بسرعة.","imp":2,"children":[]},
+    {"b":"b2994","en":"Mistakes are controllable","ar":"الأخطاء يمكن التحكم بها","note_en":"Mistake = a controllable action at the wrong time; a loss is just the market. Cure: feedback loop, bathtub analysis, small enhancements, never change the core.","note_ar":"الخطأ فعل يمكن التحكم به في وقت خاطئ؛ والخسارة هي السوق. العلاج: حلقة تغذية راجعة وتحليل bathtub وتحسينات صغيرة دون تغيير الجوهر.","imp":3,"children":[]},
+    {"b":"b2997","en":"Discipline is a fruit","ar":"الانضباط ثمرة","note_en":"Discipline flows from high self-esteem; the plan is a promise to myself.","note_ar":"الانضباط ينبع من تقدير الذات؛ والخطة وعد لنفسي.","imp":2,"children":[]},
+    {"b":"b3000","en":"Systematic, not perfect","ar":"منهجي لا كامل","note_en":"Perfection rebuilds everything after a loss; a system improves one small thing.","note_ar":"الكمال يعيد البناء بعد كل خسارة؛ والنظام يحسّن شيئًا صغيرًا.","imp":2,"children":[]},
+    {"b":"b3003","en":"Relaxed and excited","ar":"هادئ ومتحمس","note_en":"Laser focused yet loose-as-a-goose; trade from the corner where calm and excitement are both high.","note_ar":"تركيز الليزر مع استرخاء الإوزة؛ تداول من الركن الذي ترتفع فيه الحالتان.","imp":3,"children":[]},
+    {"b":"b3008","en":"Looking back","ar":"نظرة إلى الوراء","note_en":"By 2026 a map: cycle, repetition, waiting, crowd, greed, smaller size, self-respect. Not perfect, but systematic.","note_ar":"بحلول 2026 خريطة: الدورة والتكرار والانتظار والحشد والجشع والحجم الأصغر واحترام الذات. ليست كاملة لكنها منهجية.","imp":1,"children":[]}
+   ]},
+  {"b":"b3010","en":"Rung 9 · Learning","ar":"Rung 9 · Learning","note_en":"Charlie's lessons tested on those who came after him.","note_ar":"دروس Charlie مجرَّبة على من جاؤوا بعده.","imp":2,
+   "children":[
+    {"b":"b3012","en":"29. Navid","ar":"29. Navid","note_en":"An excellent student who raised lot size too fast at the top of his equity cycle and lost everything.","note_ar":"طالب ممتاز رفع حجم الـ lot بسرعة عند قمة دورة الـ equity وخسر كل شيء.","imp":2,
+     "children":[
+      {"b":"b3014","en":"30-trade exercise","ar":"تمرين الـ 30 صفقة","note_en":"First 30 trades at 5,000 lots, Under only: fantastic. Second set at 10,000 lots, rushed.","note_ar":"أول 30 صفقة بخمسة آلاف lot، Under فقط: رائع. والمجموعة الثانية بعشرة آلاف lot مع استعجال.","imp":1,"children":[]},
+      {"b":"b3016","en":"Two mistakes","ar":"خطآن","note_en":"Raised size too fast (to 100,000) and did it at the top of the equity cycle. Raise slowly; add after a down cycle.","note_ar":"رفع الحجم بسرعة (إلى 100,000) وفي قمة دورة الـ equity. ارفع ببطء وأضف بعد دورة هبوط.","imp":3,"children":[]},
+      {"b":"b3018","en":"Try: size-increase rule","ar":"تمرين: قاعدة زيادة الحجم","note_en":"Write a numeric rule: increase only after a drawdown, by one step at most.","note_ar":"اكتب قاعدة رقمية: لا تزد إلا بعد drawdown وبخطوة واحدة على الأكثر.","imp":1,"children":[]}
+     ]},
+    {"b":"b3019","en":"30. The man who looked for the magic bullet","ar":"30. الرجل الذي بحث عن الرصاصة السحرية","note_en":"A Dutch buyer of the Kindle books sought a magic bullet in indicators; some lessons arrive only when the student is ready.","note_ar":"مشترٍ هولندي لكتب Kindle بحث عن رصاصة سحرية في المؤشرات؛ وبعض الدروس لا تصل إلا حين يكون الطالب مستعدًا.","imp":2,
+     "children":[
+      {"b":"b3024","en":"Why indicators fail","ar":"لماذا تفشل المؤشرات","note_en":"Moving averages and oscillators fail long-term: ME, DM, V, curve-fitting.","note_ar":"المتوسطات المتحركة والمذبذبات تفشل على المدى الطويل: ME وDM وV وcurve-fitting.","imp":2,"children":[]},
+      {"b":"b3026","en":"Try: remove one indicator","ar":"تمرين: أزل مؤشرًا","note_en":"Trade a week without one indicator and note what you see.","note_ar":"تداول أسبوعًا بدون مؤشر وسجّل ما تلاحظه.","imp":1,"children":[]}
+     ]}
+   ]}
+ ]
+}

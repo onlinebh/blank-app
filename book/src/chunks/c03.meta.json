@@ -1,0 +1,72 @@
+{
+ "chunk": "c03",
+ "highlights": [
+  {"b": "b158", "en": "Since these are\nthe limits of our knowledge, we might at least reach them.", "level": 1},
+  {"b": "b164", "en": "The benchmark for Goodman traders is 10-4-1.", "level": 1},
+  {"b": "b170", "en": "doubt always stops action.", "level": 1},
+  {"b": "b185", "en": "Human behavior changed once money appeared.", "level": 1},
+  {"b": "b187", "en": "they simply seek the maximum profit they can catch.", "level": 1},
+  {"b": "b190", "en": "Profit acts as a magnet and loss acts as a repellent.", "level": 1},
+  {"b": "b198", "en": "Do not anticipate from one bar.", "level": 1},
+  {"b": "b205", "en": "Every change in the market either creates a new plan or tells us to\nwatch carefully, because the plan may change soon.", "level": 1},
+  {"b": "b223", "en": "The repetition of\nbehavior is the key.", "level": 2},
+  {"b": "b230", "en": "With Goodman's theory one can\nanticipate several bars at once.", "level": 1},
+  {"b": "b233", "en": "The 1-2-3 is called a Matrix in GWT.", "level": 2},
+  {"b": "b235", "en": "4. A combination of Matrices is the lens of Goodman's theory.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b153", "en": "Probability of Four Trades", "ar": "احتمالات أربع صفقات",
+   "note_en": "Repeating a Win/Loss experiment four times shows how outcomes distribute, following Bernoulli.", "note_ar": "تكرار تجربة Win/Loss أربع مرات يبيّن كيف تتوزع النتائج، بحسب برنولي.", "imp": 2,
+   "children": [
+    {"b": "b157", "en": "Bernoulli's Insight", "ar": "رؤية برنولي", "note_en": "We cannot know the future, but we can know how much more probable one outcome is than another.", "note_ar": "لا نعرف المستقبل لكننا نعرف كم يرجح وقوع أمر على آخر.", "imp": 2, "children": []},
+    {"b": "b160", "en": "Ways Wins Can Fall", "ar": "طرق وقوع الأرباح", "note_en": "1 way for four wins, 4 for three, 6 for two, 4 for one, 1 for none.", "note_ar": "طريقة واحدة لأربعة أرباح، 4 لثلاثة، 6 لاثنين، 4 لواحد، وواحدة للا شيء.", "imp": 1,
+     "children": [
+      {"b": "b162", "en": "Extremes Are Rare", "ar": "الطرفان نادران", "note_en": "Four wins and four losses in a row are equally improbable, yet traders hope for one and fear the other.", "note_ar": "أربعة أرباح وأربع خسائر متتالية متساويتان في ندرة الاحتمال، والمتداول يتمنى إحداهما ويخشى الأخرى.", "imp": 1, "children": []},
+      {"b": "b163", "en": "Two Wins Most Probable", "ar": "ربحان هو الأرجح", "note_en": "Two wins in four trades has six ways to appear, the highest probability.", "note_ar": "ربحان في أربع صفقات لهما ست طرق، وهو أعلى احتمال.", "imp": 2, "children": []}
+     ]},
+    {"b": "b164", "en": "The 10-4-1 Benchmark", "ar": "معيار 10-4-1", "note_en": "Set the risk for ten trades, let winners come by themselves, and trade the Line to raise the probability.", "note_ar": "حدّد المخاطرة لعشر صفقات، ودع الأرباح تأتي، وتداول الـ Line لتزيد الاحتمال.", "imp": 3, "children": []}
+   ]},
+  {"b": "b165", "en": "Why a Trader Needs a Method", "ar": "لماذا يحتاج المتداول إلى Method",
+   "note_en": "Goodman's theory is a process that becomes the trader's preferred method.", "note_ar": "نظرية Goodman عملية تصبح الـ Method المفضل للمتداول.", "imp": 2,
+   "children": [
+    {"b": "b167", "en": "Theory as a Process", "ar": "النظرية كعملية", "note_en": "It interprets fluctuations as phenomena, links them to their original cause and explains the governing factors.", "note_ar": "تفسّر التقلبات ظواهر وتربطها بسببها الأصلي وتشرح العوامل الحاكمة.", "imp": 1, "children": []},
+    {"b": "b169", "en": "Most Traders Lose", "ar": "أكثر المتداولين يخسرون", "note_en": "Do losers use a losing method, or pick anything without deep study?", "note_ar": "هل يستخدم الخاسرون Method خاسرًا أم يلتقطون أي شيء دون دراسة؟", "imp": 1, "children": []},
+    {"b": "b170", "en": "Confidence Enables Action", "ar": "الثقة تُطلق الفعل", "note_en": "A right method has practical proof or true logic; without confidence doubt stops action, and no action means no success.", "note_ar": "الـ Method الصحيح له إثبات أو منطق صادق؛ وبلا ثقة يوقف الشك الفعل ولا نجاح بلا فعل.", "imp": 3, "children": []}
+   ]},
+  {"b": "b171", "en": "Human Behavior in Trading History", "ar": "سلوك الإنسان في تاريخ التداول",
+   "note_en": "From barter to money, the motive of exchange shifted from needs to collecting money.", "note_ar": "من المقايضة إلى النقود، تحوّل دافع التبادل من الحاجة إلى جمع المال.", "imp": 2,
+   "children": [
+    {"b": "b173", "en": "Economic Cycle", "ar": "الدورة الاقتصادية", "note_en": "Prosperity, crisis, depression, then prosperity again.", "note_ar": "ازدهار فأزمة فكساد ثم ازدهار من جديد.", "imp": 1, "children": []},
+    {"b": "b176", "en": "Barter", "ar": "المقايضة", "note_en": "Direct exchange at the same time keeps supply and demand in balance, but fails when wants do not match.", "note_ar": "تبادل مباشر في اللحظة نفسها يُبقي العرض والطلب متوازنين، لكنه يفشل حين لا تتطابق الرغبات.", "imp": 1, "children": []},
+    {"b": "b179", "en": "Money", "ar": "النقود", "note_en": "Money creates the desire to collect it, credit, saving and interest.", "note_ar": "النقود تخلق الرغبة في جمعها، وتجلب الدَّين والادخار والفائدة.", "imp": 2,
+     "children": [
+      {"b": "b184", "en": "Production Becomes Collecting", "ar": "الإنتاج يصير جمعًا للمال", "note_en": "Sellers produce to collect more money; buyers pay as an expense, not to satisfy needs.", "note_ar": "البائع ينتج ليجمع المال، والمشتري يدفع نفقةً لا لسدّ حاجة.", "imp": 1, "children": []},
+      {"b": "b185", "en": "Imbalance and Big Fish", "ar": "الاختلال والسمكة الكبيرة", "note_en": "Monopoly buying and price pushing appear; the small capital is eaten by the larger fish.", "note_ar": "يظهر الشراء بقصد الاحتكار وتحريك السعر، ورأس المال الصغير تأكله السمكة الأكبر.", "imp": 2, "children": []}
+     ]},
+    {"b": "b187", "en": "People Seek Maximum Profit", "ar": "الناس يسعون لأقصى ربح", "note_en": "This simple behavior is the basis for anticipating the next move.", "note_ar": "هذا السلوك البسيط أساس توقّع الحركة القادمة.", "imp": 3, "children": []}
+   ]},
+  {"b": "b188", "en": "Repetition of Human Behavior", "ar": "تكرار السلوك البشري",
+   "note_en": "People gather in consensus for gain until fear sets in; profit attracts and loss repels.", "note_ar": "يتجمع الناس بإجماع طلبًا للربح حتى يدخل الخوف؛ الربح يجذب والخسارة تنفّر.", "imp": 3,
+   "children": [
+    {"b": "b191", "en": "Interpret, Anticipate, Manage", "ar": "فسّر وتوقّع وأدِر", "note_en": "The theory interprets the market, anticipates the likely, and gives a technique to manage the trade.", "note_ar": "تفسّر النظرية السوق، وتتوقع الأرجح، وتقدم تقنية لإدارة الصفقة.", "imp": 2, "children": []},
+    {"b": "b192", "en": "Interpreting One Bar", "ar": "تفسير Bar واحد", "note_en": "Low to Close is the buyers' gain, High to Close the sellers'; volume expresses the will of buying.", "note_ar": "من Low إلى Close مكسب المشترين ومن High إلى Close مكسب البائعين؛ والـ volume يعبّر عن إرادة الشراء.", "imp": 2,
+     "children": [
+      {"b": "b198", "en": "Look for Overlay", "ar": "ابحث عن Overlay", "note_en": "Do not anticipate from one bar; repeated behavior over bars, swings and Matrices starts Propagation.", "note_ar": "لا تتوقع من Bar واحد؛ والسلوك المتكرر عبر Bars وswings وMatrices يبدأ الـ Propagation.", "imp": 3, "children": []}
+     ]},
+    {"b": "b199", "en": "Bars 1-6: Buyers in Control", "ar": "Bars 1-6: المشترون يسيطرون", "note_en": "Bars 1-3 close at the high; bar 4 on low volume is the first test; buyers hold the gain toward $15.", "note_ar": "Bars 1-3 تغلق عند high؛ وBar 4 بـ volume منخفض أول اختبار؛ والمشترون يحتفظون بالمكسب نحو 15$.", "imp": 2, "children": []},
+    {"b": "b206", "en": "Bars 7-12: Sellers Wake Up", "ar": "Bars 7-12: البائعون يستيقظون", "note_en": "Sellers gain from bar 7; buyers lose their will; bar 12 meets the 50% Intersection.", "note_ar": "يربح البائعون من Bar 7؛ ويفقد المشترون إرادتهم؛ وBar 12 يلاقي Intersection عند 50%.", "imp": 2,
+     "children": [
+      {"b": "b214", "en": "Bar 3 vs Bar 7", "ar": "مقارنة Bar 3 وBar 7", "note_en": "Table 1.1 contrasts direction, volume and deduction; prosperity is followed by crisis.", "note_ar": "الجدول 1.1 يقارن الاتجاه والـ volume والاستنتاج؛ والازدهار تتبعه أزمة.", "imp": 1, "children": []},
+      {"b": "b217", "en": "Bar 12 Ambiguity", "ar": "غموض Bar 12", "note_en": "Volume rose while range fell: buyers stepped in; wait for the next bar's response to remove doubt.", "note_ar": "زاد الـ volume وقلّ الـ range: دخل المشترون؛ ننتظر استجابة الـ Bar التالي لتزيل الشك.", "imp": 2, "children": []}
+     ]},
+    {"b": "b220", "en": "Bar 13: Buyers Return", "ar": "Bar 13: المشترون يعودون", "note_en": "Buyers reinforce their will and buy what sellers offer; the repetition of behavior is the key.", "note_ar": "يعزز المشترون إرادتهم ويشترون ما يعرضه البائعون؛ وتكرار السلوك هو المفتاح.", "imp": 3, "children": []}
+   ]},
+  {"b": "b224", "en": "From Bars to the 1-2-3 Matrix", "ar": "من Bars إلى Matrix الـ 1-2-3",
+   "note_en": "Bars form swings, swings form a 1-2-3, and a 1-2-3 is a Matrix in GWT.", "note_ar": "الـ Bars تكوّن swings، والـ swings تكوّن 1-2-3، والـ 1-2-3 هو Matrix في GWT.", "imp": 3,
+   "children": [
+    {"b": "b225", "en": "FPS and SS", "ar": "FPS وSS", "note_en": "FPS runs from bar 1 low to bar 7 high; SS from bar 7 to bar 13 low; compare volume box and time.", "note_ar": "الـ FPS من low الـ Bar 1 إلى high الـ Bar 7؛ والـ SS من Bar 7 إلى low الـ Bar 13؛ قارن volume box والزمن.", "imp": 2, "children": []},
+    {"b": "b230", "en": "Anticipating the SPS", "ar": "توقّع الـ SPS", "note_en": "The next bars most likely form the SPS; the Intersection is like a police checkpoint where only the strongest side moves on.", "note_ar": "الـ Bars التالية ترجّح أن تكوّن الـ SPS؛ والـ Intersection كحاجز تفتيش لا يمر إلا الأقدر.", "imp": 2, "children": []},
+    {"b": "b233", "en": "Matrix and Lens", "ar": "Matrix والـ lens", "note_en": "A few bars make a swing, a few swings make a 1-2-3, each 1-2-3 is a Matrix, and a combination of Matrices is the lens of the theory.", "note_ar": "بضعة Bars تصنع swing، وبضعة swings تصنع 1-2-3، وكل 1-2-3 Matrix، وتركيبة Matrices هي عدسة النظرية.", "imp": 3, "children": []}
+   ]}
+ ]
+}

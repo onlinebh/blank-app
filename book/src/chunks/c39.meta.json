@@ -1,0 +1,41 @@
+{
+ "chunk": "c39",
+ "highlights": [
+  {"b": "b2519", "en": "What is important is NOW,", "level": 1},
+  {"b": "b2520", "en": "Run fast or do not run at all.", "level": 1},
+  {"b": "b2523", "en": "only his current moment.", "level": 2},
+  {"b": "b2532", "en": "We do not need to know the future of a chart to make a profit.", "level": 1},
+  {"b": "b2538", "en": "Trading without a", "level": 1},
+  {"b": "b2539", "en": "\"If you break even, you live to see another day.\"", "level": 1},
+  {"b": "b2544", "en": "\"Follow the Lines and the Tests/Exceeds.\"", "level": 1},
+  {"b": "b2546", "en": "each time the market makes a new 1-2-3 in", "level": 2},
+  {"b": "b2546", "en": "with every new\npropagation, raise the stop.", "level": 1},
+  {"b": "b2569", "en": "making a new count for every new propagation.", "level": 1},
+  {"b": "b2585", "en": "The 3-C is an amazing tool.", "level": 1},
+  {"b": "b2597", "en": "and the stop locks in what is left of the", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b2517", "en": "There Is No Future, Only Now", "ar": "لا مستقبل، الآن فقط", "note_en": "Future = a sum of current moments; a trader owns only the current moment and need not predict the future.", "note_ar": "المستقبل مجموع لحظات راهنة؛ والمتداول لا يملك إلا لحظته الراهنة ولا يحتاج إلى التنبؤ.", "imp": 3,
+   "children": [
+    {"b": "b2522", "en": "Future = sum of moments", "ar": "المستقبل = مجموع اللحظات", "note_en": "No one owns past or future, only the current moment.", "note_ar": "لا أحد يملك الماضي ولا المستقبل، بل اللحظة الراهنة فقط.", "imp": 3, "children": []},
+    {"b": "b2527", "en": "A protected plan", "ar": "خطة محمية", "note_en": "Like Cast Away: split resources; do not put all eggs in one basket. Every moment is unique like a passport number.", "note_ar": "كما في Cast Away: وزّع الموارد ولا تضع البيض في سلة واحدة. وكل لحظة فريدة كرقم جواز.", "imp": 2, "children": []}
+   ]},
+  {"b": "b2533", "en": "Driving on a Foggy Day", "ar": "القيادة في يوم ضبابي", "note_en": "Markets are like driving in fog: be careful, avoid damage, keep it small; trading without a stop-loss is dangerous.", "note_ar": "الأسواق كالقيادة في الضباب: احذر، وتجنّب الضرر، وأبقِه صغيراً؛ والتداول بلا stop-loss خطير.", "imp": 3,
+   "children": [
+    {"b": "b2538", "en": "Goodman: no huge accident", "ar": "Goodman: لا حوادث كبيرة", "note_en": "Cut losses quickly. Michael Archer: if you break even, you live to see another day.", "note_ar": "اقطع الخسارة بسرعة. Michael Archer: إذا تعادلتَ فستعيش ليوم آخر.", "imp": 3, "children": []},
+    {"b": "b2541", "en": "Care about the moment", "ar": "اهتم باللحظة", "note_en": "Whoever trades as a business to support a family should drive slowly and ignore the destination.", "note_ar": "من يتداول كعمل لإعالة أسرته يقود ببطء ولا يهتم بالوجهة.", "imp": 2, "children": []}
+   ]},
+  {"b": "b2542", "en": "The tool: watching the Line", "ar": "الأداة: مراقبة الـ Line", "note_en": "Follow the Lines and Tests/Exceeds; with each new 1-2-3 in trade direction, move the stop to the latest SS EP.", "note_ar": "اتبع الـ Lines وTests/Exceeds؛ ومع كل 1-2-3 جديد في اتجاه الصفقة انقل الـ stop إلى أحدث SS EP.", "imp": 3,
+   "children": [
+    {"b": "b2546", "en": "TTL stop rule", "ar": "قاعدة الـ stop في TTL", "note_en": "With every new propagation, raise the stop (Propagation Jumbo).", "note_ar": "مع كل propagation جديد ارفع الـ stop (Propagation Jumbo).", "imp": 3, "children": []}
+   ]},
+  {"b": "b2551", "en": "Real trade, step by step", "ar": "صفقة حقيقية خطوة بخطوة", "note_en": "A 13-step walk-through of one trade from the breakaway to the end of the move.", "note_ar": "استعراض من 13 خطوة لصفقة واحدة من الـ breakaway حتى نهاية الحركة.", "imp": 2,
+   "children": [
+    {"b": "b2552", "en": "1-2: breakaway and first stop raise", "ar": "1-2: breakaway وأول رفع", "note_en": "Operation starts after a Dagger at the first propagation; stop raised to the buy level, protected though not yet break-even.", "note_ar": "تبدأ العملية بعد Dagger عند أول propagation؛ يُرفع الـ stop إلى مستوى الشراء، محميّون وإن لم نصل break-even.", "imp": 2, "children": []},
+    {"b": "b2560", "en": "3-7: Lines, time-hash, new counts", "ar": "3-7: Lines وtime-hash وcounts", "note_en": "Watch the next 1-2-3 with Test/Exceed; make a new count per propagation to measure PTS energy and stay conservative.", "note_ar": "راقب الـ 1-2-3 التالي مع Test/Exceed؛ وأنشئ count لكل propagation لقياس طاقة الـ PTS والتحفظ.", "imp": 2, "children": []},
+    {"b": "b2580", "en": "8-9: profit and PTS target", "ar": "8-9: الربح وهدف PTS", "note_en": "127 pips open profit; the market reaches the PTS target exactly, the 3-C is an amazing tool.", "note_ar": "127 pips ربح مفتوح؛ ويصل السوق إلى هدف PTS تماماً، والـ 3-C أداة مذهلة.", "imp": 2, "children": []},
+    {"b": "b2588", "en": "10-12: more raises, end of move", "ar": "10-12: رفع إضافي ونهاية الحركة", "note_en": "Each new 1-2-3 lifts the stop; price finally falls through the last stop, locking in profit.", "note_ar": "كل 1-2-3 جديد يرفع الـ stop؛ ويسقط السعر أخيراً عبر آخر stop فيثبّت الربح.", "imp": 2, "children": []},
+    {"b": "b2600", "en": "13: Setup in the downturn", "ar": "13: Setup في الانعطاف", "note_en": "After the exit, look for a sell Setup in the downturn.", "note_ar": "بعد الخروج ابحث عن Setup بيع في الانعطاف الهابط.", "imp": 1, "children": []}
+   ]}
+ ]
+}

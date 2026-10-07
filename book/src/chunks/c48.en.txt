@@ -1,0 +1,238 @@
+##CTX Part: Rung 9 · Learning: Who Carries It On? | Section: Market Adventure (2021)
+
+@@b3027 h2
+Market Adventure (2021)
+
+@@b3028 p
+In this study I follow four pairs on the daily chart until I find a
+trade candidate: EURUSD, AUDUSD, GBPUSD and NZDUSD. I take 14 April 2021
+as "today". There was nothing special about that day; I chose it at
+random. The aim is to build a campaign that helps us grow our capital,
+and to show how 1-2-3s, intersections, volume, correlation and laydowns
+fit together. For this book each pair's daily structure is redrawn on
+real 2022 data, sometimes from another pair; each caption names the data
+shown, and the dates in the text are those of my original charts.
+
+@@b3029 h3
+Part 1: EURUSD on 14 April
+2021
+
+@@b3031 p
+Figure: The chart as it stands on the study day, before any marks:
+bars and volume only. Real data: NZDUSD, 1-hour, 14–24 February 2022.
+(The original chart was EURUSD daily, January 2020 to 14 April 2021;
+this one shows the same structure.)
+
+@@b3032 h4
+Reading the chart as an
+equilibrium
+
+@@b3033 p
+My first objective is to look at the chart as what I call a Nash
+equilibrium. It explains where buyers reach their maximum, and where
+sellers reach theirs, at the best option each side has.
+
+@@b3034 p
+I look at the efforts of buyers and sellers as three steps: the
+1-2-3. The 1-2-3 is the basic component that buyers and sellers must
+follow. In Goodman it is an axiom. So let me show how the buyers'
+efforts made a 1-2-3.
+
+@@b3035 p
+Because we are dealing with the market's past, before the current
+day, I think it is best to draw a larger 1-2-3. My focus is on the end
+of each maximum effort of buyers and sellers in the race.
+
+@@b3037 p
+Figure: The large 1-2-3: swing 1 runs up from the low to point 1,
+then swing 2 corrects down to point 2. Real data: NZDUSD, 1-hour, 14–24
+February 2022. (The original chart was EURUSD daily, January 2020 to 14
+April 2021; this one shows the same structure.)
+
+@@b3038 h4
+Jumbo 1
+
+@@b3039 p
+The market shows a Jumbo 1, a large swing 1. On my original EURUSD
+daily chart, its BP is on 20 March 2020 and its EP on 6 January 2021.
+Hope dominated the market for more than six months. It shows how strong
+the buyers were in the past.
+
+@@b3040 h4
+Intersections instead of
+Fibonacci
+
+@@b3041 p
+Before negotiating with swing 2, I look at how intersections work in
+Goodman. In Goodman we prefer an intersection to a Fibonacci number.
+
+@@b3042 p
+In brief, an intersection is where buyers and sellers struggled in
+the past. Watch it like a history film: that location was the deadliest
+conflict of the past. In Goodman we call it a Return Zone. Swing 2
+returns to that deadliest intersection, and this phenomenon can happen
+on every time frame.
+
+@@b3043 p
+A bonus: when the zone holds a sideways movement for more than a few
+weeks, it is stronger. That makes it more likely that swing 2 stops at
+that zone.
+
+@@b3044 p
+So I ask a question. At which price level in swing 1 did buyers
+struggle with sellers for a long time, fighting there again and again?
+Can you split swing 1 into its own 1-2-3?
+
+@@b3046 p
+Figure: Swing 1 split into its own 1-2-3; the box marks the struggle
+inside swing 1, and EP is the low that ends it. Real data: NZDUSD,
+1-hour, 14–24 February 2022. (The original chart was EURUSD daily,
+January 2020 to 14 April 2021; this one shows the same structure.)
+
+@@b3047 p
+Buyers struggled with sellers for weeks in the box zone. Swing 2
+stopped exactly between the EP-FPS and the EP-SS. When swing 2
+intersects an old EP-SS, there is a high probability that sellers are
+losing their power. Buyers take control of the trend again at 2 and walk
+into swing 3.
+
+@@b3048 h4
+Where can swing 3 stop? Five
+tools
+
+@@b3049 blockquote
+<p>1. <strong>The 3-C count.</strong></p>
+
+@@b3051 p
+Figure: The 3-C projection for swing 3, drawn from the 1-2-3 inside
+swing 1. Real data: NZDUSD, 1-hour, 14–24 February 2022. (The original
+chart was EURUSD daily, January 2020 to 14 April 2021; this one shows
+the same structure.)
+
+@@b3052 blockquote
+<p>1. <strong>Angle propagation</strong> (the blue line) to find the
+most likely 3.</p>
+
+@@b3054 p
+Figure: The angle-propagation line drawn from the BP to suggest where
+point 3 may end. Real data: NZDUSD, 1-hour, 14–24 February 2022. (The
+original chart was EURUSD daily, January 2020 to 14 April 2021; this one
+shows the same structure.)
+
+@@b3055 blockquote
+<p>1. <strong>The Return Zone of swing 2.</strong></p>
+
+@@b3057 p
+Figure: The Return Zone of swing 2 (the EP box of its first break) as
+a possible stopping area for swing 3. Real data: NZDUSD, 1-hour, 14–24
+February 2022. (The original chart was EURUSD daily, January 2020 to 14
+April 2021; this one shows the same structure.)
+
+@@b3058 blockquote
+<p>1. <strong>The Tipping Point (TP), 50% of swing 2.</strong></p>
+
+@@b3060 p
+Figure: The TP, the 50% level of swing 2, added to the map. Real
+data: NZDUSD, 1-hour, 14–24 February 2022. (The original chart was
+EURUSD daily, January 2020 to 14 April 2021; this one shows the same
+structure.)
+
+@@b3061 blockquote
+<p>1. <strong>The Matrix Overlay at 1.</strong></p>
+
+@@b3063 p
+Figure: The Matrix Overlay (MO) at the level of 1, together with the
+EP, TP and propagation lines. Real data: NZDUSD, 1-hour, 14–24 February
+2022. (The original chart was EURUSD daily, January 2020 to 14 April
+2021; this one shows the same structure.)
+
+@@b3064 p
+I watch all these conflict levels to see where swing 3 will most
+probably stop. One can also make a 3-C count for every 1-2-3 inside
+swing 3 to find its end, or use market-environment analysis. In the end,
+the behavior (price action) in swing 3 will show us where it stops.
+
+@@b3065 p
+When the market cannot complete a 1-2-3 cycle, it shows more
+weakness. So I watch this carefully.
+
+@@b3066 h4
+Volume inside the boxes
+
+@@b3067 p
+Let me clean the chart to study the volume action. Volume represents
+the amount of trading at each price level. Read together with the range
+of each box, it gives a good indication.
+
+@@b3069 p
+Figure: Box A around swing 1, a second box around swing 2, and the
+volume marked at A, 1 and 2. Real data: NZDUSD, 1-hour, 14–24 February
+2022. (The original chart was EURUSD daily, January 2020 to 14 April
+2021; this one shows the same structure.)
+
+@@b3070 ul
+<li><p><strong>At 1:</strong> a lot of volume (new buyers), and the
+range of box A is very high. Buyers at 1 had great power to achieve such
+a range.</p></li>
+<li><p><strong>At 2:</strong> relatively less volume at the start of the
+SS (the box). Sellers controlled the SS with a small amount of trading.
+This shows buyers still in control; the uptrend is still valid.</p></li>
+<li><p><strong>At 3:</strong> the SPS starts with no buyers. This is a
+symptom. Buyers move up on a very small amount, which shows they are
+leaving the market; they do not want this price. If large buyers are not
+invited into this swing, sellers can easily dominate the trend.</p></li>
+
+@@b3071 p
+No wonder: Jumbo 1 moved for more than six months, and buyers lost
+their energy. Swing 3 can show the next trend very clearly. So on day 14
+I leave EURUSD without any trade. Keeping cash is better than
+trading.
+
+@@b3072 h4
+Spread triple
+
+@@b3073 p
+Sometimes the volume is not clear, so I use the spread triple instead
+to measure the power in each cycle.
+
+@@b3075 p
+Figure: Spread triple: a jump, a back, a second jump, then a failed
+cycle and a big back below both trend lines. Real data: AUDUSD, 1-hour,
+14–24 February 2022. (The original chart was EURUSD daily, 2021; this
+one shows the same structure.)
+
+@@b3076 p
+After the last jump, EURUSD (shown here on AUDUSD data) came back and
+failed to complete a cycle, to move higher than the last jump. This
+shows weakness in the buyers, while the sellers pushed further back than
+at any earlier time.
+
+@@b3077 h4
+EURUSD conclusion
+
+@@b3078 p
+In my opinion EURUSD cannot move back up to 1, because:
+
+@@b3079 blockquote
+<p>1. Jumbo 1 took more than six months, and that amount of time
+destroyed the demand.</p>
+<p>2. At 2, sellers moved on very small volume, as the volume shows.</p>
+<p>3. The cycles are incomplete, because the market moves without
+buyers. Compare the buyers at 1 (the BP of the Jumbo) with the buyers at
+2.</p>
+
+@@b3080 p
+I also do not think the market will move below the BP of the Jumbo.
+Wave 2 showed no great amount of sellers, no LARGE SELLERS. It is just
+that buyers no longer want to enjoy the market. When the SPS moves down,
+it will test 2 again and again, trying to break it.
+
+@@b3081 p
+So I think the market will follow this laydown: an incomplete cycle
+and a sell that stops before the BP of the Jumbo (see the EURUSD panel
+of the laydown plate below). We can always change a laydown when the
+chart changes. A laydown is a vision of the future of the pair. It is
+better to move one step at a time and wait for the market to confirm it.
+When the market confirms my laydown, I trade. Otherwise I draw another
+laydown and let the market confirm it for me.
+

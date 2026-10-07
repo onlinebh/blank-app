@@ -1,0 +1,87 @@
+{
+ "chunk": "c42",
+ "highlights": [
+  {"b": "b2714", "en": "Knowing the boundaries decreasing the surprising element .. its about", "level": 1},
+  {"b": "b2715", "en": "I know there will be many time i lose money.", "level": 1},
+  {"b": "b2718", "en": "Keep in mind we are trading the money not the market. so, every", "level": 2},
+  {"b": "b2719", "en": "Thirty souls means each trade spends one life.", "level": 1},
+  {"b": "b2719", "en": "being on my side over the whole series, not from any one trade.", "level": 1},
+  {"b": "b2724", "en": "Over 10,000 simulated series of 30 trades, not one touched the 5%", "level": 1},
+  {"b": "b2728", "en": "This is the whole chapter in one picture.", "level": 1},
+  {"b": "b2728", "en": "size decides whether you are still driving when the edge pays.", "level": 2},
+  {"b": "b2731", "en": "is the factor. K . While x is money.", "level": 1},
+  {"b": "b2732", "en": "Keep k steady by keeping the Golden Ratio healthy. Grow x slowly.", "level": 1},
+  {"b": "b2734", "en": "Flat jumbo + setup . Is less risky", "level": 1},
+  {"b": "b2735", "en": "Choosing which environment to trade, and combining", "level": 1},
+  {"b": "b2738", "en": "Divide the capital into 30 or 50.", "level": 1},
+  {"b": "b2739", "en": "Firestarter, or nothing.", "level": 1},
+  {"b": "b2741", "en": "They moved from \"how much can I risk?\" to \"how", "level": 1},
+  {"b": "b2743", "en": "lose. The engineering makes sure I cannot lose it by mistake.", "level": 1},
+  {"b": "b2746", "en": "Making mistake is a operations risk to the system.", "level": 1},
+  {"b": "b2747", "en": "controllable action in wrong time.", "level": 1},
+  {"b": "b2751", "en": "most of the bones are not about the market at all. They are", "level": 1},
+  {"b": "b2754", "en": "trade. The failure modes are named before money is at stake.", "level": 1},
+  {"b": "b2757", "en": "A 9 is as dangerous as a 2.", "level": 1},
+  {"b": "b2757", "en": "Monitoring your emotions helps keep them under control.", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b2713",
+   "en": "Thirty Souls",
+   "ar": "Thirty Souls",
+   "note_en": "Size so that the worst streak is survivable; every trade is one of only 30 lives, and profit comes from probability over the series.",
+   "note_ar": "اضبط الحجم بحيث تُحتمل أسوأ سلسلة؛ كل صفقة هي واحدة من 30 حياة فقط، والربح يأتي من الاحتمال على السلسلة.",
+   "imp": 3,
+   "children": [
+    {"b": "b2713", "en": "2025: expect the worst", "ar": "2025: توقّع الأسوأ", "note_en": "Four equity periods (best streak, worst streak of about 10 losses, near-BE run, normal 10-4-1). For a 2.5% max DD, fit 10 losses in a row. The goal is BE.", "note_ar": "أربع فترات للـ equity (أفضل سلسلة، وأسوأ سلسلة بنحو 10 خسائر، وصفقات قرب BE، والعادي 10-4-1). لأقصى DD قدره 2.5% اجعل 10 خسائر متتالية تتسع. الهدف BE.", "imp": 2, "children": [
+      {"b": "b2715", "en": "Balance, not elimination", "ar": "التوازن لا الإزالة", "note_en": "Losses will come; trust the methodology and balance risk instead of eliminating it.", "note_ar": "ستأتي الخسائر؛ ثق بالمنهجية ووازن المخاطرة بدل محاولة إزالتها.", "imp": 2, "children": []}
+    ]},
+    {"b": "b2716", "en": "The 30 souls rule", "ar": "قاعدة الـ 30 روحًا", "note_en": "We trade the money, not the market. Pick the best trades only, and survive the 30.", "note_ar": "نحن نتداول المال لا السوق. اختر أفضل الصفقات فقط وانجُ من الثلاثين.", "imp": 3, "children": [
+      {"b": "b2719", "en": "Each trade spends one life", "ar": "كل صفقة تنفق حياة", "note_en": "No life on a setup you half believe; the first goal is to survive the series at least at BE.", "note_ar": "لا حياة على Setup لا تؤمن به كاملًا؛ والهدف الأول النجاة من السلسلة ولو عند BE.", "imp": 2, "children": []}
+    ]}
+   ]
+  },
+  {
+   "b": "b2722",
+   "en": "What the arithmetic looks like",
+   "ar": "كيف يبدو الحساب",
+   "note_en": "A simulation of the rule: 40% winners at 2R, 60% losers at 1R, size = 5% DD / 30, about 0.17% per trade.",
+   "note_ar": "محاكاة للقاعدة: 40% رابحات بـ 2R و60% خاسرات بـ 1R، والحجم = 5% DD ÷ 30، أي نحو 0.17% للصفقة.",
+   "imp": 2,
+   "children": [
+    {"b": "b2724", "en": "10,000 series of 30 trades", "ar": "10,000 سلسلة من 30 صفقة", "note_en": "None touched the 5% limit; median about +1%; about 3 in 10 ended slightly down.", "note_ar": "لم تلمس أي سلسلة حدّ الـ 5%؛ والوسيط نحو +1%؛ ونحو 3 من 10 انتهت بخسارة طفيفة.", "imp": 2, "children": []},
+    {"b": "b2725", "en": "Higher sizes over 100 trades", "ar": "أحجام أعلى على 100 صفقة", "note_en": "A 20% drawdown occurs in about 2% of runs at 1%, 16% at 1.5%, 41% at 2%, 79% at 3%.", "note_ar": "drawdown بنسبة 20% يحدث في نحو 2% من التجارب عند 1%، و16% عند 1.5%، و41% عند 2%، و79% عند 3%.", "imp": 2, "children": []},
+    {"b": "b2728", "en": "Edge is the engine, size decides survival", "ar": "الـ edge محرك والحجم يقرر البقاء", "note_en": "Same system, same win rate; only the size changed the outcome.", "note_ar": "النظام نفسه ونسبة الفوز نفسها؛ الحجم وحده غيّر النتيجة.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b2729",
+   "en": "Expectancy, environment and FireStarter",
+   "ar": "الـ Expectancy والبيئة وFireStarter",
+   "note_en": "Expectancy as a steady factor k, the Market Environment as money management, and a separate quick strategy with fixed size.",
+   "note_ar": "الـ expectancy كعامل ثابت k، والـ Market Environment كإدارة للمال، واستراتيجية سريعة منفصلة بحجم ثابت.",
+   "imp": 2,
+   "children": [
+    {"b": "b2729", "en": "Expectancy as momentum", "ar": "الـ Expectancy كزخم", "note_en": "Y = kx multiplies, Y = k/x divides. With 0.4x2 - 0.6x1 = 0.2, k is the factor and x is money: keep k steady, grow x slowly.", "note_ar": "Y = kx يضاعف، وY = k/x يقسّم. مع 0.4×2 − 0.6×1 = 0.2، k هو العامل وx هو المال: ثبّت k ونمِّ x ببطء.", "imp": 3, "children": []},
+    {"b": "b2733", "en": "Market Environment as money management", "ar": "Market Environment كإدارة للمال", "note_en": "A flat jumbo with a setup is less risky than a propagation jumbo with one; each setup can add gains, hedge, or lower risk.", "note_ar": "Flat jumbo مع setup أقل مخاطرة من propagation jumbo معه؛ وكل setup قد يزيد الربح أو يحوّط أو يقلل المخاطرة.", "imp": 2, "children": []},
+    {"b": "b2736", "en": "FireStarter", "ar": "FireStarter", "note_en": "Quick 5-minute trading with PTS, Goldilocks and 66; capital split into 30 or 50, size never changed. Run it alone: FireStarter, or nothing.", "note_ar": "تداول سريع على 5-minute مع PTS وGoldilocks و66؛ يُقسم رأس المال إلى 30 أو 50 والحجم لا يتغير. شغّلها وحدها: Firestarter, or nothing.", "imp": 2, "children": []},
+    {"b": "b2740", "en": "What I learned", "ar": "ما تعلمتُه", "note_en": "Rules moved from how much can I risk to how much can I survive.", "note_ar": "انتقلت القواعد من كم أستطيع أن أخاطر إلى كم أستطيع أن أنجو.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b2742",
+   "en": "The Error-Proof Trader: Poka-Yoke",
+   "ar": "المتداول المحصّن من الأخطاء: Poka-Yoke",
+   "note_en": "Arithmetic says how much I can lose; engineering ensures I cannot lose it by mistake.",
+   "note_ar": "الحساب يقول كم أستطيع أن أخسر؛ والهندسة تضمن ألا أخسره بخطأ.",
+   "imp": 3,
+   "children": [
+    {"b": "b2744", "en": "Mistakes are an operations risk", "ar": "الأخطاء مخاطرة تشغيلية", "note_en": "Market, system and self must align. Market risk is accepted (part of 10-4-1); operations risk (no stop, wrong lot, revenge entry) should be removed.", "note_ar": "يجب أن يتوافق السوق والنظام والنفس. مخاطرة السوق مقبولة (جزء من 10-4-1)؛ والمخاطرة التشغيلية (بلا stop، lot خطأ، دخول انتقام) يجب إزالتها.", "imp": 3, "children": []},
+    {"b": "b2748", "en": "Finding the causes first", "ar": "إيجاد الأسباب أولًا", "note_en": "Use a fishbone diagram (method, mind, size, market, review); most bones point at me, not the market. Ask questions and write a risk register before each trade.", "note_ar": "استخدم مخطط fishbone (method وmind وsize وmarket وreview)؛ معظم العظام تشير إلي لا إلى السوق. اطرح الأسئلة واكتب سجل مخاطر قبل كل صفقة.", "imp": 2, "children": [
+      {"b": "b2752", "en": "Four questions before accepting", "ar": "أربعة أسئلة قبل القبول", "note_en": "How could the setup fail? Which overlays and what do they say? What is the impact? Where is the causal factor, is there whitespace, is it clean?", "note_ar": "كيف يفشل الـ setup؟ على أي overlays أعتمد وماذا تقول؟ ما الأثر؟ أين العامل السببي، وهل توجد whitespace، وهل الرسم نظيف؟", "imp": 2, "children": []}
+    ]},
+    {"b": "b2755", "en": "Measuring the mind", "ar": "قياس العقل", "note_en": "Rate emotion 1 to 10 at each checkpoint. 5-6 is calm and in control; both ends (2 and 9) are dangerous.", "note_ar": "قيّم الانفعال من 1 إلى 10 عند كل نقطة فحص. 5–6 هدوء وسيطرة؛ والطرفان (2 و9) خطيران.", "imp": 2, "children": []}
+   ]
+  }
+ ]
+}

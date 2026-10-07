@@ -1,0 +1,236 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Qualifying Trades by Using Volume (2023) -> Volume Today: When Everyone Agrees (2025–2026)
+
+@@b2098 h3
+Price Makes Volume
+
+@@b2099 p
+The market is a voting machine. New buyers come when price rises, and
+new sellers come when price declines. Price makes volume.
+
+@@b2100 p
+Once price rises above the last top, volume may increase. That shows
+new buyers are joining the move. As more new buyers arrive, the move
+goes much higher, because the previous sellers withdraw from the market
+and become interested in the new move.
+
+@@b2101 h3
+Three Steps to Qualify a
+Trade
+
+@@b2102 blockquote
+<p>1. <strong>Start with the 3-C cancel.</strong> Use it as the
+reference point for studying volume.</p>
+<p>2. <strong>Look for a Matrix Overlay at the same point.</strong></p>
+<p>3. <strong>Do the Inward analysis.</strong> Watch for significant
+changes in volume. A significant price level makes volume. Look for
+volume increasing on the upswing and decreasing on the downswing that
+makes a higher low.</p>
+
+@@b2104 p
+Figure: Qualifying a trade with volume in three steps: the 3-C
+cancel, a Matrix Overlay at the same point, and the Inward analysis.
+
+@@b2106 p
+Figure: The reference move used to locate the 3-C cancel: a sharp
+fall from the top. Real data: GBPUSD, 1-hour, 16 Feb – 3 Mar 2022. (The
+original chart was GBPCZK H4, February–May 2023; this one shows the same
+structure.)
+
+@@b2108 p
+Figure: The same chart with a level drawn at the low of the reference
+move; price comes back to it on 2 March. Real data: GBPUSD, 1-hour, 16
+Feb – 3 Mar 2022. (The original chart was GBPCZK H4 with the Matrix
+Overlay level, February–May 2023; this one shows the same
+structure.)
+
+@@b2110 p
+Figure: Inward view: new buying comes in at the level, and the higher
+low forms with a lack of new selling. Real data: GBPUSD, 15-minute, 1–2
+March 2022. (The original chart was GBPCZK M30, 21 Feb – 7 Mar 2023;
+this one shows the same structure.)
+
+@@b2111 h4
+Putting it together
+
+@@b2112 p
+Volume can only increase or decrease, and both tell us something. If
+volume decreases while price makes a higher low, it means a lack of
+sellers. Price fails to attract sellers at the 3-C cancel and also at
+the BP of the Matrix Overlay. Putting all of these together makes the
+picture clearer.
+
+@@b2113 h3
+Example 2: The Opposite
+Picture
+
+@@b2114 p
+Here volume increases on the downswing and decreases on the
+upswing.
+
+@@b2116 p
+Figure: After the cancel and the Goldilocks, new selling appears on
+the downswing and there is a lack of buying on the upswing. Real data:
+USDJPY, 15-minute, 2–4 March 2022. (The original chart was AUDHUF M15,
+3–9 May 2023; this one shows the same structure.)
+
+@@b2117 h3
+Reading Volume Bar by Bar
+
+@@b2118 p
+Studying volume means comparing its increases and decreases under
+different conditions. On my original USDCHF 4-hour chart I numbered
+every swing of the fall, from 1 to 24, and the list below follows those
+numbers. The redrawn chart shows the same fall in 11 swings, so read the
+list as the story of the original chart.
+
+@@b2120 p
+Figure: Every swing of a fall numbered for a step-by-step volume
+reading. Real data: EURUSD, 2-hour, 21 Feb – 4 Mar 2022. (The original
+chart was USDCHF H4, February–May 2023, with swings numbered 1 to 24,
+which the list below follows; this one shows the same structure with 11
+swings.)
+
+@@b2121 blockquote
+<p>1. Volume increased: sellers come to the market.</p>
+<p>2. Volume decreased: buying dries up at the top. This confirms 1.</p>
+<p>3. Volume increased while price grows lower. This confirms 1 and
+2.</p>
+<p>4. Volume increased: buying comes in. A minor climax; the trend may
+change.</p>
+<p>5. Volume decreased: lack of selling. This confirms 4; the trend is
+up.</p>
+<p>6. Volume increased: buy orders come in to support the move. This
+confirms 5.</p>
+<p>7. Volume increased: selling comes from the TP of the last FPS, where
+there is a lower top.</p>
+<p>8. Volume decreased: buying dries up. This confirms 7.</p>
+<p>9. Volume increased relative to 8: sellers dominate. This confirms
+8.</p>
+<p>10. Volume decreased: no buying; the trend is down.</p>
+<p>11. Volume increased: buying sets in near the MO. A minor climax.</p>
+<p>12. Volume increased more: selling tries to set in.</p>
+<p>13. Volume decreased: selling dries up.</p>
+<p>14. Volume unchanged. When volume and price both tend to stay
+unchanged, it describes dullness in the market.</p>
+<p>15. Volume increased as price breaks the EP of the FPS.</p>
+<p>16. Volume decreased while testing the EP of the FPS: lack of
+buying.</p>
+<p>17. Volume increased compared with 16: buying comes in.</p>
+<p>18. Volume decreased: buying dries up.</p>
+<p>19. Buying comes at the TP but fails to develop: a lack of quality
+buying.</p>
+<p>20. Sellers dry up at the bottom.</p>
+<p>21. Volume increased as price moves up, for the first time since 1:
+the quality of buying improves.</p>
+<p>22. Volume decreased at the higher low: lack of selling.</p>
+<p>23. The highest volume: a selling climax. Compare this action with
+the break of the low at 15.</p>
+<p>24. Volume decreased: lack of selling.</p>
+
+@@b2122 h4
+The key
+
+@@b2123 p
+Compare the selling with what the Dagger line produced. Selling
+increased at 7. Then sellers dominated the trend on lower volume, as at
+14 and 16, and were able to push the downswing much further. But at 24,
+sellers did not want to increase their flow to protect the line. No
+increase in volume, no lower low, no further downswing. This is the
+key.
+
+@@b2124 h2
+Volume Today: When
+Everyone Agrees (2025–2026)
+
+@@b2125 p
+My first two papers on volume asked a narrow question: does volume
+confirm the trade I already see? In 2021 I read volume against the
+matrix. In 2023 I used it to qualify a trade in three steps. Today I ask
+a different question: <strong>how many people agree right now?</strong>
+When almost everyone agrees, the move is finished. Volume consensus is
+exhaustion. If everyone is selling, it means buy. If everyone is buying,
+it means sell.
+
+@@b2126 h3
+From confirmation to
+consensus
+
+@@b2127 p
+The change did not come from volume alone. It came from years of
+reading sentiment beside it. In September 2024 I wrote to Michael what
+my own testing had shown:
+
+@@b2128 blockquote
+<p>"Anyway my back testing shows the best Sentiment indicators are
+Bullish consensus, second OI, third Volume. What i find when BC above
+90. This reflects in Volume, because everyone is buying at that price
+level. (There is a willing to let money on the table) every one bet.
+This is a real sign of turning point. But in my test, many false signals
+from volume if not confirmed with BC." (26 September 2024)</p>
+
+@@b2129 p
+So volume was third in the ranking, and alone it gave false signals.
+What made it useful was the same thing that makes Bullish Consensus
+useful: the extreme. A reading of 90 means the crowd has already placed
+its bet. A volume extreme means the same thing, measured in ticks
+instead of opinions.
+
+@@b2130 p
+In the same letter I explained what open interest adds:
+
+@@b2131 blockquote
+<p>"Price at 100, but OI increase it shows new buying (willing). Same
+Price at 100, but OI Decrase, shows buying out of the market." (26
+September 2024)</p>
+
+@@b2132 p
+Two weeks earlier I had watched silver change character exactly this
+way:
+
+@@b2133 blockquote
+<p>"As I anticipated, the market changed in volatility from Aggressive
+Selling into a lack of selling a kind of consensus." (9 September
+2024)</p>
+
+@@b2134 p
+Aggressive selling first, then nobody left to sell. That is the shape
+of a consensus extreme: the crowd agrees, acts all at once, and then has
+nothing left.
+
+@@b2135 h3
+Why raw forex volume
+cannot be trusted
+
+@@b2136 p
+Most of my trading is forex, and forex has no central exchange. The
+volume your platform shows is tick volume: the number of price changes
+on one broker's feed. It is not the number of contracts traded. I said
+it plainly in November 2025:
+
+@@b2137 blockquote
+<p>"Most of the volume in the market. It's artificial volume. Type of
+scam. Just money rounds and rounds. I think the cumulative volume. Its a
+good idea. Volume by time losing thier value." (21 November 2025)</p>
+
+@@b2138 p
+Two ideas sit in that note. First, one bar of volume means little;
+what counts is volume <strong>accumulated</strong> along a move. Second,
+volume measured by the clock loses value; the move should decide where a
+count starts and stops, not the hour.
+
+@@b2139 p
+At the end of 2025 Michael found his old folder on the Descartes
+Index, the last big project he did with Jim Bickford. He described it as
+an attempt to "tease out new information from price/range/oi/volume" (30
+December 2025). I had tried to program it in Pine Script years before,
+using open interest. The next day I wrote:
+
+@@b2140 blockquote
+<p>"The descartes raito. I did some to let it work on forex. Tick volume
+mixed with ATR. I think there is relationship between voltiltiy and
+volume." (31 December 2025)</p>
+
+@@b2141 p
+This is the same problem again. Forex has no open interest and no
+true volume, so every tool built for futures must be adapted.
+

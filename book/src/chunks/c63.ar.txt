@@ -1,0 +1,309 @@
+@@b3698 h1
+رسالة أخيرة إلى Michael (A Last Letter to Michael)
+
+@@b3699 p
+عزيزي Michael،
+
+@@b3700 p
+بدأت أول رسالة كتبتَها لي بعبارة "Hello - Thank You!" وبملاحظة أن الـ CODEX قديم قليلًا. كان ذلك في سبتمبر 2020. وأجبتُك بأن كل كلمة من الـ Goodmanisms يجب أن يحفظها كل متداول جادّ. لم أكن أعلم حينها أنني سأقضي ست سنوات أتعلّم معنى تلك الكلمات، رسمًا بيانيًا ورسالةً في كل مرة.
+
+@@b3701 p
+لم تشرح لي كل شيء قط. فعلتَ ما فعله Charlie معك: أرتني رسمًا بيانيًا، وطرحتَ سؤالًا، وانتظرتَ. وحين أرسلتُ إليك ما هو خطأ، قلتَ لي. وحين أرسلتُ ما هو صواب، قلتَ إن Charlie سيُسرّ. وفي 2023-03-18 كتبتَ: "Charlie say,
+'Mohamed is Magic Man.'" ضحكتُ، وأبقيتُ تلك العبارة قريبة مني في الأسابيع السيئة.
+
+@@b3702 p
+وفي 2025-06-22 كتبتَ الجملة التي قرأتُها أكثر من أي جملة أخرى:
+
+@@b3703 blockquote
+<p>"Everything Goodman soon yours - Friend, Brother, Son Mohamed!"</p>
+
+@@b3704 p
+وقلتَ في الرسالة نفسها إنني بعد مقال Abduction والـ Playbook سـ"take over for Charlie and Me." لا أظن أن أحدًا يحلّ محل Charlie. لكنني فهمتُ ما كنتَ تمنحني إياه. <mark>ليس الكتب. بل المسؤولية.</mark>
+
+@@b3705 p
+وفي 2025-12-20، حين أرسلتُ إليك رسوم Power، كتبتَ أنك "almost in tears. ... What a miracle Charlie and I found you!!!!" يا Michael، المعجزة كانت في الاتجاه الآخر. رجل على الجانب الآخر من العالم كتب إلى رجل في Colorado عن نظرية لا يكاد يتذكرها أحد، وردّ عليه رجل Colorado على كل رسالة طوال ست سنوات.
+
+@@b3706 p
+وفي 2026-09-28 كتبتَ:
+
+@@b3707 blockquote
+<p>"لولاك لضاعت حتمًا كل قصص Charlie!... لا أدري إن كانت ستُلهم أحدًا غيري، لكنها على الأقل محفوظة!"</p>
+
+@@b3708 p
+هذا الكتاب جوابي. القصص ليست لي. كانت لك أولًا، ولـ Charlie قبلك. أنا فقط حفظتُها بترتيبها. حملتَها خمسين عامًا في رأسك: محطة الحافلات، ومال العجوز، وعربات القطار التي لم تتقافز، والبحيرة والحوض. <mark>وضعتُها على السُّلَّم ليسمع من يصعده بعدنا صوت Charlie كما ما زلتَ تسمعه أنت.</mark>
+
+@@b3709 p
+علّمتني أن الهدف هو breakeven، وأن الـ Setup جاهز للانطلاق، وأننا نترك دائمًا شيئًا للـ Line. <mark>هذا الكتاب هو الـ Line الخاص بي.</mark> أخذتُ الـ Under من ست سنوات من الرسائل. أما هذا الجزء فأتركه يعمل، لمن يأتي بعدنا.
+
+@@b3710 p
+شكرًا لك أيها المعلّم (Master).
+
+@@b3711 p
+صديقك وأخوك وابنك،
+
+@@b3712 p
+Mohamed
+
+@@b3713 h1
+فهرس أبحاثي (Index of My Research)
+
+@@b3714 p
+كل فصل بحثي في هذا الكتاب، بترتيب ظهوره، مع الدرجة (rung) التي ينتمي إليها.
+
+@@b3715 table
+<thead>
+<tr>
+<th><strong>العنوان</strong></th>
+<th><strong>السنة</strong></th>
+<th><strong>الدرجة (Rung)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>My Trading Explained</td>
+<td>2023</td>
+<td>الافتتاحية</td>
+</tr>
+<tr>
+<td>Introduction to Goodman: Method, Probability and the Will of the
+Market</td>
+<td>2022</td>
+<td>1 · Being</td>
+</tr>
+<tr>
+<td>The Visionary Trader: Connecting the Dots</td>
+<td>2024</td>
+<td>1 · Being</td>
+</tr>
+<tr>
+<td>Market Environments and the Propagation Lens</td>
+<td>2025</td>
+<td>1 · Being</td>
+</tr>
+<tr>
+<td>The Logic of Goodman</td>
+<td>2022</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>How One Can Construct a Logical Combination</td>
+<td>2021</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>The Problem of Imperfect Induction</td>
+<td>2022</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>Propagation and Probability</td>
+<td>2022</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>Some Notes on Goodman's Words</td>
+<td>2023</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>Abduction</td>
+<td>2023</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>Deduction, Induction and Abduction</td>
+<td>—</td>
+<td>2 · Knowing</td>
+</tr>
+<tr>
+<td>Market Anatomy</td>
+<td>2021</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>Market Circulation</td>
+<td>2021</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>Market Correlation</td>
+<td>2021</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>The Analysis of Market Mind</td>
+<td>2021</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>Observe the Market Behavior</td>
+<td>2022</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>Using GWT as an Identification Tool for Intermarket Analysis</td>
+<td>2025</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>Markets in Relation, Revisited</td>
+<td>2025–2026</td>
+<td>3 · Seeing</td>
+</tr>
+<tr>
+<td>The Goodman Box</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>The Goodman Box with Time</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Goodman Overlay</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Overlay Combination</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>A Short Study in Overlay Combination and the Concept of Bounces</td>
+<td>2022</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Matrix Overlay with Volume</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Qualifying Trades by Using Volume</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Volume Today: When Everyone Agrees</td>
+<td>2025–2026</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Two Currencies, Two Votes (in Volume Today)</td>
+<td>2025–2026</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>The 6&amp;6 Under the Microscope</td>
+<td>2021</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Spread Triples</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Counter Propagation</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Following the Propagation</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Practice on the 3-C Principle</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Is That a Setup?</td>
+<td>2023</td>
+<td>4 · Deciding</td>
+</tr>
+<tr>
+<td>Trading the Line</td>
+<td>2021</td>
+<td>5 · Acting</td>
+</tr>
+<tr>
+<td>Three Swiss Franc Trades: When the Overlay Is Not Ready</td>
+<td>2025</td>
+<td>5 · Acting</td>
+</tr>
+<tr>
+<td>How I Manage a Trade</td>
+<td>2021–2026</td>
+<td>5 · Acting</td>
+</tr>
+<tr>
+<td>Thirty Souls</td>
+<td>2021–2025</td>
+<td>6 · Measuring</td>
+</tr>
+<tr>
+<td>The Error-Proof Trader: Poka-Yoke in Trading</td>
+<td>2026</td>
+<td>6 · Measuring</td>
+</tr>
+<tr>
+<td>Our Conversations on Value</td>
+<td>2020–2026</td>
+<td>7 · Doing Right</td>
+</tr>
+<tr>
+<td>Where I Trade From</td>
+<td>2021–2026</td>
+<td>8 · Feeling</td>
+</tr>
+<tr>
+<td>Market Adventure</td>
+<td>2021</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>ETCUSD Study</td>
+<td>2021</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>EURCAD Chart Study: The Profit-Taking Process</td>
+<td>2023</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>The GBPUSD Studies</td>
+<td>2021–2022</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>The Forex Bullish Consensus Reports</td>
+<td>2022–2023</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>What We Built Together</td>
+<td>2024–2026</td>
+<td>9 · Learning</td>
+</tr>
+<tr>
+<td>The System: How Does It All Move Together?</td>
+<td>2021–2026</td>
+<td>10 · The System</td>
+</tr>
+<tr>
+<td>Where I Stand Today</td>
+<td>2026</td>
+<td>الخاتمة</td>
+</tr>
+</tbody>
+

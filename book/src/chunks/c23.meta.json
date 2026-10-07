@@ -1,0 +1,85 @@
+{
+ "chunk": "c23",
+ "highlights": [
+  {"b": "b1480", "en": "We frame every 1-2-3, and then we deal only", "level": 2},
+  {"b": "b1489", "en": "The market is like a musical composition.", "level": 1},
+  {"b": "b1496", "en": "the buyers showed their maximum power here.", "level": 1},
+  {"b": "b1498", "en": "When the next box cannot move below the", "level": 1},
+  {"b": "b1507", "en": "So there is no Setup inside the box, only outside", "level": 1},
+  {"b": "b1511", "en": "When the market makes an Excess above the Return box, we cancel the", "level": 1},
+  {"b": "b1518", "en": "an Intersection, it represents an Overlay.", "level": 1},
+  {"b": "b1529", "en": "The time element reveals a great deal about the next direction.", "level": 2},
+  {"b": "b1536", "en": "but time can show which of the two is stronger.", "level": 1},
+  {"b": "b1545", "en": "The gains of Box C show that buyers are stronger than", "level": 1},
+  {"b": "b1549", "en": "Do not force a trade.", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b1479", "en": "The Goodman Box: the idea", "ar": "الـ Goodman Box: الفكرة",
+   "note_en": "Think in the frame of the 1-2-3: frame every 1-2-3 and then read only its two edges, EP-SPS (top) and BP-FPS (bottom).",
+   "note_ar": "نفكّر في إطار الـ 1-2-3: نؤطّر كل 1-2-3 ثم نقرأ حافتيه فقط: EP-SPS في الأعلى وBP-FPS في الأسفل.", "imp": 3,
+   "children": [
+    {"b": "b1484", "en": "Scope of the study", "ar": "نطاق الدراسة",
+     "note_en": "Only these relationships at this stage: no angle, time or volume. The market moves by 1-2-3s, so we deal only with each one's EP-SPS and BP-FPS.",
+     "note_ar": "هذه العلاقات فقط في هذه المرحلة: دون angle أو زمن أو volume. السوق يتحرك بـ 1-2-3s فنتعامل فقط مع EP-SPS وBP-FPS.", "imp": 1, "children": []},
+    {"b": "b1485", "en": "Two terms: TEST and Excess", "ar": "مصطلحان: TEST وExcess",
+     "note_en": "Price returning to the BP-FPS is a TEST; price moving to and beyond the EP-SPS is an Excess.",
+     "note_ar": "عودة السعر إلى BP-FPS هي TEST؛ وتحركه إلى EP-SPS وما بعده هو Excess.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1487", "en": "Fitting the market with boxes", "ar": "ملاءمة السوق بالصناديق",
+   "note_en": "Frame each 1-2-3 so the boxes interpret price action; the market is like music and a box explains its symbols. Worked on AUDUSD 1-hour, 24 Feb - 4 Mar 2022.",
+   "note_ar": "نؤطّر كل 1-2-3 ليفسّر الصندوق حركة السعر؛ السوق كالموسيقى والصندوق يشرح رموزها. مثال على AUDUSD 1-hour.", "imp": 3,
+   "children": [
+    {"b": "b1492", "en": "Box 1 and the red mark", "ar": "الصندوق 1 والعلامة الحمراء",
+     "note_en": "A red mark at the top edge says buyers showed their maximum power; sellers then take control with a new box.",
+     "note_ar": "العلامة الحمراء في الأعلى تعني أن المشترين أظهروا أقصى قوتهم؛ ثم يسيطر البائعون بصندوق جديد.", "imp": 2, "children": []},
+    {"b": "b1497", "en": "The Tipping Point (TP)", "ar": "The Tipping Point (TP)",
+     "note_en": "The 50% TP of Box 1: if the next box cannot move below it, the 1-2-3 propagates upward.",
+     "note_ar": "الـ TP بنسبة 50% للصندوق 1: إن لم يستطع الصندوق التالي النزول تحته فالـ 1-2-3 يواصل الـ Propagation صعودًا.", "imp": 2, "children": []},
+    {"b": "b1502", "en": "Box 2: Return Zone box", "ar": "الصندوق 2: Return Zone",
+     "note_en": "Promises a move into a new 1-2-3; the 6&6 box is the reversal box. Nothing inside the box matters, so any Setup is outside it.",
+     "note_ar": "يعد بحركة نحو 1-2-3 جديد؛ وصندوق 6&6 هو صندوق الانعكاس. لا يهمّ ما داخل الصندوق، فالـ Setup خارجه.", "imp": 2, "children": []},
+    {"b": "b1508", "en": "Excess: red to green", "ar": "Excess: من الأحمر إلى الأخضر",
+     "note_en": "An Excess above the Return box cancels the red mark on Box 1 and adds a green one: buyers dominate again. At a new high, redraw the boxes.",
+     "note_ar": "Excess فوق صندوق الـ Return يلغي العلامة الحمراء ويضيف خضراء: المشترون يهيمنون من جديد. عند قمة جديدة نعيد رسم الصناديق.", "imp": 3, "children": []},
+    {"b": "b1515", "en": "Next box, Overlay, green again", "ar": "الصندوق التالي والـ Overlay",
+     "note_en": "A new box with a red mark shows buyers losing power until price reaches its TP; a TP at an Intersection is an Overlay. A new high turns the mark green.",
+     "note_ar": "صندوق جديد بعلامة حمراء يُظهر فقدان المشترين لقوتهم حتى الـ TP؛ والـ TP عند Intersection هو Overlay. قمة جديدة تحوّل العلامة إلى أخضر.", "imp": 2, "children": []},
+    {"b": "b1525", "en": "Closing: still beta", "ar": "الختام: نسخة تجريبية",
+     "note_en": "The Goodman Box can give traders more peace, but it is only a beta version.",
+     "note_ar": "الـ Goodman Box قد يمنح المتداولين سكينة أكبر، لكنه لا يزال نسخة beta.", "imp": 1, "children": []}
+   ]
+  },
+  {
+   "b": "b1528", "en": "The Goodman Box with Time", "ar": "The Goodman Box with Time",
+   "note_en": "Adding time to the box reveals how fast buyers move, how long they take to reach their maximum and when they lose power.",
+   "note_ar": "إضافة الزمن إلى الصندوق تكشف سرعة المشترين، ومدة بلوغهم أقصى قوتهم، ومتى يفقدونها.", "imp": 3,
+   "children": [
+    {"b": "b1530", "en": "What we measure: Δ EP", "ar": "ما نقيسه: Δ EP",
+     "note_en": "Only the distance between two or three EP-SPS or BP-FPS and the breakout points. Δ EP is the time buyers take to reach the second EP-SPS.",
+     "note_ar": "المسافة فقط بين اثنين أو ثلاثة من EP-SPS أو BP-FPS ونقاط الاختراق. Δ EP هو زمن وصول المشترين إلى EP-SPS الثاني.", "imp": 2,
+     "children": [
+      {"b": "b1535", "en": "Small / Large / Normal delta", "ar": "Small / Large / Normal delta",
+       "note_en": "Small delta: buyers very fast. Large delta: buyers slow, power decreasing. Normal delta: no alarm.",
+       "note_ar": "Small delta: المشترون سريعون جدًا. Large delta: بطء وتناقص قوة. Normal delta: لا إنذار.", "imp": 3, "children": []},
+      {"b": "b1536", "en": "Time shows which side is stronger", "ar": "الزمن يُظهر الأقوى",
+       "note_en": "The market only goes up or down, but time shows how buyers lose power bit by bit. The inverse time (BP-FPS to EP-SPS) is left aside because it concerns box angles.",
+       "note_ar": "السوق يصعد أو يهبط فقط، لكن الزمن يُظهر كيف يفقد المشترون قوتهم تدريجيًا. الزمن العكسي متروك لأنه يتعلق بزوايا الصناديق.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1538", "en": "Example: boxes A, B and C", "ar": "مثال: الصناديق A وB وC",
+     "note_en": "USDCHF 1-hour, 21-24 Feb 2022. Box A makes an Ending Point; Box B shows new buyer speed close to A's top (alarm: both sides fast); Box C returns to the same Ending Point with a slow delta, so buyers are stronger. A possible 6&6 box.",
+     "note_ar": "USDCHF 1-hour. الصندوق A يصنع Ending Point؛ B سرعة جديدة للمشترين قرب قمة A (إنذار: الطرفان سريعان)؛ C يعود لنقطة النهاية نفسها بـ delta بطيء فالمشترون أقوى. قد يكون 6&6.", "imp": 2,
+     "children": [
+      {"b": "b1547", "en": "Summary of the reading", "ar": "ملخص القراءة",
+       "note_en": "1) Buyers moved above A's TP with new speed: stronger. 2) Box C moved slowly and reversed inside several times: sellers losing power. Time can also solve a 6&6 flat.",
+       "note_ar": "1) تحرك المشترون فوق TP للصندوق A بسرعة جديدة: أقوى. 2) تحرك C ببطء وانعكس داخله مرارًا: البائعون يفقدون قوتهم. والزمن يحلّ أيضًا 6&6 flat.", "imp": 2, "children": []},
+      {"b": "b1549", "en": "Lesson: do not force a trade", "ar": "الدرس: لا تُجبر صفقة",
+       "note_en": "With time you need more data for confidence. Do not force a trade; if still unsure, follow your heart, not the trade.",
+       "note_ar": "مع الزمن تحتاج إلى بيانات أكثر لتبلغ الثقة. لا تُجبر صفقة؛ وإن لم تثق فاتبع قلبك لا الصفقة.", "imp": 3, "children": []}
+     ]}
+   ]
+  }
+ ]
+}

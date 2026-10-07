@@ -1,0 +1,429 @@
+##CTX Part: Rung 1 · Being: Who Was Charlie? | Section: Introduction to Goodman: Method, Probability and the Will of the Market (2022)
+
+@@b153 h3
+Probability: What Four
+Trades Teach Us
+
+@@b154 p
+In most experiments we can list the possible results before they
+happen. Each trade has its possible outcomes:
+
+@@b155 p
+Group of possibilities = {Win, Loss}; the probability of a Win =
+1/2.
+
+@@b156 p
+The group of possibilities means considering everything that can
+happen before we experiment. Now let us repeat the experiment: we take
+four trades.
+
+@@b157 p
+Here I lean on James Bernoulli and his book <em>The Art of
+Conjecturing</em>:
+
+@@b158 blockquote
+<p>"People create their own good or bad fortune by their conduct; for
+the most part, those who are wise leave the least possible to chance. We
+cannot know the future, but we can always in games of chance, and often
+in other affairs of life, know exactly how much more probable it is that
+something will happen in one way rather than another. Since these are
+the limits of our knowledge, we might at least reach them.</p>
+<p>Everyone knows that when certainty is impossible, we should search
+for verisimilitude, [some degrees of which] are greater than others to
+infinity…"</p>
+<p>"A player will enjoy a game more if he knows at each turn what his
+hope of winning or risk of losing is."</p>
+
+@@b159 p
+To summarize his theory, here are all the ways the wins can fall in
+four trades:
+
+@@b160 ul
+<li><p><strong>Four wins</strong> — 1 way: {W,W,W,W}</p></li>
+<li><p><strong>Three wins</strong> — 4 ways: {W,W,W,L}, {W,W,L,W},
+{W,L,W,W}, {L,W,W,W}</p></li>
+<li><p><strong>Two wins</strong> — 6 ways: {W,W,L,L}, {W,L,W,L},
+{W,L,L,W}, {L,W,W,L}, {L,W,L,W}, {L,L,W,W}</p></li>
+<li><p><strong>One win</strong> — 4 ways: {W,L,L,L}, {L,W,L,L},
+{L,L,W,L}, {L,L,L,W}</p></li>
+<li><p><strong>No win</strong> — 1 way: {L,L,L,L}</p></li>
+
+@@b161 p
+In one experiment, a win has a probability of ½ and only one way to
+appear. When we repeat the experiment four times, the wins have many
+different ways to appear.
+
+@@b162 p
+Four wins in a row has only one way to appear, {W,W,W,W}. It is the
+least probable result in statistics, and yet it is what traders hope
+for. Four losses in a row, {L,L,L,L}, also has only one way. It is just
+as improbable, and yet it is what most traders fear.
+
+@@b163 p
+One win out of four and three wins out of four both have four ways to
+appear, so they are equal in probability. Only one result has the
+highest probability, with six ways to appear: two wins in four
+trades.
+
+@@b164 p
+The benchmark for Goodman traders is 10-4-1. Statistics almost
+confirm it as the high-probability approach, as the four-trade
+experiment shows. So set the risk for ten trades, let the winners come
+by themselves, and learn to trade the Line to increase the
+probability.
+
+@@b165 h3
+Why a Trader Needs a Method
+
+@@b166 p
+This short introduction is the base before I explain Goodman's
+theory.
+
+@@b167 p
+The theory is a process. It interprets the market's fluctuations as
+phenomena, connects them with their original cause, and explains the
+factors that govern them.
+
+@@b168 p
+For the follower of this theory, it becomes the method he prefers to
+apply in the market. The method solves the problems traders usually face
+when they start to apply the theory. On this basis, I cannot imagine a
+community of traders without a method to organize their activity in the
+market.
+
+@@b169 p
+Without any doubt, traders always want to choose the right method,
+one that makes them more profitable and is easy to apply. But statistics
+show that most traders lose and very few profit consistently. Do the
+losers use a losing method? Or do they pick anything and call it a
+method, without deep study?
+
+@@b170 p
+The right method always has practical proof, or at least a true logic
+behind it. That logic encourages the trader to use it, profit from it,
+and trade with confidence because he accepts and believes it. A method
+without confidence leaves room for doubt, and doubt always stops action.
+No action, no success.
+
+@@b171 h3
+1.1
+How Human Behavior Changed Through the History of Trading
+
+@@b172 p
+Trading today plays a primary role in the economy. Human needs grow
+as new and creative items come to market. Suppliers specialize in one
+item and neglect the others, so that they can compete.
+
+@@b173 p
+From this, people get what they need and the economy expands. Then
+the economic cycle sets in: prosperity, crisis, depression. Crisis is
+followed by depression, depression by prosperity, and prosperity by
+crisis again.
+
+@@b174 p
+Let me try to explain these cycles briefly. Any exchange happens in
+one of two ways:
+
+@@b175 ul
+<li><p><strong>Barter</strong>: exchanging goods directly.</p></li>
+<li><p><strong>A medium of exchange</strong>, such as money.</p></li>
+
+@@b176 h4
+Barter
+
+@@b177 p
+Barter is the oldest way: you simply exchange 10 kg of cotton for 10
+kg of wheat. But the system cannot continue when someone wants fruit and
+offers cotton, while the fruit seller does not want cotton.
+
+@@b178 p
+In barter, buyer and seller exchange their benefits at the same time.
+Both are satisfied in one transaction. Supply and demand stay roughly in
+balance. People satisfy their own needs first, then exchange the
+remaining cotton and fruit for other things they need, without inflation
+in price.
+
+@@b179 h4
+Money
+
+@@b180 p
+Human needs were the basis for exchange with money. With money, the
+difficulty of exchanging fruit for cotton is no longer a problem. But
+money brought its own difficulties, and as we moved from barter to
+money, many things in economic history changed with it.
+
+@@b181 p
+With money, both sides must agree on a market price. Each must first
+sell to gain money before he can buy what he needs. So each plays the
+role of seller to gain money, and then the role of buyer. That creates
+the desire to collect money.
+
+@@b182 p
+Buyers and sellers then found new ways to collect money. Instead of a
+direct exchange, a buyer takes the item and pays later on credit.
+Sellers also pay their suppliers on credit. Everyone seeks to collect
+money instead of having a real desire for the items.
+
+@@b183 p
+Money can also be saved and kept, while fruit is hard to keep for
+long. And money can be borrowed and returned with interest.
+
+@@b184 p
+So the relationship between production and consumption changed into
+one between production and collecting money. The seller produces and
+exchanges for money in order to collect more money. The buyer pays money
+for items as an expense, not to re-produce or to satisfy needs.
+
+@@b185 p
+This brought an imbalance between the quantity demanded and the
+quantity supplied. Human behavior changed once money appeared. Instead
+of exchanging for needs, one can now buy for a monopoly, to raise or to
+push down the price, without any real desire for the item. The small
+capital of small buyers and sellers is always the fish eaten by the
+larger fish, whose purpose is to push small competitors out of the
+market.
+
+@@b186 blockquote
+<p>"Yellow coins and white money are able to destroy the will
+power."</p>
+
+@@b187 p
+In brief, this section shows how people in general behave and act:
+they simply seek the maximum profit they can catch. This forms the basis
+for anticipating the upcoming move.
+
+@@b188 h3
+1.2 The Repetition of Human
+Behavior
+
+@@b189 p
+Almost every time people find an opportunity to gain more money, they
+take it together, in consensus. They continue until fear sets in with
+the idea that this is the maximum profit the opportunity can give. Then
+a decline follows.
+
+@@b190 p
+On the contrary, when they cannot gain from the trade, they withdraw
+gradually. Profit acts as a magnet and loss acts as a repellent. This
+behavior repeats over and over.
+
+@@b191 p
+Goodman's theory interprets the market. The applied theory
+anticipates what will most likely happen, based on that interpretation,
+and it provides a technique to manage the trade.
+
+@@b192 h4
+Interpreting One Bar
+
+@@b193 p
+Suppose we have a daily bar. Our first job is to interpret it.
+
+@@b195 p
+Figure: One bar read as a contest — the distance from Low to Close is
+the buyers' gain, the distance from High to Close is the sellers' gain,
+and volume expresses the will of buying.
+
+@@b196 p
+Price rose because of an imbalance between demand and supply. In this
+bar the buyers were looking for profit. At the close, measured from the
+low of the bar, the buyers gained. Measured from the high to the close,
+the sellers lost.
+
+@@b197 p
+The distance from Low to Close (the buying side) is greater than the
+distance from High to Close (the selling side). So the buyers gained
+more in this bar. Volume shows the quantity of transactions the buyers
+paid for. It expresses the will of buying.
+
+@@b198 p
+Do not anticipate from one bar. Always look for a combination: an
+Overlay. When buyers repeat their behavior and keep the will to buy for
+more profit, from the first bar to many swings and Matrices, Propagation
+starts. When you interpret bars, always remember that buyers and sellers
+change their will power.
+
+@@b199 h4
+Bars 1 to 6: Buyers in
+Control
+
+@@b201 p
+Figure: Bars 1 to 6 between $10 and $15 — buyers repeat their
+purchases, bars 1-3 close at the high, and bar 4 is the first test of
+their will on low volume.
+
+@@b202 p
+Buyers repeat their purchases with growing will in bars 1, 2 and 3.
+All of these bars close at the high, with gains. The picture the bars
+give is that buying is still strong and looking for more.
+
+@@b203 p
+In bar 4, sellers interrupt the buyers' gains for a moment. This is
+the first examination of the buyers' will: will they continue and hold
+their gains? The low volume in this bar says the sellers have very
+little stock to offer, and buyers would have to pay for it. In bars 1, 2
+and 3 the buyers were able to pay for similar quantities.
+
+@@b204 p
+The deduction from these facts: the probability is greater on the
+buyers' side. Buyers are still happy with their gains. But nothing
+continues forever. In bars 5 and 6 buyers hold the gain and look for
+more profit, up to $15.
+
+@@b205 p
+Every change in the market either creates a new plan or tells us to
+watch carefully, because the plan may change soon. When we add a few new
+bars to the last deduction, the plan does change.
+
+@@b206 h4
+Bars 7 to 12: Sellers Wake Up
+
+@@b208 p
+Figure: Bars 7 to 12 — sellers take over from bar 7, buyers lose
+their will, and bar 12 meets the 50% level.
+
+@@b209 p
+In bar 7 sellers repeat their effort to stop the buyers' gains, with
+the purpose of starting to propagate their own gains.
+
+@@b210 p
+Bar 8 has the smallest range from high to low. Buyers are gradually
+losing their will. This adds to the sellers' will to protect their
+gains, while the buyers cannot buy more in the same period (the
+day).
+
+@@b211 p
+Compare bar 3 with bar 7 in Table 1.1.
+
+@@b212 p
+In bars 9, 10 and 11 the sellers gain. From bar 7 to bar 11 the
+sellers repeat their behavior, holding their gains and trying to move
+price for the maximum profit. The buyers cannot repeat their old
+behavior from bars 1 to 6. The buyers lose their will while the sellers
+wake up.
+
+@@b213 p
+<strong>Table 1.1</strong>
+
+@@b214 table
+<thead>
+<tr>
+<th></th>
+<th><strong>Bar 3</strong></th>
+<th><strong>Bar 7</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Direction</td>
+<td>Gains to buyers, from low to close. Buyers hold an excellent
+gain.</td>
+<td>Gains to sellers, from high to close. For the first time sellers
+gain an excellent gain.</td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>Buyers are able to pay for any stock from sellers to enhance their
+profit.</td>
+<td>Sellers are able to increase their offers, and buyers do not pay for
+them.</td>
+</tr>
+<tr>
+<td>Deduction</td>
+<td>Buyers lose their will and are too weak to pay for the new quantity
+of stock. Prosperity is followed by a crisis.</td>
+<td>A small-size crisis sets in after buyers were unable to propagate
+their profit.</td>
+</tr>
+</tbody>
+
+@@b215 blockquote
+<p>"A period of prosperity inevitably comes to an end because cost
+ultimately creeps up on selling prices so far as to reduce the margin of
+profits and hence to discourage further investments."</p>
+
+@@b216 p
+Profit is always the magnet, the axis of their activity. Fear drives
+the buyers in bar 7, and in bar 8 they withdraw from the market.
+
+@@b217 p
+Bar 12 is the most ambiguous case. It is an Intersection with the 50%
+level. Buyers who entered at bar 1 and held now see 50% of their gain
+lost. Sellers have 50% of the gain in progress. It is a competition over
+who can gain more.
+
+@@b218 p
+In bar 12 the volume increased while the range decreased: buyers
+stepped in to protect their gains. Compare it with the volume in bars 10
+and 11. If buyers have stepped in, we wait for a response in the next
+bar, the response that removes our doubt.
+
+@@b219 blockquote
+<p>"But depression, like prosperity, has its own limits. Demand cannot
+shrink indefinitely, for consumers must be fed, clothed, and housed. All
+the elements in cost decline—raw materials, wages, interest, expenses of
+getting established. Further, the depression stimulates efforts to
+improve methods of production."</p>
+
+@@b220 h4
+Bar 13: Buyers Return
+
+@@b222 p
+Figure: Bar 13 — buyers reinforce their will and buy whatever sellers
+offer, repeating their behavior of bar 3.
+
+@@b223 p
+In bar 13 the buyers reinforce their will. Now they can buy any stock
+the sellers offer, similar to their behavior in bar 3. The repetition of
+behavior is the key.
+
+@@b224 h4
+From Bars to Swings
+
+@@b225 p
+From the low of bar 1 to the high of bar 7, the last high price, is
+the first swing. From bar 7 to bar 13 is the secondary swing, down to
+the last low the market reached.
+
+@@b227 p
+Figure: The same bars grouped into FPS (BP to EP 1) and SS (EP 1 to
+EP 2), with the volume box and the time of each swing compared.
+
+@@b228 p
+Now we can observe that all bars within the FPS represent the
+consensus of buyers and their abilities. All bars within the SS
+represent the consensus of sellers and their abilities. At the 50% level
+there is competition, and the buyers overcome the weaker desire of the
+sellers, as bar 13 shows.
+
+@@b229 p
+From BP to EP of the FPS there is the greater gain and the greater
+ability, seen in the total volume box of the FPS. The SS has the lowest
+gain and less ability: sellers offer stock that buyers will not pay for.
+Compare also the time buyers spent enhancing their profit.
+
+@@b230 p
+The deduction from these facts: the most probable outcome is that the
+next several bars will make the SPS. With Goodman's theory one can
+anticipate several bars at once. With the 3-C one can see where buyers
+or sellers are most likely to lose their will. The Intersection works
+like a police checkpoint: only the side with the greatest ability to
+propagate moves forward. It is a very competitive point, as in bars 12
+and 13.
+
+@@b232 p
+Figure: FPS, SS and the anticipated SPS together form the 1-2-3, the
+Matrix of GWT.
+
+@@b233 p
+The 1-2-3 is called a Matrix in GWT. It is composed of three swings:
+FPS, SS and SPS.
+
+@@b234 p
+In summary:
+
+@@b235 blockquote
+<p>1. A few bars make a swing.</p>
+<p>2. A few swings make a 1-2-3.</p>
+<p>3. Each 1-2-3 is a Matrix.</p>
+<p>4. A combination of Matrices is the lens of Goodman's theory.</p>
+

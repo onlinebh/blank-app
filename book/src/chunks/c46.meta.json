@@ -1,0 +1,55 @@
+{
+ "chunk": "c46",
+ "highlights": [
+  {"b":"b2917","en":"I'd much\nrather know what happened to the boy who missed the contest!","level":1},
+  {"b":"b2919","en":"The winner's story is told by\neveryone. The more useful lesson is usually in the story of the one who\nlost.","level":1},
+  {"b":"b2926","en":"the largest ones protect the smallest, and\nthe smallest keeps the others in proper order!","level":1},
+  {"b":"b2929","en":"A risk, a small stop, a tiny rule can\nhold a larger structure in order, if the large things are arranged to\nprotect it.","level":1},
+  {"b":"b2936","en":"If you only look at the wall of a\nbuilding close up, you'll never see the city around it.","level":1},
+  {"b":"b2942","en":"I trade with you, a soft job and easy money!","level":1},
+  {"b":"b2960","en":"The pattern Charlie described is not\nonly on charts. It is in any action, response and counter-response.","level":1},
+  {"b":"b2967","en":"The skill is still inside you. Fear simply makes it\nunavailable.","level":1}
+ ],
+ "mindmap": [
+  {"b":"b2914","en":"Charlie's Unusual Perspectives","ar":"زوايا Charlie غير المألوفة","note_en":"Short stories in which Charlie looks past the obvious: the loser, the smallest rock, the purpose of games, and relativity of hardship.","note_ar":"قصص قصيرة ينظر فيها Charlie إلى ما وراء الظاهر: الخاسر، والصخرة الصغرى، وغاية الألعاب، ونسبية المشقة.","imp":3,
+   "children":[
+    {"b":"b2914","en":"The boy who missed the contest","ar":"الولد الذي فاتته المسابقة","note_en":"After a Bache CEO's lucky scholarship story, Charlie asks about the student who missed the contest.","note_ar":"بعد قصة المنحة المحظوظة للرئيس التنفيذي، يسأل Charlie عن الطالب الذي فاتته المسابقة.","imp":2,
+     "children":[
+      {"b":"b2917","en":"Look at the loser's story","ar":"انظر إلى قصة الخاسر","note_en":"Everyone tells the winner's story; the useful lesson is often with the one who lost.","note_ar":"الكل يروي قصة الفائز، والدرس النافع غالبًا عند من خسر.","imp":3,"children":[]},
+      {"b":"b2920","en":"Try: worst-trade post-mortem","ar":"تمرين: تحليل أسوأ صفقة","note_en":"Write the post-mortem as the person who lost.","note_ar":"اكتب التحليل بصفتك من خسر.","imp":1,"children":[]}
+     ]},
+    {"b":"b2921","en":"The rocks on the table","ar":"الصخور على الطاولة","note_en":"In Michael's dream (Sept 2025) Charlie places the smallest rock in the middle, protected by the larger ones.","note_ar":"في حلم Michael (سبتمبر 2025) يضع Charlie أصغر صخرة في الوسط تحميها الأكبر.","imp":2,
+     "children":[
+      {"b":"b2926","en":"Large protect small","ar":"الكبير يحمي الصغير","note_en":"The smallest keeps the others in order; a small stop or rule can hold a structure together.","note_ar":"الأصغر يُبقي الباقي في نظامه؛ فقاعدة أو stop صغيرة قد تمسك بناءً كاملًا.","imp":3,"children":[]},
+      {"b":"b2930","en":"Try: plan as a circle","ar":"تمرين: الخطة كدائرة","note_en":"Put your smallest rule in the center and name three protectors.","note_ar":"ضع أصغر قاعدة في المركز وسمِّ ثلاثة أشياء تحميها.","imp":1,"children":[]}
+     ]},
+    {"b":"b2931","en":"Why we invented sports","ar":"لماذا اخترعنا الرياضة","note_en":"1977 World Series: games and gambling train skills like an immune system grows stronger when used.","note_ar":"World Series عام 1977: الألعاب والمقامرة تنمّي المهارات كما يقوى جهاز المناعة بالاستخدام.","imp":2,
+     "children":[
+      {"b":"b2936","en":"Wider perspective","ar":"المنظور الأوسع","note_en":"Look at the wall too closely and you never see the city.","note_ar":"من يحدّق في الجدار عن قرب لا يرى المدينة.","imp":2,"children":[]},
+      {"b":"b2938","en":"Practice reps, process points","ar":"تمارين بنقاط العملية","note_en":"Score your next ten trades by process, not profit.","note_ar":"قيّم صفقاتك العشر القادمة بالعملية لا بالربح.","imp":1,"children":[]}
+     ]},
+    {"b":"b2939","en":"Everything is relative","ar":"كل شيء نسبي","note_en":"Michael's paper route versus Charlie's farm labor; Charlie sees trading as a soft job.","note_ar":"توزيع الصحف عند Michael مقابل عمل Charlie في الحقل؛ ويرى Charlie التداول عملًا سهلًا.","imp":2,
+     "children":[
+      {"b":"b2944","en":"Gratitude for profits","ar":"الامتنان للأرباح","note_en":"Charlie never forgot where he started.","note_ar":"لم ينسَ Charlie يومًا من أين بدأ.","imp":2,"children":[]}
+     ]},
+    {"b":"b2946","en":"Last Chance, Colorado","ar":"Last Chance, Colorado","note_en":"A funny memory of getting lost after the dog track; no moral.","note_ar":"ذكرى طريفة عن التيه بعد مضمار الكلاب؛ بلا عبرة.","imp":1,"children":[]}
+   ]},
+  {"b":"b2953","en":"Everything is a 1-2-3","ar":"Everything is a 1-2-3","note_en":"Two dogs marking a tree show thrust, parry, thrust: the 1-2-3 outside the markets.","note_ar":"كلبان يضعان علامتهما على شجرة يمثلان thrust, parry, thrust: الـ 1-2-3 خارج الأسواق.","imp":3,
+   "children":[
+    {"b":"b2956","en":"Action, response, counter-response","ar":"فعل ورد فعل ورد مضاد","note_en":"The pattern is not only on charts.","note_ar":"النمط ليس على الرسوم البيانية وحدها.","imp":2,"children":[]},
+    {"b":"b2961","en":"Try: spot a non-market 1-2-3","ar":"تمرين: 1-2-3 خارج الأسواق","note_en":"Find one 1-2-3 today unrelated to markets.","note_ar":"اكتشف اليوم 1-2-3 لا علاقة له بالأسواق.","imp":1,"children":[]}
+   ]},
+  {"b":"b2962","en":"Where I Trade From","ar":"Where I Trade From","note_en":"Mohamed's five years of notes to Michael on the inner game, which together became one system.","note_ar":"ملاحظات Mohamed على مدى خمس سنوات إلى Michael عن اللعبة الداخلية، صارت معًا نظامًا واحدًا.","imp":3,
+   "children":[
+    {"b":"b2964","en":"The mind is programmed backwards","ar":"العقل مبرمج بالمقلوب","note_en":"We tend to buy at happiness and sell at fear; reprogramming is slow practice, not a switch.","note_ar":"نميل للشراء عند السعادة والبيع عند الخوف؛ وإعادة البرمجة تدريب بطيء لا مفتاح.","imp":2,
+     "children":[
+      {"b":"b2966","en":"Slowly, with practice","ar":"ببطء وبالتدريب","note_en":"There is no switch, only practice.","note_ar":"لا مفتاح، بل تدريب فقط.","imp":2,"children":[]},
+      {"b":"b2967","en":"Fear makes skill unavailable","ar":"الخوف يعطّل المهارة","note_en":"The skill remains inside you; fear only blocks access.","note_ar":"المهارة باقية بداخلك؛ والخوف يحجب الوصول إليها فقط.","imp":2,"children":[]}
+     ]},
+    {"b":"b2968","en":"The cycle of one trade","ar":"دورة الصفقة الواحدة","note_en":"Before: excited and sure. During: doubt, forgetting the stop, 'Run fast or not run at all'. After: a win rushes us, a loss raises emotional temperature.","note_ar":"قبل: حماس ويقين. أثناء: شك ونسيان الـ stop. بعد: الربح يستعجلنا والخسارة ترفع الحرارة العاطفية.","imp":3,
+     "children":[
+      {"b":"b2970","en":"Emotions cycle like blood circulation","ar":"المشاعر تدور كالدورة الدموية","note_en":"The emotional cycle repeats trade after trade.","note_ar":"الدورة العاطفية تتكرر صفقة بعد صفقة.","imp":2,"children":[]}
+     ]}
+   ]}
+ ]
+}

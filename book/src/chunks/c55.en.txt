@@ -1,0 +1,223 @@
+##CTX Part: Rung 9 · Learning: Who Carries It On? | Section: The Forex Bullish Consensus Reports (2022–2023) -> What We Built Together (2024–2026)
+
+@@b3429 p
+The answer is yes, if you torture it correctly. In FOREX the
+consensus is not usually above 90% or below 20%. Yet the underlying
+data, properly worked, gives useful predictive insight even between the
+two extremes. Standing alone, the raw figures offer all but the
+shortest-term traders a meaningful edge.
+
+@@b3430 p
+So the FBCR also offered several indicators built from the raw
+data:
+
+@@b3431 ul
+<li><p>the Triad,</p></li>
+<li><p>the week-to-week change,</p></li>
+<li><p>recurring patterns,</p></li>
+<li><p>professional versus amateur comparison,</p></li>
+<li><p>divergence with prices and common indicators,</p></li>
+<li><p>and other insights from over a decade of studying professional
+and amateur consensus data.</p></li>
+
+@@b3432 p
+One common and very useful pattern is a divergence: prices fail to
+exceed a recent high, but the bullish consensus rises.
+
+@@b3433 h4
+Michael's background behind
+the pool
+
+@@b3434 p
+The trader pool rests on Michael's long career. He counts his first
+trade, in silver, from September 1973. His research in technical
+analysis goes back to his college years (1968–1972), on a Data General
+Nova computer at the University of Colorado Physics Department. He has
+been registered as a CTA with the CFTC and as an Investment Advisor with
+the SEC, and he opened and owned a commodity futures brokerage in
+Honolulu.
+
+@@b3435 p
+His automated futures trading program was, as he describes it, the
+first AI program in any market, averaging 48% per annum with a very high
+Sharpe Ratio according to Managed Account Reports. He has lectured on AI
+and technical analysis, wrote <em>Getting Started in Currency
+Trading</em> for John Wiley &amp; Sons (four editions, 2005–2012), and
+has mentored over 200 new traders. The hundreds of contacts he made over
+that half-century form the professional and amateur pools of the
+report.
+
+@@b3436 h3
+Part two: what the
+weekly reports recorded
+
+@@b3437 p
+Each weekly report was a workbook. The HOME sheet gave the week's
+polling summary: the percentage of professionals and of amateurs bullish
+on each pair. Every pair then had its own sheet holding the full weekly
+history of both readings.
+
+@@b3438 p
+The pairs covered were the eighteen in the method: AUDCAD, AUDJPY,
+AUDNZD, AUDUSD, CHFJPY, EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURUSD,
+GBPCHF, GBPJPY, GBPUSD, NZDUSD, USDCAD, USDCHF and USDJPY. By 2023 the
+reports also tracked crude oil (CL), gold (AU), the S&amp;P 500 (SPX)
+and Bitcoin (BTCUSD), and the last report added the 10-year Treasury
+note (TY10).
+
+@@b3439 p
+The reports I kept run from the week of 1 January 2023 to the week of
+8 July 2023. The history inside them starts on 4 September 2022, so the
+last workbook holds 44 weekly polls per pair.
+
+@@b3441 p
+Figure: Weekly professional bullish consensus for EURUSD, GBPUSD,
+USDJPY and USDCAD from September 2022 to July 2023, with the 90% Sell
+zone and 20% Buy zone shaded.
+
+@@b3442 p
+What the professional readings show over those 44 weeks:
+
+@@b3443 ul
+<li><p><strong>Extremes were rare, as the method expects.</strong> Most
+readings sat between the two thresholds. USDCAD and AUDCAD never reached
+either extreme.</p></li>
+<li><p><strong>The crowd swung hard on the majors.</strong> EURUSD stood
+at 19% on 4 September 2022 and climbed to 91–93% through January 2023.
+GBPUSD sat at 17–20% from mid-September to early October 2022, and stood
+at 91% in the week of 8 July 2023.</p></li>
+<li><p><strong>USDJPY crossed from one extreme to the other.</strong> It
+read between 85% and 92% through September and October 2022. By January
+2023 it had fallen to 20%, 20% and 17%. From late May 2023 it was back
+above 90% in most weeks, at 92% in the final report.</p></li>
+<li><p><strong>Yen crosses dominated the high readings.</strong> CHFJPY
+and USDJPY each recorded 11 weeks at 90% or above, EURJPY six and GBPJPY
+five.</p></li>
+<li><p><strong>The low readings clustered in autumn 2022 and January
+2023.</strong> GBPUSD, GBPCHF, AUDUSD and NZDUSD gave readings of 20% or
+below in September and October 2022. USDCHF and USDJPY did so in January
+2023.</p></li>
+
+@@b3444 p
+In the week of 8 July 2023, the last report, the professional
+readings at or above 90% were EURCAD (91), GBPJPY (90), GBPUSD (91) and
+USDJPY (92).
+
+@@b3445 h2
+What We Built Together
+(2024–2026)
+
+@@b3446 p
+For six years Michael wrote and I drew. That is the shortest true
+account of our partnership. Michael carried the method in his head,
+eleven years of it with Charlie, and the words came to him easily. The
+diagrams did not. I had the patience for the diagrams, and over time I
+took on the rest of the work around a book: the layout, the covers, the
+website, the courses. This chapter records what we made, who did what,
+and what each piece meant to me.
+
+@@b3448 p
+<em>Plate — What we built together, 2024–2026. Each bar runs from the
+first email about a work to its version in the Goodman Library; dots
+mark the dated moments quoted below.</em>
+
+@@b3449 h3
+The Goodman
+Trader's Playbook — the Molokai Setup
+
+@@b3450 p
+The Playbook is a cut-to-the-chase manual for finding and trading one
+Goodman setup, the Molokai. Michael wrote the text. I drew the diagrams,
+rebuilt the charts and designed the cover, and in the end I organised
+the manuscript for the printer. It is the one book we put both our names
+to.
+
+@@b3451 p
+It started as an old idea of his that had stalled for one reason. On
+2024-06-18 he wrote: <em>"I started the Goodman Playbook a couple of
+times...the issue was doing all the diagrams and charts; the text not
+too difficult."</em> I answered the next day: <em>"Still i like the
+playbook idea."</em> A year later, on 2025-06-27, the problem was the
+same: <em>"I enjoy the writing but not the
+diagrams/charts/figures..."</em>
+
+@@b3452 p
+The name came in July 2025. On 2025-07-16 he wrote: <em>"I hope
+Charlie not upset I rename 6 &amp; 6 to Molokai."</em> Molokai is the
+Hawaiian island where he spent his honeymoon, and the setup carries that
+memory. In the introduction he put it plainly: <em>"For the record, 6
+&amp; 6 refers to 'six swings and six parameters.'"</em>
+
+@@b3453 p
+On 2025-09-12 he asked: <em>"Almost done with Playbook! I'll need you
+to redo several charts, diagrams, etc... maybe design nice cover
+also??"</em> By November the count was fifty-two diagrams. On
+2026-01-26, after he saw my chapter 3 and 4 drawings, he wrote:
+<em>"yours so muchore professional looking!!!"</em> On 2026-09-07 I
+wrote back: <em>"Let's finish the Playbook. I organize it, update the
+diagrams."</em>
+
+@@b3454 p
+What it meant: the Playbook proved the division of labour worked. He
+no longer had to explain a figure for longer than it took to draw it. I
+drew it, he checked it, and the book moved.
+
+@@b3455 h3
+The Goodman CODEX 2026,
+Parts 1 and 2
+
+@@b3456 p
+The CODEX is the compendium of Goodman Wave Theory: lessons, theory
+letters, chart studies and trading-room material. The original was
+Michael's first Goodman publication. In 2020 it was also the first
+Goodman text I ever read, and on 2024-05-15 I wrote to him: <em>"After
+years . Deep moment in codex."</em>
+
+@@b3457 p
+In December 2025 he rebuilt it. On 2025-12-29 he wrote: <em>"I think
+I just take original CODEX and add 15-20 articles to it... Offers an
+historical perspective from 2003-2025."</em> He folded in his Substack
+articles and the Goodmanisms. On 2025-12-30 he wrote: <em>"go ahead and
+re arrange CODEX into two parts."</em> I split it, set the front matter,
+and later redrew its figures. For the covers I copied figures straight
+from the books: the Goodman Setup for Part 1 and Cancel-Over /
+Cancel-Under for Part 2.
+
+@@b3458 p
+What it meant: the CODEX became the reference shelf behind everything
+else. Every later book points back to it.
+
+@@b3459 h3
+Goodman for Grasshoppers
+
+@@b3460 p
+Grasshoppers is Michael's introductory book, in its third edition
+since 2023. It is named for his Hong Kong student, the one he called
+Grasshopper, whose sayings run through it. On 2025-01-16 I quoted one
+back to him: <em>"GRASSHOPPER SAYS: You Learn Goodman the using the same
+process as you Trade."</em> The book is his. My part was the new cover,
+built on its own figure, the Goodman Smoothie: large degree narrowing
+down to the trade.
+
+@@b3461 p
+What it meant: Grasshoppers is where a new student starts, and the
+Smoothie is the right picture for that. You work down from the large
+degree to the trade.
+
+@@b3462 h3
+Over the Over
+
+@@b3463 p
+Over the Over is Michael's study of the Line: a market testing and
+exceeding its own levels, one correction at a time. I read it many
+times. On 2025-02-08 I wrote: <em>"Re- Reading Over the over.
+Article."</em> On 2025-07-18 he told me: <em>"I'm going to have to
+completely rewrite over the over - too out of date to just edit."</em> I
+replied the same day: <em>"Over the over very useful article. Last time
+you add a bert line into it."</em> My part was the cover, the Line
+transferred vertex by vertex from his figure.
+
+@@b3464 p
+What it meant: this was the paper that taught me how to read a Line,
+and later it fed the second GWT course.
+

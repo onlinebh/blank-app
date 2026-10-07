@@ -1,0 +1,156 @@
+@@b3645 h3
+نقطة التحوّل (The tipping point)
+
+@@b3646 p
+أيّ حلقة تُدير الحساب؟ في أغلب الأيام تُديره حلقة الاتزان (balancing loop). <mark>لكن في الأنظمة نقاطًا يغيّر عندها دفعٌ صغير كل شيء.</mark> وهذه القفزات تدرسها نظرية الكوارث (Catastrophe theory). وقد عمل بها Michael وشريكه القديم Jim، ومنذ عام 2024 ظلّت تعود إلى رسائلنا.
+
+@@b3647 p
+في 2024-12-13 كتبتُ:
+
+@@b3648 blockquote
+<p>"الـ Catastrophe ... نموذج رائع لوصف السوق. أظن أن كل النظريات الأخرى مجرد وصف. تبدو رائعة في الكتب فقط."</p>
+
+@@b3649 p
+وفي 2025-05-23 حاولتُ أن أتخيّلها في طبقتين: حجر ثقيل يستقر على بيضة. ثم ربطتُها بإحدى الـ Goodmanisms:
+
+@@b3650 blockquote
+<p>"الحالة المستقرة هي جزء من طبيعة النظام تمامًا، أما الـ catastrophe فهي خارج النظام وتدمّره ... أظن أن هذا ما يقصده Charlie حين يقول إن الربح الصغير خسارة، وذلك لمنع حدوث catastrophe."</p>
+
+@@b3651 p
+وجاءت أوضح صيغة في 2025-11-06، في رسالة عن الـ smoothie والتتبّع (tracking):
+
+@@b3652 blockquote
+<p>"الـ 3c نقطة تكون فيها ظروف السوق بين الأمل والخوف، مثل saddle point: ابتعاد بسيط عن المنحنى فيتغيّر كل شيء. يتبعها propagation خارج نقطة التوازن. إنه trend وليد."</p>
+
+@@b3653 p
+نقطة السرج (saddle point) مكان يبدو ساكنًا من اتجاه، وينحدر من اتجاه آخر. <mark>والـ 3C هو ذلك المكان في السوق: المشترون والبائعون في حالة توازن، لكنه "لن يبقى إلى الأبد".</mark> وفي داخل المتداول النقطة نفسها. فبعد سلسلة من الأرباح يجلس على السرج بين الثقة والجشع. خطوة في اتجاه فتصمد حلقة الاتزان. وخطوة في الاتجاه الآخر فتستولي حلقة التعزيز (reinforcing loop). <mark>وقواعد Rung 6 وُضعت لتُطاع في هذه اللحظة بالذات، حين تبدو أقلّ ضرورة.</mark>
+
+@@b3654 h3
+المتانة (Robustness)
+
+@@b3655 p
+النظام الذي يعمل في الأوقات الجيدة فقط ليس نظامًا. في 2025-02-17 كتبتُ إلى Michael من واقع سنواتي مبرمجًا:
+
+@@b3656 blockquote
+<p>"أظن أن أهم ميزة في أي نظام هي Robustness. عندما أبرمج يكون هذا العامل هو الأهم: مدى صمود شيفرتي أمام الأخطاء / Bugs! ... النظام ببساطة قاعدة أو بروتوكول آلي يقلّص الجهد المبذول في المدخلات إلى الحد الأدنى (بأبسط وأسرع صورة ممكنة)، ويزيد في الوقت نفسه من الإنتاجية (المخرجات)."</p>
+
+@@b3657 p
+وفي الرسالة نفسها: "What happens to a trader , looks for perfection
+, insted we need to think in Systematic approach , make little changes
+(enhance) every time . never change the core ."
+
+@@b3658 p
+<mark>المتانة (Robustness) هي ما تشتريه حلقة الاتزان.</mark> وفي 2025-04-20 كتبتُ أن الحرية "is a result of embrace the risk . With the vision of long
+run , robustness under difficult time. As well the better times." <mark>يبقى الجوهر كما هو: الـ 1-2-3، والأرواح الثلاثون (thirty souls)، والمراجعة (review). وتتحسّن الأمور الصغيرة. النظام ينحني ولا ينكسر.</mark>
+
+@@b3659 h3
+السُّلَّم دائرة (The ladder is a circle)
+
+@@b3660 p
+حين وضعتُ الدرجات العشر على الورق في شكل حلقة، عادت الأخيرة إلى الأولى. <mark>التعلّم (Learning) يغيّر المتداول، والمتداول المتغيّر Being جديد يرى الرسم البياني التالي بعينين جديدتين.</mark> وفي 2024-05-06 كتبتُ: "I did a feedback loop ." ووجدتُ أن الأفضل أن أضيف إلى صفقة رابحة في re-propagation بدل أن أبحث عن صفقة جديدة. خرج هذا التغيير الصغير من الحلقة، ثم عاد إليها.
+
+@@b3662 p
+الشكل: السُّلَّم دائرة. تُقرأ الدرجات العشر باتجاه عقارب الساعة، والـ System يعود فيغذّي الـ Being.
+
+@@b3663 p
+<mark class="key">قال Charlie إن كل شيء 1-2-3. والمتداول كذلك: بداية، ونقطة تحوّل، ونهاية، والنهاية بداية التالي.</mark>
+
+@@b3664 h1
+الحقيقة: الـ Goodmanisms (Truth: The Goodmanisms)
+
+@@b3665 p
+كتب لي Michael في 2022-09-05: "I can't think of a single
+Goodmanism that isn't still true!" وها هي هنا، كل قول لـ Charlie وصلني في رسائل Michael، كما كتبه Michael تمامًا، مع تاريخ الرسالة. وحيث روى Michael القول نفسه أكثر من مرة، أذكر التاريخ الأول. بعضها جاء بكلمات Charlie نفسها، وبعضها نقله Michael بكلماته هو، وأضع عليها علامة "منقول" (Reported).
+
+@@b3666 h3
+1 · Being
+
+@@b3667 ul
+<li><p>"Dad, you can figure the dogs but you can't figure the human
+race.!" (2022-09-20؛ ثم 2023-05-18 و2023-11-14)</p></li>
+<li><p>"im ok at predicting markets but i can't predict people"
+(2023-06-01) <em>جوابه حين سُئل لماذا لم يُدِر أموال الآخرين.</em></p></li>
+<li><p>"How do you know he's the crazy one? Perhaps we're all crazy and
+he's the only sane one?" "Your personal perspective determines your
+judgement and how you see things." (2022-10-07)</p></li>
+<li><p>"it is ok to trust our instincts we need to use them because the
+human brain is not fully developed yet" (2024-10-28)</p></li>
+<li><p>"People often act like they are going to live forever..."
+(2025-09-11)</p></li>
+<li><p>"When we visit someone else's house we become like children."
+(2025-11-21)</p></li>
+<li><p>"Dad, close only counts in horseshoes. In life you are either
+right or wrong. ... We must do our best but know that fate is always in
+charge of our life." (2026-09-14) <em>قيل بعد أن قُتل راكون على الطريق أمامهما.</em></p></li>
+
+@@b3668 h3
+2 · Knowing
+
+@@b3669 ul
+<li><p>"Information is plentiful and cheap, knowledge is less common and
+valuable - but wisdom is rare and priceless." (2020-09-09)</p></li>
+<li><p>منقول (Reported): "information is plentiful and almost worthless by
+itself ... knowledge is when information is skillfully
+combined...valuable but also not rare...BUT when someone takes knowledge
+from two different areas and combines...is Wisdom and very rare and very
+valuable." (2026-07-09)</p></li>
+<li><p>"Dad, I realized he had to find it on his own. You couldn't tell
+it to him, that was a waste of time!" ... "That's why I teach you by
+example rather than a book explanation like that thing you wrote!"
+(2024-08-21)</p></li>
+<li><p>"Dad, if you walk around the block enough times, you'll see in
+everybody's window at least once." (2024-06-15)</p></li>
+<li><p>"Dad, these people are here looking for a free lunch and you're
+telling them there is no such thing." (2021-04-26؛ وتكرّرت مرات كثيرة)</p></li>
+<li><p>"Dad, never ask a question if 1) You already know the answer or
+2) You don't want to know the answer!" (2025-03-29)</p></li>
+<li><p>"If you can't find water in a lake how do you expect to find it
+in a bathtub?" (2025-06-21) <em>قيل لمتداول شاب نوى أن يدرس سوقين فقط.</em></p></li>
+<li><p>"I don't know. I'd listen to everything he says about the
+markets. his perspective is different than anyone else here. That could
+be golden. He could see something we don't see." (2024-05-29)</p></li>
+<li><p>"he is very special person. i would like to know him better." ...
+"very rare to get so old not learn, keep making same mistake over and
+over and i would like to understand" (2023-05-31) <em>عن رجل عجوز في Bache خسر في كل صفقات الأخبار تقريبًا.</em></p></li>
+<li><p>"i'd much rather know what happened to the boy who missed the
+contest!" (2026-09-27)</p></li>
+<li><p>"well yeah, dad, but why did you do all that?" (2025-12-30)
+<em>عن ملخص Michael المكتوب سنة 1979 لـ GWT؛ فقد رأى Charlie الكل دفعة واحدة.</em></p></li>
+
+@@b3670 h3
+3 · Seeing
+
+@@b3671 ul
+<li><p>"Remember, Dad, prices can only go UP or DOWN."
+(2021-09-10)</p></li>
+<li><p>"everything is 1-2-3" (2024-11-26)</p></li>
+<li><p>منقول (Reported): "Charlie said we could never really 'see' the market
+because it is in a different dimension, apart from us."
+(2021-10-02)</p></li>
+<li><p>منقول (Reported): "Charlie said the market is separate from us. It often
+seems random to us but it isn't. Our hope is to somehow touch it briefly
+from time to time, make a little money from it." (2025-09-13)</p></li>
+<li><p>"Wait a minute, dad, there's a lot going on in those charts!"
+(2025-10-15؛ وأول مرة 2023-06-14)</p></li>
+<li><p>"Well, if you put enough lines on a chart one of them is bound to
+be right!" (2022-09-21) <em>قالها ضاحكًا لرجل يعرض رسم Gann البياني.</em></p></li>
+<li><p>"Just more rope to hang yourself, Dad!" (2024-05-09) <em>في أول عرض لرسم الشارت بالحاسوب، حين تحوّل الرسم من يومي إلى ساعي إلى عشر دقائق.</em></p></li>
+<li><p>"On your chart service 10 cents in Silver is 1/4" - to your
+brain, no meaning...but the act of drawing a 2" line for that 10 cents
+connects you to that market!" (2025-08-13)</p></li>
+<li><p>منقول (Reported): "Charlie said that if everyone agrees on something then
+the decision was almost certainly made emotionally. and probably -
+though not necessarily - false..." (2024-06-24)</p></li>
+<li><p>منقول (Reported): "Charlie said make sure you understand why someone is
+happy to buy when you sell and happy to sell when you buy."
+(2025-01-13)</p></li>
+<li><p>منقول (Reported): Elliott "is DESCRIPTIVE but not PREDICTIVE...It
+explains the past perfectly; says nothing about the future."
+(2025-10-14)</p></li>
+<li><p>"Dad, don't sell your potatoes, those rail cars are either empty
+or just partially full." ... "Those Simplot cars are running too steady,
+I see no jerking or bucking." (2023-08-03)</p></li>
+<li><p>"Once in a decade you'll find an opportunity that a lot of pieces
+just come together all at once." (2024-05-11)</p></li>
+<li><p>"clean chart" (2023-05-10) <em>كلمة Charlie لرسم بياني يتّضح فيه صراع المشتري والبائع.</em></p></li>
+

@@ -1,0 +1,61 @@
+{
+ "chunk": "c31",
+ "highlights": [
+  {"b": "b2059", "en": "The benefit of knowing an amount is obvious: it lets us put things in", "level": 1},
+  {"b": "b2064", "en": "The main benefit of knowing an amount is to put each thing at its", "level": 1},
+  {"b": "b2065", "en": "The word \"volume\" alone is not enough.", "level": 1},
+  {"b": "b2071", "en": "This is why I do not believe in indicators.", "level": 1},
+  {"b": "b2073", "en": "price causes volume", "level": 1},
+  {"b": "b2074", "en": "volume is the amount of selling,", "level": 2},
+  {"b": "b2077", "en": "No business can live without customers", "level": 1},
+  {"b": "b2081", "en": "One bar is not enough to tell the story, and the same is true of", "level": 1},
+  {"b": "b2086", "en": "memorize the Matrix.", "level": 1},
+  {"b": "b2093", "en": "The volume\nis abnormal for the range and for the time held.", "level": 1},
+  {"b": "b2094", "en": "Reading volume without the 1-2-3 will mislead you a lot.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b2051", "en": "Defining Volume from Ground Up", "ar": "تعريف Volume من الأساس",
+   "note_en": "Starting from the dictionary meaning, volume is simply 'the amount of something', and the author asks what benefit and what type of amount.", "note_ar": "يبدأ من المعنى القاموسي: الـ volume هو كمية الشيء، ثم يسأل عن الفائدة ونوع الكمية.", "imp": 2,
+   "children": [
+    {"b": "b2055", "en": "Benefit of knowing an amount", "ar": "فائدة معرفة الكمية", "note_en": "An amount gives a differential picture, letting us place things at the right level or boundary.", "note_ar": "الكمية تعطي صورة تفاضلية تتيح وضع الأشياء في مستواها الصحيح.", "imp": 2,
+     "children": [
+      {"b": "b2060", "en": "Examples: atomic radius, carbon isotopes", "ar": "أمثلة: نصف القطر الذري ونظائر الكربون", "note_en": "We cannot judge everything; sometimes a special tool is needed to measure.", "note_ar": "لا نستطيع الحُكم على كل شيء، وأحيانًا نحتاج أداة خاصة للقياس.", "imp": 1}
+     ]},
+    {"b": "b2062", "en": "Four-point conclusion", "ar": "الخلاصة في أربع نقاط", "note_en": "Place each thing at its boundary; some amounts are easy to judge, others hard; judgment can be relative; tools differ.", "note_ar": "وضع كل شيء في حدّه؛ بعض الكميات سهل وبعضها صعب؛ الحُكم قد يكون نسبيًا؛ والأدوات تختلف.", "imp": 2,
+     "children": [
+      {"b": "b2065", "en": "Word 'volume' is not enough", "ar": "كلمة volume لا تكفي", "note_en": "We must dig deeper because the model works only on what we put into it.", "note_ar": "علينا أن نحفر أعمق لأن النموذج لا يعمل إلا بما نضعه فيه.", "imp": 2}
+     ]}
+   ]},
+  {"b": "b2066", "en": "Measuring Humans", "ar": "قياس البشر",
+   "note_en": "Humans alone cause market moves, so the question is how to put human action into levels or boundaries.", "note_ar": "البشر وحدهم سبب حركة السوق، فالسؤال: كيف نضع فعل البشر في مستويات؟", "imp": 2,
+   "children": [
+    {"b": "b2069", "en": "Socrates and the old teacher", "ar": "سقراط والمعلم القديم", "note_en": "Old wisdom shows how hard it is to build a unit that measures human action or habit.", "note_ar": "الحكمة القديمة تبين صعوبة بناء وحدة تقيس فعل الإنسان.", "imp": 1},
+    {"b": "b2070", "en": "Love and hate are easy to judge", "ar": "الحب والكراهية سهلة الحُكم", "note_en": "Some human things can be judged with high confidence but not with an equation.", "note_ar": "بعض الأمور الإنسانية يُحكم عليها بثقة عالية لكن لا تُقاس بمعادلة.", "imp": 1,
+     "children": [
+      {"b": "b2071", "en": "Why not indicators", "ar": "لماذا لا مؤشرات", "note_en": "No equation replaces the feeling (e.g. testosterone); the author does not believe in indicators.", "note_ar": "لا معادلة تحل محل الشعور؛ ولذلك لا يؤمن المؤلف بالمؤشرات.", "imp": 2}
+     ]}
+   ]},
+  {"b": "b2072", "en": "Definition: Amount of Selling at a Price", "ar": "التعريف: كمية البيع عند سعر",
+   "note_en": "Volume measures the change in property; price causes volume, so volume is the amount of selling depending on price.", "note_ar": "الـ volume يقيس تغيّر الملكية؛ السعر يصنع الـ volume، فهو كمية البيع بحسب السعر.", "imp": 3,
+   "children": [
+    {"b": "b2073", "en": "Price causes volume (Goodman)", "ar": "السعر يصنع الـ volume", "note_en": "In every market the amount of selling depends on the price.", "note_ar": "في كل سوق تعتمد كمية البيع على السعر.", "imp": 3},
+    {"b": "b2075", "en": "What the amount tells us", "ar": "ماذا تخبرنا الكمية", "note_en": "Increasing, decreasing, average, abnormally high or low selling each hint at price direction or a critical point.", "note_ar": "زيادة البيع ونقصانه ومتوسطه وشذوذه العالي أو المنخفض كلها تلمّح لاتجاه السعر أو لنقطة حرجة.", "imp": 2,
+     "children": [
+      {"b": "b2077", "en": "Customer is the boss", "ar": "الزبون هو الرئيس", "note_en": "Abnormally low selling is also critical: no business lives without customers.", "note_ar": "البيع المنخفض جدًا حرج أيضًا: لا عمل يعيش بلا زبائن.", "imp": 1}
+     ]},
+    {"b": "b2080", "en": "Big note: one bar is not enough", "ar": "ملاحظة: bar واحد لا يكفي", "note_en": "Work Inward and Outward across hours, days and weeks; the judgment is soft.", "note_ar": "اعمل Inward وOutward عبر الساعات والأيام والأسابيع؛ والحُكم مرن.", "imp": 2}
+   ]},
+  {"b": "b2084", "en": "Reading Volume with the Matrix", "ar": "قراءة Volume بالـ Matrix",
+   "note_en": "Judge the quantity of sales against the Matrix and combine it with time, which represents control.", "note_ar": "احكم على كمية المبيعات عبر الـ Matrix واجمعها مع الزمن الذي يمثل السيطرة.", "imp": 3,
+   "children": [
+    {"b": "b2085", "en": "Low volume on a rise", "ar": "volume منخفض في صعود", "note_en": "Market rising on very low sales will probably go down; it is just an Overlay.", "note_ar": "السوق الصاعد على مبيعات منخفضة جدًا سيهبط غالبًا؛ إنه Overlay.", "imp": 2},
+    {"b": "b2087", "en": "Change in FPS, SS, SPS", "ar": "التغيّر في FPS وSS وSPS", "note_en": "The change in sales amount in each leg tells the story.", "note_ar": "التغيّر في كمية المبيعات في كل ساق يروي القصة.", "imp": 2},
+    {"b": "b2090", "en": "Example: EURUSD down 1-2-3", "ar": "مثال: EURUSD هابط 1-2-3", "note_en": "FPS shows average pace, SS shows weak correction, SPS shows abnormal volume at a critical point, and after the SPS sales rise above SS so buyers lift price.", "note_ar": "الـ FPS وتيرة متوسطة، والـ SS تصحيح ضعيف، والـ SPS volume شاذ عند نقطة حرجة، وبعده يرفع المشترون السعر.", "imp": 2,
+     "children": [
+      {"b": "b2094", "en": "Lesson: tick volume needs the 1-2-3", "ar": "الدرس: tick volume يحتاج الـ 1-2-3", "note_en": "Tick volume works with judgment behind the Matrix; without the 1-2-3 it misleads.", "note_ar": "يعمل الـ tick volume مع الحُكم خلف الـ Matrix؛ وبدون الـ 1-2-3 يضلل.", "imp": 3}
+     ]}
+   ]},
+  {"b": "b2096", "en": "Qualifying Trades by Volume (2023)", "ar": "تأهيل الصفقات بالـ Volume (2023)",
+   "note_en": "New study: price makes volume, a three-step routine around 3-C cancel and the Matrix, two examples and a bar-by-bar chart.", "note_ar": "دراسة جديدة: السعر يصنع الـ volume، وروتين من ثلاث خطوات حول 3-C cancel والـ Matrix، ومثالان ورسم كامل.", "imp": 1}
+ ]
+}

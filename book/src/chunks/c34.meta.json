@@ -1,0 +1,57 @@
+{
+ "chunk": "c34",
+ "highlights": [
+  {"b": "b2186", "en": "volume is sentiment.", "level": 1},
+  {"b": "b2187", "en": "A consensus extreme is not a trade by\nitself; it is a warning that one side is finished.", "level": 1},
+  {"b": "b2189", "en": "When everyone is selling, it means buy. When everyone is buying, it\nmeans sell.", "level": 2},
+  {"b": "b2198", "en": "By experiencing the constant conjunction of events behind mass\nbehavior, we can induce a logical response.", "level": 1},
+  {"b": "b2201", "en": "In a Nash equilibrium, rational players seek to maximize their\nprofit.", "level": 1},
+  {"b": "b2206", "en": "But the equilibrium price is not the best deal.", "level": 1},
+  {"b": "b2212", "en": "each swing\nmeasures the pulling force that drives it to its maximum.", "level": 1},
+  {"b": "b2215", "en": "When there is no battery\nleft, the trend shuts down and the next phase is correction", "level": 1},
+  {"b": "b2225", "en": "By\nwatching shifting energy, we can see which side has more pulling power\nfrom the impression force to reach its maximum.", "level": 1},
+  {"b": "b2228", "en": "the market is a salesman, and the mass shows its\npassion for each item.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b2185", "en": "How the three Volume papers fit", "ar": "كيف تتكامل أوراق Volume الثلاث",
+   "note_en": "Volume (2021), Qualifying Trades (2023) and Volume today (2025-2026) build on each other: from reading volume inside the matrix, to qualifying trades, to reading volume as sentiment.",
+   "note_ar": "ثلاث أوراق تبني بعضها على بعض: قراءة الـ volume داخل الـ matrix، ثم تأهيل الصفقات، ثم قراءة الـ volume بوصفه sentiment.",
+   "imp": 2,
+   "children": [
+    {"b": "b2186", "en": "Volume as sentiment", "ar": "الـ volume هو الـ sentiment", "note_en": "Volume accumulates along the move, is combined across feeds, and is read at its extreme, against the crowd.", "note_ar": "يتراكم الـ volume على امتداد الحركة ويُجمع من عدة مصادر ويُقرأ عند ذروته عكس الجمهور.", "imp": 2, "children": []},
+    {"b": "b2187", "en": "Earlier rules still hold", "ar": "القواعد السابقة قائمة", "note_en": "A consensus extreme is only a warning that one side is finished; the overlay, 3-C and setup are still needed. The question changed from 'is volume high?' to 'is everyone on the same side?'.", "note_ar": "ذروة الإجماع تحذير فقط؛ ونحتاج الـ overlay والـ 3-C والـ setup. السؤال صار: هل الجميع في الجانب نفسه؟", "imp": 2, "children": []},
+    {"b": "b2189", "en": "The rule: fade the crowd", "ar": "القاعدة: اعكس الجمهور", "note_en": "When everyone is selling, buy; when everyone is buying, sell. The crowd is wrong about the next move, not the one already made.", "note_ar": "حين يبيع الجميع اشترِ، وحين يشتري الجميع بِع. الجمهور يخطئ في الحركة التالية لا الماضية.", "imp": 3, "children": []}
+   ]},
+  {"b": "b2190", "en": "The 6&6 Under the Microscope", "ar": "الـ 6&6 تحت المجهر",
+   "note_en": "A 2021 paper that seeks the most profitable type of 6&6 Setup using Game Theory and the Nash equilibrium.",
+   "note_ar": "ورقة من 2021 تبحث عن أكثر أنواع الـ 6&6 Setup ربحية باستخدام Game Theory والـ Nash equilibrium.",
+   "imp": 2,
+   "children": [
+    {"b": "b2192", "en": "Method and logical model", "ar": "المنهج والنموذج المنطقي", "note_en": "Study the cases where 6&6 succeeds or fails and find the cause of success, using Game Theory.", "note_ar": "ندرس حالات نجاح الـ 6&6 وفشله لنجد سبب النجاح باستخدام Game Theory.", "imp": 1, "children": []},
+    {"b": "b2195", "en": "Mass behavior and constant conjunction", "ar": "سلوك الجماهير والاقتران الدائم", "note_en": "6&6 reflects mass behavior. Following Hume, we need not know the 'why'; we experience the constant conjunction of events and induce a logical response, framed as a Nash equilibrium.", "note_ar": "الـ 6&6 انعكاس لسلوك الجماهير. مع Hume لا نحتاج إلى «لماذا»، بل نعايش الاقتران الدائم ونستنتج استجابة منطقية تُصاغ كـ Nash equilibrium.", "imp": 2, "children": [
+      {"b": "b2197", "en": "Hume's two quotes", "ar": "قولا Hume", "note_en": "Reason is the slave of the passions; we only experience constant conjunction, never causation.", "note_ar": "العقل عبد للأهواء؛ ونعايش الاقتران الدائم لا السببية.", "imp": 1, "children": []}
+    ]},
+    {"b": "b2199", "en": "Why the Nash equilibrium matters", "ar": "لماذا يهمّ الـ Nash equilibrium", "note_en": "Rational players maximize profit; a professional trader looks for a great target. At the Intersection breakout, old losers take trades in the breakout direction and create more movement.", "note_ar": "اللاعبون العقلانيون يعظّمون الربح. عند كسر الـ Intersection يدخل الخاسرون القدامى في اتجاه الـ breakout فيولّدون حركة أكبر.", "imp": 2, "children": [
+      {"b": "b2203", "en": "Supply-demand vs Nash", "ar": "العرض والطلب مقابل Nash", "note_en": "University teaches the equilibrium price as the best deal; the author argues the market is so competitive that it follows the Nash equilibrium instead.", "note_ar": "تُدرّس الجامعة أن السعر التوازني أفضل صفقة؛ والكاتب يرى أن السوق تنافسي فيتبع Nash.", "imp": 2, "children": []}
+    ]}
+   ]},
+  {"b": "b2207", "en": "Components of the Market Microscope", "ar": "مكوّنات مجهر السوق",
+   "note_en": "Trend, maximum profit and climax; the battery model; shifting energy and its effect on mass behavior.",
+   "note_ar": "الـ trend وأقصى ربح والـ climax؛ نموذج البطارية؛ والـ shifting energy وأثرها في سلوك الجماهير.",
+   "imp": 3,
+   "children": [
+    {"b": "b2208", "en": "Trend, maximum profit, climax", "ar": "الـ Trend وأقصى ربح والـ climax", "note_en": "Traders follow the trend only until they take maximum profit (Nash equilibrium). That is why markets seek oversold and overbought; each swing measures its pulling force, and at the maximum the energy is at climax, followed by correction.", "note_ar": "يتبع المتداولون الـ trend حتى يأخذوا أقصى ربح. لذلك يبحث السوق عن oversold وoverbought، وعند الأقصى تبلغ الطاقة الـ climax ثم يأتي التصحيح.", "imp": 2, "children": [
+      {"b": "b2211", "en": "Oversold / Overbought", "ar": "Oversold / Overbought", "note_en": "Oversold is the maximum point sellers can achieve; overbought the maximum point buyers can achieve.", "note_ar": "Oversold أقصى نقطة للبائعين، وoverbought أقصى نقطة للمشترين.", "imp": 1, "children": []}
+    ]},
+    {"b": "b2214", "en": "The battery model", "ar": "نموذج البطارية", "note_en": "The market charges a battery that carries the trend until it runs out; then correction follows, like a phone going from 100% to 0%. Each swing has its own maximum and response (e.g. 100 pips at 0% versus 1,000 pips still at 50%).", "note_ar": "السوق يشحن بطارية تحمل الـ trend حتى تنفد ثم يأتي التصحيح. لكل swing أقصاه واستجابته (100 pips عند 0% مقابل 1,000 pips عند 50%).", "imp": 3, "children": [
+      {"b": "b2217", "en": "Comparing swings", "ar": "مقارنة الـ swings", "note_en": "Studying old swings shows which side, up or down, has greater pulling and impression forces, like testing two phones' batteries.", "note_ar": "دراسة الـ swings القديمة تُظهر أي جانب أقوى سحبًا وانطباعًا.", "imp": 2, "children": []}
+    ]},
+    {"b": "b2223", "en": "Shifting energy", "ar": "الـ Shifting energy", "note_en": "The battery is finished when the swing, compared with the old pulling force, shows a large difference. Watching shifting energy reveals which side has more pulling power.", "note_ar": "تنتهي البطارية حين يكون الفرق كبيرًا عن قوة السحب القديمة. مراقبة الـ shifting energy تكشف أي جانب أقوى سحبًا.", "imp": 3, "children": [
+      {"b": "b2226", "en": "Effect on mass behavior", "ar": "الأثر في سلوك الجماهير", "note_en": "It changes mood and passion, shows the path of least resistance, appears in the response, and the response is everything (Jack's $100 example, constant conjunction).", "note_ar": "تغيّر المزاج والشغف، وتُظهر path of least resistance، وتظهر في الاستجابة، والاستجابة هي كل شيء (مثال Jack).", "imp": 2, "children": [
+        {"b": "b2227", "en": "Jack's $100", "ar": "مئة دولار Jack", "note_en": "Jack cannot buy a $1,000 laptop, so he surely cannot buy a $200,000 house: the response tells us what to expect.", "note_ar": "من لا يستطيع شراء لابتوب بألف دولار لن يشتري بيتًا؛ الاستجابة تخبرنا بما نتوقع.", "imp": 1, "children": []}
+      ]},
+      {"b": "b2228", "en": "Lesson: trade with the mass passion", "ar": "الدرس: تداول مع شغف الجماهير", "note_en": "The market is a salesman and the mass shows passion for each item; professionals study that response and trade with it, up for positive mood, down for negative.", "note_ar": "السوق بائع والجماهير تُظهر شغفها؛ المحترف يتداول مع الاستجابة صعودًا أو هبوطًا.", "imp": 3, "children": []}
+    ]}
+   ]}
+ ]
+}

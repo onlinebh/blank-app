@@ -1,0 +1,234 @@
+##CTX Part: Rung 9 · Learning: Who Carries It On? | Section: The GBPUSD Studies (2021–2022)
+
+@@b3206 h3
+Study 4 (late October 2021)
+
+@@b3207 p
+Here I read cycles across two timeframes.
+
+@@b3209 p
+Figure: A completed bullish cycle, an incomplete push that breeds a
+bearish cycle, and a new bullish cycle. Real data: GBPUSD, 4-hour, 14
+February – 2 March 2022. (The original chart was GBPUSD, daily, March
+2020 – October 2021; this one shows the same structure.)
+
+@@b3210 p
+On the daily chart, A was a complete 1-2-3. At X, the cross point met
+selling pressure; compare all the blue arrows with X. At B, we had an
+incomplete 1-2-3. Buyers could not absorb sellers in the A area, so this
+was buyers' terminal point.
+
+@@b3211 p
+At C, sellers entered and dominated the trend, but with very little
+Nash. At Y, see how the cross point showed buyers' energy inside the
+bearish cycle. At D, I expected the bullish cycle to begin in the coming
+weeks.
+
+@@b3213 p
+Figure: The range at the top of the rise: bullish cycle complete,
+bearish cycle complete, new bullish cycle. Real data: GBPUSD, 30-minute,
+15–18 February 2022. (The original chart was GBPUSD, 4-hour, 16
+September – 29 October 2021; this one shows the same structure.)
+
+@@b3214 p
+The cycles become very clear when two timeframes are combined: each
+smaller cycle follows the larger daily cycle and confirms it. On the
+4-hour chart the bearish cycle was complete, and new energy appeared in
+volume at A. In the reaction, volume decreased. For the first time
+sellers were losing energy, and this generated a new cycle in the
+direction of the larger daily cycle.
+
+@@b3215 p
+This is a type of Overlay combination, one that shows the maximum and
+the minimum.
+
+@@b3216 h3
+Study 5 (early November 2021)
+
+@@b3217 p
+In the last report I anticipated the market would move up from D. But
+it is part of the market's adventure that buyers or sellers can withdraw
+at any time, and that reverses the trend. The market is a wonderful
+place that always surprises you. Otherwise trading would be a boring
+job.
+
+@@b3219 p
+Figure: Turning points A–G matched to their volume bars. Real data:
+GBPUSD, 15-minute, 16–18 February 2022. (The original chart was GBPUSD;
+this one shows the same structure.)
+
+@@b3220 blockquote
+<p>1. <strong>A:</strong> the highest volume in the FPS. Buyers
+increased their energy by absorbing all offers.</p>
+<p>2. <strong>B:</strong> in the SS, sellers could not carry the market
+to a lower low, as the decreasing volume shows. When the market cannot
+move lower, it moves up to attract more people.</p>
+<p>3. <strong>C:</strong> the SPS had great momentum and an excellent
+End Point. For a while everything looked bullish.</p>
+<p>4. <strong>D:</strong> volume decreased, which confirmed the bullish
+inference.</p>
+<p>5. <strong>E:</strong> the danger sign. Buyers did not increase their
+energy to make a higher high. Compare E with A and C.</p>
+<p>6. <strong>F:</strong> volume increased as the price fell, with the
+ability to create a 1-2-3 down. This was the first real show of sellers'
+intensity, compared with B and D.</p>
+<p>7. <strong>G:</strong> the Return Zone, where we go short.</p>
+
+@@b3221 p
+Volume can be very ambiguous at F and G, since both stand at the same
+level. But look left. F came after E, where buyers had no energy, and it
+was the highest energy compared with B and D. G sat at the Return Zone,
+and compared with A and C, we can assume buyers at G were weak.
+
+@@b3222 p
+Even so, I expected the bullish cycle to continue after this
+temporary reaction, because the Overlay combination on the daily chart
+was still active, unless the market showed major symptoms.
+
+@@b3223 h3
+Study 5–6 (early November
+2021)
+
+@@b3224 p
+When you want to judge the market condition, you must practice a lot
+of patience, and a lot of thanks.
+
+@@b3226 p
+Figure: An incomplete cycle: I, II, III and a shallow IV before the
+breakout. Real data: GBPUSD, 1-hour, 23–25 February 2022. (The original
+chart was GBPUSD; this one shows the same structure.)
+
+@@b3227 p
+Angle Propagation developed from A to B and then to C, with an
+incomplete cycle. It shows how buyers struggled to dominate the trend,
+pulling the market at A, B and C while sellers could not react properly.
+It is wonderful to track buyers' attacks:
+
+@@b3228 ul
+<li><p><strong>I:</strong> the first attack on sellers. It could not
+stop the selling flow. The angle from A to B showed some improvement,
+but not enough.</p></li>
+<li><p><strong>II:</strong> buyers absorbed all offers like a
+sponge.</p></li>
+<li><p><strong>III:</strong> buyers moved on very low volume. This was
+volume noise; it did not reveal buyers' true energy.</p></li>
+<li><p><strong>IV:</strong> buyers again stopped the movement on
+increasing volume, with an incomplete cycle. Here volume gave a better
+message about rising buying energy.</p></li>
+
+@@b3229 p
+Angle Propagation C showed a great improvement. In each down move,
+buyers improved their quality in absorbing offers. The last few bars
+broke the green line, the Excess line, which was the first sign that
+buyers could develop this into a 1-2-3.
+
+@@b3230 p
+When the market wants to move into an uptrend, everything is usually
+in doubt. But as I showed, this tactic can track buyers' attack to
+dominate the trend clearly and with a high degree of certainty.
+
+@@b3231 h3
+Study 7 (November 2021)
+
+@@b3232 p
+After buyers propagated into a 1-2-3, the market retreated to the
+Return Zone.
+
+@@b3234 p
+Figure: The price breaks above the box and then returns to it. Real
+data: GBPUSD, 15-minute, 28 February – 1 March 2022. (The original chart
+was GBPUSD; this one shows the same structure.)
+
+@@b3235 p
+At the first arrow, sellers increased their force and the market dug
+a little into the Return Zone rectangle. At the second arrow, their
+intensity decreased and price moved out of the rectangle. In this
+situation the tendency is bullish.
+
+@@b3236 h3
+Study 8 (early November 2021)
+
+@@b3237 p
+In this short report I show how to judge the strength or weakness of
+the market, and how to profit from the change from one to the other. It
+takes only four easy steps:
+
+@@b3238 blockquote
+<p>1. Filter price action into oscillator waves.</p>
+<p>2. Draw Propagation lines to read the market from the sense of
+Propagation.</p>
+<p>3. Read the Propagation lines as buyers' and sellers' mental energy,
+and judge who has the greater energy.</p>
+<p>4. Make money from that judgement, as an investment policy.</p>
+
+@@b3240 p
+Figure: The whole trade: Long, test1–test2 with Stops, Cover Long at
+test3, Short at test4, test5. Real data: GBPUSD, 1-hour, 14–24 February
+2022. (The original chart was GBPUSD, 4-hour, 23 September – 5 November
+2021; this one shows the same structure.)
+
+@@b3241 h4
+Steps 2 and 3: a bullish
+indication
+
+@@b3242 p
+The black line represents the 1-2-3, and we watch the Propagation
+reaction at Test 2. Buyers' energy re-entered at Test 2 after a period
+of low volume. The Propagation ran from 29 September to 8 October with
+continuous buying, and Test 2 took a very short time.
+
+@@b3244 p
+Figure: Long, then test1 and test2 with the Stop raised under each.
+Real data: GBPUSD, 1-hour, 14–17 February 2022. (The original chart was
+GBPUSD, 4-hour, 28 September – 13 October 2021; this one shows the same
+structure.)
+
+@@b3245 h4
+The turn: a bearish
+indication
+
+@@b3246 p
+The market extended buyers' ability into a larger 1-2-3. Then the 3-C
+showed buyers were exhausted, and the 3-C was cancelled. The correction
+was small, 20% of the Propagation, suggesting buyers wanted to keep
+their gains close to the top and sell to new buyers who buy high after
+such a move.
+
+@@b3247 p
+For the first time we had a bearish Goldilocks sign. After an
+increase in volume the market was weak, especially in the last rally
+into Test 3 on decreasing volume. The market also sat in congestion from
+20 October 12:00 to 26 October, a long sideways move with no progress
+for buyers. Logically, all long positions had to be covered and reversed
+to short (Step 4).
+
+@@b3249 p
+Figure: Cancel of the upward cycle and Cover Long at test3. Real
+data: GBPUSD, 1-hour, 14–21 February 2022. (The original chart was
+GBPUSD, 4-hour, 29 September – 26 October 2021; this one shows the same
+structure.)
+
+@@b3250 p
+The symptoms of buyers losing energy were very clear, while sellers'
+energy was rising. The abnormal volume suggested old buyers selling to
+new buyers while new sellers entered. That imbalance creates a bearish
+trend, and a great opportunity to go short.
+
+@@b3251 h4
+Bearish domination
+
+@@b3252 p
+The market is like a movie. The red line shows the first 1-2-3 down.
+At Test 4, despite all that volume, the rally was very short in time.
+The faster and steeper a rally, the quicker it dies compared with the
+earlier rallies, and within hours volume decreased.
+
+@@b3253 p
+If you did not go short at Test 3, you could still make money at Test
+4 as a Goodman Setup, with the stop at least at the top (Step 4).
+
+@@b3255 p
+Figure: From Cover Long at test3 to the Short at test4. Real data:
+GBPUSD, 1-hour, 14–23 February 2022. (The original chart was GBPUSD,
+4-hour; this one shows the same structure.)
+

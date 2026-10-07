@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Everything Is a 1-2-3 · كل شيء هو 1-2-3</title>
+<meta name="description" content="Everything Is a 1-2-3 by Mohamed Ahmed — a calm bilingual reader (English / العربية) with a detailed mind map.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%238a5a2b'/%3E%3Cpath d='M14 44 28 22l10 14 12-20' fill='none' stroke='%23fff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cairo:wght@400;600;700&family=Inter:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Lora:ital,wght@0,400;0,600;1,400&family=Noto+Naskh+Arabic:wght@400;600;700&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-view="read" data-lang="en">
+<div id="progress" aria-hidden="true"><i></i></div>
+<div id="warm" aria-hidden="true"></div>
+
+<header id="bar">
+  <button id="btnToc" class="ib" aria-label="Contents" title="Contents (T)"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg></button>
+  <div class="brand"><b>1-2-3</b><span id="crumb"></span></div>
+  <nav class="tabs" aria-label="View">
+    <button data-v="read" class="on" data-i="read">Read</button>
+    <button data-v="map" data-i="map">Mind map</button>
+  </nav>
+  <div class="seg" id="langSeg" role="group" aria-label="Language">
+    <button data-l="en" class="on" title="English">EN</button>
+    <button data-l="both" title="Side by side / جنبًا إلى جنب">EN⇄ع</button>
+    <button data-l="ar" title="العربية">ع</button>
+  </div>
+  <button id="btnSet" class="ib" aria-label="Appearance" title="Appearance (A)"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.8v2.4M12 18.8v2.4M2.8 12h2.4M18.8 12h2.4M5.5 5.5l1.7 1.7M16.8 16.8l1.7 1.7M5.5 18.5l1.7-1.7M16.8 7.2l1.7-1.7"/></svg></button>
+</header>
+
+<aside id="toc" aria-label="Contents">
+  <div class="tocHead">
+    <input id="q" type="search" placeholder="Search the book…" autocomplete="off">
+    <div id="qres"></div>
+  </div>
+  <div id="tocList"></div>
+</aside>
+
+<main id="app">
+  <section id="reader">
+    <article id="page"></article>
+    <nav id="pager"></nav>
+  </section>
+  <section id="mapView" hidden>
+    <div id="mapTools">
+      <div class="grp"><button id="mZoomIn" class="ib sm" title="Zoom in">＋</button><button id="mZoomOut" class="ib sm" title="Zoom out">－</button><button id="mFit" class="sm" data-i="fit">Fit</button></div>
+      <div class="grp"><span data-i="levels">Levels</span>
+        <button class="sm lv" data-d="1">1</button><button class="sm lv" data-d="2">2</button><button class="sm lv" data-d="3">3</button><button class="sm lv" data-d="4">4</button><button class="sm lv" data-d="9" data-i="all">All</button></div>
+      <div class="grp"><input id="mSearch" type="search" data-ip="mapSearch" placeholder="Find in map…"></div>
+      <div class="grp"><label class="chk"><input type="checkbox" id="mImp"> <span data-i="onlyImp">Important only</span></label></div>
+      <div class="legend"><i class="l3"></i><span data-i="core">Core idea</span><i class="l2"></i><span data-i="important">Important</span><i class="l1"></i><span data-i="detail">Detail</span></div>
+    </div>
+    <div id="mapBox"><svg id="mapSvg" xmlns="http://www.w3.org/2000/svg"></svg></div>
+    <aside id="mapInfo" hidden></aside>
+  </section>
+</main>
+
+<aside id="settings" aria-label="Appearance" hidden>
+  <div class="sHead"><b data-i="appearance">Appearance</b><button id="sClose" class="ib sm" aria-label="Close">✕</button></div>
+  <div class="sBody">
+    <h4 data-i="theme">Calm colours</h4>
+    <div id="themes"></div>
+    <h4 data-i="custom">Make your own</h4>
+    <div class="colors">
+      <label><input type="color" id="cBg"><span data-i="cBg">Background</span></label>
+      <label><input type="color" id="cFg"><span data-i="cFg">Text</span></label>
+      <label><input type="color" id="cAc"><span data-i="cAc">Accent</span></label>
+      <label><input type="color" id="cHl"><span data-i="cHl">Highlight</span></label>
+      <button id="cReset" class="sm" data-i="reset">Reset</button>
+    </div>
+
+    <h4 data-i="type">Typography</h4>
+    <label class="row"><span data-i="fontEn">English font</span>
+      <select id="fEn"><option value="lora">Lora (serif)</option><option value="literata">Literata (book)</option><option value="inter">Inter (clean)</option><option value="georgia">Georgia</option></select></label>
+    <label class="row"><span data-i="fontAr">Arabic font</span>
+      <select id="fAr"><option value="amiri">Amiri (classic)</option><option value="naskh">Noto Naskh</option><option value="cairo">Cairo (modern)</option><option value="tajawal">Tajawal (light)</option></select></label>
+    <label class="row"><span data-i="size">Text size</span><input type="range" id="rSize" min="15" max="30" step="1"></label>
+    <label class="row"><span data-i="lh">Line spacing</span><input type="range" id="rLh" min="1.4" max="2.4" step="0.05"></label>
+    <label class="row"><span data-i="width">Column width</span><input type="range" id="rW" min="520" max="1000" step="20"></label>
+    <label class="row"><span data-i="justify">Justify text</span><input type="checkbox" id="kJ"></label>
+
+    <h4 data-i="eyes">Eye comfort</h4>
+    <label class="row"><span data-i="warm">Warm light filter</span><input type="range" id="rWarm" min="0" max="60" step="2"></label>
+    <label class="row"><span data-i="dim">Dim brightness</span><input type="range" id="rDim" min="0" max="40" step="2"></label>
+
+    <h4 data-i="hl">Highlights</h4>
+    <div class="seg3" id="hlSeg"><button data-h="on" data-i="hlOn">Show</button><button data-h="only" data-i="hlOnly">Skim only</button><button data-h="off" data-i="hlOff">Hide</button></div>
+    <p class="hint"><mark>Important</mark> · <mark class="key">Core</mark></p>
+
+    <h4 data-i="sound">Calm sound</h4>
+    <div class="seg3" id="sndSeg"><button data-s="off" data-i="sOff">Off</button><button data-s="rain" data-i="sRain">Rain</button><button data-s="ocean" data-i="sOcean">Ocean</button><button data-s="wind" data-i="sWind">Wind</button></div>
+    <label class="row"><span data-i="vol">Volume</span><input type="range" id="rVol" min="0" max="100" step="2"></label>
+
+    <h4 data-i="more">More</h4>
+    <label class="row"><span data-i="focus">Focus mode (hide bars)</span><input type="checkbox" id="kFocus"></label>
+    <label class="row"><span data-i="terms">Mark English terms in Arabic</span><input type="checkbox" id="kTerms"></label>
+    <div class="row"><button id="bPrint" class="sm" data-i="print">Print / PDF</button><button id="bFull" class="sm" data-i="full">Full screen</button></div>
+    <p class="hint" data-i="keys">Keys: ← → chapters · T contents · A appearance · M mind map</p>
+  </div>
+</aside>
+<div id="scrim" hidden></div>
+<div id="lightbox" hidden><img alt=""></div>
+
+<script src="data/meta.js"></script>
+<script src="js/app.js"></script>
+<script src="js/mindmap.js"></script>
+</body>
+</html>

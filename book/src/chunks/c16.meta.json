@@ -1,0 +1,81 @@
+{
+ "chunk": "c16",
+ "highlights": [
+  {"b": "b1014", "en": "is this bar honest enough to promise me the next bar? Is\nthe energy to move up real?", "level": 1},
+  {"b": "b1015", "en": "What caused the bar is the energy inside the buyers. The bar itself\nis only noise.", "level": 1},
+  {"b": "b1018", "en": "I call it a lie in shifting: a fox movement.", "level": 1},
+  {"b": "b1019", "en": "I call this a temporary pause in energy: the real energy is still\nunstable.", "level": 1},
+  {"b": "b1022", "en": "That up move is noise; it does not show the real energy that lasts.", "level": 1},
+  {"b": "b1026", "en": "All six cases apply to every 1-2-3 in the market, and to every\nCrosspoint and Spread Triple.", "level": 1},
+  {"b": "b1028", "en": "It helps show the dominant trend, where the\nreal energy is.", "level": 1},
+  {"b": "b1032", "en": "It is very useful to combine the Spread Triple and the\nCrosspoint with the G-box to detect where the real energy is.", "level": 1},
+  {"b": "b1033", "en": "Always redraw the box from smaller to\nlarger.", "level": 1},
+  {"b": "b1042", "en": "this 1-2-3 is not\nstrong enough to make an Under, or even an Over.", "level": 1},
+  {"b": "b1043", "en": "We work from the most general to the most specific.", "level": 1},
+  {"b": "b1045", "en": "This is the key problem: if we do not know which cycle the current\nprice is in, we cannot solve the problem.", "level": 1},
+  {"b": "b1048", "en": "I accept the fact: the buying\nforce is weak.", "level": 1},
+  {"b": "b1051", "en": "It is very clear that the\ntrue force is with the sellers whenever the EP-SPS appears.", "level": 1},
+  {"b": "b1055", "en": "There is so much to do in\nGoodman that you should be busy all the time.", "level": 1},
+  {"b": "b1056", "en": "The market should not touch the red box.", "level": 1},
+  {"b": "b1060", "en": "When the market shows an incomplete cycle after a Propagation, it can\nbe a second chance.", "level": 1},
+  {"b": "b1067", "en": "All the evidence puts the true energy with the sellers. The last SPS\nis just a false move, a delusion.", "level": 1},
+  {"b": "b1072", "en": "The longer price stays without a sharp move, the\nmore it shows that the real energy is to the downside.", "level": 1},
+  {"b": "b1077", "en": "This is the end of the story: one of Goodman's most hidden secrets in\nthe world, and an effective way to trade the market.", "level": 2}
+ ],
+ "mindmap": [
+  {
+   "b": "b1009", "en": "Is the market predictable?", "ar": "هل السوق قابل للتنبؤ؟",
+   "note_en": "Bars are only noise; the real question is whether the energy behind them lasts.", "note_ar": "الـ bars مجرد ضجيج، والسؤال الحقيقي هل تدوم الطاقة التي وراءها.",
+   "imp": 3,
+   "children": [
+    {"b": "b1013", "en": "One bar", "ar": "bar واحدة", "note_en": "A strong up bar is not a promise of the next bar; the chart only shows the noise of energy.", "note_ar": "الـ bar الصاعدة القوية ليست وعدًا بالـ bar التالية؛ والـ chart يُظهر ضجيج الطاقة فقط.", "imp": 2, "children": [
+      {"b": "b1015", "en": "Bar is noise", "ar": "الـ bar ضجيج", "note_en": "The cause of the bar is the energy inside the buyers.", "note_ar": "سبب الـ bar هو الطاقة داخل المشترين.", "imp": 2, "children": []}
+    ]},
+    {"b": "b1016", "en": "Shifting energy and lie in shifting", "ar": "الطاقة المتحوّلة وكذبة التحوّل", "note_en": "Energy can shift; a false down move is a lie in shifting, a fox movement, and acts as a magnet for sellers.", "note_ar": "قد تتحوّل الطاقة؛ والحركة الهابطة الكاذبة كذبة في التحوّل وحركة ثعلبية تجذب البائعين.", "imp": 2, "children": [
+      {"b": "b1019", "en": "Temporary pause", "ar": "توقّف مؤقت", "note_en": "The real energy is still unstable, so qualify the Setup: real energy or profit-takers?", "note_ar": "الطاقة الحقيقية غير مستقرة، فلنُقيّم الـ Setup: طاقة حقيقية أم جامعو أرباح؟", "imp": 2, "children": []}
+    ]},
+    {"b": "b1020", "en": "General versus specific", "ar": "العام مقابل الخاص", "note_en": "The close at the high (specific) cannot fight the larger downtrend (general).", "note_ar": "الإغلاق عند القمة (الخاص) لا يقاوم الاتجاه الهابط الأكبر (العام).", "imp": 2, "children": [
+      {"b": "b1022", "en": "Controlled energy", "ar": "الطاقة المسيطَر عليها", "note_en": "The last down bar shows who dominates the market.", "note_ar": "آخر bar هابطة تُظهر من يهيمن على السوق.", "imp": 2, "children": []}
+    ]},
+    {"b": "b1023", "en": "Six cases in the market", "ar": "ست حالات في السوق", "note_en": "Six ways movement may or may not describe the true energy; they apply to every 1-2-3, Crosspoint and Spread Triple.", "note_ar": "ست طرق قد تصف بها الحركة الطاقة الحقيقية أو لا تصفها؛ وتنطبق على كل 1-2-3 وCrosspoint وSpread Triple.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1027", "en": "The Goodman Box (G-box)", "ar": "صندوق Goodman Box",
+   "note_en": "A box around successive 1-2-3s or the BP and EP of a Propagation that shows the dominant trend and real energy.", "note_ar": "صندوق حول 1-2-3 متتالية أو حول BP وEP لـ Propagation يُظهر الاتجاه المهيمن والطاقة الحقيقية.",
+   "imp": 3,
+   "children": [
+    {"b": "b1029", "en": "Tests and exceeds", "ar": "Tests و exceeds", "note_en": "Tests happen near the BP, exceeds near the EP; an exceed can signal propagation into a larger box.", "note_ar": "الـ tests قرب الـ BP والـ exceeds قرب الـ EP؛ وقد يشير الـ exceed إلى التمدد نحو صندوق أكبر.", "imp": 2, "children": []},
+    {"b": "b1031", "en": "Box sizes", "ar": "أحجام الصناديق", "note_en": "G-box, Larger G-box, Jumbo G-box; give each a fixed colour and name.", "note_ar": "G-box ثم Larger G-box ثم Jumbo G-box؛ مع لون واسم ثابتين لكل منها.", "imp": 1, "children": []},
+    {"b": "b1032", "en": "Energy mode and Overlay", "ar": "وضع الطاقة وOverlay", "note_en": "A long stay in a box charges the battery; a Jumbo box at BP or EP acts as a Mo Overlay; combine with Spread Triple and Crosspoint.", "note_ar": "البقاء الطويل في صندوق يشحن البطارية؛ والـ Jumbo عند BP أو EP يعمل كـ Mo Overlay؛ ويُجمع مع Spread Triple وCrosspoint.", "imp": 2, "children": []},
+    {"b": "b1033", "en": "False breakout", "ar": "كسر كاذب", "note_en": "Measure the general energy to decide, and always redraw the box from smaller to larger.", "note_ar": "نقيس الطاقة العامة لنقرر، ونعيد رسم الصندوق من الأصغر إلى الأكبر.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1034", "en": "Worked example: 1-2-3 cycle", "ar": "مثال تطبيقي: دورة 1-2-3",
+   "note_en": "Starting from a chart that looks long, find the real force with a bigger Matrix, 3-C, Crosspoint and Spread Triple.", "note_ar": "من chart يبدو شراءً، نجد القوة الحقيقية بـ Matrix أكبر وبالـ 3-C والـ Crosspoint والـ Spread Triple.",
+   "imp": 3,
+   "children": [
+    {"b": "b1038", "en": "Looks long, but wrong", "ar": "يبدو شراءً لكنه خطأ", "note_en": "First find the real force among the noise; often we cannot.", "note_ar": "نجد أولًا القوة الحقيقية وسط الضجيج؛ وكثيرًا ما لا نستطيع.", "imp": 1, "children": []},
+    {"b": "b1039", "en": "Bigger Matrix and 3-C", "ar": "Matrix أكبر و3-C", "note_en": "The 1-2-3 is complete but too weak to make an Under or Over; price sits inside the G-box.", "note_ar": "الـ 1-2-3 مكتملة لكنها أضعف من صنع Under أو Over؛ والسعر داخل الـ G-box.", "imp": 2, "children": []},
+    {"b": "b1043", "en": "Crosspoint", "ar": "Crosspoint", "note_en": "A slow 1-2-3 with the Crosspoint near 50% of the SS shows nothing; work from general to specific.", "note_ar": "1-2-3 بطيئة وCrosspoint قرب 50% من الـ SS لا يُظهر شيئًا؛ ونعمل من الأعم إلى الأخص.", "imp": 2, "children": []},
+    {"b": "b1044", "en": "Return Zone and cycle", "ar": "Return Zone والدورة", "note_en": "Markets stop at the Return Zone (EP-SS); we must know which Propagation cycle price is in.", "note_ar": "يتوقف السوق عند الـ Return Zone (EP-SS)؛ ويجب أن نعرف في أي دورة Propagation يقع السعر.", "imp": 3, "children": []},
+    {"b": "b1048", "en": "New Propagation is weak", "ar": "Propagation الجديدة ضعيفة", "note_en": "A very slow Crosspoint angle means weak impression force and weak buying.", "note_ar": "زاوية Crosspoint بطيئة جدًّا تعني قوة انطباع ضعيفة وشراءً ضعيفًا.", "imp": 2, "children": []},
+    {"b": "b1051", "en": "Spread Triple: three jumps", "ar": "Spread Triple: ثلاث قفزات", "note_en": "Elastic energy falls from jump 1 to 3; the true force is with sellers at EP-SPS, a point to go short.", "note_ar": "تتناقص الطاقة المرنة من القفزة 1 إلى 3؛ والقوة الحقيقية مع البائعين عند EP-SPS، وهي نقطة للبيع.", "imp": 3, "children": []},
+    {"b": "b1055", "en": "Goldilocks setup and entry", "ar": "Setup الـ Goldilocks والدخول", "note_en": "An extreme Crosspoint arrow may signal a climax; confirm with 3-C, then go short on the reversal bar with the stop at the high.", "note_ar": "سهم Crosspoint متطرف قد يشير إلى climax؛ نؤكد بـ 3-C ثم نبيع على bar الانعكاس مع stop عند الـ high.", "imp": 2, "children": []},
+    {"b": "b1057", "en": "Second chance", "ar": "فرصة ثانية", "note_en": "An incomplete cycle after a Propagation, ending in a bad jump, can offer another entry.", "note_ar": "دورة غير مكتملة بعد Propagation تنتهي بقفزة سيئة قد تمنح دخولًا آخر.", "imp": 2, "children": []},
+    {"b": "b1062", "en": "A note on volume", "ar": "ملاحظة عن volume", "note_en": "Volume at each jump confirms sellers hold more elastic energy; the last SPS is a delusion.", "note_ar": "يؤكد volume عند كل قفزة أن البائعين يملكون طاقة مرنة أكبر؛ وآخر SPS وهم.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1068", "en": "Reading by G-box", "ar": "القراءة بالـ G-box",
+   "note_en": "The same story can be read with G-boxes alone, including time and white space.", "note_ar": "يمكن قراءة القصة نفسها بالـ G-boxes وحدها، مع الزمن والمساحة البيضاء.",
+   "imp": 2,
+   "children": [
+    {"b": "b1072", "en": "1-2-3 of G-boxes", "ar": "1-2-3 من الـ G-boxes", "note_en": "Small boxes build a larger box that becomes the Return Zone; a long stay without a sharp move shows energy to the downside.", "note_ar": "صناديق صغيرة تبني صندوقًا أكبر يصبح الـ Return Zone؛ والبقاء الطويل دون حركة حادة يدل على طاقة هابطة.", "imp": 2, "children": []},
+    {"b": "b1073", "en": "White space", "ar": "المساحة البيضاء", "note_en": "No white space suggests energy in the opposite direction; white space stores charge before a strong jump.", "note_ar": "غياب المساحة البيضاء يوحي بطاقة في الاتجاه المعاكس؛ ووجودها يخزّن شحنة قبل قفزة قوية.", "imp": 2, "children": []},
+    {"b": "b1077", "en": "Lesson: hidden secret", "ar": "الدرس: السر الخفي", "note_en": "The G-box charges the battery and gives a good jump: one of Goodman's most hidden secrets.", "note_ar": "الـ G-box يشحن البطارية ويعطي قفزة جيدة: من أخفى أسرار Goodman.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

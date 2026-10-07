@@ -1,0 +1,346 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Overlay Combination (2021)
+
+@@b1813 h3
+Chart 5: first traded on
+Silver, 1-hour
+
+@@b1815 p
+Figure: A Goldilocks to the downside: a sharp fall shows strong
+selling force, then a slow climb back to the Return Zone. Real data:
+USDJPY, 15-minute, 24–25 Feb 2022. (The original chart was Silver
+(XAGUSD) 1-hour; this one shows the same structure.)
+
+@@b1816 p
+Here we have a Goldilocks to the downside. The left red arrow shows a
+strong impression of force from the sellers. Let us play with some boxes
+and angles.
+
+@@b1818 p
+Figure: A fast left box and a slow right box: the slow box is a
+correction of the fast one. Real data: USDJPY, 15-minute, 24–25 Feb
+2022. (The original chart was Silver (XAGUSD) 1-hour; this one shows the
+same structure.)
+
+@@b1819 p
+The left box shows a very sharp movement. The right box shows a very
+slow movement that takes a long time. When that happens, the right box
+is a correction of the left box, and the next box should be faster than
+the first in time.
+
+@@b1820 p
+Let us go to the higher time frame (the daily in my original).
+
+@@b1822 p
+Figure: On the higher time frame a 6&amp;6 at the top, then price
+returns to the same Return Zone for another setup. Real data: USDJPY,
+1-hour, 14–28 Feb 2022. (The original chart was Silver (XAGUSD) daily;
+this one shows the same structure.)
+
+@@b1823 p
+After the Jumbo and the 6&amp;6, which show new sellers, another
+setup at the Return Zone gives confirmation. Sellers very clearly
+dominate the trend. This trend offers Y &gt; 2X. I will use the box as a
+target: I copy the box and wait for price to fill it.
+
+@@b1825 p
+Figure: The sell in the Return Zone fills the copied box, with the
+stop raised at each STP. Real data: USDJPY, 15-minute, 24–28 Feb 2022.
+(The original chart was Silver (XAGUSD) 1-hour; this one shows the same
+structure.)
+
+@@b1826 p
+Again a good profit, and easy to manage.
+
+@@b1827 p
+Before ending this chart study I want to show something really
+interesting. The box can also show when a sharp down move begins. Just
+copy the interval from the last box where the move began, and paste it
+into the new box.
+
+@@b1829 p
+Figure: The interval to the sharp drop in box 1, copied into box 2,
+marks where the next sharp drop begins. Real data: USDJPY, 15-minute,
+24–28 Feb 2022. (The original chart was Silver (XAGUSD) 1-hour; this one
+shows the same structure.)
+
+@@b1830 p
+Look at the black mark with the arrow. In the left box, the down move
+starts very sharply at this interval. In the right box, the same
+interval from box 1 (black) is copied, and the market again starts down
+very sharply.
+
+@@b1831 p
+In brief, an Overlay combination must be a logical combination that
+shows the real force behind buyers or sellers. As these charts show,
+with a strong combination the trader many times gets an excellent
+reward, often the runaway count. In the end, you have the right to
+choose what is best for you. Do not let any chart force you to trade.
+"Sit on your hands" (Goodman).
+
+@@b1832 h3
+Part 2: How to
+construct a logical combination
+
+@@b1833 p
+Instead of using guesses, expectations or tips, a logical combination
+can set up and promise a very good return. But first: what do we mean by
+trading?
+
+@@b1834 h4
+Trading as an engineering
+balance
+
+@@b1835 p
+In engineering, a balance is kept on a conserved quantity (money,
+energy, total mass) in a system. The system can be a single process
+unit, like buying and selling a stock, or an entire process, like a
+campaign:
+
+@@b1836 p
+Input + Generation − Output − Consumption = Accumulation
+
+@@b1837 ul
+<li><p><strong>Input:</strong> what enters through the system
+boundaries.</p></li>
+<li><p><strong>Generation:</strong> what is produced within the
+system.</p></li>
+<li><p><strong>Output:</strong> what leaves through the system
+boundaries.</p></li>
+<li><p><strong>Consumption:</strong> what is consumed within the
+system.</p></li>
+<li><p><strong>Accumulation:</strong> what builds up within the
+system.</p></li>
+
+@@b1838 p
+For example, every 3 months a trader puts 10,000 USD into trading
+(input). He loses 2,000 USD (consumption), wins 8,000 USD (generation),
+and takes 5,000 USD home (output). So 10,000 + 8,000 − 5,000 − 2,000 =
+11,000 USD accumulated after 3 months.
+
+@@b1839 p
+The real risk in trading is when the market cannot generate any
+profit (generation), or consumes a lot of your money (consumption). Both
+happen within the system, the process unit. So trading is just a
+machine: a trading vehicle. In engineering, anything lost within the
+system is called consumption. When a vehicle consumes more money than it
+generates, it must be fixed.
+
+@@b1840 p
+From this, trading is 100% safe when you choose the best vehicle, one
+that generates more than it consumes. When you start from a logical
+basis, you easily know what you want. The Goodman process helps you
+understand which vehicle suits you. The Overlay combination must sit
+within the system, to make sure it can generate more than it
+consumes.
+
+@@b1841 h4
+Four logical combinations
+of extremes
+
+@@b1842 p
+I found 4 logical combinations that show the most extreme points,
+where Y (generation) &gt; X (consumption). When they occur, they give a
+buy or sell signal:
+
+@@b1843 blockquote
+<p>1. <strong>Sell signal:</strong> extreme happiness on the daily chart
+and extreme happiness on the 1-hour chart.</p>
+
+@@b1844 ul
+<li><p>Daily: 6&amp;6, Goldilocks, Dagger; better when it occurs at an
+MO or PO.</p></li>
+<li><p>1-hour: 6&amp;6, Goldilocks, Dagger.</p></li>
+
+@@b1845 blockquote
+<p>2. <strong>Buy signal:</strong> extreme sadness on the daily and
+extreme sadness on the 1-hour. "When there's blood in the streets, you
+buy."</p>
+
+@@b1846 ul
+<li><p>Daily: 6&amp;6, Goldilocks, Dagger; better at an MO or
+PO.</p></li>
+<li><p>1-hour: 6&amp;6, Goldilocks, Dagger.</p></li>
+
+@@b1847 blockquote
+<p>3. <strong>Buy signal:</strong> the daily is at the beginning of
+happiness, or very far from extremes, and the 1-hour shows extreme
+sadness.</p>
+
+@@b1848 ul
+<li><p>Daily: PTS; better at an MO or PO.</p></li>
+<li><p>1-hour: 6&amp;6, Goldilocks, Dagger.</p></li>
+
+@@b1849 blockquote
+<p>4. <strong>Sell signal:</strong> the daily is at the beginning of
+sadness, or very far from extremes, and the 1-hour shows extreme
+happiness.</p>
+
+@@b1850 ul
+<li><p>Daily: PTS; better at an MO or PO.</p></li>
+<li><p>1-hour: 6&amp;6, Goldilocks, Dagger.</p></li>
+
+@@b1852 p
+Figure: The four daily/1-hour combinations that give a signal;
+anything else gives none.
+
+@@b1853 p
+My job is to qualify the Overlay. When the market is not in one of
+these cases, there is no signal. I trade only extremes, as a type of
+Nested Overlay, with the MO and PO supporting the Nested Overlay.
+
+@@b1854 p
+Here are some examples, with observations.
+
+@@b1855 h4
+GBPUSD: 6&amp;6 on the
+daily structure (case 1)
+
+@@b1857 p
+Figure: A long rise to the MO, then a 6&amp;6 with heavy propagation
+at the top: an extreme on the higher time frame. Real data: GBPUSD,
+1-hour, 14–23 Feb 2022. (The original chart was GBPUSD daily; this one
+shows the same structure.)
+
+@@b1858 p
+When there is a lot of Propagation in the BMX, it suggests more
+weakness. Why? The market cannot give a fast wave. Think of a car that
+stops every 10 minutes: stop, stop, stop. It is the same behaviour here.
+We also have the MO, which gives a logical sense of the extreme. The
+market is now at an extreme on the daily, as in case 1 of 4.
+
+@@b1859 p
+Let us open the lower time frame (the 1-hour in my original) to find
+the extreme there. There is a PO Overlay.
+
+@@b1861 p
+Figure: A lower low under the prior low, then the sell point on the
+rally back. Real data: GBPUSD, 15-minute, 22–24 Feb 2022. (The original
+chart was GBPUSD 1-hour; this one shows the same structure.)
+
+@@b1862 p
+It is better to see a lower low, as the arrow shows. Yes, such a
+trade is hard to manage, but any trader with good skills can get a good
+generation (return) by raising the stop order at each Propagation of the
+1-2-3, or by nesting with the daily chart STP.
+
+@@b1864 p
+Figure: After the sell, the stop is raised at each STP as the 1-2-3s
+propagate down. Real data: GBPUSD, 15-minute, 23–24 Feb 2022. (The
+original chart was GBPUSD 1-hour; this one shows the same
+structure.)
+
+@@b1865 p
+A good TTL, isn't it?
+
+@@b1866 h4
+Goldilocks
+on the daily structure, first traded on USDMXN (case 2)
+
+@@b1868 p
+Figure: Propagation down with lower EPs, then a bounce off the same
+level: a Goldilocks with buyers starting to enter. Real data: USDCAD,
+1-hour, 22 Feb – 1 Mar 2022. (The original chart was USDMXN daily; this
+one shows the same structure.)
+
+@@b1869 p
+When the market gives more than the Propagation, with a very low EP
+for each Matrix, and then reverses up with a bounce, it shows good
+strength. In the last two bars buyers seem to be trying to enter. Let us
+move to the lower time frame.
+
+@@b1871 p
+Figure: A Dagger above the low: the low-risk entry for the buy, with
+the stop just below. Real data: USDCAD, 15-minute, 28 Feb – 1 Mar 2022.
+(The original chart was USDMXN 1-hour; this one shows the same
+structure.)
+
+@@b1872 p
+It can be a very good opportunity to go long, with very low risk. In
+such trades I would enter in the Dagger.
+
+@@b1874 p
+Figure: After the buy, the STP order is raised step by step at each
+higher low. Real data: USDCAD, 15-minute, 1–2 Mar 2022. (The original
+chart was USDMXN 1-hour; this one shows the same structure.)
+
+@@b1875 p
+Then just play with the STP order. This combination of Overlays is
+the best: 2 of 4.
+
+@@b1876 h4
+PTS on
+the daily structure, first traded on USDCAD (case 3)
+
+@@b1878 p
+Figure: A PTS: after the fall and the rise, the pullback reaches the
+50% PO of the rise. Real data: NZDUSD, 1-hour, 21–28 Feb 2022. (The
+original chart was USDCAD daily; this one shows the same structure.)
+
+@@b1879 p
+There is a PO Overlay at 50%. Again, it is higher than the last SS of
+the 1-2-3 down, which makes it stronger.
+
+@@b1881 p
+Figure: Two lows on the same base level, and the buy as price leaves
+the base. Real data: NZDUSD, 15-minute, 28 Feb 2022. (The original chart
+was USDCAD 1-hour; this one shows the same structure.)
+
+@@b1882 p
+On the lower time frame there is a double 6&amp;6, or one can buy at
+the next Propagation. But the risk is high; I recommend using a micro
+Nest to minimise it.
+
+@@b1884 p
+Figure: Trading the Line: the stop is raised at each 1-2-3
+propagation as the trend climbs. Real data: NZDUSD, 1-hour, 28 Feb – 4
+Mar 2022. (The original chart was USDCAD 1-hour; this one shows the same
+structure.)
+
+@@b1885 p
+Trade the Line: raise the stop-loss at every 1-2-3 Propagation, or
+simply nest with the daily chart. 3 of 4.
+
+@@b1886 h4
+PTS on
+the daily structure, first traded on AUDCAD (case 4)
+
+@@b1888 p
+Figure: A PTS after the fall: a 1-2-3 back up into the 50% zone of
+the fall. Real data: AUDCAD, 15-minute, 23–24 February 2022. (The
+original chart was AUDCAD daily; this one shows the same structure on
+the same symbol, in the window the data covers.)
+
+@@b1889 p
+It is better with a lower low. The market is at the 50% PO with 1-2-3
+waves; a 1-2-3 component is a must. Let us move to the lower time
+frame.
+
+@@b1891 p
+Figure: From A, with a volume spike, price breaks lower; the 1-2-3
+back up is weaker and the sell comes at the Return Zone. Real data:
+AUDCAD, 15-minute, 24–25 February 2022. (The original chart was AUDCAD
+1-hour; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b1892 p
+At A, the last SS to SPS was at the top. When the next 1-2-3 is lower
+than the last EP-SS up, it shows more weakness. Volume can help when it
+increases, together with a setup at the Return Zone.
+
+@@b1894 p
+Figure: The sell runs down, with the stop lowered at each STP. Real
+data: AUDCAD, 15-minute, 24 February 2022. (The original chart was
+AUDCAD 1-hour; this one shows the same structure on the same symbol, in
+the window the data covers.)
+
+@@b1895 p
+Very easy to manage. 4 of 4.
+
+@@b1896 p
+Just buy and sell at extremes, and construct every Overlay
+combination logically. It will help you achieve your goals from
+trading.
+
+@@b1897 p
+Thank you.
+

@@ -1,0 +1,55 @@
+{
+ "chunk": "c14",
+ "highlights": [
+  {"b":"b905","en":"In Goodman trading, success means spotting 4 out of 10, with at least","level":1},
+  {"b":"b907","en":"Many trends can conflict with each other.","level":1},
+  {"b":"b909","en":"That is why it is a very bad idea to take market advice from anyone.","level":1},
+  {"b":"b914","en":"For the current uptrend to continue, it must propagate a","level":1},
+  {"b":"b914","en":"For the current downtrend to continue, it must propagate a","level":1},
+  {"b":"b915","en":"I treat a complete 1-2-3 as a complete cycle.","level":2},
+  {"b":"b919","en":"Up and down without structure is not directional movement.","level":2},
+  {"b":"b931","en":"little to lose and much to gain","level":1},
+  {"b":"b933","en":"Draw a line from BP-FPS through the","level":1},
+  {"b":"b939","en":"the SPS tries to move faster","level":1},
+  {"b":"b941","en":"When the market holds potential energy, it is elastic potential","level":1},
+  {"b":"b945","en":"the stronger the impression force, the greater the success.","level":1},
+  {"b":"b946","en":"We must go with the winner, the fresh flag.","level":1},
+  {"b":"b948","en":"The amount of trading reveals how strong the impression force is in","level":1},
+  {"b":"b950","en":" mean a new impression force: new","level":1},
+  {"b":"b951","en":"confirms the elastic energy in the market.","level":1},
+  {"b":"b954","en":"That is why elastic energy is proven in the market.","level":1}
+ ],
+ "mindmap": [
+  {"b":"b904","en":"10-4-1 and many trends","ar":"10-4-1 والاتجاهات المتعددة","note_en":"Success is 4 winners out of 10 with at least one big line; the market is hard because many trends run at once.","note_ar":"النجاح أن تصيب 4 من 10 مع خط كبير واحد؛ والسوق صعب لأن اتجاهات كثيرة تجري معًا.","imp":2,"children":[
+   {"b":"b905","en":"The TTL 10-4-1","ar":"قاعدة TTL: 10-4-1","note_en":"4 hits out of 10 with at least 1 line; one line can cover all 6 losses.","note_ar":"4 إصابات من 10 مع خط واحد على الأقل يغطي الخسائر الست.","imp":3,"children":[]},
+   {"b":"b907","en":"Conflicting timeframes","ar":"تعارض الأطر الزمنية","note_en":"1-hour, weekly and 5-minute charts may trend differently.","note_ar":"قد تسير رسوم 1-hour وweekly و5-minute في اتجاهات مختلفة.","imp":2,"children":[
+     {"b":"b908","en":"Friend long, me short","ar":"صديقي Long وأنا Short","note_en":"Both profited: he traded daily, I ran a station point on the 15-minute.","note_ar":"ربحنا كلانا: هو على daily وأنا على station point في 15-minute.","imp":1,"children":[]}]},
+   {"b":"b909","en":"Lesson: one timeframe","ar":"الدرس: إطار زمني واحد","note_en":"Do not take market advice; stay with one timeframe until the trend stops. Patience.","note_ar":"لا تأخذ نصائح السوق؛ ابقَ مع إطار واحد حتى يتوقف الاتجاه. الصبر.","imp":2,"children":[]}]},
+  {"b":"b910","en":"Cycles and the 1-2-3 rules","ar":"الدورات وقواعد 1-2-3","note_en":"Markets move in cycles within cycles; a complete 1-2-3 is a complete cycle measured by the Crosspoint.","note_ar":"السوق دورات داخل دورات؛ و1-2-3 الكامل دورة كاملة يقيسها Crosspoint.","imp":3,"children":[
+   {"b":"b911","en":"Cycles within cycles","ar":"دورات داخل دورات","note_en":"Like seasons and the Moon; ask what I see now and what I want to see next.","note_ar":"مثل الفصول ودورة القمر؛ ماذا أرى الآن وماذا أريد أن أرى لاحقًا.","imp":1,"children":[
+     {"b":"b912","en":"Economic cycle","ar":"الدورة الاقتصادية","note_en":"No one can fight the general economic cycle.","note_ar":"لا أحد يستطيع محاربة الدورة الاقتصادية العامة.","imp":1,"children":[]}]},
+   {"b":"b914","en":"Two rules of the cycle","ar":"قاعدتا الدورة","note_en":"Uptrends and downtrends continue only if they propagate a 1-2-3.","note_ar":"يستمر الاتجاه الصاعد أو الهابط فقط إن نشر 1-2-3.","imp":3,"children":[]},
+   {"b":"b915","en":"Crosspoint","ar":"Crosspoint","note_en":"A line from BP of FPS to EP of SPS, crossing the SS, shows a full cycle.","note_ar":"خط من BP في FPS إلى EP في SPS يقطع الـ SS ويُظهر دورة كاملة.","imp":2,"children":[]}]},
+  {"b":"b918","en":"Batteries of potential energy","ar":"بطاريات الطاقة الكامنة","note_en":"Each rectangle is a battery that can launch a move; a trend needs unequal energy between waves.","note_ar":"كل مستطيل بطارية تطلق حركة؛ والاتجاه يحتاج طاقة غير متساوية بين الموجتين.","imp":3,"children":[
+   {"b":"b918","en":"Battery and Tipping Point","ar":"البطارية والـ Tipping Point","note_en":"The red rectangle held only 3 bars, so the move stopped at the Tipping Point.","note_ar":"المستطيل الأحمر فيه 3 bars فقط فتوقفت الحركة عند Tipping Point.","imp":1,"children":[]},
+   {"b":"b919","en":"Structure gives direction","ar":"البنية تعطي الاتجاه","note_en":"The SS has a smaller battery; up and down without structure is not directional.","note_ar":"بطارية الـ SS أصغر؛ والصعود والهبوط بلا بنية ليسا اتجاهًا.","imp":3,"children":[]},
+   {"b":"b921","en":"Seeing the battery","ar":"رؤية البطارية","note_en":"Visible as congestion on point and figure charts, or by zooming to a lower timeframe where a setup often appears.","note_ar":"تظهر كمنطقة تجمّع في point and figure أو بالتقريب إلى إطار أدنى حيث يظهر setup.","imp":2,"children":[
+     {"b":"b923","en":"Four batteries 0-3","ar":"أربع بطاريات 0-3","note_en":"0 at BP-FPS, 1 at EP-FPS, 2 at BP-SPS, 3 at EP-SPS; GBPCHF examples.","note_ar":"0 عند BP-FPS، 1 عند EP-FPS، 2 عند BP-SPS، 3 عند EP-SPS؛ أمثلة GBPCHF.","imp":2,"children":[]},
+     {"b":"b926","en":"Inside batteries 1, 2, 3","ar":"داخل البطاريات 1 و2 و3","note_en":"6&6 at the top of battery 1, at the low of battery 2, and a setup at the top of battery 3.","note_ar":"6&6 في قمة البطارية 1 وقاعها في 2 وsetup في قمة 3.","imp":1,"children":[]}]},
+   {"b":"b931","en":"Little to lose, much to gain","ar":"خسارة قليلة وربح كبير","note_en":"Anyone can spot these areas; the market moves within a 1-2-3.","note_ar":"يستطيع أي أحد رصد هذه المناطق؛ والسوق يتحرك داخل 1-2-3.","imp":2,"children":[]}]},
+  {"b":"b932","en":"Crosspoint and Angle Propagation","ar":"Crosspoint وAngle Propagation","note_en":"Use the Crosspoint to find EP-SPS in advance and to read the velocity of the move.","note_ar":"استخدم Crosspoint لإيجاد EP-SPS مسبقًا ولقراءة سرعة الحركة.","imp":2,"children":[
+   {"b":"b933","en":"Finding EP-SPS","ar":"إيجاد EP-SPS","note_en":"Draw a line from BP-FPS through the middle of the SS and extend it; works better with a 3-C.","note_ar":"ارسم خطًا من BP-FPS عبر منتصف الـ SS ومدّه؛ يعمل أفضل مع 3-C.","imp":2,"children":[]},
+   {"b":"b938","en":"Slope y = mx + b","ar":"الميل y = mx + b","note_en":"The angle is a slope in time and price.","note_ar":"الزاوية ميل في بعدي الزمن والسعر.","imp":1,"children":[]},
+   {"b":"b939","en":"SPS faster than SS","ar":"SPS أسرع من SS","note_en":"Price accelerates in less time because of the Dagger concept: elastic energy.","note_ar":"يتسارع السعر في زمن أقل بسبب مفهوم Dagger: الطاقة المرنة.","imp":2,"children":[]}]},
+  {"b":"b940","en":"Elastic energy and impression force","ar":"الطاقة المرنة وimpression force","note_en":"Potential energy acts like a spring; the stronger side wins the tug of war and we go with the winner.","note_ar":"الطاقة الكامنة كالنابض؛ يفوز الطرف الأقوى في شدّ الحبل ونسير مع الفائز.","imp":3,"children":[
+   {"b":"b941","en":"Tug of war","ar":"شدّ الحبل","note_en":"Buyers and sellers in a small range create a Nash equilibrium.","note_ar":"المشترون والبائعون في نطاق ضيق يصنعون Nash equilibrium.","imp":2,"children":[]},
+   {"b":"b944","en":"The SS at 50%","ar":"الـ SS عند 50%","note_en":"Half sellers, half buyers; buyers fight to hold gains: the Dagger story.","note_ar":"نصف بائعين ونصف مشترين؛ والمشترون يقاتلون للحفاظ على مكاسبهم: قصة Dagger.","imp":2,"children":[]},
+   {"b":"b945","en":"Compressed spring","ar":"النابض المضغوط","note_en":"Under pressure it releases quickly; stronger impression force means greater success.","note_ar":"تحت الضغط ينطلق بسرعة؛ وكلما قويت impression force زاد النجاح.","imp":2,"children":[]},
+   {"b":"b946","en":"Go with the winner","ar":"سِر مع الفائز","note_en":"Follow the fresh flag; the market is a Monopoly game.","note_ar":"اتبع الـ fresh flag؛ فالسوق لعبة Monopoly.","imp":2,"children":[]}]},
+  {"b":"b947","en":"Tick volume","ar":"Tick volume","note_en":"Ticks measure how strong the impression force is in the SS; many ticks mean new passion, few ticks mean none.","note_ar":"تقيس الـ ticks قوة impression force في الـ SS؛ كثرتها تعني انفعالًا جديدًا وقلتها تعني غيابه.","imp":2,"children":[
+   {"b":"b948","en":"What a tick is","ar":"ما هو الـ tick","note_en":"Smallest price movement; forex has only tick volume, no central volume.","note_ar":"أصغر حركة سعرية؛ والفوركس فيه tick volume فقط.","imp":1,"children":[]},
+   {"b":"b949","en":"Broker differences","ar":"الفروق بين الوسطاء","note_en":"About 70% agreement across brokers.","note_ar":"نحو 70% اتفاق بين الوسطاء.","imp":1,"children":[]},
+   {"b":"b950","en":"Many vs few ticks","ar":"ticks كثيرة أم قليلة","note_en":"Many: new traders with emotion. Few: no great war (chocolate vs carrots).","note_ar":"كثيرة: متداولون جدد بانفعال. قليلة: لا حرب كبيرة (الشوكولاتة والجزر).","imp":2,"children":[]},
+   {"b":"b954","en":"New traders vote for uptrend","ar":"المتداولون الجدد يصوّتون للصعود","note_en":"Elastic energy is proven; sellers fear the 50% station point and buyers take the flag.","note_ar":"تثبت الطاقة المرنة؛ يخشى البائعون نقطة 50% ويستولي المشترون على الراية.","imp":3,"children":[]}]}
+ ]
+}

@@ -1,0 +1,382 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: The Analysis of Market Mind (2021)
+
+@@b1274 h3
+Market correlation
+
+@@b1275 p
+The prerequisites for this section are Propagation and the market
+analysis above. Here is a theoretical example with four pairs.
+
+@@b1277 p
+Figure: Four theoretical pairs, A to D, each with its swings and
+volume.
+
+@@b1278 p
+Which one has more chance to move up, or down, or is undefined? Which
+one leads the way down, or up?
+
+@@b1279 h4
+From BP to EP of the FPS
+
+@@b1280 p
+In box A the FPS of the Propagation shows a good move and a good
+angle, better than B and C. So from the FPS the best is A. D has no
+complete cycle and no 1-2-3. Across boxes A, B and C, the best chance to
+move up is A, then B; C is the slowest. D is out of the upward
+correlation, but D leads the way down.
+
+@@b1281 h4
+From BP to EP of the SS
+
+@@b1282 p
+Box A shows a reaction of around 50%, with more volume than in its
+FPS; that keeps me on alert. Box B is healthy. Box C is on alert. So
+here the chance to move up belongs to box B: the lead changes from A to
+B. Meanwhile D confirms the weakness.
+
+@@b1283 h4
+From BP to EP of the SPS
+
+@@b1284 ul
+<li><p><strong>Box A:</strong> volume is regular, but there is no
+gain.</p></li>
+<li><p><strong>Box B:</strong> volume increases, then the swing ends at
+the BP of the SS, with no gain.</p></li>
+<li><p><strong>Box C:</strong> volume rises abnormally, with no gain. It
+has the lowest gains and the worst angle of all the boxes.</p></li>
+
+@@b1285 p
+All of them show some symptoms of weakness. The leader in weakness,
+showing a healthy downtrend, is box D, then box C with the lowest gains,
+at 50% of its SS. Just look at the FPS volume, the SPS volume and their
+ranges.
+
+@@b1286 p
+So the healthiest to trade are box D, then box C. On A and B I am
+neutral, because there is still a chance for them to move up.
+
+@@b1287 h3
+Operation: real examples
+
+@@b1288 p
+Here are some real examples of what I wrote above. They should be
+easy to grasp without explanation: just the 1-2-3 and Propagation.
+
+@@b1290 p
+Figure: An up swing and a down swing with their marked volume: where
+is the greater chance, up or down? Real data: NZDUSD, 1-hour, 14 to 22
+February 2022. (The original chart's symbol and dates are not known;
+this one shows the same structure.)
+
+@@b1291 p
+Where is the greater chance, up or down?
+
+@@b1293 p
+Figure: A completed 1-2-3 with its marked volume bars: what comes
+next? Real data: NZDUSD, 1-hour, 14 to 23 February 2022. (The original
+chart's symbol and dates are not known; this one shows the same
+structure.)
+
+@@b1294 p
+What comes next after the 1-2-3?
+
+@@b1296 p
+Figure: The 1-2-3 propagates; the arrow marks the highest volume of
+the first Propagation. Real data: NZDUSD, 1-hour, 14 to 23 February
+2022. (The original chart's symbol and dates are not known; this one
+shows the same structure.)
+
+@@b1297 p
+Here is the highest volume of the first Propagation.
+
+@@b1299 p
+Figure: The propagated move turns down after its top: is the chance
+with buyers, sellers, or neutral? Real data: NZDUSD, 1-hour, 14 to 24
+February 2022. (The original chart's symbol and dates are not known;
+this one shows the same structure.)
+
+@@b1300 p
+What next? Is the chance with the buyers, the sellers, or neutral?
+With a proper stop loss, one can make a good profit.
+
+@@b1302 p
+Figure: A down swing dips just under the earlier low, then a long up
+Propagation follows; this dip always happens. Real data: USDJPY, 1-hour,
+22 to 25 February 2022. (The original chart's symbol and dates are not
+known; this one shows the same structure.)
+
+@@b1303 p
+Many more examples are simply variations of the theoretical part.
+
+@@b1304 h3
+A
+live study: the minds of buyers and sellers on H1 (first studied on
+NZDUSD)
+
+@@b1305 p
+In this study I look at the relationship between human desire and
+action: belief and the fight. I use the Goodman Box to mark the border
+of the fight between buyers and sellers. Volume shows how much liquidity
+each side has to support its fight. Time shows whether the fight runs
+quickly or very slowly, and either can kill buyers or sellers. In the
+end price action tells us honestly what happens inside the war.
+
+@@b1306 p
+Let us start: H1, first studied on NZDUSD and shown here on real
+GBPUSD data.
+
+@@b1308 p
+Figure: The chart with no drawing: the conflict cannot be read yet.
+Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The original chart
+was NZDUSD 1-hour, August 2021; this one shows the same structure.)
+
+@@b1309 p
+Without any drawing, no one can read the conflict in this chart. That
+is why we must connect with the market and touch the sellers' mind and
+the buyers' mind. Then we decide which side has more intensity and is
+eager to take the flag of domination. Both sides want to be king of the
+kingdom.
+
+@@b1310 p
+I start from the top of the chart and go down, following the market.
+I do not look at anything on the higher timeframe. Let us read those
+minds.
+
+@@b1311 h4
+First box: the oasis is an
+illusion
+
+@@b1313 p
+Figure: The first box: buyers ride price upward and everything looks
+healthy. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The
+original chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1314 p
+Buyers ride the horse upward and everything looks healthy. But what
+we see on the chart is noise. This move is not as promising as it looks.
+It looks as if buyers are healthy and one can buy. This oasis is just an
+illusion, part of the noise. The volume tells the story behind this
+upswing.
+
+@@b1316 p
+Figure: The first box with numbered volume points 1 to 5; the volume
+at the top of the box does not fit the size of its bars. Real data:
+GBPUSD, 1-hour, 15 to 25 February 2022. (The original chart was NZDUSD
+1-hour, August 2021; this one shows the same structure.)
+
+@@b1317 blockquote
+<p>1. Point 1 is the beginning point of the box.</p>
+<p>2. At 2 buyers begin to control the land; then for several hours the
+market moves sideways.</p>
+<p>3. At 3 volume rises, but relative to the size of the bar it is fine;
+no problem.</p>
+<p>4. At 4 the size of the bar does not fit the volume, at the end of
+the bar.</p>
+<p>5. A few hours later, at 5, the market moves down on falling
+volume.</p>
+
+@@b1318 p
+Why does such volume appear at the top of the box? New traders,
+sellers, have arrived from different levels of the market. My question
+is: does this new army add to the sellers' power or to the buyers'?
+Which side does it want to help?
+
+@@b1319 p
+As a guideline: when volume spikes at the end of a box, most of the
+time the new army wants to help the opposite force. At 5 the market
+moves down by itself, like a gun already loaded with a bullet, the
+volume. Volume helps us see that this box holds a new army, so be
+cautious.
+
+@@b1320 h4
+The new seller army and
+the red mark
+
+@@b1322 p
+Figure: "Alert: new seller army" on the first box; the next box shows
+sellers taking the market, and a red mark above the first box. Real
+data: GBPUSD, 1-hour, 15 to 25 February 2022. (The original chart was
+NZDUSD 1-hour, August 2021; this one shows the same structure.)
+
+@@b1323 p
+The new box shows sellers taking the market after the new seller army
+at 3 and 4. At 6, again at the end of a box, there is an announcement: a
+new buyer army wants to fight the sellers who came at 3.
+
+@@b1324 p
+I put a red mark above the first box. It tests the army's power, its
+desire. If the buyers are truly strong, they must move up to that red
+level to meet the 1-2-3 requirement. At 7, after the new buyer army, the
+market stays silent for a while. The next box is the time to fight. We
+will watch which army dies first at the apex of the battle.
+
+@@b1325 h4
+The sellers' army camp
+
+@@b1327 p
+Figure: A sharp up box shows eager buyers, but sellers enter in force
+at 8 and 9. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The
+original chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1328 p
+The new box, with its sharp angle, shows buyers eager to control the
+kingdom. But the sellers' army has another opinion: at 9 they enter in
+force to stop the buyers' progress.
+
+@@b1329 p
+Look at 8: volume and bar are relatively good. At 9 the bar is small.
+That confirms our reading: buyers cannot move quickly because of the new
+seller army at 8 and 9. It may also confirm that the buyers die before
+completing the 1-2-3 cycle. So from 1 to 9 I call it the sellers' army
+camp. Notice how volume rises at the top of each box.
+
+@@b1331 p
+Figure: "Sellers' army force camp": at A new buyers enter near the
+apex, and at B buyers rise without volume. Real data: GBPUSD, 1-hour, 15
+to 25 February 2022. (The original chart was NZDUSD 1-hour, August 2021;
+this one shows the same structure.)
+
+@@b1332 p
+In the new box the chart moves to the apex. At A, new traders think
+the market will go up. These new traders are bad players, as B confirms.
+On the up move at B, after the buyers have failed many times before,
+there is no rise in volume.
+
+@@b1333 p
+The message: buyers are losing their power. They cannot fight; they
+are old in the battle.
+
+@@b1334 h4
+The tiny box: go short
+
+@@b1336 p
+Figure: A tiny box near the apex with very low volume at C: a sell
+signal. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The original
+chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1337 p
+This box is tiny, and it is a sell signal. A tiny box shows buyers
+losing power while sellers easily control the market. Look at the volume
+at C: sellers control the market easily against so few buyers.
+
+@@b1338 p
+Think about it. Sellers controlled the market against many buyers at
+3, 5, 8 and A. Here it is a piece of cake for sellers to push the market
+down. That is why the box is tiny. When volume is very small and the
+range is small too, that is the confirmation.
+
+@@b1339 p
+The message: buyers are very weak. Go short.
+
+@@b1340 h4
+New speed for sellers
+
+@@b1342 p
+Figure: At XX buyers lose energy faster than expected; the new down
+box has the sharpest angle so far, with a volume rise at D. Real data:
+GBPUSD, 1-hour, 15 to 25 February 2022. (The original chart was NZDUSD
+1-hour, August 2021; this one shows the same structure.)
+
+@@b1343 p
+At XX buyers lose their energy faster than expected. The new angle
+gives sellers excellent progress. At D volume increases, which suggests
+some traders then exit the market, taking profit.
+
+@@b1344 p
+The new angle is clearly the sharpest of all the previous boxes. Now
+there is no doubt about the trend: the sellers control the kingdom.
+
+@@b1345 h4
+The continuation box
+
+@@b1347 p
+Figure: A continuation box with the TP marked: the bounce at E stops
+under the TP. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The
+original chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1348 p
+This box acts as a continuation box. There is always some volatility
+inside a trend, such as E, which closes inside the box and can confuse
+traders about the down move. But with the box we are safe. Look how the
+buyers stop under the TP.
+
+@@b1349 p
+Volume at C was very, very low, showing that buyers had no interest
+in the move at E. The volume at C relative to the size of bar C is good.
+So it is confirmed: buyers are too weak to support the market. We move
+our stop order to around the TP level. Always protect your gain and kill
+your loss.
+
+@@b1351 p
+Figure: The next down box: a volume spike at F mid-box, and more
+volume at G at the end of the box. Real data: GBPUSD, 1-hour, 15 to 25
+February 2022. (The original chart was NZDUSD 1-hour, August 2021; this
+one shows the same structure.)
+
+@@b1352 p
+At F there is a volume spike, but no worry; it is in the middle of
+the box. At G volume rises again, and the close of the last bar shows
+some strength. It suggests the market is preparing for the next rally.
+This angle is slower than the last down box. Still, there is no sign of
+an uptrend yet; the crown is still with the sellers' force.
+
+@@b1353 h4
+New buyers arrive
+
+@@b1355 p
+Figure: "Alert": at H new traders enter, with volume rising on the up
+bars. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The original
+chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1356 p
+At H new traders enter the market as a contingency. The amount of
+buying rises persistently with every up bar. We have not seen that habit
+since the downtrend began at the apex. So here we move the stop order
+above that rally, and we prepare for an uptrend.
+
+@@b1358 p
+Figure: The slowest down box, with no gain and lower volume at J.
+Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The original chart
+was NZDUSD 1-hour, August 2021; this one shows the same structure.)
+
+@@b1359 p
+The angle of this box is the slowest of all, with no gain. It
+suggests the sellers are losing their force. For the first time, volume
+at J is falling: no new sellers at this level. At H we had many new
+buyers. Here we move the stop order.
+
+@@b1360 p
+The message: a new buyer army has arrived, while the sellers give up
+or move away. Prepare for an uptrend.
+
+@@b1361 h4
+The buyers' army camp and
+the Dagger
+
+@@b1363 p
+Figure: "Buyers' army force camp": volume rises on the up move at L
+compared with J. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The
+original chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1364 p
+Here the buyers' army lives, and the sellers give up. It is easy to
+see the market move up on persistently rising volume. Look at L and
+compare it with J. The market is moving into a Dagger.
+
+@@b1366 p
+Figure: The Dagger: the last down box is tiny, and the last bars
+break out of it. Real data: GBPUSD, 1-hour, 15 to 25 February 2022. (The
+original chart was NZDUSD 1-hour, August 2021; this one shows the same
+structure.)
+
+@@b1367 p
+A beautiful Dagger. Can you see that the last down box is tiny? Its
+volume is the lowest of any down box. The last bar breaks out of the
+Dagger: it is a buy signal, and the red mark changes to green.
+

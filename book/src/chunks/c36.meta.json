@@ -1,0 +1,62 @@
+{
+ "chunk": "c36",
+ "highlights": [
+  {"b": "b2307", "en": "A Spread Triple is the connection of three Return points.", "level": 1},
+  {"b": "b2310", "en": "The best approach is to draw them only on intermediate and major Return\npoints.", "level": 1},
+  {"b": "b2316", "en": "The farther apart these points are, the more selling there is in\nthe market.", "level": 1},
+  {"b": "b2319", "en": "When price\nexceeds them, watch for a new Return around them.", "level": 1},
+  {"b": "b2327", "en": "The red line marks high-probability short Setups, and the green line\nmarks high-probability long Setups.", "level": 1},
+  {"b": "b2333", "en": "At\nthe TP the sellers lose 50% and the buyers gain 50%.", "level": 1},
+  {"b": "b2341", "en": "This is NOT a channel. It is a free EP drawing, without\ncaring about the angle of the EP-of-SS line.", "level": 1},
+  {"b": "b2351", "en": "Everything is a 1-2-3.", "level": 2},
+  {"b": "b2369", "en": "When the buyers gain more quality and break the G line, expect a\nselling reaction.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b2298", "en": "Implications of the 6&6 study", "ar": "دلالات دراسة الـ 6&6",
+   "note_en": "The study explains the slow BMX of the second Big Deal condition and concludes that FMX and BMX show how and why the market turns from down to up.",
+   "note_ar": "تفسر الدراسة الـ BMX البطيء في حالة الصفقة الكبرى الثانية، وتخلص إلى أن FMX وBMX يبيّنان كيف ولماذا ينقلب السوق من الهبوط إلى الصعود.",
+   "imp": 2,
+   "children": [
+    {"b": "b2299", "en": "The slow BMX", "ar": "الـ BMX البطيء", "note_en": "After a fast Jumbo and the FMX, the BMX drags on with no new negative passion or energy (shop that will not lower its price).", "note_ar": "بعد Jumbo سريع وFMX يطول الـ BMX دون شغف سلبي أو طاقة جديدة.", "imp": 1, "children": []},
+    {"b": "b2302", "en": "Conclusion", "ar": "الخلاصة", "note_en": "FMX and BMX each play an excellent role in showing why the market changes course; the study is only one part.", "note_ar": "لكل من FMX وBMX دور ممتاز في إظهار سبب تغيّر مسار السوق؛ والدراسة جزء واحد فقط.", "imp": 1, "children": []}
+   ]},
+  {"b": "b2304", "en": "Spread Triples: definition and spread rate", "ar": "الـ Spread Triples: التعريف ومعدل الانتشار",
+   "note_en": "A Spread Triple connects three Return points, ideally intermediate or major ones; the spacing between Returns measures how much selling there is.",
+   "note_ar": "الـ Spread Triple يصل ثلاث نقاط Return، ويُفضَّل المتوسطة والكبرى؛ والمسافة بين الـ Returns تقيس حجم البيع.",
+   "imp": 3,
+   "children": [
+    {"b": "b2306", "en": "What a Spread Triple is", "ar": "ما هو الـ Spread Triple", "note_en": "Three intermediate Returns A, B and C joined by lines show how the 1-2-3 spreads; minor moves are filtered out.", "note_ar": "ثلاثة Returns متوسطة A وB وC تُظهر انتشار الـ 1-2-3 وتستبعد الحركات الصغيرة.", "imp": 2, "children": []},
+    {"b": "b2311", "en": "Measuring the rate of spread", "ar": "قياس معدل الانتشار", "note_en": "Place a dot on each falling Return, like measuring a falling ball. The farther apart, the more selling; the closer, the less.", "note_ar": "ضع نقطة على كل Return هابط كقياس سرعة كرة. كلما تباعدت زاد البيع وكلما اقتربت قلّ.", "imp": 2, "children": []},
+    {"b": "b2318", "en": "Critical points", "ar": "نقاط حرجة", "note_en": "Three Returns on one line are critical; when price exceeds them watch for a new Return, and draw new lines for the new sequence.", "note_ar": "ثلاثة Returns على خط واحد نقاط حرجة؛ حين يتجاوزها السعر ترقّب Return جديدًا وارسم خطوطًا جديدة.", "imp": 2, "children": []}
+   ]},
+  {"b": "b2323", "en": "Pace of Propagation and magnet for Returns", "ar": "إيقاع الـ Propagation ومغناطيس الـ Returns",
+   "note_en": "The lines define the pace of the Returns that make the Propagation and mark high-probability Setups.",
+   "note_ar": "تحدد الخطوط إيقاع الـ Returns التي تصنع الـ Propagation وتحدد Setups عالية الاحتمال.",
+   "imp": 3,
+   "children": [
+    {"b": "b2327", "en": "Red and green lines", "ar": "الخطان الأحمر والأخضر", "note_en": "Red marks high-probability short Setups, green marks long Setups; along red there is no 1-2-3 up, so longs fail.", "note_ar": "الأحمر لـ Setups البيع والأخضر لـ Setups الشراء؛ وعلى الأحمر لا 1-2-3 صاعد فيفشل الشراء.", "imp": 2, "children": []},
+    {"b": "b2329", "en": "The magnet for Returns", "ar": "مغناطيس الـ Returns", "note_en": "Returns are drawn to the lines when they meet the TP (Spread + TP). At the TP sellers lose 50% and buyers gain 50%; sellers must keep their pace and buyers must not exceed it.", "note_ar": "تنجذب الـ Returns إلى الخطوط عند التقائها بالـ TP. عند الـ TP يخسر البائعون 50% ويكسب المشترون 50%.", "imp": 2, "children": [
+      {"b": "b2335", "en": "Buyers exceed the line", "ar": "المشترون يتجاوزون الخط", "note_en": "When sellers will not raise offers, the first Return appears at the break and buying Propagation grows. Knowing others is wisdom.", "note_ar": "حين لا يزيد البائعون عروضهم يقع أول Return عند الكسر وينمو Propagation الشراء.", "imp": 1, "children": []}
+    ]}
+   ]},
+  {"b": "b2337", "en": "The EP line of the Propagation", "ar": "خط الـ EP للـ Propagation",
+   "note_en": "Add a freely drawn EP line after the Return line: it shows where sellers lose power and the market bounces back, moving from equilibrium to disequilibrium. It is not a channel.",
+   "note_ar": "أضف خط EP مرسومًا بحرية بعد خط الـ Return: يُظهر أين يفقد البائعون قوتهم فيرتد السوق. وهو ليس قناة.",
+   "imp": 3,
+   "children": [
+    {"b": "b2341", "en": "Not a channel", "ar": "ليست قناة", "note_en": "Free EP drawing, ignoring the angle of the EP-of-SS line; fit it to the story.", "note_ar": "رسم حر للـ EP دون اعتبار زاوية خط EP-of-SS؛ اجعله ملائمًا للقصة.", "imp": 2, "children": []},
+    {"b": "b2347", "en": "Lines shape the Propagation", "ar": "الخطوط تشكل الـ Propagation", "note_en": "Return Prop1/2 above, EP-prop1/2 below; the rally from EP-prop1 stops at the TP of Prop1. Major bounces between the lines make movement visible, and lower tops and bottoms near the Over give a downtrend.", "note_ar": "الارتدادات الكبرى بين الخطين تجعل الحركة مرئية، وقمم وقيعان أدنى قرب الـ Over تعني اتجاهًا هابطًا.", "imp": 2, "children": [
+      {"b": "b2351", "en": "Everything is a 1-2-3", "ar": "كل شيء هو 1-2-3", "note_en": "The core principle behind the lines and bounces.", "note_ar": "المبدأ الجوهري وراء الخطوط والارتدادات.", "imp": 3, "children": []}
+    ]}
+   ]},
+  {"b": "b2358", "en": "A full story: CADCHF", "ar": "قصة كاملة: CADCHF",
+   "note_en": "A worked reading from A to F on the weekly and H4 pictures, ending in a real test of whether buyers can make a genuine move.",
+   "note_ar": "قراءة تطبيقية من A إلى F على الأسبوعي وH4 تنتهي باختبار حقيقي لقدرة المشترين.",
+   "imp": 3,
+   "children": [
+    {"b": "b2363", "en": "The weekly picture", "ar": "الصورة الأسبوعية", "note_en": "EP at A, Return with cancel at B, selling dominates along the red line, pace speeds up at D and is broken at E, and F meets the Matrix Overlay at the EP of the Propagation at C and A: hesitation.", "note_ar": "EP عند A، وReturn مع cancel عند B، والبيع يهيمن على الخط الأحمر، ويتسارع الإيقاع عند D ويُكسر عند E، ويلتقي F بالـ Matrix Overlay: تردد.", "imp": 2, "children": []},
+    {"b": "b2365", "en": "The H4 picture", "ar": "صورة الـ H4", "note_en": "Sellers fail to make new lows. Buyer quality comes from the Matrix Overlay at A, sellers from B taking profit, and buyers from the last Propagation re-entering.", "note_ar": "يفشل البائعون في صنع قيعان جديدة. وجودة المشترين من الـ Matrix Overlay ومن أرباح البائعين عند B ومن مشترين يعيدون الدخول.", "imp": 2, "children": []},
+    {"b": "b2368", "en": "The real test", "ar": "الاختبار الحقيقي", "note_en": "If buyers gain quality and break the G line, expect a selling reaction from the E Spread Triple line; this tests whether the buyers make a genuine move.", "note_ar": "إن كسر المشترون خط G فتوقّع ردّ فعل بيعيًّا؛ وهذا يختبر قدرتهم على حركة حقيقية.", "imp": 3, "children": []}
+   ]}
+ ]
+}

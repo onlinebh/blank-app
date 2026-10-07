@@ -1,0 +1,113 @@
+{
+ "chunk": "c07",
+ "highlights": [
+  {"b": "b420", "en": "Finding something on your own means so", "level": 1},
+  {"b": "b422", "en": "Information can be handed over.", "level": 1},
+  {"b": "b422", "en": "Understanding has to be earned.", "level": 2},
+  {"b": "b428", "en": "you have to find how it fits in your own mind.", "level": 1},
+  {"b": "b430", "en": "A hint you work out yourself stays in\nyour head longer than an answer you are given.", "level": 1},
+  {"b": "b438", "en": "Charlie took responsibility for the\nhours he had taken from his student.", "level": 1},
+  {"b": "b446", "en": "A single event looks like an ending\nonly because we cut the story short.", "level": 1},
+  {"b": "b455", "en": "A forecast made before the pattern\nforms is a hypothesis you can test.", "level": 1},
+  {"b": "b458", "en": "Logic corrects the mindset.", "level": 1},
+  {"b": "b464", "en": "Logic corrects our mindset, and through that correction it leads us\nto success and to our goals.", "level": 1},
+  {"b": "b465", "en": "When the mindset is\ncorrected, the trader makes the right decisions.", "level": 1},
+  {"b": "b467", "en": "Success comes if, and only if, one has the desire to correct the\nmindset based on logic.", "level": 1},
+  {"b": "b468", "en": "So we must refresh and correct the mindset by logic, again and\nagain.", "level": 1},
+  {"b": "b470", "en": "It should not only be a valid argument; it should be\ntrue in reality.", "level": 1},
+  {"b": "b475", "en": "Whatever is followed by action, we are responsible for its result.", "level": 1},
+  {"b": "b483", "en": "Yes, this is the reality of the market.", "level": 1},
+  {"b": "b487", "en": "This ignorance does not meet the reality of the\nmarket.", "level": 1},
+  {"b": "b488", "en": "It gives the trader the ability to decide in an environment of\nprobability.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b414", "en": "Find it on your own", "ar": "عليك أن تجدها بنفسك",
+   "note_en": "Charlie taught by example because understanding cannot be handed over; each person must discover it.", "note_ar": "كان Charlie يعلّم بالأمثلة لأن الفهم لا يُسلَّم، بل يكتشفه كل شخص بنفسه.", "imp": 3,
+   "children": [
+    {"b": "b416", "en": "Mountain pass story", "ar": "قصة الممر الجبلي",
+     "note_en": "A young trader dismissed the 1-2-3 until he rediscovered it years later and presented it as his own find.", "note_ar": "شاب أهمل الـ 1-2-3 حتى أعاد اكتشافه بعد سنوات وقدّمه كأنه اكتشافه الخاص.", "imp": 2,
+     "children": [
+      {"b": "b417", "en": "Late 1950s student", "ar": "تلميذ الخمسينيات",
+       "note_en": "Charlie explained 1-2-3, propagation and intersection but the student was not connected to it.", "note_ar": "شرح Charlie الـ 1-2-3 والـ propagation والـ intersection لكن التلميذ لم يتصل بها.", "imp": 1},
+      {"b": "b418", "en": "Rediscovery", "ar": "إعادة الاكتشاف",
+       "note_en": "Markets are interconnected 1-2-3 waves: wait for one to repeat, then hop aboard.", "note_ar": "الأسواق موجات 1-2-3 مترابطة: انتظر تكرار إحداها ثم اركب.", "imp": 2}
+     ]},
+    {"b": "b420", "en": "Each generation learns anew", "ar": "كل جيل يتعلم من جديد",
+     "note_en": "What you find yourself becomes knowledge; what you are told is ignored.", "note_ar": "ما تجده بنفسك يصير معرفة، وما يُقال لك يُهمَل.", "imp": 3},
+    {"b": "b422", "en": "Lesson and exercise", "ar": "الدرس والتمرين",
+     "note_en": "Information can be handed over, understanding must be earned; show two charts and ask what they notice.", "note_ar": "المعلومة تُسلَّم والفهم يُكتسب؛ أرِ رسمين واسأل عمّا يلاحظ.", "imp": 2}
+   ]},
+  {"b": "b424", "en": "\"What did you think I meant?\"", "ar": "\"ماذا ظننتَني أقصد؟\"",
+   "note_en": "Charlie's vagueness was deliberate: hints worked out alone last longer than answers.", "note_ar": "غموض Charlie كان مقصودًا: التلميحة التي تحلّها بنفسك تدوم أكثر من الجواب الجاهز.", "imp": 2,
+   "children": [
+    {"b": "b426", "en": "Michael's frustration", "ar": "إحباط Michael",
+     "note_en": "Michael's rigid Western mind hunted for Returns after Charlie pointed at a chart.", "note_ar": "عقل Michael الغربي الصارم راح يبحث عن الـ Returns بعد أن أشار Charlie إلى الرسم.", "imp": 1},
+    {"b": "b427", "en": "Why Charlie used examples", "ar": "لماذا الأمثلة",
+     "note_en": "A step-by-step lesson failed in the 1950s; the student figured it out himself anyway.", "note_ar": "فشل الدرس المنهجي في الخمسينيات، وتوصّل التلميذ إلى الأمر بنفسه.", "imp": 2},
+    {"b": "b429", "en": "Eastern mentality", "ar": "العقلية الشرقية",
+     "note_en": "Visible in the Goodmanisms; left and right brain communicated extremely well.", "note_ar": "تظهر في الـ Goodmanisms؛ وكان الدماغان الأيسر والأيمن يتواصلان جيدًا.", "imp": 1},
+    {"b": "b431", "en": "Try this: write your hint", "ar": "جرّب: اكتب التلميح",
+     "note_en": "When stuck, write in one sentence what the chart hints at before asking anyone.", "note_ar": "عند التعثر اكتب في جملة ما يلمّح إليه الرسم قبل أن تسأل.", "imp": 1}
+   ]},
+  {"b": "b432", "en": "Christmas Day and the accident", "ar": "يوم الكريسماس والحادث",
+   "note_en": "Two small stories showing Charlie's responsibility and his habit of seeing wider connections.", "note_ar": "قصتان صغيرتان تُظهران مسؤولية Charlie وعادته في رؤية الروابط الأوسع.", "imp": 2,
+   "children": [
+    {"b": "b434", "en": "Christmas Day call", "ar": "مكالمة الكريسماس",
+     "note_en": "Michael lost track of time at Charlie's house; Charlie calmed Michael's angry mother by phone.", "note_ar": "نسي Michael الوقت عند Charlie، وهدّأ Charlie أمّه الغاضبة بالهاتف.", "imp": 1,
+     "children": [
+      {"b": "b438", "en": "Take responsibility", "ar": "تحمّل المسؤولية",
+       "note_en": "Charlie owned the hours he took and solved the problem; leave people better off.", "note_ar": "تحمّل Charlie الساعات التي أخذها وحلّ المشكلة؛ اترك الناس أفضل حالًا.", "imp": 2}
+     ]},
+    {"b": "b440", "en": "Think like Charlie", "ar": "فكّر مثل Charlie",
+     "note_en": "A hit-and-run on his Corvair became possibly a lucky delay for the driver.", "note_ar": "حادث اصطدام بسيارة Corvair ربما كان تأخيرًا أنقذ السائق.", "imp": 1,
+     "children": [
+      {"b": "b446", "en": "Events are not endings", "ar": "الحدث ليس نهاية",
+       "note_en": "A single event looks final only because we cut the story short; ask what else is connected.", "note_ar": "الحدث يبدو نهائيًا لأننا اقتطعنا القصة؛ اسأل عمّا يرتبط به.", "imp": 2},
+      {"b": "b447", "en": "Try this: stop-out", "ar": "جرّب: بعد الـ stop",
+       "note_en": "Write one way the loss may be protecting you from something worse.", "note_ar": "اكتب طريقة قد تحميك بها الخسارة من شيء أسوأ.", "imp": 1}
+     ]}
+   ]},
+  {"b": "b448", "en": "Draw the box before the Setup", "ar": "ارسم الصندوق قبل الـ Setup",
+   "note_en": "Abduction: pose a question and box the needed Setup space while the Jumbo is still forming.", "note_ar": "الـ Abduction: اطرح سؤالًا وارسم صندوق مساحة الـ Setup أثناء تشكّل الـ Jumbo.", "imp": 3,
+   "children": [
+    {"b": "b450", "en": "The question", "ar": "السؤال",
+     "note_en": "If a Setup formed at the Jumbo's current EP, how large must it be for an Under count to reach the Jumbo's TP?", "note_ar": "لو تشكّل Setup عند الـ EP الحالي للـ Jumbo، فكم يلزم حجمه ليصل Under count إلى الـ TP؟", "imp": 2},
+    {"b": "b453", "en": "Predicting the build", "ar": "التنبؤ بالبناء",
+     "note_en": "Not always exact but it makes you proactive; the time frame is weeks, not minutes or hours.", "note_ar": "ليس دقيقًا دائمًا لكنه يجعلك استباقيًا؛ والإطار الزمني أسابيع لا دقائق.", "imp": 2},
+    {"b": "b454", "en": "Eleven examples", "ar": "أحد عشر مثالًا",
+     "note_en": "Michael collected them for an Abduction article; with the Playbook it is his last word on Goodman.", "note_ar": "جمعها Michael لمقالة عن الـ Abduction؛ ومعها الـ Playbook كلمته الأخيرة.", "imp": 1},
+    {"b": "b455", "en": "Hypothesis vs story", "ar": "فرضية أم حكاية",
+     "note_en": "A forecast before the pattern forms is testable; a reaction afterward is only a story. Date the box and check in a week.", "note_ar": "التنبؤ قبل التشكل قابل للاختبار، وردّ الفعل بعده حكاية. أرّخ الصندوق وافحصه بعد أسبوع.", "imp": 3}
+   ]},
+  {"b": "b457", "en": "The Logic of Goodman (2022)", "ar": "منطق Goodman (2022)",
+   "note_en": "Logic corrects the mindset, moving traders from doubt, fear and hope to clear decisions under probability.", "note_ar": "المنطق يصحّح العقلية وينقل المتداول من الشك والخوف والأمل إلى قرارات واضحة في ظل الاحتمال.", "imp": 3,
+   "children": [
+    {"b": "b460", "en": "Why traders lose the road", "ar": "لماذا يضل المتداولون",
+     "note_en": "They jump between methods, misunderstand their goals, then doubt, fear or merely hope.", "note_ar": "يقفزون بين الطرق ولا يفهمون أهدافهم، ثم يشكّون أو يخافون أو يتعلقون بالأمل.", "imp": 1},
+    {"b": "b462", "en": "Logic corrects the mindset", "ar": "المنطق يصحّح العقلية",
+     "note_en": "Mindset is the set of assumptions we decide through; correct it and decisions (long, short, or wait) become right.", "note_ar": "العقلية افتراضات نقرر من خلالها؛ فإذا صُحّحت صحّت القرارات (شراء أو بيع أو انتظار).", "imp": 3},
+    {"b": "b466", "en": "Discipline is a lifestyle", "ar": "الانضباط أسلوب حياة",
+     "note_en": "Success needs the desire to correct; intensity fades after success, so refresh the mindset again and again.", "note_ar": "النجاح يحتاج رغبة في التصحيح؛ وتخفت الحدّة بعد النجاح فيجب التجديد دائمًا.", "imp": 2},
+    {"b": "b469", "en": "Aim of the mindset: truth", "ar": "غاية العقلية: الحقيقة",
+     "note_en": "A mindset must not only be valid but true in reality; Knowing brings what exists into our minds.", "note_ar": "يجب أن تكون العقلية صادقة في الواقع لا مجرد صحيحة؛ والمعرفة تنقل الموجود إلى عقولنا.", "imp": 2},
+    {"b": "b472", "en": "Two kinds of impression", "ar": "نوعان من الانطباع",
+     "note_en": "Imagination (abstract image of a fact) versus an impression that leads to confident action, e.g. a qualified Goldilocks Setup.", "note_ar": "تخيّل (صورة مجردة) مقابل انطباع يقود إلى فعل واثق، مثل Goldilocks Setup مؤهَّل.", "imp": 2,
+     "children": [
+      {"b": "b475", "en": "Responsibility for action", "ar": "المسؤولية عن الفعل",
+       "note_en": "Only buy and sell exist and both are under our control; the market never forces an entry.", "note_ar": "لا فعل إلا الشراء والبيع وكلاهما بيدنا؛ والسوق لا يجبرك على الدخول.", "imp": 2}
+     ]},
+    {"b": "b477", "en": "Four logical cases", "ar": "أربع حالات منطقية",
+     "note_en": "Judging an Eurxxx call: certain yes, certain no, 50% doubt, or probability with some delusion. Only the fourth fits the market.", "note_ar": "الحكم على توقع Eurxxx: يقين بنعم، يقين بلا، شك 50%، أو احتمال مع وهم. الرابعة وحدها تناسب السوق.", "imp": 3},
+    {"b": "b485", "en": "Two kinds of ignorance", "ar": "نوعان من الجهل",
+     "note_en": "Simple ignorance lacks knowledge or probability; complex ignorance reads probability but demands certainty.", "note_ar": "الجهل البسيط نقص معرفة أو احتمال؛ والمركّب يقرأ الاحتمال لكنه يطلب اليقين.", "imp": 2,
+     "children": [
+      {"b": "b487", "en": "Simple ignorance", "ar": "الجهل البسيط",
+       "note_en": "Cure: learn the logic of Goodman.", "note_ar": "العلاج: تعلّم منطق Goodman.", "imp": 1},
+      {"b": "b487", "en": "Complex ignorance", "ar": "الجهل المركّب",
+       "note_en": "Refuses to act without certainty; some courage is needed.", "note_ar": "يرفض التصرف دون يقين؛ ويلزمه بعض الشجاعة.", "imp": 2}
+     ]},
+    {"b": "b488", "en": "Why learn the logic", "ar": "لماذا نتعلم المنطق",
+     "note_en": "It gives the trader the ability to decide in an environment of probability.", "note_ar": "يمنح المتداول القدرة على القرار في بيئة الاحتمال.", "imp": 3}
+   ]}
+ ]
+}

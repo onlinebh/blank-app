@@ -1,0 +1,122 @@
+{
+ "chunk": "c61",
+ "highlights": [
+  {"b": "b3646", "en": "systems have points where a small push changes everything", "level": 1},
+  {"b": "b3653", "en": "buyers and\nsellers in equilibrium, but \"will not stay forever.\"", "level": 1},
+  {"b": "b3653", "en": "The rules of\nRung 6 exist to be obeyed at exactly that moment, when they feel least\nnecessary.", "level": 1},
+  {"b": "b3658", "en": "Robustness is what the balancing loop buys.", "level": 1},
+  {"b": "b3658", "en": "The system bends and does not break.", "level": 1},
+  {"b": "b3660", "en": "Learning changes the trader, and the changed trader is a new\nBeing who sees the next chart with new eyes.", "level": 1},
+  {"b": "b3663", "en": "Charlie said everything is a 1-2-3. A trader is one too.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b3645", "en": "The tipping point", "ar": "نقطة التحوّل (The tipping point)",
+   "note_en": "Small pushes can change a system entirely; Catastrophe theory describes these jumps and ran through the letters from 2024.",
+   "note_ar": "دفعة صغيرة قد تغيّر النظام كله، ونظرية الكوارث تصف هذه القفزات وقد تكررت في الرسائل منذ 2024.",
+   "imp": 3,
+   "children": [
+    {"b": "b3646", "en": "Balancing vs reinforcing loop", "ar": "حلقة الاتزان مقابل التعزيز",
+     "note_en": "Most days the balancing loop runs the account, but there are points where everything changes.",
+     "note_ar": "في أغلب الأيام تُدير حلقة الاتزان الحساب، لكن هناك نقاطًا يتغيّر عندها كل شيء.",
+     "imp": 2, "children": []},
+    {"b": "b3648", "en": "Catastrophe model letters", "ar": "رسائل نموذج الكارثة",
+     "note_en": "2024-12-13: Catastrophe is a great model of the market. 2025-05-23: a stone on an egg; a stable state belongs to the system, catastrophe is outside it; Charlie's 'a small profit is a loss' prevents catastrophe.",
+     "note_ar": "2024-12-13: الكارثة نموذج رائع للسوق. 2025-05-23: حجر على بيضة؛ الحالة المستقرة من طبيعة النظام والكارثة خارجه؛ وقول Charlie إن الربح الصغير خسارة يمنع الكارثة.",
+     "imp": 2, "children": []},
+    {"b": "b3652", "en": "3C as saddle point", "ar": "الـ 3C كنقطة سرج",
+     "note_en": "The 3C sits between hope and fear, like a saddle point; a small step changes everything and a newborn trend follows propagation.",
+     "note_ar": "الـ 3C بين الأمل والخوف كنقطة سرج؛ خطوة صغيرة تغيّر كل شيء ويتبعها trend وليد.",
+     "imp": 3,
+     "children": [
+      {"b": "b3653", "en": "The trader's own saddle", "ar": "سرج المتداول نفسه",
+       "note_en": "After wins the trader stands between confidence and greed; one step keeps the balancing loop, the other hands over to the reinforcing loop.",
+       "note_ar": "بعد الأرباح يقف المتداول بين الثقة والجشع؛ خطوة تُبقي حلقة الاتزان وأخرى تسلّم الأمر لحلقة التعزيز.",
+       "imp": 2, "children": []},
+      {"b": "b3653", "en": "Lesson: obey Rung 6 rules", "ar": "الدرس: أطع قواعد Rung 6",
+       "note_en": "The rules exist for exactly this moment, when they feel least necessary.",
+       "note_ar": "القواعد وُضعت لهذه اللحظة بالذات حين تبدو أقل ضرورة.",
+       "imp": 3, "children": []}
+     ]}
+   ]},
+  {"b": "b3654", "en": "Robustness", "ar": "المتانة (Robustness)",
+   "note_en": "A system that works only in good times is not a system; robustness is what the balancing loop buys.",
+   "note_ar": "النظام الذي يعمل في الأوقات الجيدة فقط ليس نظامًا؛ والمتانة ما تشتريه حلقة الاتزان.",
+   "imp": 2,
+   "children": [
+    {"b": "b3656", "en": "Programmer's view (2025-02-17)", "ar": "نظرة المبرمج (2025-02-17)",
+     "note_en": "The key feature of any system is how well it stands against errors and bugs; a system is an automatic rule that minimizes input effort and raises output.",
+     "note_ar": "أهم صفة في أي نظام قدرته على الصمود أمام الأخطاء؛ والنظام قاعدة آلية تقلّل الجهد وتزيد الإنتاج.",
+     "imp": 2, "children": []},
+    {"b": "b3657", "en": "Small changes, never the core", "ar": "تغييرات صغيرة، لا تمسّ الجوهر",
+     "note_en": "Do not chase perfection; use a systematic approach, enhance a little each time, never change the core.",
+     "note_ar": "لا تطلب الكمال؛ اتبع نهجًا منهجيًا وحسّن قليلًا كل مرة ولا تغيّر الجوهر.",
+     "imp": 3, "children": []},
+    {"b": "b3658", "en": "Freedom through embracing risk", "ar": "الحرية بتقبّل المخاطرة",
+     "note_en": "2025-04-20: freedom comes from embracing risk with a long-run vision. The core (1-2-3, thirty souls, review) stays; the system bends and does not break.",
+     "note_ar": "2025-04-20: الحرية نتيجة تقبّل المخاطرة برؤية بعيدة. يبقى الجوهر (1-2-3، الأرواح الثلاثون، المراجعة) والنظام ينحني ولا ينكسر.",
+     "imp": 2, "children": []}
+   ]},
+  {"b": "b3659", "en": "The ladder is a circle", "ar": "السُّلَّم دائرة",
+   "note_en": "The ten rungs form a loop: the System feeds back into Being.",
+   "note_ar": "الدرجات العشر حلقة: الـ System يعود فيغذّي الـ Being.",
+   "imp": 3,
+   "children": [
+    {"b": "b3660", "en": "Learning makes a new Being", "ar": "التعلّم يصنع Being جديدًا",
+     "note_en": "Learning changes the trader, who then sees the next chart with new eyes.",
+     "note_ar": "التعلّم يغيّر المتداول فيرى الرسم التالي بعينين جديدتين.",
+     "imp": 2, "children": []},
+    {"b": "b3660", "en": "Feedback loop example (2024-05-06)", "ar": "مثال حلقة التغذية الراجعة (2024-05-06)",
+     "note_en": "Adding to a winning trade in re-propagation is better than seeking a new one; the change came out of the loop and returned to it.",
+     "note_ar": "الإضافة إلى صفقة رابحة في re-propagation أفضل من البحث عن جديدة؛ خرج التغيير من الحلقة وعاد إليها.",
+     "imp": 2, "children": []},
+    {"b": "b3663", "en": "Everything is a 1-2-3", "ar": "كل شيء 1-2-3",
+     "note_en": "A trader is also a 1-2-3: a beginning, a tipping point, an end that starts the next.",
+     "note_ar": "المتداول أيضًا 1-2-3: بداية ونقطة تحوّل ونهاية هي بداية التالي.",
+     "imp": 3, "children": []}
+   ]},
+  {"b": "b3664", "en": "Truth: The Goodmanisms (1-3)", "ar": "الحقيقة: الـ Goodmanisms (1-3)",
+   "note_en": "Every saying of Charlie's that reached Mohamed through Michael's letters, quoted as written with dates; reported ones are marked.",
+   "note_ar": "كل أقوال Charlie التي وصلت عبر رسائل Michael، كما كُتبت مع التواريخ، ويُشار إلى المنقول منها.",
+   "imp": 2,
+   "children": [
+    {"b": "b3666", "en": "1 · Being", "ar": "1 · Being",
+     "note_en": "Humans cannot be figured out like dogs; markets are predictable more than people; perspective shapes judgment; trust instincts; fate is in charge.",
+     "note_ar": "لا يمكن فهم البشر كما تُفهم الكلاب؛ توقّع الأسواق أسهل من توقّع الناس؛ المنظور يصنع الحكم؛ ثق بالغريزة؛ والقدر هو المتحكم.",
+     "imp": 2,
+     "children": [
+      {"b": "b3667", "en": "Close only counts in horseshoes", "ar": "القرب لا يُحسب إلا في لعبة حدوة الحصان",
+       "note_en": "In life you are either right or wrong; do your best but know fate is in charge (2026-09-14).",
+       "note_ar": "في الحياة إمّا أن تكون على صواب أو على خطأ؛ افعل ما بوسعك واعلم أن القدر هو المتحكم.",
+       "imp": 2, "children": []}
+     ]},
+    {"b": "b3668", "en": "2 · Knowing", "ar": "2 · Knowing",
+     "note_en": "Information is cheap, knowledge less common, wisdom rare; teach by example; no free lunch; never ask a question you know the answer to.",
+     "note_ar": "المعلومات رخيصة، والمعرفة أقل شيوعًا، والحكمة نادرة؛ التعليم بالمثال؛ لا غداء مجاني؛ لا تسأل ما تعرف جوابه.",
+     "imp": 3,
+     "children": [
+      {"b": "b3669", "en": "Information, knowledge, wisdom", "ar": "المعلومات والمعرفة والحكمة",
+       "note_en": "Wisdom is combining knowledge from two different areas; it is very rare and valuable (2020-09-09, 2026-07-09).",
+       "note_ar": "الحكمة أن تجمع معرفة من مجالين مختلفين؛ نادرة وثمينة جدًا.",
+       "imp": 3, "children": []},
+      {"b": "b3669", "en": "Lake and bathtub", "ar": "البحيرة والحوض",
+       "note_en": "If you cannot find water in a lake, you will not find it in a bathtub: do not study only two markets.",
+       "note_ar": "من لا يجد الماء في بحيرة فلن يجده في حوض: لا تدرس سوقين فقط.",
+       "imp": 2, "children": []}
+     ]},
+    {"b": "b3670", "en": "3 · Seeing", "ar": "3 · Seeing",
+     "note_en": "Prices go only up or down; everything is 1-2-3; the market is separate from us; too many lines are more rope; draw to connect; agreement signals emotion; Elliott describes but does not predict.",
+     "note_ar": "الأسعار إمّا صعود أو هبوط؛ كل شيء 1-2-3؛ السوق منفصل عنا؛ الخطوط الكثيرة حبل إضافي؛ الرسم يربطك بالسوق؛ الإجماع علامة عاطفة؛ Elliott يصف ولا يتنبأ.",
+     "imp": 2,
+     "children": [
+      {"b": "b3671", "en": "Drawing connects you to the market", "ar": "الرسم يربطك بالسوق",
+       "note_en": "10 cents in Silver means nothing to the brain until you draw a 2-inch line for it (2025-08-13).",
+       "note_ar": "10 سنتات في الفضة لا معنى لها للدماغ حتى ترسم لها خطًا بطول 2 بوصة.",
+       "imp": 2, "children": []},
+      {"b": "b3671", "en": "Clean chart", "ar": "الرسم النظيف (clean chart)",
+       "note_en": "Charlie's word for a chart where the buyer-seller struggle is well defined.",
+       "note_ar": "كلمة Charlie لرسم بياني يتّضح فيه صراع المشتري والبائع.",
+       "imp": 2, "children": []}
+     ]}
+   ]}
+ ]
+}

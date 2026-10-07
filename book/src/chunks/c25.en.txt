@@ -1,0 +1,301 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: The Goodman Box with Time (2021) -> Goodman Overlay (2021)
+
+@@b1611 h3
+Trading the line, then
+a new opportunity
+
+@@b1613 p
+Figure: The wider view: repeated STP points as sellers dominate the
+trend over and over. Real data: EURUSD, 1-hour, 16 Feb – 4 Mar 2022.
+(The original chart was USDCHF daily. USDCHF data now exists, but only
+for 14 February – 4 March 2022, and that window does not contain this
+13-point sequence, so this one still shows the same structure on
+EURUSD.)
+
+@@b1614 p
+Here we trade the line, where the sellers dominate the trend over and
+over. Let us follow the chart and look for new opportunities.
+
+@@b1616 p
+Figure: After the STP points, a box marked "new speed" for the
+buyers. Real data: USDCHF, 1-hour, 25 Feb – 2 Mar 2022. (The original
+chart was USDCHF daily; this one shows the same structure on the same
+symbol, in the window the data covers.)
+
+@@b1617 p
+Here the buyers show some new speed, and this alarms us. It may cause
+a new uptrend. It is new behavior from the buyers.
+
+@@b1619 p
+Figure: The new-speed box followed by a second box, with points 1 and
+2 and a buy out of the Dagger. Real data: USDCHF, 1-hour, 25 Feb – 2 Mar
+2022. (The original chart was USDCHF daily; this one shows the same
+structure on the same symbol, in the window the data covers.)
+
+@@b1621 p
+Figure: The same buy signal in a wider view, with the new-speed box,
+points 1 and 2, and the last high before the fall. Real data: USDCHF,
+1-hour, 21 Feb – 2 Mar 2022. (The original chart was USDCHF daily; this
+one shows the same structure on the same symbol, in the window the data
+covers.)
+
+@@b1622 p
+At 1 and 2 the sellers lose their energy as price moves into the
+Dagger. It is a buy signal. The original chart is USDCHF daily; this one
+shows the same structure on real AUDUSD 1-hour data.
+
+@@b1623 p
+I hope you enjoy this study. Thank you.
+
+@@b1624 h2
+Goodman Overlay (2021)
+
+@@b1625 p
+In this paper I show how an Overlay is built up, step by step, until
+it gives me real strength when I take a position. I start from a watch
+chart, qualify the setup with inside charts, and only then go outside to
+confirm.
+
+@@b1627 p
+Figure: Tracking runs along the watch chart over time; qualifying
+goes deep into one candidate setup.
+
+@@b1628 h3
+The two questions
+
+@@b1629 p
+Two questions sit at the heart of the Goodman method:
+
+@@b1630 blockquote
+<p>1. What do I see now?</p>
+<p>2. What do I want to see next?</p>
+
+@@b1631 p
+We have three basic outside overlays:
+
+@@b1632 ul
+<li><p>Matrix Overlay</p></li>
+<li><p>Propagation Overlay</p></li>
+<li><p>Nest</p></li>
+
+@@b1634 p
+Figure: The two questions repeat at every step, checked against the
+three outside overlays.
+
+@@b1635 h3
+The watch chart: USDCAD
+4-hour
+
+@@b1636 p
+First I define the watch chart, the chart I use to find a setup. Then
+I play with the inside charts and the outside charts. My watch chart is
+USDCAD, 4-hour. The charts below redraw the same structure on real
+EURUSD data. The volume readings at each numbered point come from my
+original USDCAD point and figure chart, so the redrawn volume columns
+will not match every reading.
+
+@@b1638 p
+Figure: The watch chart: the Jumbo down, then the range where the
+Setup is tracked. Real data: EURUSD, 1-hour, 23 Feb – 1 Mar 2022. (The
+original chart was USDCAD 4-hour, August 2021; this one shows the same
+structure.)
+
+@@b1639 p
+What do I see now? There is a potential 6&amp;6. As Goodman said,
+"Setup is Setup to go." Whenever it works, it should give me a 1-2-3
+up.
+
+@@b1641 p
+Figure: The potential 6&amp;6 on the watch chart, with its target and
+maximum risk marked. Real data: EURUSD, 1-hour, 23 Feb – 1 Mar 2022.
+(The original chart was USDCAD 4-hour, August 2021; this one shows the
+same structure.)
+
+@@b1642 p
+What I like in a Goodman Setup is that the risk is always limited,
+while the profit is almost double, to the TTL. That is why trading
+Goodman setups is so profitable.
+
+@@b1643 p
+Which Matrix is dominant, and why? Before I go outside and confuse
+myself, I want to qualify the setup. I will use a point and figure
+chart.
+
+@@b1644 h3
+Qualifying with
+point and figure and volume
+
+@@b1645 h4
+Why did the PTS or
+Goldilocks fail?
+
+@@b1647 p
+Figure: The point and figure chart with volume per column, marking
+points 1 to 3 and asking why the PTS failed. Real data: EURUSD point and
+figure from 5-minute closes, box 0.0004 (4 pips), 3-box reversal, 24 Feb
+– 1 Mar 2022. (The original chart was a USDCAD point and figure chart,
+August 2021; this one shows the same structure. The volume readings in
+the text describe the original chart.)
+
+@@b1648 ul
+<li><p><strong>At 1:</strong> there is a large amount of sales. Buyers
+agree and take it, so new buyers absorb all the offers.</p></li>
+<li><p><strong>At 2:</strong> the market is in the Return Zone. The
+amount of sales shows many new buyers entering here. But can those
+buyers support the market? Is there any pulling force?</p></li>
+<li><p><strong>At 3:</strong> the market moves up with no change of
+property. There is no amount of sales in the volume, so no new buyers
+can support the market.</p></li>
+
+@@b1649 p
+For the market to move up, it needs new buyers, or at least no
+sellers who can push it down. So the market moved down to test its
+Matrix Overlay, the FMX.
+
+@@b1650 p
+This shows clearly why the market always follows the Nash
+equilibrium. Participants always look for maximum profit. At 3 the
+buyers sat at a very low Nash point; no one wanted such a move. Buyers
+want a lot of profit, so the market moved down to test.
+
+@@b1651 h4
+Measuring the energy at the
+test
+
+@@b1653 p
+Figure: Points 4 and 5 compared with the energy at A. Real data:
+EURUSD point and figure from 5-minute closes, box 0.0004 (4 pips), 3-box
+reversal, 24 Feb – 1 Mar 2022. (The original chart was a USDCAD point
+and figure chart, August 2021; this one shows the same structure. The
+volume readings in the text describe the original chart.)
+
+@@b1654 ul
+<li><p><strong>At 4:</strong> the market dips a little to test the MO,
+and no new sellers respond. Sellers have no passion to move it down.
+Compare the shift of energy from A to 4: at A there was a lot of energy
+to move it down.</p></li>
+<li><p><strong>At 5:</strong> new buyers arrive with a very good Nash
+equilibrium, as we see when we measure that energy. The amount of sales
+at 5 is about the same as at 2, but the buyers' response here is more
+effective, with more energy than at the PTS. That is why the 6&amp;6
+succeeded.</p></li>
+
+@@b1655 p
+We must look for a more energetic response, where just a little
+energy gives a lot of momentum compared with before.
+
+@@b1657 p
+Figure: Points 6, 7 and 8, where low volume comes with upward
+momentum. Real data: EURUSD point and figure from 5-minute closes, box
+0.0004 (4 pips), 3-box reversal, 24 Feb – 1 Mar 2022. (The original
+chart was a USDCAD point and figure chart, August 2021; this one shows
+the same structure. The volume readings in the text describe the
+original chart.)
+
+@@b1658 ul
+<li><p><strong>At 6:</strong> no new sellers, a very low amount, no
+change of property, at a very critical point with a very low Nash
+equilibrium. Sellers are weak.</p></li>
+<li><p><strong>At 7:</strong> a great difference. Just a small amount of
+sales gives a great momentum. When the market gives a very small amount
+with a greater Nash and momentum, it shows the passion to move up. They
+are happy.</p></li>
+<li><p><strong>At 8:</strong> this amount of sales suggests no new
+sellers. The volume is far lower than anywhere before, and the Nash
+equilibrium is very small.</p></li>
+
+@@b1659 p
+What do I want to see next? A 1-2-3. Let us watch how buyers play
+with the PO Overlay at the next TP.
+
+@@b1660 h4
+The Propagation Overlay and
+its TP
+
+@@b1662 p
+Figure: Point 9, where new sellers enter near the 50% TP of the
+Propagation Overlay. Real data: EURUSD point and figure from 5-minute
+closes, box 0.0004 (4 pips), 3-box reversal, 24 Feb – 1 Mar 2022. (The
+original chart was a USDCAD point and figure chart, August 2021; this
+one shows the same structure. The volume readings in the text describe
+the original chart.)
+
+@@b1663 p
+<strong>At 9:</strong> what do I see now? Because of the Propagation
+Overlay we have a TP at 50%. Sellers who think the market will move down
+enter here, so we see new sellers at 9, with a new Nash. But this should
+not exceed the 1-2-3. The 1-2-3 will act as a magnet for those sellers
+and stop their flow before BP-PTS.
+
+@@b1664 p
+What do I want to see next? The flow of orders from new sellers must
+withdraw before BP-PTS.
+
+@@b1666 p
+Figure: Points 10 and 11, where the sellers' flow dries up into a
+nested 6&amp;6. Real data: EURUSD point and figure from 5-minute closes,
+box 0.0004 (4 pips), 3-box reversal, 24 Feb – 1 Mar 2022. (The original
+chart was a USDCAD point and figure chart, August 2021; this one shows
+the same structure. The volume readings in the text describe the
+original chart.)
+
+@@b1667 ul
+<li><p><strong>At 10:</strong> there is a good new seller, as the amount
+of sales shows.</p></li>
+<li><p><strong>At 11:</strong> no new sellers, with a very small amount
+of sales. This is a nested 6&amp;6 case. The Nash equilibrium is very
+low. Compare 11 with 10 and 9. The 1-2-3 acts like a magnetic field that
+keeps sales from entering the market.</p></li>
+
+@@b1668 p
+What do I want to see next? New energy to the upside.
+
+@@b1669 h4
+A nested 6&amp;6 inside a
+bigger Overlay
+
+@@b1671 p
+Figure: A nested 6&amp;6 inside the bigger Overlay, with point 12
+touching the TP. Real data: EURUSD point and figure from 5-minute
+closes, box 0.0004 (4 pips), 3-box reversal, 24 Feb – 1 Mar 2022. (The
+original chart was a USDCAD point and figure chart, August 2021; this
+one shows the same structure. The volume readings in the text describe
+the original chart.)
+
+@@b1672 p
+As the cycle shows, there is a nested 6&amp;6 in the PTS with a
+bigger 6&amp;6 Overlay. There is a lot in this chart.
+
+@@b1673 p
+<strong>At 12:</strong> a very small amount of sales produces a very
+large Nash equilibrium that touches the TP. The mass behaviour is
+happier with the uptrend Matrix than with the downtrend Matrix. It is
+very obvious: the dominant passion is up.
+
+@@b1674 p
+What do I want to see next? A 1-2-3, or no great response to the
+TP.
+
+@@b1676 p
+Figure: Point 13 and the Dagger, a 3S Setup where new sellers fail to
+push the market lower. Real data: EURUSD point and figure from 5-minute
+closes, box 0.0004 (4 pips), 3-box reversal, 24 Feb – 1 Mar 2022. (The
+original chart was a USDCAD point and figure chart, August 2021; this
+one shows the same structure. The volume readings in the text describe
+the original chart.)
+
+@@b1677 p
+Here we go. <strong>At 13:</strong> new sellers appear, but without
+great energy. Look at the red arrow: before the market touched the TP,
+it generated new energy with a good Nash point. Now, at 13, new sellers
+come in without any success in generating more downward movement.
+Compare the amount of sales at 13 with 9.
+
+@@b1678 p
+So here is a 3S Setup, as the Dagger shows. The last up move, X, came
+on a very low amount, which shows some happy passion in the mass
+behaviour.
+
+@@b1679 p
+What do I want to see next? A breakout of the upper Dagger line.
+

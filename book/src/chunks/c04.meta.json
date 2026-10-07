@@ -1,0 +1,100 @@
+{
+ "chunk": "c04",
+ "highlights": [
+  {"b": "b241", "en": "there must be a cause (a net external force) for any change in", "level": 1},
+  {"b": "b242", "en": "more boxes in less time means more velocity.", "level": 1},
+  {"b": "b247", "en": "But an event without repetition cannot become a rule.", "level": 1},
+  {"b": "b255", "en": "is an experiment that removes \"buyers weak\" from the group of", "level": 1},
+  {"b": "b256", "en": "Our job is to find the path where the opposite will is weakest, as in", "level": 1},
+  {"b": "b268", "en": "Buyers must show their ability first, before you trade!", "level": 2},
+  {"b": "b270", "en": "If you are not proactive you can't learn a thing!", "level": 1},
+  {"b": "b278", "en": "The partial concept is always", "level": 1},
+  {"b": "b291", "en": "Lot = expectation, and both have free will to choose it.", "level": 1},
+  {"b": "b294", "en": "The basic rule of the trend is to follow the remainder of the orders", "level": 1},
+  {"b": "b295", "en": "In brief: lots = volume = expectation.", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b236", "en": "Matrix Velocity", "ar": "سرعة الـ Matrix",
+   "note_en": "Three Matrices with the same FPS and SS differ in SPS; the one covering most boxes in least time has the highest velocity.",
+   "note_ar": "ثلاث Matrices لها الـ FPS والـ SS نفسهما وتختلف في الـ SPS؛ والتي تغطي أكبر عدد من الصناديق في أقل وقت لها أعلى سرعة.", "imp": 2,
+   "children": [
+    {"b": "b240", "en": "a, b, c matrices", "ar": "الـ a و b و c matrix",
+     "note_en": "V = boxes/bars: a = 0.25, b = 0.6, c = 0.125.", "note_ar": "V = الصناديق/الشموع: a = 0.25، b = 0.6، c = 0.125.", "imp": 1, "children": []},
+    {"b": "b241", "en": "Cause of velocity change", "ar": "سبب تغيّر السرعة",
+     "note_en": "Newton's first law: any change in velocity needs a net external force.", "note_ar": "قانون نيوتن الأول: أي تغيّر في السرعة يحتاج قوة خارجية صافية.", "imp": 2,
+     "children": [
+      {"b": "b242", "en": "V = Δx / Δt", "ar": "V = Δx / Δt",
+       "note_en": "More boxes in less time means more velocity.", "note_ar": "صناديق أكثر في وقت أقل تعني سرعة أكبر.", "imp": 2, "children": []},
+      {"b": "b243", "en": "Chance or definite cause", "ar": "الصدفة أو سبب محدد",
+       "note_en": "Why were buyers so aggressive in the b-matrix? Two mutually exclusive answers.", "note_ar": "لماذا أقدم المشترون بشدة في الـ b-matrix؟ جوابان متنافيان.", "imp": 1, "children": []}
+     ]}
+   ]},
+  {"b": "b244", "en": "Two Kinds of Chance", "ar": "نوعا الصدفة",
+   "note_en": "Absolute chance has no cause; relative chance has a cause but does not repeat.",
+   "note_ar": "الصدفة المطلقة بلا سبب؛ والنسبية لها سبب لكنها لا تتكرر.", "imp": 2,
+   "children": [
+    {"b": "b246", "en": "Absolute chance", "ar": "الصدفة المطلقة",
+     "note_en": "An effect without any cause; most philosophers reject it.", "note_ar": "أثر بلا سبب؛ يرفضها معظم الفلاسفة.", "imp": 1, "children": []},
+    {"b": "b246", "en": "Relative chance", "ar": "الصدفة النسبية",
+     "note_en": "An effect with a cause but without repetition, like a coin flip.", "note_ar": "أثر له سبب دون تكرار، مثل رمي العملة.", "imp": 2,
+     "children": [
+      {"b": "b247", "en": "Friend at the door", "ar": "الصديق عند الباب",
+       "note_en": "An event without repetition cannot become a rule.", "note_ar": "الحدث الذي لا يتكرر لا يصير قاعدة.", "imp": 2, "children": []}
+     ]}
+   ]},
+  {"b": "b248", "en": "Relative Chance and the 3-C", "ar": "الصدفة النسبية والـ 3-C",
+   "note_en": "When the SPS stops short of the 3-C count it is a relative chance; removing 'buyers weak' raises probability from 33.3% to 50%.",
+   "note_ar": "حين يتوقف الـ SPS قبل عدّ الـ 3-C فهي صدفة نسبية؛ وإخراج «المشترين الضعفاء» يرفع الاحتمال من 33.3% إلى 50%.", "imp": 3,
+   "children": [
+    {"b": "b253", "en": "Probability 1/3 to 1/2", "ar": "الاحتمال من 1/3 إلى 1/2",
+     "note_en": "Group {strong, regular, weak} gives 33.3%; without weak gives 50%.", "note_ar": "مجموعة {قوي، عادي، ضعيف} تعطي 33.3%؛ وبدون الضعيف 50%.", "imp": 2, "children": []},
+    {"b": "b255", "en": "Overlays as experiments", "ar": "الـ Overlays كتجارب",
+     "note_en": "Propagation, Intersection, 3-C are experiments that remove 'buyers weak'. Every concept is part of the whole.", "note_ar": "الـ Propagation والـ Intersection والـ 3-C تجارب تُخرج «المشترين الضعفاء». كل مفهوم جزء من الكل.", "imp": 3, "children": []},
+    {"b": "b256", "en": "Path of weakest opposite will", "ar": "مسار أضعف إرادة مقابلة",
+     "note_en": "Our job is to find where the opposite will is weakest.", "note_ar": "مهمتنا إيجاد المسار الذي تضعف فيه الإرادة المقابلة.", "imp": 2, "children": []},
+    {"b": "b259", "en": "Balancing the concepts", "ar": "موازنة المفاهيم",
+     "note_en": "Balance joins all concepts into one system, via joint or disjoint relations, and can be induced from our experiments.", "note_ar": "التوازن يجمع المفاهيم في نظام واحد عبر علاقات joint أو disjoint ويُستخلص من تجاربنا.", "imp": 1, "children": []}
+   ]},
+  {"b": "b261", "en": "Anticipating the Future & Basic Setup", "ar": "استشراف المستقبل والـ Setup الأساسي",
+   "note_en": "The future is the probability of a set of relative chances; the basic Goodman Setup requires a Propagation first.",
+   "note_ar": "المستقبل هو احتمال مجموعة من الصدف النسبية؛ والـ Setup الأساسي يتطلب Propagation أولًا.", "imp": 3,
+   "children": [
+    {"b": "b264", "en": "Three possible outcomes", "ar": "ثلاث نتائج محتملة",
+     "note_en": "Buying strong = win; regular = at least breakeven; weak = loss.", "note_ar": "شراء قوي = ربح؛ عادي = تعادل على الأقل؛ ضعيف = خسارة.", "imp": 2, "children": []},
+    {"b": "b267", "en": "Basic Goodman Setup", "ar": "الـ Setup الأساسي",
+     "note_en": "Buyers must show their ability with at least one Propagation before you trade the Return.", "note_ar": "على المشترين إظهار قدرتهم بـ Propagation واحد على الأقل قبل تداول الـ Return.", "imp": 3, "children": []},
+    {"b": "b270", "en": "Charlie: be proactive", "ar": "Charlie: كن مبادرًا",
+     "note_en": "Ghost trading and asking questions; do not let the horse take you wherever it goes. Do not divorce the technique from the rest.", "note_ar": "مارس ghost trading واطرح الأسئلة؛ لا تدع الحصان يقودك. لا تفصل التقنية عن بقية المكوّنات.", "imp": 2, "children": []},
+    {"b": "b271", "en": "Each Matrix is a scene", "ar": "كل Matrix مشهد",
+     "note_en": "Study every Matrix as part of the whole movie, including the Outward Matrix.", "note_ar": "ادرس كل Matrix بوصفها جزءًا من الفيلم كله، ومنها الـ Outward Matrix.", "imp": 1, "children": []}
+   ]},
+  {"b": "b273", "en": "Matrix Combination", "ar": "تركيب الـ Matrix",
+   "note_en": "General and partial concepts combine to reveal buyer and seller strength, through joint or disjoint relations.",
+   "note_ar": "المفهومان العام والجزئي يجتمعان ليكشفا قوة المشترين والبائعين عبر علاقة joint أو disjoint.", "imp": 2,
+   "children": [
+    {"b": "b275", "en": "General vs partial concept", "ar": "المفهوم العام والجزئي",
+     "note_en": "General: SPS meets EP of the FPS. Partial: the SPS struggles there, a Knot. The partial is part of the general.", "note_ar": "العام: الـ SPS يلاقي EP الـ FPS. الجزئي: يتعثر هناك، Knot. والجزئي جزء من العام.", "imp": 2, "children": []},
+    {"b": "b279", "en": "Joint", "ar": "Joint (متّصلة)",
+     "note_en": "The Knot becomes a Propagation continuing the SPS: strong buying.", "note_ar": "الـ Knot يصبح Propagation يواصل الـ SPS: شراء قوي.", "imp": 2, "children": []},
+    {"b": "b282", "en": "Disjoint", "ar": "Disjoint (منفصلة)",
+     "note_en": "Lower time frames show sellers strong, e.g. a break at the 50% level.", "note_ar": "الأطر الأدنى تُظهر البائعين أقوياء، مثل كسر مستوى 50%.", "imp": 2, "children": []},
+    {"b": "b285", "en": "Joint-disjoint change", "ar": "تحوّل العلاقة",
+     "note_en": "The relationship can change from joint to disjoint or back.", "note_ar": "يمكن أن تتحول العلاقة من joint إلى disjoint أو العكس.", "imp": 1, "children": []}
+   ]},
+  {"b": "b289", "en": "The Cause Behind Each Swing", "ar": "السبب وراء كل Swing",
+   "note_en": "Price is a game between a buying player and a selling player who choose lot size (expectation) with free will; the larger lot wins after the remainder.",
+   "note_ar": "السعر لعبة بين لاعب شراء ولاعب بيع يختاران حجم الـ Lot (التوقّع) بإرادة حرة؛ والأكبر يربح بعد الباقي.", "imp": 3,
+   "children": [
+    {"b": "b291", "en": "Lot = expectation", "ar": "Lot = توقّع",
+     "note_en": "Capital is limited and the other's capital unknown; only lot size is decided each turn.", "note_ar": "رأس المال محدود ورأس مال الآخر مجهول؛ يُقرَّر حجم الـ Lot فقط كل دور.", "imp": 2, "children": []},
+    {"b": "b292", "en": "Win, loss, equal rules", "ar": "قواعد الربح والخسارة والتساوي",
+     "note_en": "Larger lot wins, smaller loses, equal lots leave no remainder.", "note_ar": "الأكبر يربح، الأصغر يخسر، والمتساويان لا يتركان باقيًا.", "imp": 1, "children": []},
+    {"b": "b293", "en": "Four-turn example", "ar": "مثال الأدوار الأربعة",
+     "note_en": "Sideways, then sellers jump 100 to 500 to 1,000, then buyers jump 200 to 10,000 out of greed.", "note_ar": "عرضي، ثم يقفز البائعون 100 إلى 500 إلى 1,000، ثم المشترون من 200 إلى 10,000 بدافع الطمع.", "imp": 1, "children": []},
+    {"b": "b294", "en": "Follow the remainder", "ar": "اتبع الباقي",
+     "note_en": "Watch for an unusual order such as 10,000 from buyers; it reveals their expectation.", "note_ar": "راقب الأمر غير المعتاد مثل 10,000 من المشترين؛ فهو يكشف توقعهم.", "imp": 2, "children": []},
+    {"b": "b295", "en": "Lots = volume = expectation", "ar": "Lots = volume = توقّع",
+     "note_en": "The greater the variance in expectation, the more important the buying or selling.", "note_ar": "كلما زاد التباين في التوقع زادت أهمية الشراء أو البيع.", "imp": 3, "children": []}
+   ]}
+ ]
+}

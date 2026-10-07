@@ -1,0 +1,283 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Goodman Overlay (2021) -> Overlay Combination (2021)
+
+@@b1680 h3
+Confirming with the outside
+Overlay
+
+@@b1681 p
+Then I go to the outside Overlay to check what can support this
+study. I also want to confirm the 3S count: the outside count should
+approve the watch chart count. Again, there is a lot here.
+
+@@b1683 p
+Figure: The outside chart, where the market is still in its old
+slope. Real data: EURUSD, 4-hour, 14 Feb – 1 Mar 2022. (The original
+chart was USDCAD daily, 2021, with a target box confirming the watch
+chart; this one shows the old slope only.)
+
+@@b1684 p
+Thank you.
+
+@@b1685 h2
+Overlay Combination (2021)
+
+@@b1686 p
+In this study I want to show exactly how an Overlay combination
+affects two things: risk and reward. A strong combination may promise a
+safe trade; a weak one increases the risk. In the second part I build
+the combination on a logical basis and show four combinations of
+extremes that I trade.
+
+@@b1687 h3
+Too many choices
+
+@@b1688 p
+In any market in the world there is at least one product or service
+to attract buyers. But with so many products, so much innovation and
+technology, the consumer faces many types of one item. There are lots of
+competitors.
+
+@@b1689 p
+When you want to buy a phone, you face Apple, Samsung, Huawei and
+others. Even within one company there are many models and sizes. I read
+some new sales books saying the best strategy is to give the customer
+only three choices.
+
+@@b1690 p
+Today's stock market is no different. I find software that searches
+for patterns in more than 30,000 stocks around the world. That is just
+more rope for traders to hang themselves.
+
+@@b1691 p
+It is easy to get emotional about a stock and rush to buy something
+you know nothing about. This behaviour must be avoided. What looks like
+an opportunity is not always a real opportunity.
+
+@@b1692 p
+In Goodman theory we start from the general and move to the specific.
+Very few people want to look at things from a deep angle. The real
+opportunity is in the details, deeper and more specific.
+
+@@b1693 h3
+The equation of every market
+
+@@b1694 p
+Every market has an equation, simple mathematics. I buy any amount of
+something at X, then I sell it at Y:
+
+@@b1695 blockquote
+<p>1. Y &lt; X: I paid more than I sold for. I am a loser.</p>
+<p>2. Y = X: a waste of time, but I can try again.</p>
+<p>3. Y &gt; X: I am a winner.</p>
+
+@@b1696 p
+There is no fourth case in any transaction. We are all obedient to
+this equation.
+
+@@b1698 p
+Figure: The three outcomes of every trade and the basic requirement
+of Y &gt; 2X.
+
+@@b1699 p
+If you keep taking losses, you will soon damage yourself. That is why
+the market is so dangerous. Goodman put the Overlay there to help us
+avoid losing trades, not always, but most of the time. You can stay in
+the market for a long time by making at least breakeven or enough
+profit.
+
+@@b1700 h4
+Two words to avoid
+
+@@b1701 p
+Two ideas must be avoided when we deal with the market:
+
+@@b1702 blockquote
+<p>1. <strong>Always.</strong> There is always someone smarter than you
+who wants to take your money.</p>
+<p>2. <strong>Guarantee.</strong> There is no guarantee the market will
+follow your words.</p>
+
+@@b1703 p
+The market lives on another planet. The market is the BIG BOSS. Facts
+sometimes become strange, but in the end they are facts.
+
+@@b1704 p
+There is an advantage too. Once you start, you will never find peace
+in stopping, because you know there is only a small distance to your
+next dream. And there is extra news: "Compound interest is the eighth
+wonder of the world. He who understands it earns it … he who doesn't …
+pays it." (Albert Einstein)
+
+@@b1705 h4
+Who loses?
+
+@@b1706 p
+Again, simple logic. At the end of any deal, the future shows who is
+the loser and who is the winner:
+
+@@b1707 ul
+<li><p>Losers are those who buy and the price moves down.</p></li>
+<li><p>Losers are those who sell and the price moves up.</p></li>
+
+@@b1708 p
+In both cases Y &lt; X. Successful trading means buying something
+that at least promises you can sell it higher. Otherwise you are the
+loser.
+
+@@b1709 p
+There is risk in every minute in the market. "No Risk No Reward"
+(Goodman). The risk is buying a stock you cannot sell higher, where Y
+&lt; X. That is why we want to know which trade can promise at least Y =
+X. But the excellent trade is when we sell at more than twice, and
+above. Better still is trading the Line.
+
+@@b1710 p
+So we must always look at:
+
+@@b1711 blockquote
+<p>1. The risk of the trade: X.</p>
+<p>2. The potential profit: Y &gt; X.</p>
+<p>3. At least Y &gt; 2X.</p>
+
+@@b1712 p
+Take a trade only when there is a real potential of Y &gt; 2X. That
+is the basic requirement for every trade.
+
+@@b1713 h3
+Why the combination matters
+
+@@b1714 p
+An Overlay combination with a Goodman Setup helps us find that
+requirement. Every combination with any Setup directly affects risk and
+reward. A bad combination may hurt both. Trading with not enough
+Overlay, or with a weak Overlay, causes greater risk.
+
+@@b1715 p
+From this point I must give a caution. You need judgement and
+experience, which come from trading for months and years, until
+judgement becomes a sixth sense. Then you can become an excellent
+picker.
+
+@@b1716 h4
+The logic behind a
+combination
+
+@@b1717 ul
+<li><p><strong>Strongly bullish combination:</strong> buyers can pull
+the market up. The trend is dominated by happy passion and controlled by
+greed. The real reward is with buyers, at least Y &gt; 2X, and it is
+less risky to trade.</p></li>
+<li><p><strong>Strongly bearish combination:</strong> sellers dominate
+and can pull the market down, controlled by fear. The real reward is
+with sellers, at least Y &gt; 2X, and you can go short safely.</p></li>
+
+@@b1718 p
+There are specific degrees between strongly bullish, bullish and even
+neutral. Each degree can produce Y &gt; X, Y &lt; X or Y = X. Recording
+this is very important for feedback and for building a library.
+
+@@b1719 h3
+The Goodman process:
+the market is a movie
+
+@@b1720 p
+The Goodman process is an ability to connect with the market
+emotionally. In Goodman, the market is a movie. The movie shows changes
+of passion from extreme sadness to extreme happiness.
+
+@@b1721 p
+The Overlay combination is the checking part of the movie. When the
+market shows one of the Goodman setups, a Setup is set up to go. The
+combination shows the forces from different parts of the movie that say:
+yes, this setup can go. Each scene tells us the change in passion, up or
+down.
+
+@@b1722 p
+In brief, each Overlay is one scene; the combination is the full
+movie, from the start to the current price. We aim to find the
+combination that fits each market. Every market is unique. There is no
+duplicate movie.
+
+@@b1723 h4
+Justice versus expectation
+
+@@b1724 p
+The Overlay combination aims to do justice to each buyer and seller
+according to their ability to give me Y &gt; X. "There is not enough
+overlay" (Goodman). This means we still cannot do justice to buyers or
+sellers: we cannot say whether they can make the setup go.
+
+@@b1725 p
+Every trader wants to expect, or guess, that a trade will be
+profitable. Very soon they find themselves in conflict with their own
+feelings. A guess is not strong evidence that can give us confidence.
+Imagine a court of law judging someone by a guess.
+
+@@b1726 h4
+Proactive reading
+
+@@b1727 p
+In every scene the market shows us how it works with the Overlay,
+from smaller Overlays in the lower time frame to the larger scene in the
+higher time frame. Read the Overlay by using Propagation. To do justice
+to an Overlay, we must look at how the Overlays are interconnected.
+
+@@b1728 h3
+A weak combination:
+the daily and the 4-hour
+
+@@b1729 p
+Suppose we have a 6&amp;6 in a 4-hour chart and want to trade it
+against the daily chart, where we have a Matrix Overlay.
+
+@@b1731 p
+Figure: A possible 4-hour 6&amp;6 against a daily Matrix Overlay back
+at its origin point without a 3-C.
+
+@@b1732 p
+Does this Overlay promise me Y &gt; 2X? Let us do justice to it. On
+the daily chart, ask: is there any cancellation, a 3-C? If not, we
+cannot assume this point is the end. There are still sellers.
+
+@@b1733 p
+So I will not take this 6&amp;6. The setup can fail, because the
+market has more energy to break down than to move up. Some will say,
+"Double bottom, let's buy!" But bigger investors will dump the market by
+increasing their selling force.
+
+@@b1734 p
+Here is an example. The higher time frame (the daily in my
+original):
+
+@@b1736 p
+Figure: The higher time frame has fallen back to its prior low with
+no 3-C, so sellers are still in control and a bounce here is weak. Real
+data: EURJPY, 1-hour, 18 Feb – 2 Mar 2022. (The original chart was
+USDZAR daily, late November 2020; this one shows the same
+structure.)
+
+@@b1737 p
+The lower time frame (the 4-hour in my original):
+
+@@b1739 p
+Figure: On the lower time frame a base forms on the low line and
+lifts, which looks like a possible buy. Real data: EURJPY, 15-minute,
+1–2 Mar 2022. (The original chart was USDZAR 4-hour, late November 2020;
+this one shows the same structure.)
+
+@@b1740 p
+Can this combination give us a good Line? I do not think so. It shows
+the market is too weak for buyers to carry it up.
+
+@@b1742 p
+Figure: The rally from the base was sold and price broke to new lows:
+a weak combination with no Overlay behind it. Real data: EURJPY, 1-hour,
+28 Feb – 4 Mar 2022. (The original chart was USDZAR 4-hour, late
+November 2020; this one shows the same structure.)
+
+@@b1743 p
+Then the market moved to new lows. Why? Very simply, the market did
+not have enough Overlay. The bigger investors on the daily chart dumped
+every up move; they saw the 4-hour rally as an opportunity to sell more.
+This example shows how a bad combination increases the risk.
+

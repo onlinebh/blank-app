@@ -1,0 +1,256 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Following the Propagation (2023) -> Trading the Line (2021)
+
+@@b2453 h3
+Summary
+
+@@b2454 blockquote
+<p>1. Define the Goodman point on the chart.</p>
+<p>2. Follow the direction of the Propagation on the lower time
+frame.</p>
+
+@@b2455 h2
+Practice on the 3-C
+Principle (2023)
+
+@@b2456 p
+In this practice I apply the 3-C principle to a real market, White
+Sugar on the weekly chart. I take the count of a 6&amp;6 as a box and
+stack copies of it upward, to see where the up Propagation reacts and
+where it finally halts.
+
+@@b2457 h3
+Price as the Meeting of
+Desires
+
+@@b2458 p
+At any price level there are many people who want to buy or sell. The
+chart shows, as waves, their desires to fulfil their objectives. As in
+life, every product has a price that depends on how much demand there is
+and how much the supply costs. The price of a product represents the
+current situation of BOTH demand and supply.
+
+@@b2459 p
+There are times when the activity of demand increases, such as
+holidays. There are times when the activity of supply decreases, such as
+war. This is always reflected in the price level.
+
+@@b2460 p
+I see the 3-C principle as a description of the situation of buying
+and selling, together with their activity.
+
+@@b2461 h3
+Practice 1: White Sugar
+
+@@b2462 h4
+Building the boxes
+
+@@b2464 p
+Figure: The base count taken as a box and duplicated upward as levels
+C1 to C4. Real data: AUDUSD, 2-hour, 14 Feb – 4 Mar 2022. (The original
+chart was White Sugar weekly, 2018–2023, with levels C1 to C5 from a
+6&amp;6 count; this one shows the same structure.)
+
+@@b2465 p
+In Sugar we have a 6&amp;6 Setup with a nice Jumbo (not shown on this
+chart). I take the count of the 6&amp;6 as a box. Then I duplicate the
+same box many times, until the upward Propagation halts inside one of
+these boxes. This gives the levels C1, C2, C3, C4 and C5.
+
+@@b2467 p
+Figure: The 6&amp;6 count taken as a box and stacked upward as the
+levels C1 to C5.
+
+@@b2468 h4
+C1 and C2
+
+@@b2470 p
+Figure: The first up Propagation — EP-FPS above C1, the SS below, and
+EP-SPS above C2. Real data: AUDUSD, 2-hour, 14 Feb – 4 Mar 2022. (The
+original chart was White Sugar weekly, 2018–2023; this one shows the
+same structure.)
+
+@@b2471 p
+Here the principle of Propagation plays an important role. At C1
+price makes the EP of the FPS. Then it reacts and develops the EP of the
+SS. Watch again how C1 plays an important role in building the SS, which
+ends with the EP of the SPS exactly at the C2 price level.
+
+@@b2473 p
+Figure: Propagation from C2 — EP-FPS, then the EP-SS falling back to
+the TP of the first FPS, near C1. Real data: AUDUSD, 2-hour, 14 Feb – 4
+Mar 2022. (The original chart was White Sugar weekly, 2018–2023; this
+one shows the same structure.)
+
+@@b2474 p
+At C2 price makes the EP of the FPS (Propagation 1). The EP of the SS
+ends at the TP of the FPS, above C1. I apply the 3-C principle as a
+projection for the SPS.
+
+@@b2475 h4
+C3: Under and time hash
+
+@@b2477 p
+Figure: At C3 price moves into a trading range — a time hash. Real
+data: AUDUSD, 2-hour, 14 Feb – 4 Mar 2022. (The original chart was White
+Sugar weekly, 2018–2023, where the range formed exactly at the Under;
+this one shows the same structure.)
+
+@@b2478 p
+When price hits C3, exactly at the Under, it moves into a trading
+range — a time hash — without any reverse Propagation. It can also be
+read as a minor Propagation (the green lines), and we can take a count
+from it.
+
+@@b2479 h4
+C4 and C5: The buying climax
+
+@@b2481 p
+Figure: A breakaway count out of the range, ending with EP-SPS at C4
+on high volume. Real data: AUDUSD, 2-hour, 14 Feb – 4 Mar 2022. (The
+original chart was White Sugar weekly, 2018–2023, running from C4 to C5;
+this one shows the same structure one level lower.)
+
+@@b2482 blockquote
+<p>1. After the time hash, price hits C4 with a strong close-up bar.
+There is no hesitation, and things move very fast until price is very
+near C5.</p>
+<p>2. I add a breakaway count and a minor Propagation count to support
+the picture.</p>
+<p>3. The development ends with the EP of the SPS on high volume, which
+agrees with the breakaway count. This is a buying climax.</p>
+<p>4. Buyers are unable to break the C5 level. This is the EP of the SPS
+of the Propagation, so we expect a large reaction for the EP of the
+SS.</p>
+<p>5. Watch for the sign of a break down through the C4 level, with a
+down bar closing on its low.</p>
+
+@@b2483 h4
+Conclusion
+
+@@b2484 p
+I conclude that the duplication of counts, as in this practice, stays
+valid for a long time — here from 2019 to 2023, and it is still
+active.
+
+@@b2485 h2
+Is That a Setup? (2023)
+
+@@b2486 p
+On a 5-minute chart I saw a nice Goldilocks. But is it a trade
+candidate? In this short paper I test that question the strict way, by
+placing the pattern inside its 1-2-3 on every time frame before I
+decide.
+
+@@b2488 p
+Figure: A 5-minute chart of the kind where an attractive Goldilocks
+first catches the eye. Real data: NZDUSD, 5-minute, 3–4 March 2022. (The
+original chart was GBPJPY M5, 11–15 August 2023; this one shows the same
+structure.)
+
+@@b2489 h3
+The Rule: A Setup Lives
+Inside a 1-2-3
+
+@@b2490 p
+Everything in Goodman is based on the 1-2-3. So I must analyze any
+Setup strictly within a 1-2-3. The Setup in Goodman reads simply: there
+is a 1, and we trade the 2 for the 3.
+
+@@b2492 p
+Figure: The Goodman Setup: the 1 is complete, trade the 2, target the
+3.
+
+@@b2493 h3
+The Daily Picture: Inside the
+SPS
+
+@@b2494 p
+On the daily chart (redrawn here on 4-hour data), the current price
+sits within the SPS of the last return. The SPS itself is made of a
+1-2-3.
+
+@@b2496 p
+Figure: The Matrix Overlay level and the last return: price climbs
+back above the MO and is still inside the SPS. Real data: NZDUSD,
+4-hour, 14 Feb – 4 Mar 2022. (The original chart was GBPJPY daily,
+May–August 2023; this one shows the same structure.)
+
+@@b2497 h3
+The 4-Hour
+Picture: Equilibrium and the Time-hash
+
+@@b2498 p
+On the 4-hour (redrawn here on 2-hour data), after the 3-C the SPS
+went into equilibrium for several days, from 10 August to 14 August in
+my original chart. On 14 August at 08:00 it broke the time-hash into
+Line mode. Then it hesitated over the last few bars as inside bars,
+forming another time-hash.
+
+@@b2499 p
+So many time-hashes made me doubt the short. If there were real panic
+in the market, I would expect wide-spread bars that increase the fear. I
+did not see them.
+
+@@b2501 p
+Figure: The MO line, the SPS and the time hash where price paused
+before breaking into Line mode. Real data: AUDUSD, 2-hour, 22 Feb – 4
+Mar 2022. (The original chart was GBPJPY H4, 28 July – 15 August 2023;
+this one shows the same structure.)
+
+@@b2502 h3
+The 1-Hour Picture: How It
+Propagated
+
+@@b2503 p
+Next I analyzed the way price propagated. It was a series of higher
+bottoms. Then it hesitated after exceeding the last top.
+
+@@b2505 p
+Figure: The propagation as higher bottoms, the range lines, and the
+hesitation above the last top. Real data: AUDUSD, 1-hour, 1–4 March
+2022. (The original chart was GBPJPY H1, 9–15 August 2023; this one
+shows the same structure.)
+
+@@b2506 h3
+Back to 5 Minutes: The
+Knot Is Solved
+
+@@b2507 p
+Then price moved into the 3S, as a kind of equilibrium. In the last
+few bars the sellers withdrew from the market and buyers were willing to
+buy. The Knot was solved, so it was time to enter, playing for the
+SPS.
+
+@@b2509 p
+Figure: The TP and the EP-SS, where the 3S equilibrium forms after
+the move. Real data: AUDUSD, 5-minute, 4 March 2022. (The original chart
+was GBPJPY M5, 14–15 August 2023; this one shows the same
+structure.)
+
+@@b2511 p
+Figure: The same 5-minute chart later, with the Knot solved and price
+pushing up out of the equilibrium to a new high. Real data: AUDUSD,
+5-minute, 4 March 2022. (The original chart was GBPJPY M5, 14–15 August
+2023; this one shows the same structure.)
+
+@@b2512 p
+Happy trade.
+
+@@b2513 h1
+Rung 5 · Acting: How Do
+I Manage the Trade?
+
+@@b2514 p
+<em>From the entry to the exit: protecting the trade, then letting it
+run.</em>
+
+@@b2515 h2
+Trading the Line (2021)
+
+@@b2516 p
+This paper is about Trading The Line (TTL). I want to show why the
+current moment is all a trader really owns, and how to manage a trade
+from one moment to the next. Then I walk through a real trade, raising
+the stop with every new propagation. I first traded it on EURUSD; the
+charts here redraw the same structure on real AUDUSD 1-hour data.
+

@@ -1,0 +1,246 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Volume Today: When Everyone Agrees (2025–2026) -> The 6&6 Under the Microscope (2021)
+
+@@b2185 h3
+How the three papers fit
+together
+
+@@b2186 ul
+<li><p><strong>Volume (2021):</strong> volume is read inside the matrix,
+never alone.</p></li>
+<li><p><strong>Qualifying Trades by Using Volume (2023):</strong> price
+makes volume; a trade is qualified by the 3-C reference, the Matrix
+Overlay at the same point, and an Inward reading of the volume
+flow.</p></li>
+<li><p><strong>Volume today (2025–2026):</strong> volume is sentiment.
+It is accumulated along the move, combined across feeds, and read at its
+extreme, against the crowd.</p></li>
+
+@@b2187 p
+The earlier rules still hold. A consensus extreme is not a trade by
+itself; it is a warning that one side is finished. I still want the
+overlay, the 3-C and the setup. What changed is where I look first. I no
+longer ask whether volume is high. I ask whether everyone is on the same
+side.
+
+@@b2188 h3
+The rule
+
+@@b2189 p
+When everyone is selling, it means buy. When everyone is buying, it
+means sell. The crowd is never wrong about the move that has already
+happened. It is wrong about the next one.
+
+@@b2190 h2
+The 6&amp;6 Under the
+Microscope (2021)
+
+@@b2191 p
+There are several types of 6&amp;6 Setup, and each one affects the
+profit we can make. In reality some of them will produce a loss, and it
+is hard to know which type gives the maximum profit. In this paper I try
+to find the way to the most profitable type.
+
+@@b2192 h3
+Method and Logical Model
+
+@@b2193 p
+A target this large needs a strong diagnostic tool. I use Game
+Theory, and especially the Nash equilibrium, to examine the 6&amp;6
+types.
+
+@@b2194 p
+My logical model is simple. Some cases produce a successful 6&amp;6
+and others produce a failed one. Our aim is to find the cause that gives
+a success instead of a failure. So I study the cases and their causes,
+and ask why each one succeeds or fails.
+
+@@b2195 h3
+Mass Behavior and
+Constant Conjunction
+
+@@b2196 p
+The 6&amp;6 pattern is just a reflection of mass behavior. Every case
+of the 6&amp;6 reflects a different type of mass behavior. We do not
+need to know the "why" behind that behavior. As Hume put it:
+
+@@b2197 blockquote
+<p>"Reason alone cannot be a motive to the will, but rather is the
+'slave of the passions'."</p>
+<p>"We never actually perceive that one event causes another but only
+experience the 'constant conjunction' of events."</p>
+
+@@b2198 p
+By experiencing the constant conjunction of events behind mass
+behavior, we can induce a logical response. That logical response can be
+framed as a Nash equilibrium.
+
+@@b2199 h3
+Why the Nash Equilibrium
+Matters
+
+@@b2200 blockquote
+<p>"However, one doesn't need to be a wayward genius to understand the
+idea of a Nash equilibrium. We have seen that the payoffs in a game are
+chosen to make it tautological that rational players will seek to
+maximize their average payoff. This would be easy if players knew what
+strategies their opponents were going to choose." — Ken Binmore</p>
+
+@@b2201 p
+In a Nash equilibrium, rational players seek to maximize their
+profit. A professional trader who makes a living from trading wants
+exactly that. He looks for a great target and a great movement.
+
+@@b2202 p
+The evolutionary reading of this is very clear at the Intersection.
+When the market breaks out of the Intersection, the old losers try to
+maximize their profit. They take trades in the direction of the
+breakout, which generates more movement.
+
+@@b2203 h4
+Supply-demand
+equilibrium versus Nash equilibrium
+
+@@b2204 p
+The old supply-demand theory says the market always seeks an
+equilibrium value between supply and demand. Buyers and sellers each
+look for the equilibrium price, so the future price can be found from
+that balance. That is what university teaches about the market:
+
+@@b2205 blockquote
+<p>"Why is the equilibrium price the best deal available for both buyers
+and sellers? The equilibrium price reflects that the highest price
+consumers are willing to pay for that amount of the good or service and
+is just equal to the minimum price that suppliers require for delivering
+it." — McConnell, Brue and Flynn, Introduction to Microeconomic
+Principles, Chapter 3</p>
+
+@@b2206 p
+But the equilibrium price is not the best deal. In my opinion, the
+market follows the Nash equilibrium for a simple reason: it is a very
+competitive environment. In any competitive game, the Nash equilibrium
+is the best choice for all players.
+
+@@b2207 h3
+The Components of the
+Market Microscope
+
+@@b2208 h4
+Trend, maximum profit and
+climax
+
+@@b2209 p
+Old market wisdom says the trend is "the path of least resistance",
+and an experienced trader follows it: "the trend is your friend". It is
+your friend because it puts the maximum gain in your pocket. But traders
+follow it only until they take their maximum profit — the Nash
+equilibrium.
+
+@@b2210 p
+That is why the market always looks for oversold and overbought
+conditions:
+
+@@b2211 ul
+<li><p><strong>Oversold:</strong> the maximum point sellers can
+achieve.</p></li>
+<li><p><strong>Overbought:</strong> the maximum point buyers can
+achieve.</p></li>
+
+@@b2212 p
+Adding this to my Energy model creates a new concept: each swing
+measures the pulling force that drives it to its maximum. The impression
+forces carry a lot of passion and emotion, pushed by the pulling force
+toward maximum gain. The market is always looking for the Nash
+equilibrium price.
+
+@@b2213 p
+What happens when the market reaches its Nash equilibrium (oversold
+or overbought)? It retreats and corrects. The energy inside the pulling
+force drives the impression force until it reaches maximum gain, and
+then the energy is at climax.
+
+@@b2214 h4
+The battery model
+
+@@b2215 p
+It is exactly like a battery. The market charges the battery, and the
+battery carries the trend until it runs out. When there is no battery
+left, the trend shuts down and the next phase is correction — just like
+a smartphone going from 100% to 0% and shutting down.
+
+@@b2216 p
+This is relative energy. When the swing reaches its Nash equilibrium,
+traders have their maximum profit at that price. They take it, and that
+is how a climax forms. Traders are happy, their passion is satisfied,
+and the market moves into its correction phase.
+
+@@b2217 p
+Every swing has a maximum. By studying the old swings, we can measure
+how energy responded in each one. Some phones run three days on one
+charge, others seven. The battery's response depends on how the phone is
+used and on the quality of the battery.
+
+@@b2218 p
+In the same way, every swing, up or down, shows its own energy and
+response:
+
+@@b2219 ul
+<li><p>One swing moves 100 pips and its battery is at 0%.</p></li>
+<li><p>Another swing moves 1,000 pips and its battery is still at
+50%.</p></li>
+
+@@b2220 p
+By studying the quality of each swing and its response up to its
+maximum, we can see on which side — up or down — the pulling and
+impression forces are greater. It is like a simple test of two phones to
+see which battery has more power.
+
+@@b2222 p
+Figure: The battery model of a swing: energy runs down to the climax.
+A 100-pip swing at 0% against a 1,000-pip swing still at 50%.
+
+@@b2223 h4
+Shifting energy
+
+@@b2224 p
+How do we know the battery is finished in a swing? It is not
+difficult. A phone's battery is finished when it cannot run an app, or
+the app shuts down and cannot restart. In a swing, we compare it with
+the old pulling force when it worked perfectly. If the difference is
+large, there is no relative energy left.
+
+@@b2225 p
+I call this <strong>shifting energy</strong> in the swing. By
+watching shifting energy, we can see which side has more pulling power
+from the impression force to reach its maximum.
+
+@@b2226 h4
+How shifting energy
+affects mass behavior
+
+@@b2227 blockquote
+<p>1. <strong>It changes mood and passion.</strong> When a phone battery
+dies, the owner feels torn between sadness and anger. That energy pulls
+him into action — he goes to find a charger.</p>
+<p>2. <strong>It shows the path of least resistance.</strong> We see the
+shift by comparing the maximum of each up and down swing. The side with
+the greater pulling power and passion is the path of least resistance.
+No one can fight real passion ("slave of the passions").</p>
+<p>3. <strong>Passion shows in the response.</strong> Comparing the
+upswings and downswings shows their response, which measures pulling
+power and passion. As Steve Jobs said: "People don't know what they want
+until you show it to them." When the market shows its offers, we see the
+mass response to them.</p>
+<p>4. <strong>The response is everything.</strong> Jack has $100 in his
+pocket. A computer shop tries to sell him a $1,000 laptop, and he cannot
+pay. A hundred meters on, a real-estate salesman wants to sell him a
+$200,000 house. Can he sell it? Of course not — Jack could not even buy
+the laptop. Anything can happen; maybe Jack gets a loan, as in 2008. But
+the response tells us what to expect. This is "constant conjunction" —
+induction.</p>
+
+@@b2228 p
+To summarize: the market is a salesman, and the mass shows its
+passion for each item. Professional traders study that passion and
+response, then trade with it — up for a positive mood, down for a
+negative mood.
+

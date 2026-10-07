@@ -1,0 +1,269 @@
+##CTX Part: Rung 6 · Measuring: How Much Do I Risk? | Section: The Error-Proof Trader: Poka-Yoke in Trading (2026) -> 17. The fifty-dollar investment
+
+@@b2758 h3
+Poka-Yoke: make the error
+impossible
+
+@@b2759 p
+Poka-Yoke is a Japanese engineering principle. It means
+mistake-proofing: a mechanism in a process that prevents, corrects, or
+draws attention to a human error as it happens. A plug that fits only
+one way is Poka-Yoke. Nobody needs discipline to plug it in
+correctly.
+
+@@b2760 p
+On 2026-09-17 I told Michael I had used the idea for years and
+finally turned it into a trading expert for MetaTrader 5:
+
+@@b2761 blockquote
+<p>"I converted it into a trading expert that almost guarantees what
+most traders fail to achieve: letting me trade easily, focused only on
+the setup, with less thinking on "money"."</p>
+
+@@b2762 p
+The idea behind it is that most traders do not fail from poor
+analysis. They fail from one disastrous event: a trade without a stop,
+revenge after a loss, overconfidence after a streak, doubling down to
+recover. So the expert does not touch the analysis. It guards the
+failure modes.
+
+@@b2764 p
+Figure: The twelve protection layers of the Poka-Yoke Guardian, each
+one a guard against a named failure mode, grouped by where the error
+comes from: size, mind, method, market and review.
+
+@@b2765 h3
+The twelve layers
+
+@@b2766 p
+The layers fall into five groups.
+
+@@b2767 p
+<strong>Size.</strong> Layer 1 calculates the lot from the real stop
+distance, which I set by dragging a line on the chart, so there is no
+guessing. Layer 2 fixes the maximum drawdown for a 30-trade cycle and
+locks it until the campaign ends. This is my Thirty Souls rule, made
+into a lock. Layer 3 watches floating equity and closes everything if
+the daily limit is breached. Layer 4 is anti-Martingale: after losing
+days the size steps down, 100% to 75% to 50% to 25% and then a full
+stop, and it returns to 100% after a winning day. Layer 8 caps the total
+risk open across all trades.
+
+@@b2768 p
+<strong>Mind.</strong> Layer 5 is a cooling-off period: after a loss,
+no new trade on the same pair for a set time. Revenge trading simply
+cannot happen. Layer 7 will not execute a trade until I write a clear
+reason and record my state: calm, excited, frustrated or tired. Layer 11
+asks for extra confirmation after a series of wins, because
+overconfidence is the 9 on my emotion scale.
+
+@@b2769 p
+<strong>Method.</strong> Layer 6 is the Propagation Lens in five
+stages: Propagation, Intersection, 3-C Count, Overlays, Dagger. The
+stages cannot be skipped, and cancelling one invalidates all the stages
+after it. This is the 1-2-3 of my reading, enforced.
+
+@@b2770 p
+<strong>Market.</strong> Layer 9 is the Correlated Exposure Barrier,
+which stops two trades on the same currency. Layer 10 filters
+high-impact news before and after the event.
+
+@@b2771 p
+<strong>Review.</strong> Layer 12 calculates the Golden Ratios every
+10 and 30 trades and keeps a permanent log, with chart snapshots at
+every entry and exit.
+
+@@b2772 p
+Every layer follows one principle: <strong>"When in doubt,
+block—don't allow."</strong> If the news filter cannot verify the
+calendar, it stops trading rather than assuming it is safe.
+
+@@b2773 h3
+What it cannot do
+
+@@b2774 p
+I was honest with Michael about the limits. "The system
+<strong>manages</strong> your analytical edge; it does not create one."
+If the analysis is weak, it slows the bleeding but does not stop it.
+Fixed size grows slower than compounding, and that is a choice, not a
+flaw. And it depends on my honesty when I type my reason and my state.
+It stops automatic rule-breaking, not deliberate lies.
+
+@@b2775 p
+I wrote that it is "good for beginners and those who have lack
+discipline." I would add: it is good for experienced traders on their
+bad days. Fifty years did not make me immune to a 9 on the scale.
+
+@@b2776 h3
+What I keep
+
+@@b2777 ul
+<li><p>Market risk is accepted; operations risk is removed.</p></li>
+<li><p>Find the causes with a fishbone before building the
+guard.</p></li>
+<li><p>Ask how the setup can fail before asking what it can
+make.</p></li>
+<li><p>Rate the mind. The middle of the scale is where good trades
+live.</p></li>
+<li><p>Do not rely on willpower under pressure. Build the guard once,
+and let it hold.</p></li>
+
+@@b2778 h1
+Rung 7 · Doing
+Right: How Do We Treat Each Other?
+
+@@b2779 p
+<em>Charlie believed what you do to others returns to you with
+interest. Six chapters, including Michael's favorite.</em>
+
+@@b2780 h2
+15. The oboe
+
+@@b2781 p
+<em>A story Michael calls long, with a short lesson.</em>
+
+@@b2782 p
+Walter was a Vietnam veteran in poor shape. Michael believes he had
+been close to a landmine when it exploded. He had many mental problems
+and was slow to think and to move. He had once been considered a top
+oboe scholarship prospect, but chose the Army because his father had
+been a military man.
+
+@@b2783 p
+Charlie suggested Walter take up the oboe again, mostly as therapy.
+Double-reed instruments are not cheap, so Charlie gave him about two
+hundred dollars to find a decent used one.
+
+@@b2784 p
+A few days later Walter came back with an oboe, and for him, because
+his emotions were very muted, he was excited. He had answered a
+newspaper ad from an old woman who lived alone. The oboe was a
+professional-quality instrument worth several thousand dollars. His plan
+was to sell it, buy a cheaper one and pocket two or three thousand.
+
+@@b2785 p
+Charlie questioned him. The woman was very poor. Her husband had been
+a professional musician, and she clearly suffered from some form of
+dementia. Charlie explained that Walter could sell the oboe, buy an
+inexpensive one, and take the rest of the money back to her. "Oh, no,
+Charlie! I can do a lot with the money."
+
+@@b2786 p
+Charlie told him he would never take such money. "The longer you
+wait, the worse things will get, Walter. At some point the universe has
+to re-establish a balance by punishing you. And it charges interest.
+Something might happen to you years from now and you'll have no idea
+why, but it will be for taking advantage of an old woman years before.
+There are infinite connections among things in this world and we should
+not disturb them if we can avoid it."
+
+@@b2787 p
+Walter did not listen. He sold the oboe, bought a cheap one and kept
+the money. In the next few weeks, as Michael remembers: the cheap oboe
+had a crack in the body and was worthless; he got a flat tire on the
+highway; the doctor he liked at the military hospital moved away and the
+new doctor would not give him a medicine he needed; and a pipe broke and
+flooded his small apartment. Each time something happened, Charlie said,
+"Take the money back to the old woman, Walter."
+
+@@b2788 p
+Finally Walter decided to return the money, but admitted he had spent
+some. Charlie gave him the difference. He took the money back. On the
+way home he stopped for something to eat and met a really nice
+girlfriend, who helped him with the things he found difficult.
+
+@@b2789 p
+Charlie reminded him that if he had never returned it, it would have
+been a black cloud over his life, and some day it would rain very hard
+on him.
+
+@@b2790 p
+<strong>What it means.</strong> A wrong you leave unrepaired grows.
+Charlie's rule was practical: pay it back early, while it is small.
+
+@@b2791 p
+<strong>Try this.</strong> Think of one thing you owe someone, a
+reply, an apology, a few dollars. Settle it today.
+
+@@b2792 h2
+16. Never think about
+getting paid back
+
+@@b2793 p
+<em>The Corvair that went to a young mother.</em>
+
+@@b2794 p
+One morning Charlie called Michael and asked for a lift to the bus
+station. Michael joked: "They finally caught up with you and you have to
+leave town!" Charlie laughed. He only wanted to take the bus down to
+Eads.
+
+@@b2795 p
+Two days later he called again. When Michael arrived, Charlie had
+brought another Corvair to Denver and was washing it. "What's the deal?"
+"I have a gal who needs a car to go to a new job and take her baby to
+day care, so I'm giving her this car."
+
+@@b2796 p
+Michael said, "That's nice of you, Charlie! You'll get paid back for
+the good deed."
+
+@@b2797 p
+"Dad, when you do something for someone you NEVER think about getting
+paid back. You do it because it is the right thing to do. Thinking you
+will be rewarded spoils the gift!"
+
+@@b2798 p
+<strong>What it means.</strong> A gift with a hidden invoice is a
+trade. Charlie wanted to be clear about which one he was making.
+
+@@b2799 p
+<strong>Try this.</strong> Do one favor this week that no one will
+ever know about.
+
+@@b2800 h2
+17. The fifty-dollar
+investment
+
+@@b2801 p
+<em>Charlie at the dog track, explained like Socrates.</em>
+
+@@b2802 p
+Charlie liked to play the dog races for relaxation. Sometimes he and
+Michael went every night for a week or two. During one of those
+stretches a younger man at the track befriended Charlie. Michael did not
+like the man but said nothing. After several nights the man asked
+Charlie to lend him $50, which he would pay back a little at a time
+whenever they met.
+
+@@b2803 p
+Michael was surprised to see Charlie hand it over. It was fairly
+clear that the man had been setting Charlie up. Of course they never saw
+him again.
+
+@@b2804 p
+"Didn't you know he was just setting you up?" Michael asked.
+
+@@b2805 p
+"Of course I did. He invested a lot of energy over several days to
+get that job done. It was well planned. Because he expended so much
+energy, the misdeed of stealing $50 will stick to him like glue until he
+does some act to undo it. It's different than if he just picked
+somebody's pocket on the spur of the moment. He won't be able to shake
+loose of it. Either he will die with it or it will turn his life around
+eventually. So I invested $50 in him."
+
+@@b2806 p
+Michael adds that after fifty years he cannot give the words
+verbatim, but they are close.
+
+@@b2807 p
+<strong>What it means.</strong> Charlie treated a theft as an
+investment in another person's conscience. It cost him $50 and did not
+cost him his peace.
+
+@@b2808 p
+<strong>Try this.</strong> The next time someone wrongs you in a
+small way, ask what the wrong will cost <em>them</em> before you ask
+what it cost you.
+

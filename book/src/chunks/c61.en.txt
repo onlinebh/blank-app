@@ -1,0 +1,207 @@
+##CTX Part: Rung 10 · The System: How Does It All Move Together? | Section: Rung 10 · The System: How Does It All Move Together? -> Truth: The Goodmanisms
+
+@@b3645 h3
+The tipping point
+
+@@b3646 p
+Which loop runs the account? Most days the balancing loop. But
+systems have points where a small push changes everything. Catastrophe
+theory studies these jumps. Michael and his old partner Jim had worked
+with it, and from 2024 it kept coming back in our letters.
+
+@@b3647 p
+On 2024-12-13 I wrote:
+
+@@b3648 blockquote
+<p>"Catastrophe ... Is a great model to describe the market . I think
+all other Thoerys just a description. Looks great only in books."</p>
+
+@@b3649 p
+On 2025-05-23 I tried to picture it as two layers, a heavy stone
+resting on an egg, and then I connected it to a Goodmanism:
+
+@@b3650 blockquote
+<p>"A stable state is exactly part of the nature of the system , while
+the catastrophe is outside of the system , destroying the system ... I
+think Charlie when he says , a small profit is a loss . to prevent a
+catastrophe."</p>
+
+@@b3651 p
+The clearest version came on 2025-11-06, in a letter about the
+smoothie and tracking:
+
+@@b3652 blockquote
+<p>"3c is a point where market conditions are between hope/fear . like a
+saddle point, just a little from the curve everything will change.
+followed by a propagation being out of equilibrium point . newborn trend
+."</p>
+
+@@b3653 p
+A saddle point is a place that looks still from one direction and
+falls away from another. The 3C is that place in the market: buyers and
+sellers in equilibrium, but "will not stay forever." The trader has the
+same point inside him. After a run of wins he sits on the saddle between
+confidence and greed. One step one way and the balancing loop holds. One
+step the other way and the reinforcing loop takes over. The rules of
+Rung 6 exist to be obeyed at exactly that moment, when they feel least
+necessary.
+
+@@b3654 h3
+Robustness
+
+@@b3655 p
+A system that works only in good times is not a system. On 2025-02-17
+I wrote to Michael from my years as a programmer:
+
+@@b3656 blockquote
+<p>"I think the most important feature in any system is Robustness .
+When I programming this factor is most important , how my codes stand
+very well against the errors / Bugs ! ... The system simply is an
+automatic rule or protocol , that organizes the effort that put in the
+input to minimum (Simple and fast as possible) at same time increase
+from the productively (output)."</p>
+
+@@b3657 p
+In the same letter: "What happens to a trader , looks for perfection
+, insted we need to think in Systematic approach , make little changes
+(enhance) every time . never change the core ."
+
+@@b3658 p
+Robustness is what the balancing loop buys. On 2025-04-20 I wrote
+that freedom "is a result of embrace the risk . With the vision of long
+run , robustness under difficult time. As well the better times." The
+core stays the same, the 1-2-3, the thirty souls, the review. The small
+things improve. The system bends and does not break.
+
+@@b3659 h3
+The ladder is a circle
+
+@@b3660 p
+When I put the ten rungs on paper as a loop, the last one led back to
+the first. Learning changes the trader, and the changed trader is a new
+Being who sees the next chart with new eyes. On 2024-05-06 I wrote, "I
+did a feedback loop ." and found it better to add to a winning trade in
+re-propagation than to look for a new one. That small change came out of
+the loop and went back into it.
+
+@@b3662 p
+Figure: The ladder is a circle. The ten rungs read clockwise; the
+System feeds back into Being.
+
+@@b3663 p
+Charlie said everything is a 1-2-3. A trader is one too. A beginning,
+a tipping point, an end, and the end is the beginning of the next.
+
+@@b3664 h1
+Truth: The Goodmanisms
+
+@@b3665 p
+Michael wrote to me on 2022-09-05: "I can't think of a single
+Goodmanism that isn't still true!" Here they are, every saying of
+Charlie's that reached me in Michael's letters, exactly as he wrote
+them, with the date of the letter. Where Michael told the same saying
+more than once, I give the first date. Some came as Charlie's own words;
+some Michael gave in his own words, and I mark those as reported.
+
+@@b3666 h3
+1 · Being
+
+@@b3667 ul
+<li><p>"Dad, you can figure the dogs but you can't figure the human
+race.!" (2022-09-20; again 2023-05-18 and 2023-11-14)</p></li>
+<li><p>"im ok at predicting markets but i can't predict people"
+(2023-06-01) <em>His answer when asked why he did not manage other
+people's money.</em></p></li>
+<li><p>"How do you know he's the crazy one? Perhaps we're all crazy and
+he's the only sane one?" "Your personal perspective determines your
+judgement and how you see things." (2022-10-07)</p></li>
+<li><p>"it is ok to trust our instincts we need to use them because the
+human brain is not fully developed yet" (2024-10-28)</p></li>
+<li><p>"People often act like they are going to live forever..."
+(2025-09-11)</p></li>
+<li><p>"When we visit someone else's house we become like children."
+(2025-11-21)</p></li>
+<li><p>"Dad, close only counts in horseshoes. In life you are either
+right or wrong. ... We must do our best but know that fate is always in
+charge of our life." (2026-09-14) <em>Said after a raccoon was killed on
+the road in front of them.</em></p></li>
+
+@@b3668 h3
+2 · Knowing
+
+@@b3669 ul
+<li><p>"Information is plentiful and cheap, knowledge is less common and
+valuable - but wisdom is rare and priceless." (2020-09-09)</p></li>
+<li><p>Reported: "information is plentiful and almost worthless by
+itself ... knowledge is when information is skillfully
+combined...valuable but also not rare...BUT when someone takes knowledge
+from two different areas and combines...is Wisdom and very rare and very
+valuable." (2026-07-09)</p></li>
+<li><p>"Dad, I realized he had to find it on his own. You couldn't tell
+it to him, that was a waste of time!" ... "That's why I teach you by
+example rather than a book explanation like that thing you wrote!"
+(2024-08-21)</p></li>
+<li><p>"Dad, if you walk around the block enough times, you'll see in
+everybody's window at least once." (2024-06-15)</p></li>
+<li><p>"Dad, these people are here looking for a free lunch and you're
+telling them there is no such thing." (2021-04-26; told again many
+times)</p></li>
+<li><p>"Dad, never ask a question if 1) You already know the answer or
+2) You don't want to know the answer!" (2025-03-29)</p></li>
+<li><p>"If you can't find water in a lake how do you expect to find it
+in a bathtub?" (2025-06-21) <em>To a young trader who planned to study
+only two markets.</em></p></li>
+<li><p>"I don't know. I'd listen to everything he says about the
+markets. his perspective is different than anyone else here. That could
+be golden. He could see something we don't see." (2024-05-29)</p></li>
+<li><p>"he is very special person. i would like to know him better." ...
+"very rare to get so old not learn, keep making same mistake over and
+over and i would like to understand" (2023-05-31) <em>About an old man
+at Bache who lost on almost every news trade.</em></p></li>
+<li><p>"i'd much rather know what happened to the boy who missed the
+contest!" (2026-09-27)</p></li>
+<li><p>"well yeah, dad, but why did you do all that?" (2025-12-30)
+<em>On Michael's 1979 written summary of GWT; Charlie saw the whole at
+once.</em></p></li>
+
+@@b3670 h3
+3 · Seeing
+
+@@b3671 ul
+<li><p>"Remember, Dad, prices can only go UP or DOWN."
+(2021-09-10)</p></li>
+<li><p>"everything is 1-2-3" (2024-11-26)</p></li>
+<li><p>Reported: "Charlie said we could never really 'see' the market
+because it is in a different dimension, apart from us."
+(2021-10-02)</p></li>
+<li><p>Reported: "Charlie said the market is separate from us. It often
+seems random to us but it isn't. Our hope is to somehow touch it briefly
+from time to time, make a little money from it." (2025-09-13)</p></li>
+<li><p>"Wait a minute, dad, there's a lot going on in those charts!"
+(2025-10-15; first 2023-06-14)</p></li>
+<li><p>"Well, if you put enough lines on a chart one of them is bound to
+be right!" (2022-09-21) <em>Said, with a laugh, to a man showing a Gann
+chart.</em></p></li>
+<li><p>"Just more rope to hang yourself, Dad!" (2024-05-09) <em>At the
+first computer-charting demo, as the chart flipped from daily to hourly
+to ten-minute.</em></p></li>
+<li><p>"On your chart service 10 cents in Silver is 1/4" - to your
+brain, no meaning...but the act of drawing a 2" line for that 10 cents
+connects you to that market!" (2025-08-13)</p></li>
+<li><p>Reported: "Charlie said that if everyone agrees on something then
+the decision was almost certainly made emotionally. and probably -
+though not necessarily - false..." (2024-06-24)</p></li>
+<li><p>Reported: "Charlie said make sure you understand why someone is
+happy to buy when you sell and happy to sell when you buy."
+(2025-01-13)</p></li>
+<li><p>Reported: Elliott "is DESCRIPTIVE but not PREDICTIVE...It
+explains the past perfectly; says nothing about the future."
+(2025-10-14)</p></li>
+<li><p>"Dad, don't sell your potatoes, those rail cars are either empty
+or just partially full." ... "Those Simplot cars are running too steady,
+I see no jerking or bucking." (2023-08-03)</p></li>
+<li><p>"Once in a decade you'll find an opportunity that a lot of pieces
+just come together all at once." (2024-05-11)</p></li>
+<li><p>A 'clean chart' (2023-05-10) <em>Charlie's word for a chart where
+the buyer-seller struggle is well defined.</em></p></li>
+

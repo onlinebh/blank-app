@@ -1,0 +1,252 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Using GWT as an Identification Tool for Intermarket Analysis (2025) -> The Goodman Box (2021)
+
+@@b1436 h3
+Conclusion
+
+@@b1437 table
+<thead>
+<tr>
+<th><strong>Market</strong></th>
+<th><strong>Weekly</strong></th>
+<th><strong>Daily</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EURUSD</td>
+<td>The EP-SPS failed to make a new high above the EP-FPS; the TP and
+EP-SS were unable to halt the daily re-propagation.</td>
+<td>Many scenarios where the Propagation intersects some of these points
+and is cancelled, but no Strong Intersection enhanced by a multicount
+yet.</td>
+</tr>
+<tr>
+<td>GBPUSD</td>
+<td>Close to the EP-SS, but the bar closed near its low; if next week
+does not hold, it does not work.</td>
+<td>The Propagation will intersect at only one of these points, where
+there is a multicount.</td>
+</tr>
+<tr>
+<td>USDCAD</td>
+<td>Near the EP-SPS; Cancel.</td>
+<td>Trading range; a breakout may develop into a Line.</td>
+</tr>
+<tr>
+<td>USDMXN</td>
+<td>Intersection with the Over count.</td>
+<td>Equilibrium resulting from the weekly Intersection; the ME
+changed.</td>
+</tr>
+</tbody>
+
+@@b1438 p
+There is a positive correlation between EURUSD and GBPUSD. Both tend
+to propagate lower, and both have an Intersection that may halt the
+Propagation. USDCAD and USDMXN both propagate higher, and they also have
+Intersections that may halt the Propagation: the EP-SPS on USDCAD, and
+the trading range that USDMXN is still in.
+
+@@b1439 p
+The more Intersections we see across the group (EURUSD, GBPUSD and
+the others), the stronger the tendency toward a reversal. Likewise, more
+Intersections in the negatively correlated markets, such as USDCAD, will
+stop their Propagation higher. That in turn supports a reversal in
+EURUSD or GBPUSD.
+
+@@b1440 p
+Finally, by tracking all these markets together, we will see momentum
+revolving between them. One market becomes the leader, and the others
+become laggards.
+
+@@b1441 h2
+Markets in Relation,
+Revisited (2025–2026)
+
+@@b1442 p
+In 2025 I used Goodman Wave Theory as an identification tool between
+markets: a trend is Propagation in control until a strong Intersection
+cancels it, and that definition let me compare EURUSD and GBPUSD against
+USDCAD and USDMXN. This chapter is what came after. My view of how
+markets relate has become simpler, and more careful. A relationship
+between two charts is not a rule. It is one more witness.
+
+@@b1443 h3
+A witness, not a rule
+
+@@b1444 p
+I never trusted the easy correlation tables. Two pairs that moved
+together last month can split apart next week. What I look for is not
+the number between them but the process inside each one. On 2024-06-10 I
+wrote about how a plan forms:
+
+@@b1445 blockquote
+<p>"Two kind of process meets in one directions. Or works all together
+in one time . Sellers from diffrent Matrices."</p>
+
+@@b1446 p
+That is the heart of it. When sellers appear in different Matrices of
+one chart, the read gets stronger. When the same kind of process appears
+in a related market at the same time, it gets stronger again. The other
+market does not tell me what to do. It confirms, or it warns.
+
+@@b1447 h3
+Looking at the other pairs
+
+@@b1448 p
+Most days I do not watch one chart. I watch a small family. On
+2025-07-18 I described what happens when one chart changes my mind:
+
+@@b1449 blockquote
+<p>"Ideas change by overlay deduction. Sometime i see a re propagation.
+But look other pairs oh this is a nice intersections and count."</p>
+
+@@b1450 p
+One pair shows a re-Propagation, so the trend looks alive. But in the
+sister pairs I find Intersections and a 3-C count. That does not cancel
+my chart. It makes me patient. If the family is turning, the pair that
+still propagates is often the last to turn, not the exception.
+
+@@b1451 p
+My watch notes from 2026 read like this. On 2026-02-02: "here i watch
+cadchf / usdcad MO." On 2026-09-08, a longer list:
+
+@@b1452 blockquote
+<p>"NZDCAD is the same as EURCAD, but I prefer EURCAD. … GBPAUD is the
+best so far. It has an outward overlay."</p>
+
+@@b1453 p
+Two pairs can tell the same story. When they do, I do not trade both.
+I choose the cleaner one, the one with the Outward overlay or the better
+whitespace. Sister charts are for choosing, not for doubling.
+
+@@b1454 h3
+One leads, another lags
+
+@@b1455 p
+On 2026-06-05 I wrote, almost in passing, that things move "like
+currency . one leads while another lag". This is what I mean, and the
+plate below shows it with real data.
+
+@@b1457 p
+Figure: EURUSD, GBPUSD and AUDUSD on 1-hour closes, each as % change
+from 14 Feb 2022. They share one dollar and move together hour to hour,
+yet EUR was already the weakest before the 24 Feb shock and finished
+three weeks down 3.8%, while AUD finished up 3.3%. (Real data: 1-minute
+bars resampled to 1 hour, 14 Feb – 4 Mar 2022.)
+
+@@b1458 p
+Look at what the data says. Hour by hour, the three pairs are
+strongly related: the correlation of their hourly moves is between 0.68
+and 0.76. Anyone who stops there will say they are "the same trade". But
+over three weeks they went in different directions. From 16 Feb, EURUSD
+stayed under the zero line while GBPUSD and AUDUSD rose. By 23 Feb, EUR
+was down 0.5%, the pound was down 0.1% and the Aussie was up 1.3%. EUR
+was the weakest before the shock day, and after it, EUR led the fall.
+GBP followed more slowly. AUD dipped with the others for one day, then
+went its own way.
+
+@@b1459 p
+So a high correlation does not mean the same direction. It means the
+same dollar. The difference between the pairs is the difference between
+the other currencies, and that is where the information is. The weak one
+leads when the dollar is bought; the strong one resists. When I look for
+a short, I want the leader. When I look for the end of a move, I watch
+the lagger: if the lagger finally makes its Intersection, the family is
+turning.
+
+@@b1460 h3
+Consensus across the family
+
+@@b1461 p
+The 2025 study ended with a rule I still use: the more Intersections
+across the group, the stronger the tendency toward reversal. Since then
+I add a second test. Before I accept a market story, I ask the chart to
+approve it. On 2025-10-10, watching gold, I wrote:
+
+@@b1462 blockquote
+<p>"This also must approve it by the chart. A nice setup in 1 hour will
+approve this assumption."</p>
+
+@@b1463 p
+News, fear, a strong dollar, a weak euro: these are only assumptions.
+The relationship becomes useful when it shows up as structure, a 1-2-3,
+a Propagation, an Intersection, a count. If the story is true, the setup
+appears. If no setup appears, I keep the story to myself.
+
+@@b1464 h3
+Relation as a money question
+
+@@b1465 p
+The newest idea is that relationships between markets belong to money
+management, not only to analysis. On 2025-08-30 I wrote:
+
+@@b1466 blockquote
+<p>"Flat jumbo + setup . Is less risky than a propagation jumbo with a
+setup."</p>
+
+@@b1467 p
+and a few lines later:
+
+@@b1468 blockquote
+<p>"Each setup may play a rule . Maybe for a more gains . Or a hedge ,
+or a decrease the risk."</p>
+
+@@b1469 p
+When I hold more than one trade, they are not separate. Two trades in
+different Market Environments can balance each other. Two trades in the
+same environment, on the same currency, are one trade with double
+size.
+
+@@b1470 p
+That is why, in 2026, I built the danger into my trading expert as a
+guard. Layer 9 of the Poka-Yoke system, which I described to Michael on
+2026-09-17, is the Correlated Exposure Barrier: it "Automatically
+detects if two open trades are compounding your risk on the same
+currency (e.g., holding EURUSD and GBPUSD simultaneously)." Look again
+at the plate. Long EURUSD and long GBPUSD in that February would not
+have been two trades. They would have been one bet against the dollar,
+lost twice.
+
+@@b1471 h3
+And for the record
+
+@@b1472 p
+Relationships also matter in how I measure. On 2025-01-30 I wrote
+that my sample of trades must not be bent by them: "The most important
+they are not correlation different time". If ten trades in my series of
+thirty are really one dollar move, my Golden Ratios lie to me. The
+record must hold independent samples, each with an equal chance, or it
+is only a story I tell myself.
+
+@@b1473 h3
+What I keep
+
+@@b1474 ul
+<li><p>A relationship between markets is a witness, not a rule. The
+chart must approve it.</p></li>
+<li><p>High correlation means the same base, not the same direction. The
+information is in the split.</p></li>
+<li><p>Among sister pairs, I trade the cleanest one, never all of
+them.</p></li>
+<li><p>The weak one leads; the lagger tells me when the family has
+turned.</p></li>
+<li><p>Two trades on the same currency are one trade. My expert blocks
+it, and my record should not count it twice.</p></li>
+
+@@b1475 h1
+Rung 4 · Deciding:
+Goodman's Tools and the Setup
+
+@@b1476 p
+<em>The tools I use to read a chart, and how I decide whether what I
+see deserves my money.</em>
+
+@@b1477 h2
+The Goodman Box (2021)
+
+@@b1478 p
+In this study I use the Goodman Box for entering and exiting a trade,
+and also as an independent Overlay. I add nothing to this core. The core
+by itself is a full trading system.
+

@@ -1,0 +1,44 @@
+{
+ "chunk": "c49",
+ "highlights": [
+  {"b": "b3087", "en": "it\nmeans sellers have unloaded everything onto buyers.", "level": 1},
+  {"b": "b3087", "en": "All the buyers who\nbought at this level will collapse when the market breaks down.", "level": 1},
+  {"b": "b3092", "en": "When that happens, we look for more weakness in\nthis pair.", "level": 1},
+  {"b": "b3093", "en": "they will want to take the stop-losses from above.", "level": 1},
+  {"b": "b3100", "en": "I want to watch for boxes with a low range and\nhigh volume", "level": 1},
+  {"b": "b3110", "en": "For trading purposes, one must go with NZDUSD, the leader.", "level": 1},
+  {"b": "b3113", "en": "Correlation shows symptoms in every market, and together they give a\nclear picture of the future of all markets.", "level": 2},
+  {"b": "b3130", "en": "Leadership can change from time to time.", "level": 1},
+  {"b": "b3135", "en": "I enter the market only when there are two confirmations.", "level": 2},
+  {"b": "b3135", "en": "The more Setups in one market, the more strength.", "level": 1},
+  {"b": "b3139", "en": "This system works best on a large time frame such as\ndaily or weekly.", "level": 1},
+  {"b": "b3140", "en": "I use the laydown\nas a timing tool.", "level": 1}
+ ],
+ "mindmap": [
+  {"b": "b3083", "en": "Group 2: AUDUSD, GBPUSD, NZDUSD", "ar": "المجموعة الثانية: AUDUSD وGBPUSD وNZDUSD", "note_en": "Each pair is checked box by box and jump by jump, comparing buyers' energy with volume and range.", "note_ar": "يُفحص كل زوج صندوقًا صندوقًا وقفزةً قفزة، بمقارنة طاقة المشترين بالـ volume والـ range.", "imp": 2,
+   "children": [
+    {"b": "b3084", "en": "AUDUSD boxes A to E", "ar": "صناديق AUDUSD من A إلى E", "note_en": "Strong buyers in A, then low volume at B, huge volume with tiny range at D, and weak buyers at E.", "note_ar": "مشترون أقوياء في A، ثم volume ضعيف في B، وvolume كبير مع range صغير في D، ومشترون ضعفاء في E.", "imp": 2,
+     "children": [
+      {"b": "b3087", "en": "Box D warning", "ar": "تحذير Box D", "note_en": "High trading with a very small range means sellers unloaded everything onto buyers; those buyers will collapse on a breakdown.", "note_ar": "تداول كثيف مع range صغير جدًا يعني أن البائعين فرّغوا ما عندهم على المشترين؛ وسينهار هؤلاء عند الكسر.", "imp": 3, "children": []}
+     ]},
+    {"b": "b3089", "en": "Spread triple in AUDUSD", "ar": "Spread triple في AUDUSD", "note_en": "Jumps of 198, 195 and 143 pips show buyers repeat but cannot grow their effort, then lose energy.", "note_ar": "قفزات 198 و195 و143 pips تُظهر أن المشترين يكرّرون جهدهم دون أن يزيدوه، ثم يفقدون طاقتهم.", "imp": 2,
+     "children": [
+      {"b": "b3093", "en": "Conclusion: 6x6 or Goldilocks", "ar": "الخلاصة: 6x6 أو Goldilocks", "note_en": "Many traders will take stop-losses from above, forming a 6x6 Setup or a Goldilocks.", "note_ar": "سيأخذ المتداولون الكثر أوامر الـ stop-losses من الأعلى فيتشكل Setup من نوع 6x6 أو Goldilocks.", "imp": 2, "children": []}
+     ]},
+    {"b": "b3094", "en": "GBPUSD: still some buyers", "ar": "GBPUSD: بعض المشترين ما زالوا", "note_en": "Points 1 to 3 give no alarm; the SPS at 4 on low volume does. Buyers should evaporate within two SPS moves.", "note_ar": "النقاط 1 إلى 3 بلا إنذار؛ أما الـ SPS عند 4 على volume منخفض فينذر. وسيتبخر المشترون خلال حركتَي SPS.", "imp": 1, "children": []},
+    {"b": "b3101", "en": "NZDUSD: alarms at C, D and last SPS", "ar": "NZDUSD: إنذارات عند C وD وآخر SPS", "note_en": "Good volume with a bad range at C, sellers with high volume at D, and a very bad last jump that returns deep. Result: a 6x6 laydown.", "note_ar": "volume جيد مع range سيئ عند C، وبائعون بـ volume مرتفع عند D، وقفزة أخيرة سيئة جدًا تعود بعمق. النتيجة: laydown من نوع 6x6.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3109", "en": "The Leader and the Laydowns", "ar": "القائد والـ Laydowns", "note_en": "NZDUSD leads the collapse, then AUDUSD, EURUSD and GBPUSD. Trade with the leader and avoid buys until the laydown confirms.", "note_ar": "NZDUSD يقود الانهيار، ثم AUDUSD وEURUSD وGBPUSD. نتداول مع القائد ونتجنب الشراء حتى يتأكد الـ laydown.", "imp": 3,
+   "children": [
+    {"b": "b3113", "en": "Correlation gives the picture", "ar": "الارتباط يعطي الصورة", "note_en": "Symptoms across markets together show the future of all markets; the 1-2-3, intersection and Overlay give a sequence that can signal a short collapse like 2008.", "note_ar": "أعراض الأسواق مجتمعةً تكشف مستقبلها؛ والـ 1-2-3 والتقاطع والـ Overlay تعطي تسلسلًا قد ينذر بانهيار قصير كما في 2008.", "imp": 3, "children": []},
+    {"b": "b3117", "en": "The result", "ar": "النتيجة", "note_en": "EURUSD stopped at the Return Zone; AUDUSD made a lower low and fell faster; GBPUSD followed; NZDUSD fell fastest as the leader.", "note_ar": "توقف EURUSD عند الـ Return Zone؛ وصنع AUDUSD lower low وهبط أسرع؛ وتبعه GBPUSD؛ وهبط NZDUSD أسرع الجميع بوصفه القائد.", "imp": 2, "children": []},
+    {"b": "b3130", "en": "Leadership changes", "ar": "القيادة تتغير", "note_en": "Today NZDUSD leads; next time it may be GBPUSD in an uptrend. Any pair can be near catastrophe, like COVID-19 spreading.", "note_ar": "اليوم يقود NZDUSD؛ وقد يكون GBPUSD في المرة القادمة في اتجاه صاعد. أي زوج قد يكون قريبًا من كارثة، كانتشار COVID-19.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3131", "en": "A Map for Every Market", "ar": "خريطة لكل سوق", "note_en": "An overlay per market with flags and bulbs to decide when to sell or avoid.", "note_ar": "overlay لكل سوق بأعلام ومصابيح لتحديد متى نبيع ومتى نتجنب.", "imp": 2,
+   "children": [
+    {"b": "b3133", "en": "X marks and flags", "ar": "علامات X والأعلام", "note_en": "A pair with no clear correlation gets an X and is avoided. A leading pair is the market's flag: red when down, green when up.", "note_ar": "الزوج بلا ارتباط واضح يُعلَّم بـ X ويُتجنَّب. والزوج القائد علم السوق: أحمر عند الهبوط وأخضر عند الصعود.", "imp": 2, "children": []},
+    {"b": "b3135", "en": "Two confirmations rule", "ar": "قاعدة التأكيدين", "note_en": "Enter only with two confirmations, such as a Goldilocks in AUDUSD and in EURUSD, shown as a bulb. More Setups mean more strength.", "note_ar": "لا دخول إلا بتأكيدين، كـ Goldilocks في AUDUSD وفي EURUSD، ويظهر بمصباح. وكلما زادت الـ Setups زادت القوة.", "imp": 3, "children": []},
+    {"b": "b3139", "en": "Time and use", "ar": "الوقت والاستعمال", "note_en": "About one hour a day; works best on daily or weekly. The laydown is a timing tool, e.g. USD markets are best when they turn into a Dagger.", "note_ar": "نحو ساعة في اليوم؛ ويعمل أفضل على اليومي أو الأسبوعي. والـ laydown أداة توقيت، فأسواق USD أفضل حين تتحول إلى Dagger.", "imp": 2, "children": []}
+   ]}
+ ]
+}

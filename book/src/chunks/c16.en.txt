@@ -1,0 +1,341 @@
+##CTX Part: Rung 3 · Seeing: What Is a Market? | Section: Market Circulation (2021)
+
+@@b1008 h3
+Part 2: Market noise
+and the Goodman Box
+
+@@b1009 h3
+Is the market predictable?
+
+@@b1010 p
+The market can only go up or down, yet every timeframe has its own
+trend, which confuses everyone. At every single price there is a
+different opinion, a different impression force. To make this clear, let
+us look at a few bars, on any timeframe from 1 minute to 1 month.
+
+@@b1012 p
+Figure: The same bars read four ways: a strong up bar, shifting
+energy, a lie in shifting, and a temporary pause.
+
+@@b1013 h4
+One bar
+
+@@b1014 p
+The first bar tells me without doubt that the market opened very low
+and buyers bid it up to close near the high. Instead of taking that as
+true, I ask: is this bar honest enough to promise me the next bar? Is
+the energy to move up real?
+
+@@b1015 p
+What caused the bar is the energy inside the buyers. The bar itself
+is only noise. The question is whether that energy can carry price to
+the next level or not. In most cases, a chart cannot describe the real
+energy behind each move. The chart is only a tool that shows the noise
+of that energy.
+
+@@b1016 h4
+Shifting energy, and
+the lie in shifting
+
+@@b1017 p
+The energy can shift. When it does, we know at least that there was
+no real energy in the first up bar. Here we have shifting energy.
+
+@@b1018 p
+Even the down move can be false. There is real shifting, but it is
+false. I call it a lie in shifting: a fox movement. So where is the
+truth? Someone may say the truth comes after the false move, with the
+next up bar. Maybe right, but wrong.
+
+@@b1019 p
+The effect of the false move remains: it looks like a new low, which
+shows that real energy is still there, somewhere at the new low. That
+false move also acts as a magnetic field for all sellers who want to
+sell. I call this a temporary pause in energy: the real energy is still
+unstable. That is why it is so important to qualify a setup. Is there
+real energy behind that up bar, or is it just a false move made by
+profit-takers?
+
+@@b1020 h4
+General versus specific
+
+@@b1021 p
+Here I see the general against the specific. The specific is the
+close at the high. The general is the downward movement of the larger
+trend, outside the picture. The close shows some energy to move up, but
+not enough to fight the higher timeframe that wants to push price
+down.
+
+@@b1022 p
+When those buyers fail, we know that all buyers who could pull the
+market up a little after a false breakdown hold a delusional belief.
+That up move is noise; it does not show the real energy that lasts. One
+picture is not enough. There is also what I call controlled energy,
+which no one can deny: the last down bar shows who dominates the
+market.
+
+@@b1023 h4
+Six cases in the market
+
+@@b1024 p
+So is the market predictable? Most of the time, no, until we know the
+real energy that lasts and go with it. Much movement is delusional and
+cannot describe the energy that will dominate for a long time. I find
+six cases:
+
+@@b1025 blockquote
+<p>1. The current movement may tell the true energy, or may not.</p>
+<p>2. There is a false move and a true move, but even the true move may
+be delusional and may or may not describe the true energy of case 1.</p>
+<p>3. Energy can shift from buying to selling and back. That shift may
+or may not describe the absolute true energy that dominates for a long
+time.</p>
+<p>4. There is the general against the specific. Sometimes the specific
+changes the general, when the general is too weak to fight the current
+movement.</p>
+<p>5. There is a sign no one can deny that describes the real
+energy.</p>
+<p>6. Sometimes buyers or sellers are in a delusional area.</p>
+
+@@b1026 p
+All six cases apply to every 1-2-3 in the market, and to every
+Crosspoint and Spread Triple.
+
+@@b1027 h3
+The Goodman Box (G-box)
+
+@@b1028 p
+A Goodman Box is a box drawn around successive 1-2-3s, or around the
+BP and EP of a Propagation. It helps show the dominant trend, where the
+real energy is. We must always redraw the box.
+
+@@b1029 p
+We can use the box for <strong>tests</strong> and
+<strong>exceeds</strong>: tests happen near the BP, exceeds near the
+EP.
+
+@@b1030 ul
+<li><p><strong>Test:</strong> a confirmation tool. No one can deny where
+the real energy is. A down 1-2-3 inside a small G-box that cannot exceed
+it is also a test.</p></li>
+<li><p><strong>Exceed:</strong> shows the true energy behind the current
+move. It can be evidence that price will break the bigger G-box and
+propagate into a larger box.</p></li>
+
+@@b1031 p
+Zoom out: G-box, then Larger G-box, then Jumbo G-box. Zoom in: Jumbo
+G-box, then Larger G-box, then G-box. I recommend giving each a fixed
+colour and name.
+
+@@b1032 p
+What happens when the market stays a long time inside a box? It is in
+energy mode, charging the battery. The G-box can be used as an Overlay;
+a Jumbo box at the BP or EP acts as a Mo Overlay, and there you may find
+a setup. It is very useful to combine the Spread Triple and the
+Crosspoint with the G-box to detect where the real energy is. The G-box
+also helps with volume, to measure the response of real energy, and to
+measure a jump from one level to the next, as with the Spread
+Triple.
+
+@@b1033 p
+What if a G-box breaks out falsely at the EP or BP? Then we measure
+the general energy to decide. <em>Always redraw the box from smaller to
+larger.</em>
+
+@@b1034 h3
+A worked example
+(first studied on AUDUSD)
+
+@@b1035 p
+Suppose today is 10 May on AUDUSD, as in my original chart; here the
+same structure is shown on real EURJPY data. We want to know which way
+the real force points.
+
+@@b1037 p
+Figure: The chart on the day of the decision: do we go long, short,
+or stay away? Real data: EURJPY, 30-minute, 24–28 February 2022. (The
+original chart was AUDUSD daily, September 2020 to 10 May 2021; this one
+shows the same structure.)
+
+@@b1038 p
+It looks long. Let us go long? Wrong. We should first find the real
+force among all the noise, if we can; many times we cannot.
+
+@@b1039 p
+<strong>What do I see now?</strong> I draw the 1-2-3 for a bigger
+Matrix, to find which 1-2-3 cycle the market is in. The market has
+completed a 1-2-3 cycle. But is the energy in it cancelled or not? That
+is not enough, so we look at the origin of the 1-2-3 and do a 3-C.
+
+@@b1041 p
+Figure: G-boxes around the legs of the 1-2-3, with the 3-C level near
+the current price. Real data: EURJPY, 30-minute, 24–28 February 2022.
+(The original chart was AUDUSD daily, September 2020 to 10 May 2021;
+this one shows the same structure.)
+
+@@b1042 p
+Price is very near the 3-C, so we may get some carryover to the next
+1-2-3. But the wisdom I take from the 3-C is that this 1-2-3 is not
+strong enough to make an Under, or even an Over. The market sits inside
+the G-box and cannot exceed the EP.
+
+@@b1043 p
+Now the Crosspoint. If the 1-2-3 holds a lot of energy, its battery
+is full. What do I see now? The 1-2-3 is slow: compare the range of the
+FPS box with the SPS box. The Crosspoint shows nothing; it sits almost
+at 50% of the SS. We will watch it when it propagates its angle into the
+next 1-2-3. We work from the most general to the most specific.
+
+@@b1044 p
+When the market finishes a cycle, it most often stops at the Return
+Zone, the EP-SS. Then we watch whether it can complete a new Propagation
+cycle. Here the market breaks down, then reverses to start a new
+Propagation 1-2-3. I want to see where the last price lives in each
+cycle, and the carryover from the box, so I know which Propagation cycle
+we are in. Again, the market cannot take the 3-C carryover.
+
+@@b1045 p
+This is the key problem: if we do not know which cycle the current
+price is in, we cannot solve the problem. Tell me the problem and I can
+find a solution. But with no problem, what do you want, man?
+
+@@b1047 p
+Figure: A new Propagation from the Return Point, with its Crosspoint
+showing a very slow angle. Real data: EURJPY, 30-minute, 24–28 February
+2022. (The original chart was AUDUSD daily, September 2020 to 10 May
+2021; this one shows the same structure.)
+
+@@b1048 p
+<strong>What do I see now?</strong> Can price exceed the G-box at the
+red line? Or will the new Propagation fail to complete its cycle so that
+the market moves down? The Crosspoint of the new Propagation shows a
+very slow angle: the impression force is weak. That confirms when the EP
+of the SS is the end. I see weakness. I accept the fact: the buying
+force is weak.
+
+@@b1050 p
+Figure: The Spread Triple across three jumps: a good high after jump
+1, a bad high after jump 2, and an extremely bad high after jump 3. Real
+data: EURJPY, 30-minute, 24–28 February 2022. (The original chart was
+AUDUSD daily, September 2020 to 10 May 2021; this one shows the same
+structure.)
+
+@@b1051 p
+With the Spread Triple I check the last three jumps and their
+response. The elastic energy in jumps 1 and 2 decreases over time, and
+jump 3 is extremely bad. What do I see now? It is very clear that the
+true force is with the sellers whenever the EP-SPS appears. Buyers are
+weak. When that happens we can say there is no complete cycle, and it is
+a good point to go short.
+
+@@b1052 p
+Our next problem is to find whether the current point is the EP of
+the SPS. If so, the study suggests selling, with a nested setup.
+
+@@b1054 p
+Figure: At the Return Point a Goldilocks setup forms, with an extreme
+Crosspoint arrow. Real data: EURJPY, 30-minute, 24–28 February 2022.
+(The original chart was AUDUSD daily, September 2020 to 10 May 2021;
+this one shows the same structure.)
+
+@@b1055 p
+At the same EP-SS of the down 1-2-3, the red arrow with its
+Crosspoint shows an extreme impression force. That is good, but most of
+the time it signals a climax when it comes with a very small jump. It is
+best to do a 3-C to confirm a cancellation. There is so much to do in
+Goodman that you should be busy all the time.
+
+@@b1056 p
+The market is exactly at the EP-SS of the down 1-2-3, and it shows a
+reversal bar. We go short on this bar; it is the same behaviour. When
+the market touches the Return Point, it confirms the stop loss at the
+high. The market should not touch the red box.
+
+@@b1057 h4
+Second chance
+
+@@b1059 p
+Figure: A second chance after an incomplete cycle: the Spread Triple
+ends in a bad jump, then price falls through the Return Point. Real
+data: EURJPY, 30-minute, 25 February – 2 March 2022. (The original chart
+was AUDUSD daily, date not shown; this one shows the same
+structure.)
+
+@@b1060 p
+When the market shows an incomplete cycle after a Propagation, it can
+be a second chance. See how well the Spread Triple works: a bad jump at
+the end. All the energy shows the market shifting from buying to
+selling, an EP-SPS without a complete cycle. Then the market moves down
+and down.
+
+@@b1061 p
+Can you see how cycles and energy control the market? I did not use
+any volume. Do I need it?
+
+@@b1062 h4
+A note on volume
+
+@@b1063 p
+Still, here are some suggestions on volume. I check the new buyers
+who build elastic energy in every jump.
+
+@@b1065 p
+Figure: Volume at each numbered point of the cycle, from jump 1 to
+the high after jump 3. Real data: EURJPY, 30-minute, 24–28 February
+2022. (The original chart was AUDUSD daily, September 2020 to 10 May
+2021; this one shows the same structure.)
+
+@@b1066 blockquote
+<p>1. Jump 1 shows how energy is stored, with its amount of trading.</p>
+<p>2. Jump 2 is the same as jump 1.</p>
+<p>3. The danger comes when the EP-SPS holds a lot of trading, as at
+number 3: sellers now have more elastic energy. The next jump confirms
+this if there is volume.</p>
+<p>4. Jump 3, number 4, shows no great energy: the sellers' impression
+force is greater than the buyers'.</p>
+<p>5. Number 5 shows new sellers' impression force taking control.</p>
+
+@@b1067 p
+All the evidence puts the true energy with the sellers. The last SPS
+is just a false move, a delusion.
+
+@@b1068 h4
+Reading by G-box
+
+@@b1069 p
+Instead of reading the 1-2-3, we can read the same story with
+G-boxes.
+
+@@b1071 p
+Figure: Small G-boxes build a 1-2-3 that becomes a larger box, with
+the shaded box as the Return Zone. Real data: USDCAD, 1-hour, 21
+February – 1 March 2022. (The original chart was AUDUSD daily, date not
+shown; this one shows the same structure.)
+
+@@b1072 p
+Here we have a 1-2-3 of G-boxes that can later become a larger box,
+and that becomes the Return Zone, the purple box. G-boxes are even more
+interesting with time. The longer price stays without a sharp move, the
+more it shows that the real energy is to the downside. See how fast the
+red move is, while the green move is very slow: there is no energy to
+the upside.
+
+@@b1073 p
+Where there is no white space, it suggests the energy is for the
+opposite direction. Not always, but it is worth noting.
+
+@@b1075 p
+Figure: White space inside the G-box stores a good charge of energy,
+followed by a strong jump. Real data: AUDUSD, 1-hour, 28 February – 4
+March 2022. (The original chart was AUDUSD daily, September 2020 to
+February 2021; this one shows the same structure.)
+
+@@b1076 p
+I asked myself: if every box charges energy, why do we not always see
+a greater jump in the Spread Triple? Look here: the G-box charged its
+battery, and it gave me a good jump.
+
+@@b1077 p
+This is the end of the story: one of Goodman's most hidden secrets in
+the world, and an effective way to trade the market.
+

@@ -1,0 +1,36 @@
+{
+ "chunk": "c51",
+ "highlights": [
+  {"b": "b3214", "en": "The cycles become very clear when two timeframes are combined", "level": 1},
+  {"b": "b3220", "en": "When the market cannot\nmove lower, it moves up to attract more people.", "level": 1},
+  {"b": "b3224", "en": "you must practice a lot\nof patience, and a lot of thanks.", "level": 1},
+  {"b": "b3230", "en": "this tactic can track buyers' attack to\ndominate the trend clearly and with a high degree of certainty.", "level": 1},
+  {"b": "b3238", "en": "Filter price action into oscillator waves.", "level": 1},
+  {"b": "b3250", "en": "That imbalance creates a bearish\ntrend, and a great opportunity to go short.", "level": 1},
+  {"b": "b3252", "en": "The faster and steeper a rally, the quicker it dies", "level": 2}
+ ],
+ "mindmap": [
+  {"b": "b3206", "en": "Study 4: Cycles across two timeframes", "ar": "الدراسة 4: الدورات عبر إطارين", "note_en": "Daily and 4-hour cycles combined: each smaller cycle follows and confirms the larger daily cycle.", "note_ar": "دورات اليومي والـ 4-hour معًا: كل دورة أصغر تتبع الدورة اليومية الأكبر وتؤكدها.", "imp": 2,
+   "children": [
+    {"b": "b3210", "en": "Daily: A, X, B, C, Y, D", "ar": "اليومي: A وX وB وC وY وD", "note_en": "A is a complete 1-2-3; B is incomplete, buyers' terminal point; sellers dominate at C with little Nash; a bullish cycle expected at D.", "note_ar": "A هو 1-2-3 مكتمل؛ وB غير مكتمل، نقطة نهاية المشترين؛ ويهيمن البائعون عند C بقدر قليل من الـ Nash؛ ودورة صعودية متوقعة عند D.", "imp": 2, "children": []},
+    {"b": "b3214", "en": "4-hour confirms", "ar": "الـ 4-hour يؤكد", "note_en": "Bearish cycle complete, sellers lose energy as volume falls, a new cycle begins in the daily direction. A type of Overlay combination.", "note_ar": "الدورة الهبوطية مكتملة، ويفقد البائعون طاقتهم مع انخفاض الـ volume، وتبدأ دورة جديدة في اتجاه اليومي. وهي نوع من تركيبات الـ Overlay.", "imp": 3, "children": []}
+   ]},
+  {"b": "b3216", "en": "Study 5: Turning points A to G", "ar": "الدراسة 5: نقاط التحول من A إلى G", "note_en": "The expected rise from D failed: the market surprises, and volume at each point tells who is strong.", "note_ar": "فشل الصعود المتوقع من D: السوق يفاجئ، والـ volume عند كل نقطة يكشف من القوي.", "imp": 2,
+   "children": [
+    {"b": "b3220", "en": "Reading A to G", "ar": "قراءة A إلى G", "note_en": "A absorbs offers, B shows no lower low, E is the danger sign, F shows real seller intensity, G is the Return Zone to go short.", "note_ar": "A يمتص العروض، وB بلا lower low، وE علامة الخطر، وF يُظهر كثافة بائعين حقيقية، وG هو الـ Return Zone للبيع.", "imp": 2, "children": []},
+    {"b": "b3221", "en": "Compare F and G by looking left", "ar": "قارن F وG بالنظر إلى اليسار", "note_en": "F and G are at the same level, so judge them against E, B, D and A, C to read buyers' weakness.", "note_ar": "F وG عند المستوى نفسه، فنحكم عليهما بمقارنتهما بـ E وB وD وA وC لنقرأ ضعف المشترين.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3223", "en": "Studies 5-6: Angle Propagation", "ar": "الدراستان 5-6: Angle Propagation", "note_en": "Tracking buyers' attacks I to IV with angles and volume until the Excess line breaks.", "note_ar": "تتبع هجمات المشترين من I إلى IV بالزوايا والـ volume حتى يُكسر خط Excess.", "imp": 2,
+   "children": [
+    {"b": "b3228", "en": "Attacks I to IV", "ar": "الهجمات من I إلى IV", "note_en": "I fails, II absorbs like a sponge, III is volume noise, IV stops the move on rising volume.", "note_ar": "I يفشل، وII يمتص كالإسفنجة، وIII ضجيج volume، وIV يوقف الحركة على volume متزايد.", "imp": 2, "children": []},
+    {"b": "b3224", "en": "Lesson: patience", "ar": "الدرس: الصبر", "note_en": "Judging market condition takes a lot of patience and thanks.", "note_ar": "الحكم على حالة السوق يتطلب كثيرًا من الصبر والشكر.", "imp": 2, "children": []}
+   ]},
+  {"b": "b3231", "en": "Study 7: Return Zone", "ar": "الدراسة 7: Return Zone", "note_en": "After a 1-2-3, price retreats to the Return Zone; seller intensity fades and price leaves the rectangle, so the tendency is bullish.", "note_ar": "بعد 1-2-3 يتراجع السعر إلى الـ Return Zone؛ وتخفت كثافة البائعين ويخرج السعر من المستطيل، فالميل صعودي.", "imp": 1, "children": []},
+  {"b": "b3236", "en": "Study 8: Four steps to profit", "ar": "الدراسة 8: أربع خطوات للربح", "note_en": "Judge market strength or weakness and profit from the change: filter, draw Propagation lines, read mental energy, make money.", "note_ar": "نحكم على قوة السوق أو ضعفه ونربح من التحول: التصفية، ورسم خطوط Propagation، وقراءة الطاقة الذهنية، وكسب المال.", "imp": 3,
+   "children": [
+    {"b": "b3241", "en": "Bullish indication", "ar": "المؤشر الصعودي", "note_en": "Buyers' energy re-entered at Test 2 after low volume; Propagation ran from 29 September to 8 October.", "note_ar": "عادت طاقة المشترين عند Test 2 بعد volume منخفض؛ وامتد الـ Propagation من 29 سبتمبر إلى 8 أكتوبر.", "imp": 1, "children": []},
+    {"b": "b3245", "en": "The turn: bearish indication", "ar": "المنعطف: مؤشر هبوطي", "note_en": "3-C showed exhaustion and was cancelled; a 20% correction, a bearish Goldilocks, weak rally into Test 3 and long congestion mean cover Long and reverse to short.", "note_ar": "أظهر الـ 3-C الإنهاك وأُلغي؛ تصحيح 20%، وGoldilocks هبوطي، وصعود ضعيف نحو Test 3، وتجمّع طويل: تُغطى مراكز الشراء ويُعكس إلى بيع.", "imp": 3, "children": []},
+    {"b": "b3251", "en": "Bearish domination and Test 4", "ar": "الهيمنة الهبوطية وTest 4", "note_en": "Old buyers sell to new buyers; at Test 4 the rally was short in time. The faster and steeper a rally, the quicker it dies. Short at Test 4 with the stop at the top.", "note_ar": "مشترون قدامى يبيعون لمشترين جدد؛ وعند Test 4 كان الصعود قصيرًا زمنيًا. وكلما كان الصعود أسرع وأشد انحدارًا مات أسرع. البيع عند Test 4 مع stop عند القمة.", "imp": 3, "children": []}
+   ]}
+ ]
+}

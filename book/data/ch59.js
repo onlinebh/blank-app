@@ -1,0 +1,1 @@
+window.__ch("ch59",[{"id":"b2688","t":"h1","e":"Rung 6 · Measuring: How\nMuch Do I Risk?","a":"المرحلة <span class=\"lt\" dir=\"ltr\">6 · Measuring</span>: كم أخاطر؟"},{"id":"b2689","t":"p","e":"<em>The arithmetic that keeps a trader alive long enough to be\nright.</em>","a":"<em>الحساب الذي يُبقي المتداول حيًّا زمنًا كافيًا ليصيب.</em>"}]);

@@ -1,0 +1,317 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: Overlay Combination (2021)
+
+@@b1744 h3
+Knowledge versus wisdom
+
+@@b1745 p
+What is the difference between what we know and what we learn?
+Knowledge can be found everywhere. Fitting that knowledge to serve our
+aims and purpose is a pearl of wisdom.
+
+@@b1746 p
+A campaign in trading means looking deeply at every Goodman point,
+using the Goodman process, to output one of three decisions: Long, Short
+or Don't Trade.
+
+@@b1747 h4
+Anatomy of a campaign
+
+@@b1748 p
+Instead of thinking of one trade, think of 10 trades as one campaign.
+No one can rely on one trade.
+
+@@b1749 blockquote
+<p>1. <strong>Operation.</strong> Always look out for trades (Tracking),
+to find candidates for the 10-trade campaign.</p>
+<p>2. <strong>Strategy.</strong> Before entering, make sure there is a
+logical ability that can make the setup go (Staging): identify the
+Overlays for a possible trade.</p>
+<p>3. <strong>Technique.</strong> The trader's skills after deciding to
+enter: where to put the stop-loss, when to raise the stop order, when to
+take profit.</p>
+<p>4. <strong>Feedback.</strong> Was the campaign successful: Y &lt; X,
+Y &gt; X or Y = X? What was the most important element that made it
+succeed or fail? The more questions, the better. Learn from losses and
+wins.</p>
+
+@@b1751 p
+Figure: The four stages of a ten-trade campaign and its three
+possible decisions.
+
+@@b1752 p
+In brief, each campaign has two things: buy now and sell later. When
+you sell later, the result is Y &lt; X, Y &gt; X or Y = X.
+
+@@b1753 p
+On the next pages I show 5 trades as part of a campaign, and also
+some trades I avoided because there was not enough Overlay. Each uses a
+1-hour Setup with a 1-day Overlay. Remember, the aim of every campaign
+is 10, 4, 1.
+
+@@b1754 h3
+Chart 1: first traded on
+TRYJPY, 1-hour
+
+@@b1756 p
+Figure: The chart before any boxes are drawn: first read which force
+is greater. Real data: AUDUSD, 30-minute, 23–25 Feb 2022. (The original
+chart was TRYJPY 1-hour; this one shows the same structure.)
+
+@@b1757 p
+Is this trade Y &gt; X, Y &lt; X or Y = X, and why? What do I see
+now? I want to read the real force: which is greater, buyers or
+sellers?
+
+@@b1759 p
+Figure: The Jumbo box A with a volume surge at its end, then the
+small box B, where late sellers have no future. Real data: AUDUSD,
+30-minute, 23–25 Feb 2022. (The original chart was TRYJPY 1-hour; this
+one shows the same structure.)
+
+@@b1760 p
+We have two boxes. The range A is a Jumbo. But look at the end: the
+volume increased abnormally, meaning many transactions took place there.
+What is the future for that amount of sales?
+
+@@b1761 p
+Remember: at the end of any deal, the future shows who is the loser.
+Losers are those who buy and the price moves down, and those who sell
+and the price moves up. In both cases Y &lt; X.
+
+@@b1762 p
+At B there is no future for those who sold the market late. The
+market is now dominated by buyers; the reward is with buyers. Can you
+see there is no reward with sellers at B? In the middle of box B the
+volume increased, but the future belonged to buyers. Look at the range
+of B: do you want that kind of profit?
+
+@@b1763 p
+The lesson: be cautious when volume increases at the end of a box and
+the next box is a small range.
+
+@@b1765 p
+Figure: Points 1 and 2 after box B, asking whether the next one is a
+3 and where the reward is. Real data: AUDUSD, 30-minute, 23–28 Feb 2022.
+(The original chart was TRYJPY 1-hour; this one shows the same
+structure.)
+
+@@b1766 p
+Is the next one a 3? And where is the possible reward?
+
+@@b1768 p
+Figure: The PTS setup from 2: the reward points back to the top of A,
+the risk sits below box B. Real data: AUDUSD, 30-minute, 23–28 Feb 2022.
+(The original chart was TRYJPY 1-hour; this one shows the same
+structure.)
+
+@@b1769 p
+A runaway count. For maximum profit, one can take the Line. This
+setup is a PTS Setup, with 2 stopping at the returning point EP-SS.
+Where is the problem? Instead of going up to 3, it moved down to B.
+
+@@b1770 p
+Let us go to the higher time frame (the daily in my original).
+
+@@b1772 p
+Figure: After 1 and 2, price stores energy between the excess line
+and the test line, near the low of 2. Real data: NZDUSD, 1-hour, 15 Feb
+– 1 Mar 2022. (The original chart was TRYJPY daily; this one shows the
+same structure.)
+
+@@b1773 p
+What do I see now? The current price is between the test and the
+excess lines, storing energy, near the bottom of Matrix Overlay point 2.
+Let us judge the market:
+
+@@b1774 blockquote
+<p>1. The market moves between the excess and test lines, storing energy
+for a new move.</p>
+<p>2. The market is very near the bottom at 2.</p>
+<p>3. We have a Jumbo with a PTS on the 1-hour.</p>
+<p>4. It is newly bullish on the daily (very near the bottom) and on the
+1-hour.</p>
+<p>5. We still do not know when the market can break out of the excess
+line.</p>
+<p>6. The market is non-trending on the daily, but the 1-hour shows an
+uptrend.</p>
+<p>7. There is still no 1-2-3 on the daily chart.</p>
+<p>8. The market environment (ME) shows very low directionality and very
+low volatility.</p>
+
+@@b1775 p
+The problem is: can it break out of the excess line, or will it move
+sideways? This trade is Y = X, 5 of 10 risky, because the daily is
+non-trending and storing energy. Looking at buyers, though, they can
+stop the downward movement on the daily, so it is still bullish. If
+someone pushed me to enter, I would enter a buy only.
+
+@@b1776 p
+But one must enter only the best trades. This one is risky for me, so
+I will pass. I do not want to enter between excess and test. I trade a
+1-hour chart, so I do not want to be stuck in a very slow move.
+
+@@b1778 p
+Figure: The trade was right but slow: after the target level, price
+sat in a narrow box for days before it moved on. Real data: AUDUSD,
+1-hour, 24 Feb – 4 Mar 2022. (The original chart was TRYJPY 1-hour,
+11–17 August 2021; this one shows the same structure.)
+
+@@b1779 p
+Here is the result: the market reached the runaway count. The trade
+was profitable but very slow, as the box shows. For 6 days the market
+moved in a very narrow range. A waste of time. Our goal is not only a
+winning trade; the time must also be reasonable. I cannot call this the
+best available trade. When the ME is not directional, it is very hard to
+ride a trade.
+
+@@b1780 h3
+Chart 2: USDJPY, 1-hour
+
+@@b1782 p
+Figure: After the spike, the entry sits far above the BP-FPS, so the
+risk is too large for a 1-hour trade. Real data: USDJPY, 1-hour, 15–25
+Feb 2022. (The original chart was USDJPY 1-hour, early August 2021; this
+one shows the same structure.)
+
+@@b1783 p
+This trade is very far from the bottom, BP-FPS. Very, very risky for
+a 1-hour chart. "Manage the risk, let the market manage the reward"
+(Goodman). Without making any other judgement, any trade with high risk
+must be avoided.
+
+@@b1785 p
+Figure: Price went on to a good reward, but the risk at entry was too
+high to take. Real data: USDJPY, 1-hour, 23 Feb – 2 Mar 2022. (The
+original chart was USDJPY 1-hour, early August 2021; this one shows the
+same structure.)
+
+@@b1786 p
+It did give a good reward, very close to the runaway count. But the
+problem is that it was too risky, so I avoided it, even though it showed
+Y &gt; X. A discounted trade is our aim: I want trades where the risk is
+least.
+
+@@b1787 h3
+Chart 3: first traded on
+EURCAD, 1-hour
+
+@@b1789 p
+Figure: The steep first angle shows the sellers' force; the last
+arrow shows the buyers' force. Real data: GBPJPY, 15-minute, 1–2 Mar
+2022. (The original chart was EURCAD 1-hour, around 12 August 2021; this
+one shows the same structure.)
+
+@@b1790 p
+I want to point out the angle. The first angle shows the force of the
+sellers. The last blue arrow shows the force of the buyers.
+
+@@b1792 p
+Figure: A base line under the Jumbo, but with no FMX or BMX it is not
+a clean 6&amp;6. Real data: GBPJPY, 15-minute, 1–2 Mar 2022. (The
+original chart was EURCAD 1-hour, around 12 August 2021; this one shows
+the same structure.)
+
+@@b1793 p
+I could not call this a 6&amp;6 Setup: there is no FMX or BMX, just a
+close from the Under. But in my opinion, if it is supported by a daily
+setup, one can ride it, if and only if the risk is least, as shown here.
+In this chart there is:
+
+@@b1794 blockquote
+<p>1. A Jumbo.</p>
+<p>2. More than 12 bars at the energy level.</p>
+<p>3. A reversal bar, very close.</p>
+<p>4. A strong bullish angle.</p>
+
+@@b1795 p
+That is not enough until I find strong bullish evidence. An FMX
+normally shows new buyers. Without an FMX, we must find a strong Overlay
+that proves there are buyers, one that plays the role of a magnetic
+field like the FMX.
+
+@@b1797 p
+Figure: Boxes A, B and C at the low: a 1-2-3 that attracts buyers, a
+Dagger, and a confirming 1-2-3, with a quick reversal under C. Real
+data: GBPJPY, 15-minute, 1–2 Mar 2022. (The original chart was EURCAD
+1-hour, around 12 August 2021; this one shows the same structure.)
+
+@@b1798 ul
+<li><p><strong>Box A:</strong> a 1-2-3 plays the role of the magnetic
+field that causes B.</p></li>
+<li><p><strong>At B:</strong> the market moves in a Dagger until the
+breakout. At B the sellers are losing their passion.</p></li>
+<li><p><strong>At C:</strong> confirmation. After the Dagger the market
+again gives a 1-2-3.</p></li>
+<li><p><strong>Yellow circles:</strong> when the Matrix dips underneath
+box C, a quick reversal shows strong buyers.</p></li>
+
+@@b1799 p
+This case must be supported by a daily setup, some of the Nested
+Overlay. The range is very small because of the war, with heavy damage
+to both buyers and sellers. Every time the market wants to move down, it
+gives a 1-2-3, as in A and B, or a Dagger. The stop order goes under the
+last up bar, where the risk is least.
+
+@@b1800 p
+I also want to see how the mass is attracted at each of A, B and
+C.
+
+@@b1802 p
+Figure: Volume points 1 to 5 under boxes A, B and C: buyers absorb
+each push down. Real data: GBPJPY, 15-minute, 1–2 Mar 2022. (The
+original chart was EURCAD 1-hour, around 12 August 2021; this one shows
+the same structure.)
+
+@@b1803 ul
+<li><p><strong>At 1:</strong> with the SPS, the amount of sales
+increased, suggesting they want to move it higher.</p></li>
+<li><p><strong>At 2:</strong> at the Return Zone, also the beginning of
+the apex, the volume increased more than at 1. Buyers again want to move
+it up.</p></li>
+<li><p><strong>At 3:</strong> the market moves up with almost no energy.
+The fight with sellers is very weak, so it moves up easily.</p></li>
+<li><p><strong>At 4:</strong> the same as 1 at A. Buyers want to enter
+again; they see the reward up.</p></li>
+<li><p><strong>At 5:</strong> the market moves down to take all the
+stop-losses there. The volume increased very quickly, but instead of
+pushing lower, it gave a very strong close at 5. Buyers dominate the
+trend.</p></li>
+
+@@b1804 p
+In brief, the mass enjoys the uptrend more than the downtrend. When
+the market moves up on increased volume, as at A and B, it shows bullish
+passion. Sellers try to stop that passion, but 5 shows there are no more
+sellers.
+
+@@b1805 p
+Now the higher time frame (the daily in my original), to see the
+movie. What do I see now? The daily chart holds many important things
+that support the 1-hour story.
+
+@@b1807 p
+Figure: The higher time frame movie: a 6&amp;6 with new buyers, days
+of stored energy, a Goldilocks, then the Return Zone. Real data: GBPJPY,
+1-hour, 21 Feb – 2 Mar 2022. (The original chart was EURCAD daily; this
+one shows the same structure.)
+
+@@b1808 p
+The market is at the end of the SPS of a Goldilocks, in the Return
+Zone. The daily chart shows a 6&amp;6, then weeks of energy, then
+confirmation with a Goldilocks. It is very interesting. Sometimes the
+trend takes a very long time, with many patterns, as it tries to
+reverse.
+
+@@b1809 p
+We have a strong Overlay combination, so on that basis I take it for
+a possible reward.
+
+@@b1811 p
+Figure: From box C the market moved up strongly, with the stop close
+under the box: the least risk. Real data: GBPJPY, 15-minute, 1–3 Mar
+2022. (The original chart was EURCAD 1-hour, around 12 August 2021; this
+one shows the same structure.)
+
+@@b1812 p
+A good profit, where the risk was least. When risk is very low, it is
+a safe path to protect our capital.
+

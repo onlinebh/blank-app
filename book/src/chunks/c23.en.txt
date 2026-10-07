@@ -1,0 +1,275 @@
+##CTX Part: Rung 4 · Deciding: Goodman's Tools and the Setup | Section: The Goodman Box (2021) -> The Goodman Box with Time (2021)
+
+@@b1479 h3
+The idea: think in the
+frame of the 1-2-3
+
+@@b1480 p
+The Goodman Box is simple. Instead of thinking in the 1-2-3, we think
+in the frame of the 1-2-3. We frame every 1-2-3, and then we deal only
+with its two edges: the EP-SPS at the top and the BP-FPS at the
+bottom.
+
+@@b1481 p
+So this study deals with every frame that contains a 1-2-3. Once the
+1-2-3 is framed, we forget about it and concentrate our mind on the
+frame alone: EP-SPS and BP-FPS.
+
+@@b1483 p
+Figure: A 1-2-3 framed by a box, read only at its upper edge (EP-SPS)
+and lower edge (BP-FPS), with the terms Excess, TP and TEST.
+
+@@b1484 p
+At this beginning stage I study only these relationships. I will not
+go further into angle, time or volume. I only want to show how to
+interpret boxes within a market context. In Goodman we know the market
+moves by 1-2-3s. So our job here is to deal only with the EP-SPS and
+BP-FPS of each 1-2-3. This is important.
+
+@@b1485 p
+Two terms:
+
+@@b1486 ul
+<li><p>When price moves back to the BP-FPS, we call it a
+<strong>TEST</strong>.</p></li>
+<li><p>When price moves to (and beyond) the EP-SPS, we call it an
+<strong>Excess</strong>.</p></li>
+
+@@b1487 h3
+Fitting the market with
+boxes
+
+@@b1488 p
+Every 1-2-3 can be framed. But I want to frame it in a way that
+interprets the price action. I do not want to draw a thousand boxes
+without trying to understand the message behind the chart.
+
+@@b1489 p
+The market is like a musical composition. A box can explain its
+symbols, so that a trader can read the music. This requires skill and
+science.
+
+@@b1491 p
+Figure: The raw chart before any box is drawn: a strong rally, a long
+sideways range, then new highs. Real data: AUDUSD, 1-hour, 24 Feb – 4
+Mar 2022. (The original chart was of an unnamed symbol and period; this
+one shows the same structure.)
+
+@@b1492 h4
+Box 1 and the red mark
+
+@@b1493 p
+Let us draw the first box.
+
+@@b1495 p
+Figure: The first box framing the opening rally, with a red mark at
+its top edge where the buyers showed their maximum power. Real data:
+AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The original chart was of an
+unnamed symbol and period; this one shows the same structure.)
+
+@@b1496 p
+I add a red mark at the top of the box. It tells very clearly that
+the buyers showed their maximum power here. After that, the sellers
+control the trend with another box. Whenever this happens, I suggest
+drawing a new box that shows the sellers' power.
+
+@@b1497 h4
+The Tipping Point
+
+@@b1498 p
+Next I add a TP to the box. When the next box cannot move below the
+50% point, it suggests Propagation of the 1-2-3 upward.
+
+@@b1500 p
+Figure: Box 1 with its 50% TP marked in black; the next box holds
+well above it. Real data: AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The
+original chart was of an unnamed symbol and period; this one shows the
+same structure.)
+
+@@b1501 p
+The black line represents the 50% TP. Holding above it shows a
+stronger tendency to complete the direction of Box 1.
+
+@@b1502 h4
+Box 2: the Return Zone box
+
+@@b1503 p
+Now let us draw Box 2.
+
+@@b1505 p
+Figure: Box 2, the Return Zone box, with two TESTs of its lower edge.
+Real data: AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The original chart was
+of an unnamed symbol and period; this one shows the same structure.)
+
+@@b1506 p
+I call this a Return Zone box. It promises a move into a new 1-2-3.
+We also have the 6&amp;6 box, which represents a reversal box.
+
+@@b1507 p
+As I said, we do not care about anything inside the box. We look only
+at the boundary. So there is no Setup inside the box, only outside
+it.
+
+@@b1508 h4
+Excess: from red to green
+
+@@b1510 p
+Figure: Price makes an Excess above the top of the Return Zone box.
+Real data: AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The original chart was
+of an unnamed symbol and period; this one shows the same structure.)
+
+@@b1511 p
+When the market makes an Excess above the Return box, we cancel the
+red mark on Box 1 and add a green one. Green shows that buyers dominate
+the trend again.
+
+@@b1513 p
+Figure: The red mark on Box 1 replaced by a green one after the
+breakout: buyers dominate again. Real data: AUDUSD, 1-hour, 24 Feb – 4
+Mar 2022. (The original chart was of an unnamed symbol and period; this
+one shows the same structure.)
+
+@@b1514 p
+As shown here, I remove the red mark and replace it with a green one
+after the market breaks out of the Return box. When price moves to a new
+high, it is time to redraw our boxes.
+
+@@b1515 h4
+The next box, the
+Overlay, and green again
+
+@@b1517 p
+Figure: A new box with a red mark, and a buy where price pulls back
+to its TP. Real data: AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The original
+chart was of an unnamed symbol and period; this one shows the same
+structure.)
+
+@@b1518 p
+The new box carries a red mark. It shows the buyers losing power,
+until the market moves down to the TP of the box. When that TP falls at
+an Intersection, it represents an Overlay.
+
+@@b1519 p
+When the market then moves to a new high, as in the next chart, we
+remove the red and mark green.
+
+@@b1521 p
+Figure: The top of the new box marked green as buyers make a new
+high. Real data: AUDUSD, 1-hour, 24 Feb – 4 Mar 2022. (The original
+chart was of an unnamed symbol and period; this one shows the same
+structure.)
+
+@@b1522 p
+This green shows the progress of the buyers and the maximum they
+seek.
+
+@@b1524 p
+Figure: The sequence I follow when reading a chain of Goodman
+Boxes.
+
+@@b1525 h3
+Closing
+
+@@b1526 p
+I think the Goodman Box can give traders more peace. But,
+unfortunately, it is still only a beta version.
+
+@@b1527 p
+Thank you.
+
+@@b1528 h2
+The Goodman Box with Time
+(2021)
+
+@@b1529 p
+The time element reveals a great deal about the next direction. Time
+shows whether buyers move fast or slow, how long they take to reach
+their maximum, and when they are losing power. So time tells us when the
+buyers are at the end of their movement. In this study I add time to the
+Goodman Box and discuss it with charts.
+
+@@b1530 h3
+What we measure
+
+@@b1531 p
+With time in the Goodman Box, we deal only with the distance between
+two or three EP-SPS, between two or three BP-FPS, and with the breakout
+points.
+
+@@b1533 p
+Figure: Δ EP, the time buyers take to travel from one EP-SPS to the
+next.
+
+@@b1534 p
+Δ EP shows the time the buyers take to arrive at the second
+EP-SPS:
+
+@@b1535 ul
+<li><p><strong>Small delta:</strong> the buyers are very fast.</p></li>
+<li><p><strong>Large delta:</strong> the buyers take a long time, so
+their power is decreasing.</p></li>
+<li><p><strong>Normal delta</strong> (compared with the other deltas):
+no alarm.</p></li>
+
+@@b1536 p
+That is all we need to study time relationships. The market can only
+move up or down, but time can show which of the two is stronger. Time
+shows how the buyers lose their power, bit by bit.
+
+@@b1537 p
+In this study I will not look at the inverse relationship, the time
+from BP-FPS to EP-SPS. I leave that advantage aside, because it deals
+with box angles.
+
+@@b1538 h3
+A first example: boxes A, B and
+C
+
+@@b1540 p
+Figure: The chart before the boxes are drawn: a fall, a fast rally, a
+slower second fall back toward the low, then a strong rise. Real data:
+USDCHF, 1-hour, 21–24 Feb 2022. (The original chart was USDCHF daily;
+this one shows the same structure on the same symbol, in the window the
+data covers.)
+
+@@b1541 p
+Let us draw the Goodman Boxes and try to interpret them.
+
+@@b1543 p
+Figure: Boxes A, B and C, with the new speed of Box B and Δ BP, the
+time between the bottoms of A and C. Here Box B runs slightly above the
+top of Box A, and Box C stops 18 pips above the bottom of Box A. Real
+data: USDCHF, 1-hour, 21–24 Feb 2022. (The original chart was USDCHF
+daily; this one shows the same structure on the same symbol, in the
+window the data covers.)
+
+@@b1544 p
+Box A creates an Ending Point. Then Box B shows a great new speed
+from the buyers, reaching a point very close to the top of Box A. This
+alarms us. Buyers are fast and sellers are fast too, so we simply wait
+to see which one becomes slower.
+
+@@b1545 p
+Box C arrives at the same Ending Point as Box A, but its delta is
+relatively slow. The gains of Box C show that buyers are stronger than
+sellers. This can be a 6&amp;6 box.
+
+@@b1546 p
+To summarize:
+
+@@b1547 blockquote
+<p>1. The buyers moved above the TP of Box A with new speed. That says
+the buyers are stronger.</p>
+<p>2. Box C then moved slowly and reversed inside the box several times.
+That shows the sellers losing their power.</p>
+
+@@b1548 p
+This type of 6&amp;6 box can also solve a 6&amp;6 flat, by using
+time.
+
+@@b1549 p
+If you are still not convinced by this example, there is much more.
+When we study time, we need more data to reach the best confidence in a
+trade. Do not force a trade. If you still have no confidence, follow
+your heart, not the trade, especially with time.
+

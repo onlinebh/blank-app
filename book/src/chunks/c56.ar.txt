@@ -1,0 +1,110 @@
+@@b3465 h3
+The Simple System Setup (3S)
+
+@@b3466 p
+الـ 3S هو أقصر طريق Goodman إلى صفقة: setup واحد من البداية إلى النهاية، بنقاط دخول معلّمة وصندوق هدف (target box). وصار لغتنا اليومية. ففي 2024-12-24 كتب Michael: <em>"gbpusd also now nice 3s 15m!!"</em> وفي 2026-03-09 كتب: <em>"yes, silver 1d 3s though i not do count."</em> النص نصّه. ورسمتُ أنا غلافه، وبنيتُ لاحقًا حوله دورة الـ 3S للتداول اليومي (day-trading).
+
+@@b3467 p
+<mark>معنى ذلك عندي: كان الـ 3S هو الـ setup الذي تداولناه معًا فعلًا، ولهذا كان أسهل ما يُدرَّس.</mark>
+
+@@b3468 h3
+The Goodman 6 &amp; 6
+
+@@b3469 p
+دليل الـ 6 &amp; 6 Manual هو الدراسة المعمّقة وراء الـ Molokai: ستة swings تنطلق من الـ G-Spot، وستة parameters لتقييمها. وفي July 2024 كنتُ أكتب خطواته في رسائلي: <em>"Identify a Basic 6 &amp; 6 setup -&gt;"</em>. وفي 2025-11-23 أحال Michael قراء الـ Playbook إليه: <em>"The 6 &amp; 6 Manual referenced above digs much deeper, should you at some point wish to go there."</em> وفي 2025-11-25 اقترح أن نعيد استخدام مخططه لنوفّر عليّ الوقت. فأعدتُ رسم الـ swings الستة للغلاف، وكل رقم في موضعه كما يضعه الكتاب.
+
+@@b3470 p
+<mark>معنى ذلك عندي: الـ Playbook هو الطريق القصير، والـ 6 &amp; 6 هو الطريق الطويل.</mark> والقارئ يختار.
+
+@@b3471 h3
+Charlie's Secret Notebooks، الكتب 1–3
+
+@@b3472 p
+الـ Notebooks هي مادة Charlie الخاصة من 2016، حرّرها Michael، في ثلاثة كتب. يتناول Book 1 الـ propagation، وBook 2 الـ Crossover Point، وBook 3 الـ Landing Area. وكانت آخر ما انضم إلى الـ Library. وفي 2026-09-23 أرسلتُ إلى Michael المجموعة الكاملة من الملفات، ومنها الـ Notebooks الثلاثة، لكلٍّ منها غلافه الجديد. الكلمات لـ Charlie ولـ Michael. واخترتُ شكلًا واحدًا لكل كتاب ونقلته، وبطلبٍ مني تحمل الأغلفة التسعة كلها سطرًا واحدًا: Michael Duane Archer.
+
+@@b3473 p
+معنى ذلك عندي: هذه أقرب ما لدينا إلى صوت Charlie نفسه. <mark>وكان التعامل معها بعناية واجبًا.</mark>
+
+@@b3474 h3
+FireStarter
+
+@@b3475 p
+الـ FireStarter صفقة Goodman قصيرة الأمد تنطلق من نهاية swing من نوع Jumbo. ففي 2024-08-18 كتب Michael: <em>"Firestarter always available! I used it for three months exclusively."</em> وفي 2025-01-05 أرسل مخطط برنامج FireStarter 2025 وسأل: <em>"At some point would be nice to have it as a Flow Chart/Critical Path - but not my expertise."</em> وفي 2025-01-14 فتح مجموعة صغيرة، FireStarter 25، لنا نحن الاثنين ولـ Tom.
+
+@@b3476 p
+وفي 2026-04-28 كتب: <em>"last night while trade i draft short piece on firestarter..."</em> وفي 2026-09-15 سألتُ: <em>"should we add it in Playbook ? the firestarter , or keep it separate."</em> فأبقيناه منفصلًا. وبنيتُ الكتاب المرافق من مسودتيه، مستخدمًا Version 2 هيكلًا وVersion 1 لملئه: 29 صفحة و32 شكلًا بأسلوب الـ Playbook. أما الجزء 2، Trading the Line، فلم يأتِ بعد.
+
+@@b3477 p
+<mark>معنى ذلك عندي: انتقل الـ FireStarter من صفقة في رسائلنا إلى طريقة (method) على الورق، وكل رقم فيه مراجَع على قواعده هو.</mark>
+
+@@b3478 h3
+سلسلة الـ Goodmanisms
+
+@@b3479 p
+الـ Goodmanisms هي أقوال Charlie: قصيرة، غريبة، وصادقة. ففي 2024-05-07 كتبتُ: <em>"the wise in Goodmanisms it needs study by itself."</em> وفي 2026-04-11 اقترح Michael: <em>"for short lessons maybe illustrated goodmanisms?"</em> فصنعتُها. وفي 2026-08-05 كتبتُ: <em>"Goodmanisms i try to make these wisdom in a way everyone can understand."</em> فأجاب في اليوم نفسه: <em>"goodmanisms - it often took me years to unpack some of them!"</em> وكانت النتيجة دورة بعنوان Goodmanisms Illustrated: Seven Rules for Trading Discipline، بدروس مثل The Sitting Duck وThe Seat at the Bar.
+
+@@b3480 p
+<mark>معنى ذلك عندي: حفظت ما أمضى Michael سنوات في فك رموزه، حتى لا يحتاج الطالب الجديد إلى سنوات.</mark>
+
+@@b3481 h3
+دورات الـ GWT على Udemy
+
+@@b3482 p
+في June 2026 سأل Michael هل ما زلتُ أعمل على Udemy. وفي 2026-06-05 حسم الأمر: <em>"stay with udemy for right now."</em> وفي 2026-08-26 كتب: <em>"I think the Courses will work well, just takes time."</em> وبحلول 2026-10-02 كانت خمس دورات Goodman قد بُنيت: Market Structure and Swing Trading (الـ 1-2-3)، وTrading Journal and Expectancy، وTrade Management، وPrice Targets (الـ 3-C)، وDay Trading Price Action (الـ 3S). الطريقة لـ Charlie ولـ Michael. أما النصوص والشرائح والفيديوهات وصور الدورات فمن عملي.
+
+@@b3483 p
+معنى ذلك عندي: الكتب تحتاج قارئًا يجلس معها. <mark>أما الدورات فتصل إلى الطالب الذي يتعلم بالمشاهدة أولًا.</mark>
+
+@@b3484 h3
+موقع Goodman Library
+
+@@b3485 p
+يجمع الموقع كل ذلك في مكان واحد. ففي 2026-01-12 تركه Michael لي: <em>"I'll leave it to you to consider marketing ideas, website."</em> وفي September 2026 أعدتُ بناءه باسم Goodman Library ومنحتُ كل كتاب غلافه. وفي 2026-09-21 كتبتُ: <em>"The website is ready .It's published."</em> وفي 2026-09-30: <em>"i think now our website is very active."</em>
+
+@@b3486 p
+معنى ذلك عندي: لأول مرة تجتمع طريقة Charlie وكتب Michael ورسوماتي جنبًا إلى جنب. <mark>لم يعد العمل يسكن صناديق بريدنا وحدها.</mark>
+
+@@b3487 h3
+ماذا عنى ذلك كله
+
+@@b3488 p
+حين أنظر إلى اللوحة يتضح النمط. كان 2024 للأفكار، و2025 للكتابة، و2026 للبناء. تنتهي معظم الأشرطة في September 2026، حين افتُتحت الـ Library. <mark>ما كان لشيء من هذا أن يوجد لو ظل Michael يحاول رسم diagrams بنفسه. وما كان لشيء منه أن يكون له معنى لو لم يقضِ أولًا أحد عشر عامًا مع Charlie.</mark> وكان دوري أن أمنح العمل شكلًا يستطيع الآخرون استخدامه.
+
+@@b3489 h1
+فاصل: حكايات Archer
+
+@@b3490 p
+في 2023-12-09 افتتح Michael رسالة بسطر لم أنسه قط:
+
+@@b3491 blockquote
+<p>"I tell you Charlie stories; someday perhaps you tell your students Archer stories ---"</p>
+
+@@b3492 p
+هذا الفاصل هو محاولتي الأولى للوفاء بذلك الوعد. Charlie حاضر في كل صفحة من هذا الكتاب، لكن لدى Michael خمسين عامًا خاصة به من الأسواق ولوحات الشطرنج والفصول الدراسية والصداقات، وقد رواها لي كما كان Charlie يروي حكاياته: قصيرة، طريفة، وفي آخرها درس مختبئ. وهذه بعضها، بكلماته هو حيثما استطعتُ إبقاءها.
+
+@@b3493 h3
+دراجة السباق (2023-03-10، 2026-03-16)
+
+@@b3494 p
+في الصف السادس، عام 1962، رأى Michael في مجلة صورة دراجة سباق ذات عشر سرعات. "I totally fall in love, want one, want to race bicycles, be in Tour de France someday... trust me, very unusual for American boy 1962 - baseball was kid's dream." ولصيفين متتاليين كان يقطع بدراجته القديمة Schwinn ثمانية أو تسعة أميال عبر Denver مرة كل أسبوع إلى متجر يبيع دراجات السباق، ليتأملها فقط ويتحدث عن السباقات.
+
+@@b3495 p
+حصل على دراجته، وتدرّب بجد، وفاز ببطولة Colorado Junior State Championship. "I tell people bike cost $250, they ready to send me to nut house." وفي 1966 أرسلت شركة محلية خمسة متسابقين، Michael بينهم، إلى سباقات للهواة في فرنسا. "First race I come in 12 of about 20... Second race 13 year old French boy pass me in sprint like I pedal backwards. End of Tour de France dream, I come home early."
+
+@@b3496 p
+ولم يتوقف عن الضحك على نفسه بسبب ذلك. "Like chess, no talent but did OK by hard work."
+
+@@b3497 p
+<em>الدرس:</em> <mark>العمل الجاد قد يجعلك بطل ولاية، لكن الساحة الأوسع وحدها تخبرك أين تقف حقًا.</mark> المتداول الذي يفوز في بركة صغيرة عليه أن يتوقع وجود متسابق أسرع في مكان ما، وأن يبقي حجم صفقاته متواضعًا إلى أن يلقاه.
+
+@@b3498 h3
+"You Like My Car, Son?" (2024-06-02)
+
+@@b3499 p
+حين كان Michael في الصف الخامس، كانت سيارة Corvette بيضاء موديل 1960 بمقاعد حمراء تقف كثيرًا على بعد شارع من مدرسته، وكان يتوقف كل صباح ليتأملها. وذات يوم قال صوت خلفه: "You like my car, son?" كان المالك، رجلًا طويلًا يرتدي بدلة عمل. ولأن المدرسة على بعد شارع واحد فقط، أخذ Michael في جولة نصف ميل ثم أنزله عند الباب الأمامي. "Of course everyone look, see me get out of nice Corvette!!"
+
+@@b3500 p
+وبعد نحو خمسة وعشرين عامًا صار لدى Michael سيارة Ferrari تقف خلف مكتبه. دخلت سكرتيرته تقول إن ولدًا ينظر إلى السيارة وربما عليه أن يصرفه. فنزل Michael. كان الولد في نحو الثانية عشرة. "I say, 'You like my car, son?' He say yes, so I take him for short ride, then when back let him sit in driver seat for a couple minutes." وخلاصته: "Pass around good karma!!!"
+
+@@b3501 p
+<em>الدرس:</em> <mark>أحدهم منحك يومًا لحظة لم تنسها؛ فإذا جاء دورك، فأعدها.</mark> والتعليم كذلك: ما منحك إياه المعلّم بلا مقابل، فامنحه أنت بلا مقابل.

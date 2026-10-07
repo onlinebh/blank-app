@@ -1,0 +1,113 @@
+{
+ "chunk": "c22",
+ "highlights": [
+  {"b": "b1439", "en": "The more Intersections we see across the group", "level": 1},
+  {"b": "b1442", "en": "It is one more witness.", "level": 2},
+  {"b": "b1446", "en": "When sellers appear in different Matrices of", "level": 1},
+  {"b": "b1453", "en": "Sister charts are for choosing, not for doubling.", "level": 1},
+  {"b": "b1459", "en": "So a high correlation does not mean the same direction.", "level": 2},
+  {"b": "b1459", "en": "if the lagger finally makes its Intersection, the family is", "level": 1},
+  {"b": "b1461", "en": "Before I accept a market story, I ask the chart to", "level": 1},
+  {"b": "b1463", "en": "If no setup appears, I keep the story to myself.", "level": 1},
+  {"b": "b1469", "en": "same environment, on the same currency, are one trade with double", "level": 1},
+  {"b": "b1472", "en": "my Golden Ratios lie to me.", "level": 1},
+  {"b": "b1474", "en": "A relationship between markets is a witness, not a rule.", "level": 1},
+  {"b": "b1478", "en": "by itself is a full trading system.", "level": 1}
+ ],
+ "mindmap": [
+  {
+   "b": "b1436", "en": "Intermarket Conclusion (2025)", "ar": "خلاصة تحليل الأسواق المترابطة (2025)",
+   "note_en": "A summary table of EURUSD, GBPUSD, USDCAD and USDMXN on the weekly and daily charts, and what the Intersections across the group imply.",
+   "note_ar": "جدول يلخّص EURUSD وGBPUSD وUSDCAD وUSDMXN على الأسبوعي واليومي، وما تعنيه الـ Intersections عبر المجموعة.", "imp": 2,
+   "children": [
+    {"b": "b1437", "en": "Weekly/Daily table", "ar": "جدول الأسبوعي/اليومي",
+     "note_en": "Each market is read by its Propagation and the Intersection that may stop it (EP-SPS, EP-SS, TP, multicount, Over count).",
+     "note_ar": "يُقرأ كل سوق بحسب الـ Propagation والـ Intersection الذي قد يوقفه.", "imp": 1, "children": []},
+    {"b": "b1438", "en": "Correlated vs inverse pairs", "ar": "أزواج مرتبطة وأخرى معكوسة",
+     "note_en": "EURUSD and GBPUSD are positively correlated and propagate lower; USDCAD and USDMXN propagate higher, each with its own halting Intersection.",
+     "note_ar": "EURUSD وGBPUSD مرتبطان إيجابًا ويتجهان هبوطًا؛ وUSDCAD وUSDMXN يتجهان صعودًا ولكل منهما Intersection يوقفه.", "imp": 1, "children": []},
+    {"b": "b1439", "en": "More Intersections, more reversal", "ar": "تقاطعات أكثر، انعكاس أقوى",
+     "note_en": "The more Intersections across the group, the stronger the tendency toward reversal.",
+     "note_ar": "كلما زادت الـ Intersections عبر المجموعة قوي الميل نحو الانعكاس.", "imp": 3, "children": []},
+    {"b": "b1440", "en": "Leader and laggards", "ar": "القائد والمتأخرون",
+     "note_en": "Tracking the markets together shows momentum rotating: one leads, the others lag.",
+     "note_ar": "تتبّع الأسواق معًا يُظهر انتقال الزخم: واحد يقود والبقية تتأخر.", "imp": 2, "children": []}
+   ]
+  },
+  {
+   "b": "b1441", "en": "Markets in Relation, Revisited", "ar": "الأسواق في علاقتها ببعض: نظرة جديدة",
+   "note_en": "The 2025-2026 view: a relationship between charts is one more witness, never a rule.",
+   "note_ar": "نظرة 2025-2026: العلاقة بين الرسوم شاهد إضافي، لا قاعدة.", "imp": 3,
+   "children": [
+    {"b": "b1443", "en": "A witness, not a rule", "ar": "شاهد، لا قاعدة",
+     "note_en": "Correlation tables are unreliable; look at the process inside each chart. Sellers from different Matrices, or the same process in a related market, strengthen the read.",
+     "note_ar": "جداول الارتباط لا يُوثق بها؛ انظر إلى العملية داخل كل رسم. تقوى القراءة بالبائعين من Matrices مختلفة أو بالعملية نفسها في سوق مرتبط.", "imp": 3,
+     "children": [
+      {"b": "b1445", "en": "Quote 2024-06-10", "ar": "اقتباس 2024-06-10",
+       "note_en": "Two kinds of process meeting in one direction, sellers from different Matrices.",
+       "note_ar": "عمليتان تلتقيان في اتجاه واحد: بائعون من Matrices مختلفة.", "imp": 2, "children": []},
+      {"b": "b1446", "en": "Confirms or warns", "ar": "يؤكد أو يحذّر",
+       "note_en": "The other market never tells me what to do; it confirms or warns.",
+       "note_ar": "السوق الآخر لا يأمرني بشيء؛ إنه يؤكد أو يحذّر.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1447", "en": "Looking at the other pairs", "ar": "النظر إلى الأزواج الأخرى",
+     "note_en": "I watch a small family of charts. A re-Propagation in one pair next to Intersections and a 3-C count in its sisters makes me patient, not cancelled.",
+     "note_ar": "أراقب عائلة صغيرة من الرسوم. re-Propagation في زوج مع Intersections وعدّ 3-C في شقيقاته يجعلني صبورًا لا ملغيًا.", "imp": 2,
+     "children": [
+      {"b": "b1450", "en": "Last to turn", "ar": "آخر من ينقلب",
+       "note_en": "The pair that still propagates is often the last to turn, not the exception.",
+       "note_ar": "الزوج الذي ما زال يواصل الـ Propagation غالبًا آخر من ينقلب لا استثناءً.", "imp": 2, "children": []},
+      {"b": "b1453", "en": "Choose the cleanest sister", "ar": "اختيار الأنظف",
+       "note_en": "When two pairs tell the same story, trade only the cleaner one (Outward overlay, better whitespace). Example: GBPAUD over NZDCAD/EURCAD.",
+       "note_ar": "حين يروي زوجان القصة نفسها أتداول الأنظف فقط (Outward overlay أو whitespace أفضل). مثال: GBPAUD.", "imp": 3, "children": []}
+     ]},
+    {"b": "b1454", "en": "One leads, another lags", "ar": "واحد يقود وآخر يتأخر",
+     "note_en": "Real data, Feb 2022: EURUSD, GBPUSD and AUDUSD correlate 0.68-0.76 hourly, yet over three weeks EUR fell 3.8% and AUD rose 3.3%.",
+     "note_ar": "بيانات فبراير 2022: ارتباط الأزواج الثلاثة الساعي 0.68-0.76، ومع ذلك هبط EUR 3.8% وصعد AUD 3.3% خلال ثلاثة أسابيع.", "imp": 3,
+     "children": [
+      {"b": "b1458", "en": "Correlation is not direction", "ar": "الارتباط ليس اتجاهًا",
+       "note_en": "High hourly correlation hid very different three-week paths; EUR led the fall, GBP followed, AUD went its own way.",
+       "note_ar": "الارتباط الساعي العالي أخفى مسارات مختلفة جدًا؛ قاد EUR الهبوط وتبعه GBP ومضى AUD وحده.", "imp": 2, "children": []},
+      {"b": "b1459", "en": "Same dollar, different currencies", "ar": "الدولار نفسه، عملات مختلفة",
+       "note_en": "High correlation means the same dollar. The information is in the difference. For a short, pick the leader; for the end of a move, watch the lagger's Intersection.",
+       "note_ar": "الارتباط العالي يعني الدولار نفسه. المعلومة في الفرق. للـ Short اختر القائد؛ ولنهاية الحركة راقب Intersection المتأخر.", "imp": 3, "children": []}
+     ]},
+    {"b": "b1460", "en": "Consensus across the family", "ar": "إجماع العائلة",
+     "note_en": "Second test: before accepting a market story (news, strong dollar, gold), ask the chart to approve it with a setup.",
+     "note_ar": "اختبار ثانٍ: قبل قبول قصة عن السوق (أخبار، دولار قوي، ذهب) اطلب من الرسم أن يوافق عليها بـ Setup.", "imp": 2,
+     "children": [
+      {"b": "b1463", "en": "No setup, no story", "ar": "لا Setup، لا قصة",
+       "note_en": "News and fear are assumptions; they matter only when they appear as structure (1-2-3, Propagation, Intersection, count).",
+       "note_ar": "الأخبار والخوف افتراضات؛ لا تهمّ إلا إذا ظهرت بنية (1-2-3 أو Propagation أو Intersection أو count).", "imp": 2, "children": []}
+     ]},
+    {"b": "b1464", "en": "Relation as a money question", "ar": "العلاقة بوصفها سؤال مال",
+     "note_en": "Relationships belong to money management: flat Jumbo + setup is less risky than a propagation Jumbo with a setup; a setup may serve as gain, hedge or risk reduction.",
+     "note_ar": "العلاقات جزء من إدارة المال: flat Jumbo + setup أقل خطرًا من propagation Jumbo؛ وقد يخدم الـ Setup الربح أو التحوّط أو تقليل الخطر.", "imp": 2,
+     "children": [
+      {"b": "b1469", "en": "Two trades, one bet", "ar": "صفقتان، رهان واحد",
+       "note_en": "Trades in different Market Environments can balance each other; two on the same currency are one trade at double size.",
+       "note_ar": "صفقات في بيئات مختلفة قد توازن بعضها؛ وصفقتان على العملة نفسها صفقة واحدة بحجم مضاعف.", "imp": 3, "children": []},
+      {"b": "b1470", "en": "Poka-Yoke Layer 9", "ar": "الطبقة 9 من Poka-Yoke",
+       "note_en": "The Correlated Exposure Barrier automatically detects trades compounding risk on one currency, e.g. long EURUSD and GBPUSD together.",
+       "note_ar": "Correlated Exposure Barrier يكتشف تلقائيًا الصفقات التي تضاعف الخطر على عملة واحدة، مثل Long على EURUSD وGBPUSD معًا.", "imp": 2, "children": []}
+     ]},
+    {"b": "b1471", "en": "For the record", "ar": "وللتوثيق",
+     "note_en": "Correlated trades distort the sample: if ten of thirty trades are one dollar move, the Golden Ratios lie. The record needs independent samples.",
+     "note_ar": "الصفقات المترابطة تشوّه العيّنة: إن كانت عشر من ثلاثين حركة دولار واحدة كذبت Golden Ratios. السجل يحتاج عيّنات مستقلة.", "imp": 2, "children": []},
+    {"b": "b1473", "en": "What I keep", "ar": "ما أحتفظ به",
+     "note_en": "Lessons: a witness not a rule; same base not same direction; trade the cleanest sister; the lagger signals the turn; same-currency trades count once.",
+     "note_ar": "الدروس: شاهد لا قاعدة؛ القاعدة نفسها لا الاتجاه نفسه؛ أتداول الأنظف؛ المتأخر يشير إلى الانقلاب؛ صفقات العملة الواحدة تُحسب مرة.", "imp": 3, "children": []}
+   ]
+  },
+  {
+   "b": "b1475", "en": "Rung 4 · Deciding", "ar": "Rung 4 · Deciding",
+   "note_en": "Opening of the rung on Goodman's tools and the Setup: how to decide if what I see deserves my money.",
+   "note_ar": "مطلع الـ Rung عن أدوات Goodman والـ Setup: كيف أقرر هل ما أراه يستحق مالي.", "imp": 2,
+   "children": [
+    {"b": "b1477", "en": "The Goodman Box (2021)", "ar": "The Goodman Box (2021)",
+     "note_en": "Used for entering and exiting trades and as an independent Overlay. The core alone is a full trading system.",
+     "note_ar": "يُستخدم للدخول والخروج وكـ Overlay مستقل. الجوهر وحده نظام تداول كامل.", "imp": 3, "children": []}
+   ]
+  }
+ ]
+}

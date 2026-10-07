@@ -1,0 +1,48 @@
+{
+ "chunk": "c45",
+ "highlights": [
+  {"b":"b2869","en":"Generosity, I learned from him, is not giving to everyone;","level":1},
+  {"b":"b2876","en":"Don't give me a fish","level":1},
+  {"b":"b2877","en":"Teaching is the one trade where the payment","level":1},
+  {"b":"b2880","en":"I cannot make anyone read them, understand them - but","level":1},
+  {"b":"b2883","en":"put it out there, someone with brain find, learn, profit.","level":1},
+  {"b":"b2887","en":"The pearls are not wasted if the one who polishes them","level":2},
+  {"b":"b2896","en":"those two seemingly mutually-exclusive","level":1},
+  {"b":"b2898","en":"You have to be in love with it, both","level":2},
+  {"b":"b2898","en":"Just relaxed and you'll miss good","level":1},
+  {"b":"b2901","en":"Calm without excitement misses","level":1},
+  {"b":"b2902","en":"Trade only when both are at least","level":1},
+  {"b":"b2910","en":"In life you are either right","level":1},
+  {"b":"b2910","en":"We must do our best, but know that fate is always","level":1},
+  {"b":"b2912","en":"Do your best, and do not confuse your","level":1}
+ ],
+ "mindmap": [
+  {"b":"b2862","en":"Generosity and teaching","ar":"الكرم والتعليم","note_en":"Michael gave everything to the one student who did the work; respect and learning ran both ways.","note_ar":"أعطى Michael كل شيء للطالب الذي عمل؛ والاحترام والتعلم كانا في الاتجاهين.","imp":2,
+   "children":[
+    {"b":"b2862","en":"Generosity","ar":"الكرم","note_en":"Michael sent his Goodman archive; generosity is giving fully to the one who will carry it.","note_ar":"أرسل Michael أرشيف Goodman؛ والكرم أن تعطي كاملًا لمن سيحمل ما أعطيته.","imp":3,"children":[]},
+    {"b":"b2870","en":"Teaching and Respect","ar":"التعليم والاحترام","note_en":"Gift value rests on wisdom, not price; teaching pays in the student's growth.","note_ar":"قيمة الهدية في الحكمة لا الثمن؛ وأجر التعليم نموّ الطالب.","imp":2,"children":[
+      {"b":"b2876","en":"Teach me to fish","ar":"علّمني الصيد","note_en":"Money and books never equal someone who shows you the path.","note_ar":"المال والكتب لا يعادلان من يريك الطريق.","imp":2,"children":[]}
+    ]}
+   ]},
+  {"b":"b2878","en":"Put It Out There","ar":"اطرحه للعالم","note_en":"Pearls to pork chops worry, Hume's stillborn book, and why the value returns to the one who builds.","note_ar":"قلق pearls-pork chops، وكتاب Hume، وعودة القيمة لمن يبني.","imp":2,
+   "children":[
+    {"b":"b2880","en":"Make it available","ar":"اجعله متاحًا","note_en":"You cannot make anyone read or understand, but it exists; someone with a brain will find, learn, profit.","note_ar":"لا تجبر أحدًا على القراءة لكنه موجود؛ وسيجده من له عقل ويربح.","imp":2,"children":[]},
+    {"b":"b2881","en":"Hume and Einstein","ar":"Hume و Einstein","note_en":"Treatise fell stillborn but later inspired relativity.","note_ar":"سقط Treatise ميتًا ثم ألهم النسبية لاحقًا.","imp":1,"children":[]},
+    {"b":"b2887","en":"Pearls not wasted","ar":"اللآلئ لا تضيع","note_en":"Polishing improves the polisher; every course sends me back to the charts with clearer eyes.","note_ar":"الصقل يحسّن الصاقل؛ وكل دورة تعيدني إلى الرسوم بعينين أصفى.","imp":3,"children":[]}
+   ]},
+  {"b":"b2888","en":"Rung 8: Feeling","ar":"Rung 8: Feeling","note_en":"The market is mostly about the state of the person in front of it.","note_ar":"السوق في معظمه عن حال الشخص الواقف أمامه.","imp":2,
+   "children":[
+    {"b":"b2890","en":"21. Relaxed and excited","ar":"21. مسترخٍ ومتحمس","note_en":"Charlie's test of love applies to trading: be relaxed and excited at once.","note_ar":"اختبار Charlie للحب ينطبق على التداول: استرخاء وحماس معًا.","imp":3,
+     "children":[
+      {"b":"b2892","en":"Story of June","ar":"قصة June","note_en":"Two kinds of women, comfortable or exciting; June folded both into one emotion.","note_ar":"نوعان من النساء، مريح أو مثير؛ وجمعت June الشعورين في واحد.","imp":1,"children":[]},
+      {"b":"b2898","en":"Both at once","ar":"الاثنان معًا","note_en":"Only relaxed misses trades; only excited makes bad ones.","note_ar":"الاسترخاء وحده يفوّت الصفقات؛ والحماس وحده يصنع الرديئة.","imp":3,"children":[]},
+      {"b":"b2902","en":"Try: rate 1-5","ar":"جرّب: قيّم 1-5","note_en":"Rate calm and excitement from 1 to 5; trade only when both are at least 3.","note_ar":"قيّم الهدوء والحماس من 1 إلى 5؛ وتداول حين يبلغ كلاهما 3 على الأقل.","imp":2,"children":[]}
+     ]},
+    {"b":"b2903","en":"22. The raccoon","ar":"22. الراكون","note_en":"Charlie wept over a raccoon killed by a car and spoke of fate.","note_ar":"بكى Charlie على راكون دهسته سيارة وتحدث عن القدر.","imp":2,
+     "children":[
+      {"b":"b2910","en":"Right or wrong, fate","ar":"مصيب أو مخطئ والقدر","note_en":"Close only counts in horseshoes; being wrong can be fatal; do your best but fate is in charge.","note_ar":"القرب لا يُحتسب إلا في الحدوة؛ والخطأ قد يقتل؛ ابذل جهدك والقدر هو المتحكم.","imp":3,"children":[]},
+      {"b":"b2912","en":"Best is not control","ar":"الجهد ليس تحكمًا","note_en":"Do your best without confusing it with control; after an unpreventable loss note what you did right.","note_ar":"ابذل جهدك دون خلطه بالتحكم؛ وبعد خسارة لا مفر منها اكتب ما أصبت فيه.","imp":2,"children":[]}
+     ]}
+   ]}
+ ]
+}
